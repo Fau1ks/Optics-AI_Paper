@@ -1,24 +1,160 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>光学+AI文献推送</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>光学+AI最新文献推送</title>
     <style>
-        body { font-family: sans-serif; text-align: center; padding: 50px; }
-        .btn { 
-            background-color: #2ea44f; 
-            color: white; 
-            padding: 15px 30px; 
-            text-decoration: none; 
-            border-radius: 6px; 
-            font-size: 18px;
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: #f6f8fa;
+            color: #24292e;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
+            text-align: center;
         }
-        .btn:hover { background-color: #2c974b; }
+
+        h1 {
+            color: #0366d6;
+            margin-bottom: 30px;
+        }
+
+        .social-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 30px;
+            margin-bottom: 40px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .social-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 200px;
+        }
+
+        .social-title {
+            font-weight: bold;
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+
+        /* 二维码图片样式 */
+        .qr-code {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 8px;
+            border: 1px solid #e1e4e8;
+        }
+
+        /* 按钮样式 */
+        .download-btn {
+            background-color: #2ea44f;
+            color: white;
+            padding: 15px 40px;
+            font-size: 18px;
+            border-radius: 6px;
+            text-decoration: none;
+            transition: background-color 0.2s;
+            box-shadow: 0 4px 6px rgba(46, 164, 79, 0.2);
+            max-width: 90%;
+            word-break: break-all; /* 防止文件名太长撑破 */
+        }
+
+        .download-btn:hover {
+            background-color: #2c974b;
+        }
+        
+        .loading {
+            background-color: #94d3a2;
+            cursor: wait;
+        }
+        
+        .tips {
+            margin-top: 15px;
+            font-size: 12px;
+            color: #586069;
+        }
     </style>
 </head>
 <body>
-    <h1>小红书账号：计算光学最新文献推送/n小红书号95520694639/n微信公众号：计算光学最新文献推送：</h1>
-    <br>
-    <a href="Optical_Papers_260121.docx" class="btn">点击下载 Word 文档</a>
+
+    <h1>光学+AI 最新文献推送</h1>
+
+    <div class="social-container">
+        <div class="social-item">
+            <div class="social-title">小红书：计算光学最新文献推送</div>
+            <img src="xhs.jpg" alt="小红书二维码" class="qr-code">
+        </div>
+
+        <div class="social-item">
+            <div class="social-title">公众号：计算光学最新文献推送</div>
+            <img src="wx.jpg" alt="公众号二维码" class="qr-code">
+        </div>
+    </div>
+
+    <a id="downloadBtn" href="#" class="download-btn loading">
+        正在查找最新推送...
+    </a>
+    <div class="tips">点击上方按钮直接下载最新 Word 文档</div>
+
+<script>
+        // ================= 配置区域 (请修改这里) =================
+        const GITHUB_USERNAME = 'faulks'; 
+        const REPO_NAME = 'Optics-AI_Paper';       
+        // =======================================================
+
+        const apiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
+        const btn = document.getElementById('downloadBtn');
+
+        fetch(apiUrl)
+            .then(response => response.json())
+            .then(data => {
+                // 1. 筛选文件：必须以 "Optical_Papers_" 开头，且以 ".docx" 结尾
+                // 这样可以防止误下载到其他无关的 Word 文档
+                const wordFiles = data.filter(item => 
+                    item.name.startsWith('Optical_Papers_') && 
+                    (item.name.endsWith('.docx') || item.name.endsWith('.doc'))
+                );
+
+                if (wordFiles.length === 0) {
+                    btn.innerText = "今日暂无推送";
+                    btn.style.backgroundColor = "#666"; 
+                    return;
+                }
+
+                // 2. 排序：因为您的命名是 YYMMDD (年份在前)，直接按字符排序即可
+                // "Optical_Papers_260121" 会排在 "Optical_Papers_260120" 后面
+                wordFiles.sort((a, b) => {
+                    return a.name.localeCompare(b.name);
+                });
+
+                // 3. 取出最后一个（也就是日期最大的那一个）
+                const latestFile = wordFiles[wordFiles.length - 1];
+
+                // 4. 更新按钮
+                // 这里的正则把文件名里的 Optical_Papers_ 去掉，只显示日期，按钮更简洁
+                // 显示效果例如：📄 下载最新推送：260121
+                const dateCode = latestFile.name.replace('Optical_Papers_', '').replace('.docx', '');
+                
+                btn.innerText = "📄 下载最新推送：" + dateCode; 
+                btn.href = latestFile.download_url; 
+                btn.classList.remove('loading'); 
+                btn.setAttribute("target", "_blank");
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                btn.innerText = "获取列表失败，请刷新";
+                btn.style.backgroundColor = "#d73a49";
+            });
+    </script>
 </body>
 </html>

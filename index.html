@@ -151,6 +151,12 @@
             width: calc(50% - 10px); 
             min-width: 280px; /* 防止图片缩得太小看不清 */
         }
+    /* === 手机端适配：只把大标题改小 === */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 22px; /* 这里的数字越小，字越小 */
+            }
+        }
     
     </style>
 </head>
@@ -195,7 +201,7 @@
         <div class="tip-item">
             <span class="tip-title">2. 关于 DOI 链接跳转</span>
             <p class="tip-text">
-                由于网络环境原因，若 Word 文档中的蓝色链接点击无反应或报错（如下图左），请尝试<strong>复制链接</strong>并粘贴到浏览器地址栏中访问（如下图右）。
+                由于网络环境原因，若 Word 文档中的蓝色链接点击无反应或报错（如图左），请尝试<strong>复制链接</strong>并粘贴到浏览器地址栏中访问（如图右）。
             </p>
             
             <div class="img-row">

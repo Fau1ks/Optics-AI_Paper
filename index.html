@@ -37,7 +37,10 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            width: 200px;
+            /* 🔴 修改这里：把原来的 200px 改为 280px 或者 300px */
+            width: 280px; 
+            /* 🔴 新增一行：让文字如果有两行时，行间距不要太挤 */
+            line-height: 1.5; 
         }
 
         .social-title {
@@ -112,7 +115,7 @@
 
 <script>
         // ================= 配置区域 (请修改这里) =================
-        const GITHUB_USERNAME = 'faulks'; 
+        const GITHUB_USERNAME = 'Fau1ks'; 
         const REPO_NAME = 'Optics-AI_Paper';       
         // =======================================================
 

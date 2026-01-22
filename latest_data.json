@@ -4189,5 +4189,16 @@
         "guidislink": false,
         "journal": "Optics and Laser Technology",
         "title_cn": "基于亚波长光栅波导的集成光子器件——综述"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.586367",
+        "title": "Long-range OFDR distributed strain sensing based on optimized deskew filter and image denoising methods",
+        "link": "https://doi.org/10.1364/oe.586367",
+        "published": "2026-01-21",
+        "author": "Cailing Fu, Nianqing zou, Huajian Zhong, Rongyi Shan, Yabo Shi, Huafeng Zha, Lijie Wang, Yongzheng Xu, Weijia Bao, Yiping Wang, Changrui Liao",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Express",
+        "title_cn": "基于优化去歪斜滤波器和图像去噪方法的长距离 OFDR 分布式应变传感",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
     }
 ]

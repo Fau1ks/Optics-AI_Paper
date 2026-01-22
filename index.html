@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>光学+AI最新文献推送</title>
     <style>
-        /* CSS 保持你原版完全不变 */
+        
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #f6f8fa; color: #24292e; display: flex; flex-direction: column; align-items: center; padding: 40px 20px; text-align: center; }
         h1 { color: #0366d6; margin-bottom: 30px; }
         .social-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 40px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
@@ -27,7 +27,7 @@
         .img-row .tip-img { width: calc(50% - 10px); min-width: 280px; }
         @media (max-width: 600px) { h1 { font-size: 22px; } }
 
-        /* === 新增：手风琴样式 === */
+        
         .reading-container { width: 100%; max-width: 800px; text-align: left; margin-top: 40px; margin-bottom: 20px; }
         .reading-title { text-align: center; color: #333; font-size: 22px; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
         .journal-group { margin-bottom: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); overflow: hidden; border-left: 5px solid #0366d6; }
@@ -98,7 +98,7 @@
         const GITHUB_USERNAME = 'Fau1ks'; 
         const REPO_NAME = 'Optics-AI_Paper';        
 
-        // 1. 处理下载按钮 (保持你原有的逻辑)
+        
         const contentApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
         const btn = document.getElementById('downloadBtn');
         const timeDiv = document.getElementById('fileTime');
@@ -122,7 +122,7 @@
                 btn.classList.remove('loading'); 
                 btn.setAttribute("target", "_blank");
 
-                // 获取提交时间
+                
                 const commitApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/commits?path=${latestFile.name}&page=1&per_page=1`;
                 fetch(commitApiUrl)
                     .then(res => res.json())
@@ -139,8 +139,8 @@
                 btn.style.backgroundColor = "#d73a49";
             });
 
-        // 2. 处理在线预览 (新功能)
-        // 直接读取 latest_data.json
+        
+        
         fetch('latest_data.json')
             .then(response => response.json())
             .then(data => {
@@ -149,7 +149,7 @@
                 const container = document.getElementById('accordionContent');
                 document.getElementById('readingArea').style.display = 'block';
 
-                // 按期刊分组
+                
                 const papersByJournal = {};
                 data.forEach(paper => {
                     const j = paper.journal || 'Unknown Journal';
@@ -157,7 +157,7 @@
                     papersByJournal[j].push(paper);
                 });
 
-                // 生成 HTML
+                
                 let html = '';
                 for (const [journal, papers] of Object.entries(papersByJournal)) {
                     html += `
@@ -190,7 +190,7 @@
                 console.log("今日暂无数据或读取失败", err);
             });
 
-        // 通用手风琴切换函数
+        
         function toggleAccordion(element) {
             element.classList.toggle("active");
             const content = element.nextElementSibling;

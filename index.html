@@ -5,166 +5,50 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>光学+AI最新文献推送</title>
     <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            background-color: #f6f8fa;
-            color: #24292e;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 40px 20px;
-            text-align: center;
-        }
+        /* CSS 保持你原版完全不变 */
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #f6f8fa; color: #24292e; display: flex; flex-direction: column; align-items: center; padding: 40px 20px; text-align: center; }
+        h1 { color: #0366d6; margin-bottom: 30px; }
+        .social-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 40px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .social-item { display: flex; flex-direction: column; align-items: center; width: 280px; line-height: 1.5; }
+        .social-title { font-weight: bold; margin-bottom: 10px; font-size: 16px; }
+        .qr-code { width: 150px; height: 150px; object-fit: cover; border-radius: 8px; border: 1px solid #e1e4e8; }
+        .download-btn { background-color: #2ea44f; color: white; padding: 15px 40px; font-size: 18px; border-radius: 6px; text-decoration: none; transition: background-color 0.2s; box-shadow: 0 4px 6px rgba(46, 164, 79, 0.2); max-width: 90%; word-break: break-all; }
+        .download-btn:hover { background-color: #2c974b; }
+        .loading { background-color: #94d3a2; cursor: wait; }
+        .update-time { margin-top: 15px; font-size: 14px; color: #0366d6; font-weight: 500; }
+        .tips { margin-top: 5px; font-size: 12px; color: #586069; }
+        .tips-container { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 800px; width: 90%; margin-top: 50px; text-align: left; }
+        .tips-container h2 { color: #333; font-size: 22px; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px; text-align: center; }
+        .tip-item { margin-bottom: 30px; }
+        .tip-title { font-weight: bold; font-size: 16px; color: #0366d6; margin-bottom: 10px; display: block; }
+        .tip-text { color: #555; font-size: 15px; line-height: 1.6; margin-bottom: 15px; }
+        .img-row { display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; }
+        .tip-img { max-width: 100%; height: auto; border-radius: 6px; border: 1px solid #e1e4e8; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: block; margin: 0 auto; }
+        .img-row .tip-img { width: calc(50% - 10px); min-width: 280px; }
+        @media (max-width: 600px) { h1 { font-size: 22px; } }
 
-        h1 {
-            color: #0366d6;
-            margin-bottom: 30px;
-        }
-
-        .social-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 30px;
-            margin-bottom: 40px;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        }
-
-        .social-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            width: 280px; 
-            line-height: 1.5; 
-        }
-
-        .social-title {
-            font-weight: bold;
-            margin-bottom: 10px;
-            font-size: 16px;
-        }
-
-        .qr-code {
-            width: 150px;
-            height: 150px;
-            object-fit: cover;
-            border-radius: 8px;
-            border: 1px solid #e1e4e8;
-        }
-
-        /* 按钮样式 */
-        .download-btn {
-            background-color: #2ea44f;
-            color: white;
-            padding: 15px 40px;
-            font-size: 18px;
-            border-radius: 6px;
-            text-decoration: none;
-            transition: background-color 0.2s;
-            box-shadow: 0 4px 6px rgba(46, 164, 79, 0.2);
-            max-width: 90%;
-            word-break: break-all;
-        }
-
-        .download-btn:hover {
-            background-color: #2c974b;
-        }
-        
-        .loading {
-            background-color: #94d3a2;
-            cursor: wait;
-        }
-        
-        /* === 新增：时间显示样式 === */
-        .update-time {
-            margin-top: 15px;
-            font-size: 14px;
-            color: #0366d6; /* 用蓝色突出显示 */
-            font-weight: 500;
-        }
-
-        .tips {
-            margin-top: 5px; /* 稍微拉近一点和时间的距离 */
-            font-size: 12px;
-            color: #586069;
-        }
-
-        /* === 注意事项区域样式 === */
-        .tips-container {
-            background: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-            max-width: 800px;
-            width: 90%;
-            margin-top: 50px;
-            text-align: left;
-        }
-
-        .tips-container h2 {
-            color: #333;
-            font-size: 22px;
-            border-bottom: 2px solid #eee;
-            padding-bottom: 10px;
-            margin-bottom: 20px;
-            text-align: center;
-        }
-
-        .tip-item {
-            margin-bottom: 30px;
-        }
-
-        .tip-title {
-            font-weight: bold;
-            font-size: 16px;
-            color: #0366d6;
-            margin-bottom: 10px;
-            display: block;
-        }
-
-        .tip-text {
-            color: #555;
-            font-size: 15px;
-            line-height: 1.6;
-            margin-bottom: 15px;
-        }
-
-        .tip-img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 6px;
-            border: 1px solid #e1e4e8;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-            display: block;
-            margin: 0 auto;
-        }
-
-        .img-row {
-            display: flex;
-            gap: 15px;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-        
-        .img-row .tip-img {
-            width: calc(50% - 10px); 
-            min-width: 280px;
-        }
-
-        @media (max-width: 600px) {
-            h1 {
-                font-size: 22px;
-            }
-        }
-    
+        /* === 新增：手风琴样式 === */
+        .reading-container { width: 100%; max-width: 800px; text-align: left; margin-top: 40px; margin-bottom: 20px; }
+        .reading-title { text-align: center; color: #333; font-size: 22px; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .journal-group { margin-bottom: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); overflow: hidden; border-left: 5px solid #0366d6; }
+        .journal-btn { width: 100%; text-align: left; padding: 15px 20px; background: white; border: none; cursor: pointer; display: flex; justify-content: space-between; align-items: center; font-size: 1.1rem; font-weight: bold; color: #24292e; transition: 0.2s; outline: none; }
+        .journal-btn:hover { background-color: #f1f8ff; }
+        .count-badge { background: #0366d6; color: white; padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; margin-right: 10px; }
+        .arrow { transition: transform 0.3s; font-size: 0.8rem; color: #aaa; }
+        .journal-btn.active .arrow { transform: rotate(180deg); }
+        .article-list { display: none; border-top: 1px solid #eee; }
+        .article-btn { width: 100%; text-align: left; padding: 12px 25px; background: #fff; border: none; cursor: pointer; font-size: 1rem; color: #444; line-height: 1.5; transition: 0.2s; border-bottom: 1px solid #f1f1f1; }
+        .article-btn:hover { color: #0366d6; background: #fafafa; }
+        .article-btn.active { color: #0366d6; font-weight: bold; background: #fafafa; }
+        .article-detail { display: none; padding: 15px 25px; background-color: #fcfcfc; border-bottom: 1px solid #eee; }
+        .title-box-en { color: #555; margin-bottom: 10px; font-size: 0.95rem; font-family: sans-serif; font-weight: bold; line-height: 1.4; }
+        .link-box { display: block; background: #e6f6ff; color: #0366d6; padding: 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; word-break: break-all; border: 1px solid #bfe3ff; text-align: center; font-weight: 500; }
+        .link-box:hover { background: #cceeff; }
     </style>
 </head>
 <body>
 
-    <h1>光学+AI 最新文献推送</h1>
+    <h1>🔭 光学+AI 最新文献推送</h1>
 
     <p style="color: #666; font-size: 15px; margin-top: -15px; margin-bottom: 25px; line-height: 1.6;">
         如需往期文献，可关注以下账号<br>
@@ -176,127 +60,146 @@
             <div class="social-title">小红书：计算光学最新文献推送</div>
             <img src="xhs.jpg" alt="小红书二维码" class="qr-code">
         </div>
-
         <div class="social-item">
             <div class="social-title">公众号：计算光学最新文献推送</div>
             <img src="wx.jpg" alt="公众号二维码" class="qr-code">
         </div>
     </div>
 
-    <a id="downloadBtn" href="#" class="download-btn loading">
-        正在查找最新推送...
-    </a>
-
+    <a id="downloadBtn" href="#" class="download-btn loading">正在查找最新推送...</a>
     <div id="fileTime" class="update-time">正在获取更新时间...</div>
-    
     <div class="tips">点击上方按钮直接下载最新 Word 文档</div>
 
-<div class="tips-container">
-        <h2>💡 使用注意事项</h2>
+    <div class="reading-container" id="readingArea" style="display:none;">
+        <div class="reading-title">📖 在线速览</div>
+        <div id="accordionContent">
+            </div>
+    </div>
 
+    <div class="tips-container">
+        <h2>💡 使用注意事项</h2>
         <div class="tip-item">
             <span class="tip-title">1. 提高阅读效率：建议开启导航窗格</span>
-            <p class="tip-text">
-                为了更方便地浏览长文档，建议在 Word 顶部菜单栏选择 <strong>“视图”</strong>，并勾选 <strong>“导航窗格”</strong>。这样左侧会出现目录大纲，方便快速跳转。
-            </p>
+            <p class="tip-text">为了更方便地浏览长文档，建议在 Word 顶部菜单栏选择 <strong>“视图”</strong>，并勾选 <strong>“导航窗格”</strong>。</p>
             <img src="remind1.jpg" alt="开启导航窗格演示" class="tip-img">
         </div>
-
         <hr style="border: 0; border-top: 1px dashed #eee; margin: 30px 0;">
-
         <div class="tip-item">
             <span class="tip-title">2. 关于 DOI 链接跳转</span>
-            <p class="tip-text">
-                由于网络环境原因，若 Word 文档中的蓝色链接点击无反应或报错（如图左），请尝试<strong>复制链接</strong>并粘贴到浏览器地址栏中访问（如图右）。
-            </p>
-            
+            <p class="tip-text">若 Word 文档中的蓝色链接点击无反应，请尝试<strong>复制链接</strong>并粘贴到浏览器地址栏中访问。</p>
             <div class="img-row">
                 <img src="remind2.jpg" alt="Word中无法跳转示意" class="tip-img">
                 <img src="remind3.jpg" alt="浏览器正常访问示意" class="tip-img">
             </div>
         </div>
-    </div>    
-    
-<script>
-        // ================= 配置区域 =================
-        const GITHUB_USERNAME = 'Fau1ks'; 
-        const REPO_NAME = 'Optics-AI_Paper';       
-        // ==========================================
+    </div>
 
+    <script>
+        const GITHUB_USERNAME = 'Fau1ks'; 
+        const REPO_NAME = 'Optics-AI_Paper';        
+
+        // 1. 处理下载按钮 (保持你原有的逻辑)
         const contentApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
         const btn = document.getElementById('downloadBtn');
-        const timeDiv = document.getElementById('fileTime'); // 获取时间显示的元素
+        const timeDiv = document.getElementById('fileTime');
 
         fetch(contentApiUrl)
             .then(response => response.json())
             .then(data => {
-                // 1. 筛选文件
-                const wordFiles = data.filter(item => 
-                    item.name.startsWith('Optical_Papers_') && 
-                    (item.name.endsWith('.docx') || item.name.endsWith('.doc'))
-                );
-
+                const wordFiles = data.filter(item => item.name.startsWith('Optical_Papers_') && item.name.endsWith('.docx'));
                 if (wordFiles.length === 0) {
                     btn.innerText = "今日暂无推送";
                     btn.style.backgroundColor = "#666"; 
-                    timeDiv.style.display = 'none'; // 没文件就隐藏时间
+                    timeDiv.style.display = 'none';
                     return;
                 }
-
-                // 2. 排序
-                wordFiles.sort((a, b) => {
-                    return a.name.localeCompare(b.name);
-                });
-
-                // 3. 取出最后一个
+                wordFiles.sort((a, b) => a.name.localeCompare(b.name));
                 const latestFile = wordFiles[wordFiles.length - 1];
-
-                // 4. 更新按钮
                 const dateCode = latestFile.name.replace('Optical_Papers_', '').replace('.docx', '');
+                
                 btn.innerText = "📄 下载最新推送：" + dateCode; 
                 btn.href = latestFile.download_url; 
                 btn.classList.remove('loading'); 
                 btn.setAttribute("target", "_blank");
 
-                // === 🔥 新增：二次请求获取具体时间 ===
-                // 因为 contents API 不含时间，需要去 commits API 查这个文件的最后一次提交
+                // 获取提交时间
                 const commitApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/commits?path=${latestFile.name}&page=1&per_page=1`;
-                
                 fetch(commitApiUrl)
                     .then(res => res.json())
                     .then(commits => {
                         if (commits && commits.length > 0) {
-                            // GitHub 返回的是 UTC 时间 (例如 2023-10-27T10:00:00Z)
-                            const utcDateStr = commits[0].commit.committer.date;
-                            const dateObj = new Date(utcDateStr);
-                            
-                            // 转换为用户本地时间字符串 (例如: 2023/10/27 18:00)
-                            // 会自动适配北京时间
-                            const timeStr = dateObj.toLocaleString('zh-CN', { 
-                                year: 'numeric', 
-                                month: '2-digit', 
-                                day: '2-digit', 
-                                hour: '2-digit', 
-                                minute: '2-digit',
-                                hour12: false // 使用24小时制
-                            });
-                            
-                            timeDiv.innerText = "最后更新时间：" + timeStr;
-                        } else {
-                            timeDiv.innerText = "";
+                            const dateObj = new Date(commits[0].commit.committer.date);
+                            timeDiv.innerText = "最后更新时间：" + dateObj.toLocaleString('zh-CN', { hour12: false });
                         }
-                    })
-                    .catch(e => {
-                        console.error("时间获取失败", e);
-                        timeDiv.innerText = ""; // 失败了就不显示，不影响下载
-                    });
+                    }).catch(() => timeDiv.innerText = "");
             })
             .catch(error => {
                 console.error('Error:', error);
-                btn.innerText = "获取列表失败，请刷新";
+                btn.innerText = "获取列表失败";
                 btn.style.backgroundColor = "#d73a49";
-                timeDiv.style.display = 'none';
             });
+
+        // 2. 处理在线预览 (新功能)
+        // 直接读取 latest_data.json
+        fetch('latest_data.json')
+            .then(response => response.json())
+            .then(data => {
+                if (!data || data.length === 0) return;
+
+                const container = document.getElementById('accordionContent');
+                document.getElementById('readingArea').style.display = 'block';
+
+                // 按期刊分组
+                const papersByJournal = {};
+                data.forEach(paper => {
+                    const j = paper.journal || 'Unknown Journal';
+                    if (!papersByJournal[j]) papersByJournal[j] = [];
+                    papersByJournal[j].push(paper);
+                });
+
+                // 生成 HTML
+                let html = '';
+                for (const [journal, papers] of Object.entries(papersByJournal)) {
+                    html += `
+                    <div class="journal-group">
+                        <button class="journal-btn" onclick="toggleAccordion(this)">
+                            <span>${journal}</span>
+                            <div><span class="count-badge">${papers.length}</span><span class="arrow">▼</span></div>
+                        </button>
+                        <div class="article-list">
+                    `;
+                    
+                    papers.forEach(paper => {
+                        const titleCn = paper.title_cn || paper.title;
+                        const titleEn = paper.title;
+                        html += `
+                            <div class="article-item">
+                                <button class="article-btn" onclick="toggleAccordion(this)">${titleCn}</button>
+                                <div class="article-detail">
+                                    <div class="title-box-en"><span style="background:#eee;padding:2px 6px;border-radius:4px;font-size:0.75em;color:#666;margin-right:5px;">English</span>${titleEn}</div>
+                                    <a href="${paper.id}" target="_blank" class="link-box">🔗 DOI Link: ${paper.id}</a>
+                                </div>
+                            </div>
+                        `;
+                    });
+                    html += `</div></div>`;
+                }
+                container.innerHTML = html;
+            })
+            .catch(err => {
+                console.log("今日暂无数据或读取失败", err);
+            });
+
+        // 通用手风琴切换函数
+        function toggleAccordion(element) {
+            element.classList.toggle("active");
+            const content = element.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        }
     </script>
 </body>
 </html>

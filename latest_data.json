@@ -4200,5 +4200,1002 @@
         "journal": "Optics Express",
         "title_cn": "基于优化去歪斜滤波器和图像去噪方法的长距离 OFDR 分布式应变传感",
         "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.588506",
+        "title": "High-precision FBG sensor demodulation based on tunable Michelson interferometer with parallel FBGs",
+        "link": "https://doi.org/10.1364/ol.588506",
+        "published": "2026-01-21",
+        "author": "Tingfeng Li, Shuo Wang, chen fengyi, Ruohui Wang, Xueguang Qiao",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "基于并行光纤光栅可调谐迈克尔逊干涉仪的高精度光纤光栅传感器解调",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.586783",
+        "title": "Phase stabilization for long baseline interferometry of incoherent optical sources",
+        "link": "https://doi.org/10.1364/ol.586783",
+        "published": "2026-01-21",
+        "author": "Joshua Collier, David Gozzard, John Wallis, Benjamin Dix-Matthews",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "非相干光源长基线干涉测量的相位稳定",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.585468",
+        "title": "Enhanced spectral domain phase microscopy for high-sensitivity and broad-range quantitative phase imaging via joint algorithm-hardware calibration",
+        "link": "https://doi.org/10.1364/ol.585468",
+        "published": "2026-01-21",
+        "author": "Jiayi Wang, Liu hang Zhao, Runnan Zhang, Zihao Zhou, Wei Yin, Xin Yuan, Ning Zhou, Chao Zuo",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "增强型谱域相位显微镜通过联合算法-硬件校准实现高灵敏度和宽范围定量相位成像",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.583187",
+        "title": "High-precision chirp-rate measurement of LFM microwave signals via photonic fractional Fourier transform with low-frequency detection",
+        "link": "https://doi.org/10.1364/ol.583187",
+        "published": "2026-01-21",
+        "author": "Di Peng, Jingyi Zhang, Zewen Zhu, Ya Han, Heyun Tan, Songnian Fu, Shuoyang Qiu, Yuwen Qin",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "通过光子分数傅里叶变换和低频检测对 LFM 微波信号进行高精度线性调频测量",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.584678",
+        "title": "Non-destructive Micro-patterned Elastic Ultra-thin Films for High-resolution Skin-like OLEDs",
+        "link": "https://doi.org/10.1364/ol.584678",
+        "published": "2026-01-21",
+        "author": "Juntong Li, Xiaoli Zhao, Hongyan Yu, Yao Fu, Peng Xue, Guodong Zhao, Mingxin Zhang, Yanhong Tong, Qingxin Tang, Yichun Liu",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "用于高分辨率类肤 OLED 的无损微图案弹性超薄膜",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.581219",
+        "title": "Optical control of vortex lattices and magnetostriction in a confined quantum ferrofluid",
+        "link": "https://doi.org/10.1364/ol.581219",
+        "published": "2026-01-21",
+        "author": "Biao Dong, Xiao-fei Zhang, YongChang Zhang",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "受限量子铁磁流体中涡旋晶格和磁致伸缩的光学控制",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.573926",
+        "title": "Probing subradiant dynamics in cold atomic ensembles via population and emitted light measurements",
+        "link": "https://doi.org/10.1364/ol.573926",
+        "published": "2026-01-21",
+        "author": "Antoine Glicenstein, Daniel Benedicto Orenes, Apoorva Apoorva, Raphaël Saint-Jalm, Robin Kaiser",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "通过布居和发射光测量探测冷原子系综中的次辐射动力学",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.582850",
+        "title": "Clean 4.4 fs blue self-compressed soliton pulses generation in large-core hollow-core fibers",
+        "link": "https://doi.org/10.1364/ol.582850",
+        "published": "2026-01-21",
+        "author": "Ziping Huang, Jiale Peng, Weitao He, Hongyv Chen, chengbo Sun, Zhihao Wang, Shuangxi Peng, Lixin He, Zuofei Hong, Qingbin Zhang, Peixiang Lu",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "在大芯径空心光纤中产生干净的 4.4 fs 蓝色自压缩孤子脉冲",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.585272",
+        "title": "High-resolution aberration-free imaging through GRIN fiber using speckle illumination and compressive sensing",
+        "link": "https://doi.org/10.1364/ol.585272",
+        "published": "2026-01-21",
+        "author": "Matvei Pochechuev, Ajithamithra Dharmasiri, Tanvir Rajib, Aleksei Zheltikov",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "使用散斑照明和压缩传感通过 GRIN 光纤进行高分辨率无像差成像",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.584800",
+        "title": "High-field multi-cycle terahertz emission from axially cut β-BBO crystals reaching several hundred kV/cm",
+        "link": "https://doi.org/10.1364/ol.584800",
+        "published": "2026-01-21",
+        "author": "Xianghe Feng, Alexander Ohrt, Long Cheng, Oliver Nagy, Guochun Zhang, Peter Jespen, Rukang Li, Binbin Zhou",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "轴向切割 β-BBO 晶体的高场多周期太赫兹发射达到数百 kV/cm",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.582336",
+        "title": "3D-BNN-accelerated phase tracking with optimal sub-region selection for high-dynamic-range OCE",
+        "link": "https://doi.org/10.1364/ol.582336",
+        "published": "2026-01-21",
+        "author": "yulei Bai, Yuanyang Zhu, Zihao Ni, Zhaoshui He, Shengli Xie, Bo Dong",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Letters",
+        "title_cn": "3D-BNN 加速相位跟踪，具有高动态范围 OCE 的最佳子区域选择",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.587704",
+        "title": "High-resolution profiling of aerosol absorption coefficients using dual-polarization lidar and PSO–GPR machine learning approach",
+        "link": "https://doi.org/10.1364/oe.587704",
+        "published": "2026-01-21",
+        "author": "Qingqing Dong, Zhongwei Huang, Qiantao Liu, Yongkai Wang, zhengpeng Li, Jianrong Bi, Tian Zhou, Jinsen Shi",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Express",
+        "title_cn": "使用双偏振激光雷达和 PSO-GPR 机器学习方法对气溶胶吸收系数进行高分辨率分析",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adpr.202500259?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/adpr.202500259",
+        "published": "Wed, 21 Jan 2026 05:52:27 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            21,
+            13,
+            52,
+            27,
+            2,
+            21,
+            0
+        ],
+        "updated": "2026-01-21T05:52:27-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            21,
+            13,
+            52,
+            27,
+            2,
+            21,
+            0
+        ],
+        "source": {
+            "href": "https://advanced.onlinelibrary.wiley.com/journal/26999293?af=R",
+            "title": "Wiley: Advanced Photonics Research: Table of Contents"
+        },
+        "prism_coverdate": "Thu, 01 Jan 2026 00:00:00 -0800",
+        "prism_coverdisplaydate": "Thu, 01 Jan 2026 00:00:00 -0800",
+        "id": "https://doi.org/10.1002/adpr.202500259",
+        "guidislink": false,
+        "title": "Nonlocal Metasurfaces and Their High Q‐Factors in Fano Resonances",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Nonlocal Metasurfaces and Their High Q‐Factors in Fano Resonances"
+        },
+        "summary": "Advanced Photonics Research, Volume 7, Issue 1, January 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Advanced Photonics Research, Volume 7, Issue 1, January 2026."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "Herein nonlocal metasurfaces containing symmetry perturbations enable coupling of localized Mie resonance in meta‐atoms with lattice Bragg modes are reported. Nonlocal lattice coupling results in a high Q‐factor that persists up to 5° of incidence angle, making this hybrid‐mode metasurface attractive for accessing Fano resonances from free space for photonic, nonlinear optics, and quantum device applications.\n\nHerein nonlocal metasurfaces of parallel bars stitched to cubic rectangles containing structural and symmetry perturbations with a coupling of localized Mie resonance in meta‐atoms and Bragg modes in photonic crystals are reported. Two Fano resonances have been identified that maintain ultrahigh Q‐factors at incident angles of light up to 5°. Increasing the symmetry of the meta‐atoms results in Fano resonances with Q‐factors increased by a factor of 26, compared with the metasurfaces with a single bar stitched to a cubic rectangle at the incident angle of 5°. Due to nonlocal coupling of Bragg scattering and Mie resonance, the Q‐factor maintains almost a constant at 5° of incidence, while it varies with structural or symmetrical perturbations at 0°."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"Nonlocal Metasurfaces and Their High Q-Factors in Fano Resonances\" src=\"https://advanced.onlinelibrary.wiley.com/cms/asset/1e77d0fe-02cf-4f7f-bfa3-57f288a796d3/adpr70138-blkfxd-0001-m.png\" />\n<p>Herein nonlocal metasurfaces containing symmetry perturbations enable coupling of localized Mie resonance in meta-atoms with lattice Bragg modes are reported. Nonlocal lattice coupling results in a high Q-factor that persists up to 5° of incidence angle, making this hybrid-mode metasurface attractive for accessing Fano resonances from free space for photonic, nonlinear optics, and quantum device applications.</p>\n<br />\n<p>Herein nonlocal metasurfaces of parallel bars stitched to cubic rectangles containing structural and symmetry perturbations with a coupling of localized Mie resonance in meta-atoms and Bragg modes in photonic crystals are reported. Two Fano resonances have been identified that maintain ultrahigh Q-factors at incident angles of light up to 5°. Increasing the symmetry of the meta-atoms results in Fano resonances with Q-factors increased by a factor of 26, compared with the metasurfaces with a single bar stitched to a cubic rectangle at the incident angle of 5°. Due to nonlocal coupling of Bragg scattering and Mie resonance, the Q-factor maintains almost a constant at 5° of incidence, while it varies with structural or symmetrical perturbations at 0°.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Noah B. Hurley, \nAraceli Herrera Mondragon, \nAndrew T. Aoueille, \nJiho Noh, \nNoel P. Martinez, \nHyunseung Jung, \nIhab F. El‐Kady, \nSensong An, \nYuzhe Xiao, \nJingbiao Cui, \nYuankun Lin"
+            }
+        ],
+        "author": "Noah B. Hurley, \nAraceli Herrera Mondragon, \nAndrew T. Aoueille, \nJiho Noh, \nNoel P. Martinez, \nHyunseung Jung, \nIhab F. El‐Kady, \nSensong An, \nYuzhe Xiao, \nJingbiao Cui, \nYuankun Lin",
+        "author_detail": {
+            "name": "Noah B. Hurley, \nAraceli Herrera Mondragon, \nAndrew T. Aoueille, \nJiho Noh, \nNoel P. Martinez, \nHyunseung Jung, \nIhab F. El‐Kady, \nSensong An, \nYuzhe Xiao, \nJingbiao Cui, \nYuankun Lin"
+        },
+        "tags": [
+            {
+                "term": "Research Article",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/adpr.202500259",
+        "prism_publicationname": "Advanced Photonics Research",
+        "prism_doi": "10.1002/adpr.202500259",
+        "prism_url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adpr.202500259?af=R",
+        "prism_section": "Research Article",
+        "prism_volume": "7",
+        "prism_number": "1",
+        "journal": "Advanced Photonics Research",
+        "title_cn": "法诺共振中的非局域超表面及其高 Q 因子",
+        "abstract_cn": "《先进光子学研究》，第 7 卷，第 1 期，2026 年 1 月。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02163-8",
+        "title": "Deciphering light transformation in chiral metasurface in real space and time by ultrafast electron microscopy",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Deciphering light transformation in chiral metasurface in real space and time by ultrafast electron microscopy"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02163-8"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02163-8",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02163-8\">doi:10.1038/s41377-025-02163-8</a></p>Ultrafast electron microscopy imaging of near-field spatiotemporal evolution unveils the microscopic mechanism of light transformation in chiral metasurfaces."
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 14 January 2026; doi:10.1038/s41377-025-02163-8Ultrafast electron microscopy imaging of near-field spatiotemporal evolution unveils the microscopic mechanism of light transformation in chiral metasurfaces.",
+        "authors": [
+            {
+                "name": "Ling Tong"
+            },
+            {
+                "name": "Fei Xie"
+            },
+            {
+                "name": "Xiaochen Gao"
+            },
+            {
+                "name": "Yuxuan Chen"
+            },
+            {
+                "name": "Shaozheng Ji"
+            },
+            {
+                "name": "Bin Zhang"
+            },
+            {
+                "name": "Jing Li"
+            },
+            {
+                "name": "Jiangteng Guo"
+            },
+            {
+                "name": "Fang Liu"
+            },
+            {
+                "name": "Cuntao Gao"
+            },
+            {
+                "name": "Min Feng"
+            },
+            {
+                "name": "Wei Wu"
+            },
+            {
+                "name": "Shibin Deng"
+            },
+            {
+                "name": "Yiming Pan"
+            },
+            {
+                "name": "Yunquan Liu"
+            },
+            {
+                "name": "Jingjun Xu"
+            },
+            {
+                "name": "Mengxin Ren"
+            },
+            {
+                "name": "Xuewen Fu"
+            }
+        ],
+        "author": "Xuewen Fu",
+        "author_detail": {
+            "name": "Ling Tong"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02163-8",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-14; | doi:10.1038/s41377-025-02163-8",
+        "updated": "2026-01-14",
+        "updated_parsed": [
+            2026,
+            1,
+            14,
+            0,
+            0,
+            0,
+            2,
+            14,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02163-8",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02163-8",
+        "journal": "Light: Science & Applications",
+        "title_cn": "通过超快电子显微镜解读真实时空中手性超表面的光变换",
+        "abstract_cn": "光：科学与光申请，在线发布：2026 年 1 月 14 日； doi:10.1038/s41377-025-02163-8近场时空演化的超快电子显微镜成像揭示了手性超表面中光转换的微观机制。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02094-4",
+        "title": "Integrated-photonics-based systems for polarization-gradient cooling of trapped ions",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Integrated-photonics-based systems for polarization-gradient cooling of trapped ions"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02094-4"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02094-4",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 15 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02094-4\">doi:10.1038/s41377-025-02094-4</a></p>We design and demonstrate a variety of integrated-photonics-based polarization-gradient-cooling systems, culminating in the first experimental demonstration of trapped-ion polarization-gradient cooling using integrated photonics, facilitating new capabilities for integrated-photonics-based trapped-ion platforms."
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 15 January 2026; doi:10.1038/s41377-025-02094-4We design and demonstrate a variety of integrated-photonics-based polarization-gradient-cooling systems, culminating in the first experimental demonstration of trapped-ion polarization-gradient cooling using integrated photonics, facilitating new capabilities for integrated-photonics-based trapped-ion platforms.",
+        "authors": [
+            {
+                "name": "Sabrina M. Corsetti"
+            },
+            {
+                "name": "Ashton Hattori"
+            },
+            {
+                "name": "Ethan R. Clements"
+            },
+            {
+                "name": "Felix W. Knollmann"
+            },
+            {
+                "name": "Milica Notaros"
+            },
+            {
+                "name": "Reuel Swint"
+            },
+            {
+                "name": "Tal Sneh"
+            },
+            {
+                "name": "Patrick T. Callahan"
+            },
+            {
+                "name": "Gavin N. West"
+            },
+            {
+                "name": "Dave Kharas"
+            },
+            {
+                "name": "Thomas Mahony"
+            },
+            {
+                "name": "Colin D. Bruzewicz"
+            },
+            {
+                "name": "Cheryl Sorace-Agaskar"
+            },
+            {
+                "name": "Robert McConnell"
+            },
+            {
+                "name": "Isaac L. Chuang"
+            },
+            {
+                "name": "John Chiaverini"
+            },
+            {
+                "name": "Jelena Notaros"
+            }
+        ],
+        "author": "Jelena Notaros",
+        "author_detail": {
+            "name": "Sabrina M. Corsetti"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02094-4",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-15; | doi:10.1038/s41377-025-02094-4",
+        "updated": "2026-01-15",
+        "updated_parsed": [
+            2026,
+            1,
+            15,
+            0,
+            0,
+            0,
+            3,
+            15,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02094-4",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02094-4",
+        "journal": "Light: Science & Applications",
+        "title_cn": "用于捕获离子偏振梯度冷却的基于集成光子学的系统",
+        "abstract_cn": "光：科学与光申请，在线发布：2026 年 1 月 15 日； doi:10.1038/s41377-025-02094-4我们设计并演示了各种基于集成光子学的偏振梯度冷却系统，最终完成了首次使用集成光子学的俘获离子偏振梯度冷却的实验演示，促进了基于集成光子学的俘获离子平台的新功能。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02142-z",
+        "title": "mJ-level 7-octave ultraflat white laser encompassing 200–25,000 nm",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "mJ-level 7-octave ultraflat white laser encompassing 200–25,000 nm"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02142-z"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02142-z",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02142-z\">doi:10.1038/s41377-025-02142-z</a></p>mJ-level 7-octave ultraflat white laser encompassing 200–25,000 nm"
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 20 January 2026; doi:10.1038/s41377-025-02142-zmJ-level 7-octave ultraflat white laser encompassing 200–25,000 nm",
+        "authors": [
+            {
+                "name": "Lihong Hong"
+            },
+            {
+                "name": "Renyu Feng"
+            },
+            {
+                "name": "Yuanyuan Liu"
+            },
+            {
+                "name": "Junming Liu"
+            },
+            {
+                "name": "Junyu Qian"
+            },
+            {
+                "name": "Yujie Peng"
+            },
+            {
+                "name": "Yuxin Leng"
+            },
+            {
+                "name": "Ruxin Li"
+            },
+            {
+                "name": "Zhi-Yuan Li"
+            }
+        ],
+        "author": "Zhi-Yuan Li",
+        "author_detail": {
+            "name": "Lihong Hong"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02142-z",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-20; | doi:10.1038/s41377-025-02142-z",
+        "updated": "2026-01-20",
+        "updated_parsed": [
+            2026,
+            1,
+            20,
+            0,
+            0,
+            0,
+            1,
+            20,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02142-z",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02142-z",
+        "journal": "Light: Science & Applications",
+        "title_cn": "mJ 级 7 倍频程超平白激光，波长范围 200–25,000 nm",
+        "abstract_cn": "光：科学与光申请，在线发布：2026 年 1 月 20 日； doi:10.1038/s41377-025-02142-zmJ 级 7 倍频程超平白光激光，波长 200–25,000 nm"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02178-1",
+        "title": "A versatile coherent Ising computing platform",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "A versatile coherent Ising computing platform"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02178-1"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02178-1",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02178-1\">doi:10.1038/s41377-025-02178-1</a></p>We conducted an experimental demonstration of coherent Ising machine via femto-second laser pumping that integrates optimization strategies across optical and structural dimensions, resulting in significant performance enhancements."
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 20 January 2026; doi:10.1038/s41377-025-02178-1We conducted an experimental demonstration of coherent Ising machine via femto-second laser pumping that integrates optimization strategies across optical and structural dimensions, resulting in significant performance enhancements.",
+        "authors": [
+            {
+                "name": "Hai Wei"
+            },
+            {
+                "name": "Chengjun Ai"
+            },
+            {
+                "name": "Putuo Guo"
+            },
+            {
+                "name": "Bingjie Jia"
+            },
+            {
+                "name": "Lixin Yuan"
+            },
+            {
+                "name": "Hanquan Song"
+            },
+            {
+                "name": "Shaobo Chen"
+            },
+            {
+                "name": "Chongyu Cao"
+            },
+            {
+                "name": "Jie Wu"
+            },
+            {
+                "name": "Chao Ju"
+            },
+            {
+                "name": "Yin Ma"
+            },
+            {
+                "name": "Jintao Fan"
+            },
+            {
+                "name": "Minglie Hu"
+            },
+            {
+                "name": "Chuan Wang"
+            },
+            {
+                "name": "Kai Wen"
+            }
+        ],
+        "author": "Kai Wen",
+        "author_detail": {
+            "name": "Hai Wei"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02178-1",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-20; | doi:10.1038/s41377-025-02178-1",
+        "updated": "2026-01-20",
+        "updated_parsed": [
+            2026,
+            1,
+            20,
+            0,
+            0,
+            0,
+            1,
+            20,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02178-1",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02178-1",
+        "journal": "Light: Science & Applications",
+        "title_cn": "多功能相干伊辛计算平台",
+        "abstract_cn": "光：科学与光申请，在线发布：2026 年 1 月 20 日； doi:10.1038/s41377-025-02178-1我们通过飞秒激光泵浦对相干伊辛机进行了实验演示，该机集成了光学和结构维度上的优化策略，从而显着提高了性能。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02099-z",
+        "title": "Plan meta-objective for sub-micron quantitative phase imaging",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Plan meta-objective for sub-micron quantitative phase imaging"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02099-z"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02099-z",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02099-z\">doi:10.1038/s41377-025-02099-z</a></p>Plan meta-objective for sub-micron quantitative phase imaging"
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 20 January 2026; doi:10.1038/s41377-025-02099-zPlan meta-objective for sub-micron quantitative phase imaging",
+        "authors": [
+            {
+                "name": "Junyi Wang"
+            },
+            {
+                "name": "Jiacheng Sun"
+            },
+            {
+                "name": "Jian Li"
+            },
+            {
+                "name": "Chunyu Huang"
+            },
+            {
+                "name": "Jitao Ji"
+            },
+            {
+                "name": "Wenjing Shen"
+            },
+            {
+                "name": "Zhizhang Wang"
+            },
+            {
+                "name": "Junxiao Zhou"
+            },
+            {
+                "name": "Chen Chen"
+            },
+            {
+                "name": "Shining Zhu"
+            },
+            {
+                "name": "Tao Li"
+            }
+        ],
+        "author": "Tao Li",
+        "author_detail": {
+            "name": "Junyi Wang"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02099-z",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-20; | doi:10.1038/s41377-025-02099-z",
+        "updated": "2026-01-20",
+        "updated_parsed": [
+            2026,
+            1,
+            20,
+            0,
+            0,
+            0,
+            1,
+            20,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02099-z",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02099-z",
+        "journal": "Light: Science & Applications",
+        "title_cn": "规划亚微米定量相位成像元物镜",
+        "abstract_cn": "光：科学与光申请，在线发布：2026 年 1 月 20 日； doi:10.1038/s41377-025-02099-zPlan 亚微米定量相位成像元物镜"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02127-y",
+        "title": "A near-infrared Sn-Pb perovskite imager with monolithic integration",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "A near-infrared Sn-Pb perovskite imager with monolithic integration"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02127-y"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02127-y",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02127-y\">doi:10.1038/s41377-025-02127-y</a></p>Monolithic Sn-Pb perovskite NIR imager with Sn(SCN)2 passivation achieves low dark current, high detectivity and material recognition for advanced sensing and imaging."
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 20 January 2026; doi:10.1038/s41377-025-02127-yMonolithic Sn-Pb perovskite NIR imager with Sn(SCN)2 passivation achieves low dark current, high detectivity and material recognition for advanced sensing and imaging.",
+        "authors": [
+            {
+                "name": "Ciyu Ge"
+            },
+            {
+                "name": "Chengjie Deng"
+            },
+            {
+                "name": "Jiaxing Zhu"
+            },
+            {
+                "name": "Yongcheng Zhu"
+            },
+            {
+                "name": "Qi Xu"
+            },
+            {
+                "name": "Borui Jiang"
+            },
+            {
+                "name": "Long Chen"
+            },
+            {
+                "name": "Yuxuan Liu"
+            },
+            {
+                "name": "Boxiang Song"
+            },
+            {
+                "name": "Ping Fu"
+            },
+            {
+                "name": "Chao Chen"
+            },
+            {
+                "name": "Liang Gao"
+            },
+            {
+                "name": "Jiang Tang"
+            }
+        ],
+        "author": "Jiang Tang",
+        "author_detail": {
+            "name": "Ciyu Ge"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02127-y",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-20; | doi:10.1038/s41377-025-02127-y",
+        "updated": "2026-01-20",
+        "updated_parsed": [
+            2026,
+            1,
+            20,
+            0,
+            0,
+            0,
+            1,
+            20,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02127-y",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02127-y",
+        "journal": "Light: Science & Applications",
+        "title_cn": "具有单片集成功能的近红外 Sn-Pb 钙钛矿成像仪",
+        "abstract_cn": "光：科学与光申请，在线发布：2026 年 1 月 20 日； doi:10.1038/s41377-025-02127-y采用 Sn(SCN)2 钝化的单片 Sn-Pb 钙钛矿近红外成像仪可实现低暗电流、高探测率和材料识别，从而实现先进的传感和成像。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02182-5",
+        "title": "High-efficiency femtosecond laser fabrication of graphene-hybrid planar micro-supercapacitors with micro/nanostructured electrodes",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "High-efficiency femtosecond laser fabrication of graphene-hybrid planar micro-supercapacitors with micro/nanostructured electrodes"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02182-5"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02182-5",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 21 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02182-5\">doi:10.1038/s41377-025-02182-5</a></p>Universal femtosecond laser and spatial light modulation enable rapid fabrication of graphene-hybrid micro-supercapacitors on silicon. Simultaneous formation of ordered subwavelength electrode micro/nanostructures boosts processing efficiency and device performance."
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 21 January 2026; doi:10.1038/s41377-025-02182-5Universal femtosecond laser and spatial light modulation enable rapid fabrication of graphene-hybrid micro-supercapacitors on silicon. Simultaneous formation of ordered subwavelength electrode micro/nanostructures boosts processing efficiency and device performance.",
+        "authors": [
+            {
+                "name": "Yuyuan Zhang"
+            },
+            {
+                "name": "Tingting Zou"
+            },
+            {
+                "name": "Haobo Jiang"
+            },
+            {
+                "name": "Xiuyan Fu"
+            },
+            {
+                "name": "Wei Xin"
+            },
+            {
+                "name": "Yiyang Meng"
+            },
+            {
+                "name": "Xilin Li"
+            },
+            {
+                "name": "Jun-Ming Cao"
+            },
+            {
+                "name": "Lin Yang"
+            },
+            {
+                "name": "Yuanzheng Li"
+            },
+            {
+                "name": "Weizhen Liu"
+            },
+            {
+                "name": "Dongdong Han"
+            },
+            {
+                "name": "Xing-Long Wu"
+            },
+            {
+                "name": "Jianjun Yang"
+            },
+            {
+                "name": "Haiyang Xu"
+            },
+            {
+                "name": "Yichun Liu"
+            }
+        ],
+        "author": "Yichun Liu",
+        "author_detail": {
+            "name": "Yuyuan Zhang"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02182-5",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-21; | doi:10.1038/s41377-025-02182-5",
+        "updated": "2026-01-21",
+        "updated_parsed": [
+            2026,
+            1,
+            21,
+            0,
+            0,
+            0,
+            2,
+            21,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02182-5",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02182-5",
+        "journal": "Light: Science & Applications",
+        "title_cn": "具有微/纳米结构电极的石墨烯混合平面微型超级电容器的高效飞秒激光制造",
+        "abstract_cn": "光：科学与光申请，在线发布：2026 年 1 月 21 日； doi:10.1038/s41377-025-02182-5通用飞秒激光和空间光调制能够在硅上快速制造石墨烯混合微型超级电容器。同时形成有序亚波长电极微/纳米结构可提高加工效率和器件性能。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02172-7",
+        "title": "TRIXS: a multilayer grating solution towards highly efficient resonant inelastic tender X-ray scattering",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "TRIXS: a multilayer grating solution towards highly efficient resonant inelastic tender X-ray scattering"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02172-7"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02172-7",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 21 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02172-7\">doi:10.1038/s41377-025-02172-7</a></p>Multilayer-grating-based spectrometer with high photon flux and moderate energy resolution for tender X-ray"
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 21 January 2026; doi:10.1038/s41377-025-02172-7Multilayer-grating-based spectrometer with high photon flux and moderate energy resolution for tender X-ray",
+        "authors": [
+            {
+                "name": "Ke-Jin Zhou"
+            },
+            {
+                "name": "Qiushi Huang"
+            },
+            {
+                "name": "Mirian Garcia-Fernandez"
+            },
+            {
+                "name": "Yeqi Zhuang"
+            },
+            {
+                "name": "Stefano Agrestini"
+            },
+            {
+                "name": "Shengyou Wen"
+            },
+            {
+                "name": "Thomas Rice"
+            },
+            {
+                "name": "Sahil Tippireddy"
+            },
+            {
+                "name": "Jaewon Choi"
+            },
+            {
+                "name": "Andrew Walters"
+            },
+            {
+                "name": "Igor V. Kozhevnikov"
+            },
+            {
+                "name": "Zhe Zhang"
+            },
+            {
+                "name": "Runze Qi"
+            },
+            {
+                "name": "Zhong Zhang"
+            },
+            {
+                "name": "Hongchang Wang"
+            },
+            {
+                "name": "Zhanshan Wang"
+            }
+        ],
+        "author": "Zhanshan Wang",
+        "author_detail": {
+            "name": "Ke-Jin Zhou"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02172-7",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-21; | doi:10.1038/s41377-025-02172-7",
+        "updated": "2026-01-21",
+        "updated_parsed": [
+            2026,
+            1,
+            21,
+            0,
+            0,
+            0,
+            2,
+            21,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02172-7",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02172-7",
+        "journal": "Light: Science & Applications",
+        "title_cn": "TRIXS：一种多层光栅解决方案，可实现高效共振非弹性 X 射线散射",
+        "abstract_cn": "光：科学与光申请，在线发布：2026 年 1 月 21 日； doi:10.1038/s41377-025-02172-7基于多层光栅的光谱仪，具有高光子通量和中等能量分辨率，适用于柔和的 X 射线"
     }
 ]

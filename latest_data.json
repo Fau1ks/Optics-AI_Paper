@@ -89,5 +89,184 @@
         "journal": "Displays",
         "title_cn": "利用可微几何和方向注意力进行有限注释的半监督血管分割",
         "abstract_cn": "Publication date: April 2026Source: Displays, Volume 92Author(s): Yan Liu, Yan Yang, Yongquan Jiang, Xiaole Zhao, Liang Fan"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.586748",
+        "title": "Dual-plane wavefront sensing using a vision transformer.",
+        "link": "https://doi.org/10.1364/oe.586748",
+        "published": "2026-01-21",
+        "author": "Evan O'Rourke, Kevin OKeeffe",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Express",
+        "title_cn": "使用视觉变换器的双平面波前传感。",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.581013",
+        "title": "Chromatic Focus Variation with Projected Pattern Illumination for Wide Range Surface Measurements",
+        "link": "https://doi.org/10.1364/oe.581013",
+        "published": "2026-01-21",
+        "author": "Aalim Mustafa, Hussam Muhamedsalih, Dawei Tang, PRASHANT KUMAR, Xiangqian Jiang",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Express",
+        "title_cn": "具有投影图案照明的色焦变化，适用于宽范围表面测量",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.587567",
+        "title": "Study on Multilayered Coatings of Macroscopic Optical Force Transducer",
+        "link": "https://doi.org/10.1364/oe.587567",
+        "published": "2026-01-21",
+        "author": "Siyu Huang, Chunyang Gu, Tan Chen, Fengzhou Fang",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Express",
+        "title_cn": "宏观光学力传感器多层涂层的研究",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.584385",
+        "title": "Reconfigurable folded reflectarray based on an active 1-bit metasurface and its application in microwave hyperthermia",
+        "link": "https://doi.org/10.1364/oe.584385",
+        "published": "2026-01-21",
+        "author": "xi Gao, Ke Yan Li, Shu Kun Wang",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Express",
+        "title_cn": "基于有源1位超表面的可重构折叠反射阵列及其在微波热疗中的应用",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.582377",
+        "title": "Fast, efficient piston correction of deployable space telescopes using machine learning",
+        "link": "https://doi.org/10.1364/oe.582377",
+        "published": "2026-01-21",
+        "author": "Daniel Martin, cyril Bourgenot, Andrew Reeves, Hubert P H Shum",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Express",
+        "title_cn": "使用机器学习对可部署太空望远镜进行快速、高效的活塞校正",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.581303",
+        "title": "Improved Theoretical Model for Differential Wavefront Sensing Based on Complex Gaussian Decomposition with Hard-Edge Apertures",
+        "link": "https://doi.org/10.1364/oe.581303",
+        "published": "2026-01-21",
+        "author": "Yisong Chen, xianyue meng, liu chang liu, Xiong Xinkang, Ziqiao Wang, Dong Yisi, Liang Yu, Ruitao Yang, Haijin Fu, Peng-Cheng Hu",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Express",
+        "title_cn": "基于硬边孔径复杂高斯分解的差分波前传感改进理论模型",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.580362",
+        "title": "Absolute testing of weakly aspheric surfaces with pixel-level resolution and subnanometer accuracy",
+        "link": "https://doi.org/10.1364/oe.580362",
+        "published": "2026-01-21",
+        "author": "XuPeng Li, Haitao Zhang, Wentao Gong, Xiangfu Xiao, Mingxiang Zhou, Chun-shui Jin",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Express",
+        "title_cn": "具有像素级分辨率和亚纳米精度的弱非球面绝对测试",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.586647",
+        "title": "Concentration and Thickness Dependent Optical Transparency in Biological Tissues via Refractive Index Modulation",
+        "link": "https://doi.org/10.1364/oe.586647",
+        "published": "2026-01-21",
+        "author": "Paz Toledano, Guy Zimmerman, Yaakov Tischler",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Optics Express",
+        "title_cn": "通过折射率调制实现生物组织中浓度和厚度相关的光学透明度",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.1364/boe.582188",
+        "title": "Two-lens telecentric model eyes for image distortion measurement in adaptive optics ophthalmoscopes",
+        "link": "https://doi.org/10.1364/boe.582188",
+        "published": "2026-01-22",
+        "author": "Yuning Xia, Gastón Ayubi, Julie Bentley, Alfredo Dubra",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Biomedical Optics Express",
+        "title_cn": "用于自适应光学检眼镜中图像失真测量的双镜头远心模型眼",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.29026/oea.2026.250269",
+        "title": "Timeshare surface-enhanced Raman scattering platform with sensitive and quantitative mode",
+        "link": "https://doi.org/10.29026/oea.2026.250269",
+        "published": "2026",
+        "author": "Qianqian Ding, Xueyan Chen, Yunlu Jia, Hong Liu, Xiaochen Zhang, Ningtao Cheng, Shikuan Yang",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Opto-Electronic Advances",
+        "title_cn": "具有敏感和定量模式的分时表面增强拉曼散射平台",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "id": "https://doi.org/10.29026/oea.2026.250177",
+        "title": "Soft chiral superstructure enabled dynamic polychromatic holography",
+        "link": "https://doi.org/10.29026/oea.2026.250177",
+        "published": "2026",
+        "author": "Chun-Ting Xu, Lu Li, Quan-Ming Chen, Guang-Yao Wang, Wei Hu",
+        "summary": "(Abstract pending update from publisher...)",
+        "journal": "Opto-Electronic Advances",
+        "title_cn": "软手性上部结构实现动态多色全息术",
+        "abstract_cn": "（摘要暂缺，系统已记录，待官方补全后会再次提醒）"
+    },
+    {
+        "title": "Ultrafast VISAR velocity field reconstruction via deep unfolding networks and hardware-optimized deployment",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Ultrafast VISAR velocity field reconstruction via deep unfolding networks and hardware-optimized deployment"
+        },
+        "summary": "Publication date: June 2026Source: Optics and Lasers in Engineering, Volume 201Author(s): Miao Li, Chaorui Chen, Xi Wang, Xinru Zhang, Youwei Dai, Longwu Luo",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: June 2026</p><p><b>Source:</b> Optics and Lasers in Engineering, Volume 201</p><p>Author(s): Miao Li, Chaorui Chen, Xi Wang, Xinru Zhang, Youwei Dai, Longwu Luo</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0143816626000230?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0143816626000230",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0143816626000230",
+        "guidislink": false,
+        "journal": "Optics and Lasers in Engineering",
+        "title_cn": "通过深度展开网络和硬件优化部署进行超快 VISAR 速度场重建",
+        "abstract_cn": "Publication date: June 2026Source: Optics and Lasers in Engineering, Volume 201Author(s): Miao Li, Chaorui Chen, Xi Wang, Xinru Zhang, Youwei Dai, Longwu Luo"
+    },
+    {
+        "title": "3D light field display with enhanced reconstruction accuracy based on distortion- suppressed compound lens array and pre-correction encoded image",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "3D light field display with enhanced reconstruction accuracy based on distortion- suppressed compound lens array and pre-correction encoded image"
+        },
+        "summary": "Publication date: June 2026Source: Optics and Lasers in Engineering, Volume 201Author(s): Xudong Wen, Xin Gao, Yaohe Zheng, Ziyun Lu, Jinhong He, Hanyu Li, Ningchi Li, Boyang Liu, Binbin Yan, Xunbo Yu, Xinzhu Sang",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: June 2026</p><p><b>Source:</b> Optics and Lasers in Engineering, Volume 201</p><p>Author(s): Xudong Wen, Xin Gao, Yaohe Zheng, Ziyun Lu, Jinhong He, Hanyu Li, Ningchi Li, Boyang Liu, Binbin Yan, Xunbo Yu, Xinzhu Sang</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0143816626000308?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0143816626000308",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0143816626000308",
+        "guidislink": false,
+        "journal": "Optics and Lasers in Engineering",
+        "title_cn": "基于畸变抑制复合透镜阵列和预校正编码图像的增强重建精度的3D光场显示",
+        "abstract_cn": "Publication date: June 2026Source: Optics and Lasers in Engineering, Volume 201Author(s): Xudong Wen, Xin Gao, Yaohe Zheng, Ziyun Lu, Jinhong He, Hanyu Li, Ningchi Li, Boyang Liu, Binbin Yan, Xunbo Yu, Xinzhu Sang"
     }
 ]

@@ -1,3 +1,21 @@
+这需要一点小技巧。
+
+原理说明： 你目前使用的 GitHub contents API（获取文件列表）返回的数据里是不包含文件的具体修改时间（精确到分钟）的。它只有文件名和下载链接。
+
+为了获取精确到分钟的“最后修改时间”，我们需要在找到最新文件后，再发一次请求去查询这个文件的 Commit（提交）记录，那里才有精确的时间戳。
+
+以下是修改后的完整代码。我做了三处改动：
+
+CSS：增加显示时间的样式。
+
+HTML：在按钮下方、提示语上方加了一个用来显示时间的标签。
+
+JS：增加了获取 Commit 时间的逻辑，并自动转换为用户本地时间（比如北京时间）。
+
+你可以直接复制替换全文：
+
+HTML
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -37,9 +55,7 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            /* 🔴 修改这里：把原来的 200px 改为 280px 或者 300px */
             width: 280px; 
-            /* 🔴 新增一行：让文字如果有两行时，行间距不要太挤 */
             line-height: 1.5; 
         }
 
@@ -49,7 +65,6 @@
             font-size: 16px;
         }
 
-        /* 二维码图片样式 */
         .qr-code {
             width: 150px;
             height: 150px;
@@ -69,7 +84,7 @@
             transition: background-color 0.2s;
             box-shadow: 0 4px 6px rgba(46, 164, 79, 0.2);
             max-width: 90%;
-            word-break: break-all; /* 防止文件名太长撑破 */
+            word-break: break-all;
         }
 
         .download-btn:hover {
@@ -81,22 +96,30 @@
             cursor: wait;
         }
         
-        .tips {
+        /* === 新增：时间显示样式 === */
+        .update-time {
             margin-top: 15px;
+            font-size: 14px;
+            color: #0366d6; /* 用蓝色突出显示 */
+            font-weight: 500;
+        }
+
+        .tips {
+            margin-top: 5px; /* 稍微拉近一点和时间的距离 */
             font-size: 12px;
             color: #586069;
         }
 
-/* === 新增：注意事项区域样式 === */
+        /* === 注意事项区域样式 === */
         .tips-container {
             background: white;
             padding: 30px;
             border-radius: 10px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.1);
             max-width: 800px;
-            width: 90%; /* 手机端留出一点边距 */
-            margin-top: 50px; /* 与上方按钮拉开距离 */
-            text-align: left; /* 文字靠左排版更易读 */
+            width: 90%;
+            margin-top: 50px;
+            text-align: left;
         }
 
         .tips-container h2 {
@@ -105,7 +128,7 @@
             border-bottom: 2px solid #eee;
             padding-bottom: 10px;
             margin-bottom: 20px;
-            text-align: center; /* 标题居中 */
+            text-align: center;
         }
 
         .tip-item {
@@ -115,7 +138,7 @@
         .tip-title {
             font-weight: bold;
             font-size: 16px;
-            color: #0366d6; /* 使用蓝色强调重点 */
+            color: #0366d6;
             margin-bottom: 10px;
             display: block;
         }
@@ -127,34 +150,31 @@
             margin-bottom: 15px;
         }
 
-        /* 图片通用样式 */
         .tip-img {
             max-width: 100%;
             height: auto;
             border-radius: 6px;
-            border: 1px solid #e1e4e8; /* 给图片加个淡边框，更精致 */
+            border: 1px solid #e1e4e8;
             box-shadow: 0 2px 4px rgba(0,0,0,0.05);
             display: block;
-            margin: 0 auto; /* 图片居中 */
+            margin: 0 auto;
         }
 
-        /* 专门用于 remind2 和 remind3 的并排容器 */
         .img-row {
             display: flex;
-            gap: 15px; /* 图片之间的间距 */
-            flex-wrap: wrap; /* 手机不够宽时自动换行 */
+            gap: 15px;
+            flex-wrap: wrap;
             justify-content: center;
         }
         
         .img-row .tip-img {
-            /* 电脑上两张图各占一半宽度，手机上占满 */
             width: calc(50% - 10px); 
-            min-width: 280px; /* 防止图片缩得太小看不清 */
+            min-width: 280px;
         }
-    /* === 手机端适配：只把大标题改小 === */
+
         @media (max-width: 600px) {
             h1 {
-                font-size: 22px; /* 这里的数字越小，字越小 */
+                font-size: 22px;
             }
         }
     
@@ -184,6 +204,9 @@
     <a id="downloadBtn" href="#" class="download-btn loading">
         正在查找最新推送...
     </a>
+
+    <div id="fileTime" class="update-time">正在获取更新时间...</div>
+    
     <div class="tips">点击上方按钮直接下载最新 Word 文档</div>
 
 <div class="tips-container">
@@ -213,19 +236,19 @@
     </div>    
     
 <script>
-        // ================= 配置区域 (请修改这里) =================
+        // ================= 配置区域 =================
         const GITHUB_USERNAME = 'Fau1ks'; 
         const REPO_NAME = 'Optics-AI_Paper';       
-        // =======================================================
+        // ==========================================
 
-        const apiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
+        const contentApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
         const btn = document.getElementById('downloadBtn');
+        const timeDiv = document.getElementById('fileTime'); // 获取时间显示的元素
 
-        fetch(apiUrl)
+        fetch(contentApiUrl)
             .then(response => response.json())
             .then(data => {
-                // 1. 筛选文件：必须以 "Optical_Papers_" 开头，且以 ".docx" 结尾
-                // 这样可以防止误下载到其他无关的 Word 文档
+                // 1. 筛选文件
                 const wordFiles = data.filter(item => 
                     item.name.startsWith('Optical_Papers_') && 
                     (item.name.endsWith('.docx') || item.name.endsWith('.doc'))
@@ -234,32 +257,63 @@
                 if (wordFiles.length === 0) {
                     btn.innerText = "今日暂无推送";
                     btn.style.backgroundColor = "#666"; 
+                    timeDiv.style.display = 'none'; // 没文件就隐藏时间
                     return;
                 }
 
-                // 2. 排序：因为您的命名是 YYMMDD (年份在前)，直接按字符排序即可
-                // "Optical_Papers_260121" 会排在 "Optical_Papers_260120" 后面
+                // 2. 排序
                 wordFiles.sort((a, b) => {
                     return a.name.localeCompare(b.name);
                 });
 
-                // 3. 取出最后一个（也就是日期最大的那一个）
+                // 3. 取出最后一个
                 const latestFile = wordFiles[wordFiles.length - 1];
 
                 // 4. 更新按钮
-                // 这里的正则把文件名里的 Optical_Papers_ 去掉，只显示日期，按钮更简洁
-                // 显示效果例如：📄 下载最新推送：260121
                 const dateCode = latestFile.name.replace('Optical_Papers_', '').replace('.docx', '');
-                
                 btn.innerText = "📄 下载最新推送：" + dateCode; 
                 btn.href = latestFile.download_url; 
                 btn.classList.remove('loading'); 
                 btn.setAttribute("target", "_blank");
+
+                // === 🔥 新增：二次请求获取具体时间 ===
+                // 因为 contents API 不含时间，需要去 commits API 查这个文件的最后一次提交
+                const commitApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/commits?path=${latestFile.name}&page=1&per_page=1`;
+                
+                fetch(commitApiUrl)
+                    .then(res => res.json())
+                    .then(commits => {
+                        if (commits && commits.length > 0) {
+                            // GitHub 返回的是 UTC 时间 (例如 2023-10-27T10:00:00Z)
+                            const utcDateStr = commits[0].commit.committer.date;
+                            const dateObj = new Date(utcDateStr);
+                            
+                            // 转换为用户本地时间字符串 (例如: 2023/10/27 18:00)
+                            // 会自动适配北京时间
+                            const timeStr = dateObj.toLocaleString('zh-CN', { 
+                                year: 'numeric', 
+                                month: '2-digit', 
+                                day: '2-digit', 
+                                hour: '2-digit', 
+                                minute: '2-digit',
+                                hour12: false // 使用24小时制
+                            });
+                            
+                            timeDiv.innerText = "最后更新时间：" + timeStr;
+                        } else {
+                            timeDiv.innerText = "";
+                        }
+                    })
+                    .catch(e => {
+                        console.error("时间获取失败", e);
+                        timeDiv.innerText = ""; // 失败了就不显示，不影响下载
+                    });
             })
             .catch(error => {
                 console.error('Error:', error);
                 btn.innerText = "获取列表失败，请刷新";
                 btn.style.backgroundColor = "#d73a49";
+                timeDiv.style.display = 'none';
             });
     </script>
 </body>

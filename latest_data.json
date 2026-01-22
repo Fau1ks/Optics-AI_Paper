@@ -1,0 +1,4193 @@
+[
+    {
+        "id": "https://doi.org/10.1364/oe.585267",
+        "title": "A room temperature, 96×96 pixel 3D-stacked InGaAs/InP SPAD sensor with complementary gating for flash LiDAR",
+        "link": "https://doi.org/10.1364/oe.585267",
+        "published": "2026-01-20",
+        "author": "Halil Yildirim, Pascal Rustige, Ekin Kizilkan, Utku Karaca, Baris Efe, Pouyan Keshavarzian, Christoph Stölmacker, Claudio Bruschini, Patrick Runge, Edoardo Charbon",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.589629",
+        "title": "Spectroscopic polarimetric imaging of cholesteric liquid crystals and the influence of large diattenuation to the polar decomposition of Mueller matrix",
+        "link": "https://doi.org/10.1364/oe.589629",
+        "published": "2026-01-20",
+        "author": "Jiale Yang, Nan Wang, Jing Wang, Sailing He",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.582572",
+        "title": "Fiber-to-fiber gain in Nd-doped aluminium oxide waveguide amplifiers",
+        "link": "https://doi.org/10.1364/oe.582572",
+        "published": "2026-01-20",
+        "author": "Bjorn Jongebloed, Carlos Osornio Martinez, Kai wang, Meindert Dijkstra, Sonia Garcia-Blanco",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "掺钕氧化铝波导放大器中的光纤到光纤增益"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.580334",
+        "title": "Dual-frequency AMCW Concurrent Ranging and Velocimetry for LiDAR Imaging",
+        "link": "https://doi.org/10.1364/oe.580334",
+        "published": "2026-01-20",
+        "author": "Tingyu Chen, Baisong Chen, Yinan Wang, jian guan, Duoqiang Wang, Quanxin Na, Junfeng Song, xueyan li, Siyao Yu, Fengli Gao",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.582669",
+        "title": "High-Fidelity Image Transmission and Reconstruction through Multimode Fiber Using OAM modes and Deep Learning",
+        "link": "https://doi.org/10.1364/oe.582669",
+        "published": "2026-01-20",
+        "author": "Jiaqi Wang, Hu Zhang, Shengxi Zeng, He Wen, jun wang, Xiaoguang Zhang",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "利用 OAM 模式和深度学习通过多模光纤进行高保真图像传输和重建"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.587364",
+        "title": "Pulse Patterns Induced by Narrowband Filters in Self-Starting Erbium-doped Mamyshev Oscillators",
+        "link": "https://doi.org/10.1364/oe.587364",
+        "published": "2026-01-20",
+        "author": "Yingying Li, Bo Gao, Honglin Wen, Feihong Qiao, Qi Li, Luyao Zhou, Jiayu Huo, Ge Wu, Haijun Gu, lie liu",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.588211",
+        "title": "Weak RF signals detection based on all-optical multi-mode oscillation with high performance",
+        "link": "https://doi.org/10.1364/oe.588211",
+        "published": "2026-01-21",
+        "author": "xin zhang, Xiangming Xu, Huatao Zhu, Shuwen Chen, tong xu, Feiyu Li",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.586460",
+        "title": "Photonic Spectral Horizons for Spin–Orbit Conversion",
+        "link": "https://doi.org/10.1364/oe.586460",
+        "published": "2026-01-21",
+        "author": "Netzer Moriya",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.578618",
+        "title": "Telecommunication-wavelength lasing in a CMOS-compatible tilted-wave design",
+        "link": "https://doi.org/10.1364/oe.578618",
+        "published": "2026-01-21",
+        "author": "Kaixin Liu, Zhongyao Yan, Fengyang Ma, Qi Wang, Liang Yu, Zhuoran Guo, Ji Qiu, Xiang Wu, Jian Sun, Ming Lu",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "CMOS 兼容倾斜波设计中的电信波长激光发射"
+    },
+    {
+        "id": "http://arxiv.org/abs/2601.15281v1",
+        "guidislink": true,
+        "link": "https://arxiv.org/abs/2601.15281v1",
+        "title": "StableWorld: Towards Stable and Consistent Long Interactive Video Generation",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "StableWorld: Towards Stable and Consistent Long Interactive Video Generation"
+        },
+        "updated": "2026-01-21T18:59:02Z",
+        "updated_parsed": [
+            2026,
+            1,
+            21,
+            18,
+            59,
+            2,
+            2,
+            21,
+            0
+        ],
+        "links": [
+            {
+                "href": "https://arxiv.org/abs/2601.15281v1",
+                "rel": "alternate",
+                "type": "text/html"
+            },
+            {
+                "href": "https://arxiv.org/pdf/2601.15281v1",
+                "rel": "related",
+                "type": "application/pdf",
+                "title": "pdf"
+            }
+        ],
+        "summary": "In this paper, we explore the overlooked challenge of stability and temporal consistency in interactive video generation, which synthesizes dynamic and controllable video worlds through interactive behaviors such as camera movements and text prompts. Despite remarkable progress in world modeling, current methods still suffer from severe instability and temporal degradation, often leading to spatial drift and scene collapse during long-horizon interactions. To better understand this issue, we initially investigate the underlying causes of instability and identify that the major source of error accumulation originates from the same scene, where generated frames gradually deviate from the initial clean state and propagate errors to subsequent frames. Building upon this observation, we propose a simple yet effective method, \\textbf{StableWorld}, a Dynamic Frame Eviction Mechanism. By continuously filtering out degraded frames while retaining geometrically consistent ones, StableWorld effectively prevents cumulative drift at its source, leading to more stable and temporal consistency of interactive generation. Promising results on multiple interactive video models, \\eg, Matrix-Game, Open-Oasis, and Hunyuan-GameCraft, demonstrate that StableWorld is model-agnostic and can be applied to different interactive video generation frameworks to substantially improve stability, temporal consistency, and generalization across diverse interactive scenarios.",
+        "summary_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "In this paper, we explore the overlooked challenge of stability and temporal consistency in interactive video generation, which synthesizes dynamic and controllable video worlds through interactive behaviors such as camera movements and text prompts. Despite remarkable progress in world modeling, current methods still suffer from severe instability and temporal degradation, often leading to spatial drift and scene collapse during long-horizon interactions. To better understand this issue, we initially investigate the underlying causes of instability and identify that the major source of error accumulation originates from the same scene, where generated frames gradually deviate from the initial clean state and propagate errors to subsequent frames. Building upon this observation, we propose a simple yet effective method, \\textbf{StableWorld}, a Dynamic Frame Eviction Mechanism. By continuously filtering out degraded frames while retaining geometrically consistent ones, StableWorld effectively prevents cumulative drift at its source, leading to more stable and temporal consistency of interactive generation. Promising results on multiple interactive video models, \\eg, Matrix-Game, Open-Oasis, and Hunyuan-GameCraft, demonstrate that StableWorld is model-agnostic and can be applied to different interactive video generation frameworks to substantially improve stability, temporal consistency, and generalization across diverse interactive scenarios."
+        },
+        "tags": [
+            {
+                "term": "cs.CV",
+                "scheme": "http://arxiv.org/schemas/atom",
+                "label": null
+            }
+        ],
+        "published": "2026-01-21T18:59:02Z",
+        "published_parsed": [
+            2026,
+            1,
+            21,
+            18,
+            59,
+            2,
+            2,
+            21,
+            0
+        ],
+        "arxiv_comment": "17 pages, 21 figures,",
+        "arxiv_primary_category": {
+            "term": "cs.CV"
+        },
+        "authors": [
+            {
+                "name": "Ying Yang"
+            },
+            {
+                "name": "Zhengyao Lv"
+            },
+            {
+                "name": "Tianlin Pan"
+            },
+            {
+                "name": "Haofan Wang"
+            },
+            {
+                "name": "Binxin Yang"
+            },
+            {
+                "name": "Hubery Yin"
+            },
+            {
+                "name": "Chen Li"
+            },
+            {
+                "name": "Ziwei Liu"
+            },
+            {
+                "name": "Chenyang Si"
+            }
+        ],
+        "author_detail": {
+            "name": "Chenyang Si"
+        },
+        "author": "Chenyang Si",
+        "journal": "arXiv: AI & Vision (Optics)",
+        "title_cn": "StableWorld：迈向稳定一致的长互动视频生成"
+    },
+    {
+        "id": "http://arxiv.org/abs/2601.15283v1",
+        "guidislink": true,
+        "link": "https://arxiv.org/abs/2601.15283v1",
+        "title": "LuxRemix: Lighting Decomposition and Remixing for Indoor Scenes",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "LuxRemix: Lighting Decomposition and Remixing for Indoor Scenes"
+        },
+        "updated": "2026-01-21T18:59:22Z",
+        "updated_parsed": [
+            2026,
+            1,
+            21,
+            18,
+            59,
+            22,
+            2,
+            21,
+            0
+        ],
+        "links": [
+            {
+                "href": "https://arxiv.org/abs/2601.15283v1",
+                "rel": "alternate",
+                "type": "text/html"
+            },
+            {
+                "href": "https://arxiv.org/pdf/2601.15283v1",
+                "rel": "related",
+                "type": "application/pdf",
+                "title": "pdf"
+            }
+        ],
+        "summary": "We present a novel approach for interactive light editing in indoor scenes from a single multi-view scene capture. Our method leverages a generative image-based light decomposition model that factorizes complex indoor scene illumination into its constituent light sources. This factorization enables independent manipulation of individual light sources, specifically allowing control over their state (on/off), chromaticity, and intensity. We further introduce multi-view lighting harmonization to ensure consistent propagation of the lighting decomposition across all scene views. This is integrated into a relightable 3D Gaussian splatting representation, providing real-time interactive control over the individual light sources. Our results demonstrate highly photorealistic lighting decomposition and relighting outcomes across diverse indoor scenes. We evaluate our method on both synthetic and real-world datasets and provide a quantitative and qualitative comparison to state-of-the-art techniques. For video results and interactive demos, see https://luxremix.github.io.",
+        "summary_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "We present a novel approach for interactive light editing in indoor scenes from a single multi-view scene capture. Our method leverages a generative image-based light decomposition model that factorizes complex indoor scene illumination into its constituent light sources. This factorization enables independent manipulation of individual light sources, specifically allowing control over their state (on/off), chromaticity, and intensity. We further introduce multi-view lighting harmonization to ensure consistent propagation of the lighting decomposition across all scene views. This is integrated into a relightable 3D Gaussian splatting representation, providing real-time interactive control over the individual light sources. Our results demonstrate highly photorealistic lighting decomposition and relighting outcomes across diverse indoor scenes. We evaluate our method on both synthetic and real-world datasets and provide a quantitative and qualitative comparison to state-of-the-art techniques. For video results and interactive demos, see https://luxremix.github.io."
+        },
+        "tags": [
+            {
+                "term": "cs.CV",
+                "scheme": "http://arxiv.org/schemas/atom",
+                "label": null
+            },
+            {
+                "term": "cs.GR",
+                "scheme": "http://arxiv.org/schemas/atom",
+                "label": null
+            }
+        ],
+        "published": "2026-01-21T18:59:22Z",
+        "published_parsed": [
+            2026,
+            1,
+            21,
+            18,
+            59,
+            22,
+            2,
+            21,
+            0
+        ],
+        "arxiv_comment": "Project page: https://luxremix.github.io",
+        "arxiv_primary_category": {
+            "term": "cs.CV"
+        },
+        "authors": [
+            {
+                "name": "Ruofan Liang"
+            },
+            {
+                "name": "Norman Müller"
+            },
+            {
+                "name": "Ethan Weber"
+            },
+            {
+                "name": "Duncan Zauss"
+            },
+            {
+                "name": "Nandita Vijaykumar"
+            },
+            {
+                "name": "Peter Kontschieder"
+            },
+            {
+                "name": "Christian Richardt"
+            }
+        ],
+        "author_detail": {
+            "name": "Christian Richardt"
+        },
+        "author": "Christian Richardt",
+        "journal": "arXiv: AI & Vision (Optics)",
+        "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+        "id": "http://arxiv.org/abs/2601.15286v1",
+        "guidislink": true,
+        "link": "https://arxiv.org/abs/2601.15286v1",
+        "title": "Iterative Refinement Improves Compositional Image Generation",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Iterative Refinement Improves Compositional Image Generation"
+        },
+        "updated": "2026-01-21T18:59:40Z",
+        "updated_parsed": [
+            2026,
+            1,
+            21,
+            18,
+            59,
+            40,
+            2,
+            21,
+            0
+        ],
+        "links": [
+            {
+                "href": "https://arxiv.org/abs/2601.15286v1",
+                "rel": "alternate",
+                "type": "text/html"
+            },
+            {
+                "href": "https://arxiv.org/pdf/2601.15286v1",
+                "rel": "related",
+                "type": "application/pdf",
+                "title": "pdf"
+            }
+        ],
+        "summary": "Text-to-image (T2I) models have achieved remarkable progress, yet they continue to struggle with complex prompts that require simultaneously handling multiple objects, relations, and attributes. Existing inference-time strategies, such as parallel sampling with verifiers or simply increasing denoising steps, can improve prompt alignment but remain inadequate for richly compositional settings where many constraints must be satisfied. Inspired by the success of chain-of-thought reasoning in large language models, we propose an iterative test-time strategy in which a T2I model progressively refines its generations across multiple steps, guided by feedback from a vision-language model as the critic in the loop. Our approach is simple, requires no external tools or priors, and can be flexibly applied to a wide range of image generators and vision-language models. Empirically, we demonstrate consistent gains on image generation across benchmarks: a 16.9% improvement in all-correct rate on ConceptMix (k=7), a 13.8% improvement on T2I-CompBench (3D-Spatial category) and a 12.5% improvement on Visual Jenga scene decomposition compared to compute-matched parallel sampling. Beyond quantitative gains, iterative refinement produces more faithful generations by decomposing complex prompts into sequential corrections, with human evaluators preferring our method 58.7% of the time over 41.3% for the parallel baseline. Together, these findings highlight iterative self-correction as a broadly applicable principle for compositional image generation. Results and visualizations are available at https://iterative-img-gen.github.io/",
+        "summary_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Text-to-image (T2I) models have achieved remarkable progress, yet they continue to struggle with complex prompts that require simultaneously handling multiple objects, relations, and attributes. Existing inference-time strategies, such as parallel sampling with verifiers or simply increasing denoising steps, can improve prompt alignment but remain inadequate for richly compositional settings where many constraints must be satisfied. Inspired by the success of chain-of-thought reasoning in large language models, we propose an iterative test-time strategy in which a T2I model progressively refines its generations across multiple steps, guided by feedback from a vision-language model as the critic in the loop. Our approach is simple, requires no external tools or priors, and can be flexibly applied to a wide range of image generators and vision-language models. Empirically, we demonstrate consistent gains on image generation across benchmarks: a 16.9% improvement in all-correct rate on ConceptMix (k=7), a 13.8% improvement on T2I-CompBench (3D-Spatial category) and a 12.5% improvement on Visual Jenga scene decomposition compared to compute-matched parallel sampling. Beyond quantitative gains, iterative refinement produces more faithful generations by decomposing complex prompts into sequential corrections, with human evaluators preferring our method 58.7% of the time over 41.3% for the parallel baseline. Together, these findings highlight iterative self-correction as a broadly applicable principle for compositional image generation. Results and visualizations are available at https://iterative-img-gen.github.io/"
+        },
+        "tags": [
+            {
+                "term": "cs.CV",
+                "scheme": "http://arxiv.org/schemas/atom",
+                "label": null
+            },
+            {
+                "term": "cs.AI",
+                "scheme": "http://arxiv.org/schemas/atom",
+                "label": null
+            },
+            {
+                "term": "cs.LG",
+                "scheme": "http://arxiv.org/schemas/atom",
+                "label": null
+            },
+            {
+                "term": "cs.RO",
+                "scheme": "http://arxiv.org/schemas/atom",
+                "label": null
+            }
+        ],
+        "published": "2026-01-21T18:59:40Z",
+        "published_parsed": [
+            2026,
+            1,
+            21,
+            18,
+            59,
+            40,
+            2,
+            21,
+            0
+        ],
+        "arxiv_comment": "Project webpage: https://iterative-img-gen.github.io/",
+        "arxiv_primary_category": {
+            "term": "cs.CV"
+        },
+        "authors": [
+            {
+                "name": "Shantanu Jaiswal"
+            },
+            {
+                "name": "Mihir Prabhudesai"
+            },
+            {
+                "name": "Nikash Bhardwaj"
+            },
+            {
+                "name": "Zheyang Qin"
+            },
+            {
+                "name": "Amir Zadeh"
+            },
+            {
+                "name": "Chuan Li"
+            },
+            {
+                "name": "Katerina Fragkiadaki"
+            },
+            {
+                "name": "Deepak Pathak"
+            }
+        ],
+        "author_detail": {
+            "name": "Deepak Pathak"
+        },
+        "author": "Deepak Pathak",
+        "journal": "arXiv: AI & Vision (Optics)",
+        "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+        "id": "http://arxiv.org/abs/2601.15288v1",
+        "guidislink": true,
+        "link": "https://arxiv.org/abs/2601.15288v1",
+        "title": "APPLE: Attribute-Preserving Pseudo-Labeling for Diffusion-Based Face Swapping",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "APPLE: Attribute-Preserving Pseudo-Labeling for Diffusion-Based Face Swapping"
+        },
+        "updated": "2026-01-21T18:59:55Z",
+        "updated_parsed": [
+            2026,
+            1,
+            21,
+            18,
+            59,
+            55,
+            2,
+            21,
+            0
+        ],
+        "links": [
+            {
+                "href": "https://arxiv.org/abs/2601.15288v1",
+                "rel": "alternate",
+                "type": "text/html"
+            },
+            {
+                "href": "https://arxiv.org/pdf/2601.15288v1",
+                "rel": "related",
+                "type": "application/pdf",
+                "title": "pdf"
+            }
+        ],
+        "summary": "Face swapping aims to transfer the identity of a source face onto a target face while preserving target-specific attributes such as pose, expression, lighting, skin tone, and makeup. However, since real ground truth for face swapping is unavailable, achieving both accurate identity transfer and high-quality attribute preservation remains challenging. In addition, recent diffusion-based approaches attempt to improve visual fidelity through conditional inpainting on masked target images, but the masked condition removes crucial appearance cues of target, resulting in plausible yet misaligned attributes. To address these limitations, we propose APPLE (Attribute-Preserving Pseudo-Labeling), a diffusion-based teacher-student framework that enhances attribute fidelity through attribute-aware pseudo-label supervision. We reformulate face swapping as a conditional deblurring task to more faithfully preserve target-specific attributes such as lighting, skin tone, and makeup. In addition, we introduce an attribute-aware inversion scheme to further improve detailed attribute preservation. Through an elaborate attribute-preserving design for teacher learning, APPLE produces high-quality pseudo triplets that explicitly provide the student with direct face-swapping supervision. Overall, APPLE achieves state-of-the-art performance in terms of attribute preservation and identity transfer, producing more photorealistic and target-faithful results.",
+        "summary_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Face swapping aims to transfer the identity of a source face onto a target face while preserving target-specific attributes such as pose, expression, lighting, skin tone, and makeup. However, since real ground truth for face swapping is unavailable, achieving both accurate identity transfer and high-quality attribute preservation remains challenging. In addition, recent diffusion-based approaches attempt to improve visual fidelity through conditional inpainting on masked target images, but the masked condition removes crucial appearance cues of target, resulting in plausible yet misaligned attributes. To address these limitations, we propose APPLE (Attribute-Preserving Pseudo-Labeling), a diffusion-based teacher-student framework that enhances attribute fidelity through attribute-aware pseudo-label supervision. We reformulate face swapping as a conditional deblurring task to more faithfully preserve target-specific attributes such as lighting, skin tone, and makeup. In addition, we introduce an attribute-aware inversion scheme to further improve detailed attribute preservation. Through an elaborate attribute-preserving design for teacher learning, APPLE produces high-quality pseudo triplets that explicitly provide the student with direct face-swapping supervision. Overall, APPLE achieves state-of-the-art performance in terms of attribute preservation and identity transfer, producing more photorealistic and target-faithful results."
+        },
+        "tags": [
+            {
+                "term": "cs.CV",
+                "scheme": "http://arxiv.org/schemas/atom",
+                "label": null
+            }
+        ],
+        "published": "2026-01-21T18:59:55Z",
+        "published_parsed": [
+            2026,
+            1,
+            21,
+            18,
+            59,
+            55,
+            2,
+            21,
+            0
+        ],
+        "arxiv_comment": "Project Page: https://cvlab-kaist.github.io/APPLE/",
+        "arxiv_primary_category": {
+            "term": "cs.CV"
+        },
+        "authors": [
+            {
+                "name": "Jiwon Kang"
+            },
+            {
+                "name": "Yeji Choi"
+            },
+            {
+                "name": "JoungBin Lee"
+            },
+            {
+                "name": "Wooseok Jang"
+            },
+            {
+                "name": "Jinhyeok Choi"
+            },
+            {
+                "name": "Taekeun Kang"
+            },
+            {
+                "name": "Yongjae Park"
+            },
+            {
+                "name": "Myungin Kim"
+            },
+            {
+                "name": "Seungryong Kim"
+            }
+        ],
+        "author_detail": {
+            "name": "Seungryong Kim"
+        },
+        "author": "Seungryong Kim",
+        "journal": "arXiv: AI & Vision (Optics)",
+        "title_cn": "APPLE：基于扩散的面部交换的属性保留伪标签"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502319?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/lpor.202502319",
+        "published": "Tue, 20 Jan 2026 06:14:54 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            20,
+            14,
+            14,
+            54,
+            1,
+            20,
+            0
+        ],
+        "updated": "2026-01-20T06:14:54-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            20,
+            14,
+            14,
+            54,
+            1,
+            20,
+            0
+        ],
+        "source": {
+            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
+            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
+        },
+        "prism_coverdate": "",
+        "prism_coverdisplaydate": "",
+        "id": "https://doi.org/10.1002/lpor.202502319",
+        "guidislink": false,
+        "title": "Integrated Photonics‐Assisted THz Beamformer for Fast Beam Squint‐Free Steering and Wireless Communication",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Integrated Photonics‐Assisted THz Beamformer for Fast Beam Squint‐Free Steering and Wireless Communication"
+        },
+        "summary": "Laser &amp;Photonics Reviews, EarlyView.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Laser &amp;Photonics Reviews, EarlyView."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "We demonstrate an integrated photonics‐assisted THz beamformer enabling broadband, beam‐squint‐free beam steering in the D‐band, achieving beam steering with a total beam switching time of 120 ns, and a maximum angle of ±20.19°, and wireless transmission of a line rate of 100 Gb/s. This work offers a viable pathway for dynamic beam management in future 6G systems.\n\n\n\n\n\n\n\n\nABSTRACT\nPhotonic‐assisted terahertz (THz) wireless communication is a promising solution for future high‐capacity wireless networks. However, the low output power and severe propagation loss of THz waves limit transmission distance. To overcome these challenges and support dynamic multi‐user connectivity, we demonstrate an integrated photonics‐assisted THz beamformer enabling broadband, beam‐squint‐free beam steering in the D‐band, based on silicon four‐channel tunable optical true‐time delay lines (OTTDLs). Each OTTDL combines an 8‐bit switchable delay and a continuously tunable delay unit, achieving a total continuous delay range of 0–394.24 ps. By providing true time delays, the proposed beamformer maintains a consistent beam direction across a wide operating bandwidth, thereby fundamentally eliminating beam squint. Leveraging this chip and a 1 × 4 dielectric rod antenna array, we achieve beam steering with a total beam switching time of 120 ns and a maximum angle of ±20.19°. We demonstrate wireless transmission with a line rate of 100 Gb/s at two distinct angles. To the best of our knowledge, this is the first integrated THz beamforming system that realizes broadband, beam‐squint‐free operation using OTTDLs. This work represents a significant step toward scalable, low‐latency, and high‐speed THz wireless networks, offering a viable pathway for dynamic beam management in future 6G systems."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"Integrated Photonics-Assisted THz Beamformer for Fast Beam Squint-Free Steering and Wireless Communication\" src=\"https://onlinelibrary.wiley.com/cms/asset/076033d0-bf15-4f18-9d49-4b3ff3ccea70/lpor70915-gra-0001-m.png\" />\n<p>We demonstrate an integrated photonics-assisted THz beamformer enabling broadband, beam-squint-free beam steering in the D-band, achieving beam steering with a total beam switching time of 120 ns, and a maximum angle of ±20.19°, and wireless transmission of a line rate of 100 Gb/s. This work offers a viable pathway for dynamic beam management in future 6G systems.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>Photonic-assisted terahertz (THz) wireless communication is a promising solution for future high-capacity wireless networks. However, the low output power and severe propagation loss of THz waves limit transmission distance. To overcome these challenges and support dynamic multi-user connectivity, we demonstrate an integrated photonics-assisted THz beamformer enabling broadband, beam-squint-free beam steering in the D-band, based on silicon four-channel tunable optical true-time delay lines (OTTDLs). Each OTTDL combines an 8-bit switchable delay and a continuously tunable delay unit, achieving a total continuous delay range of 0–394.24 ps. By providing true time delays, the proposed beamformer maintains a consistent beam direction across a wide operating bandwidth, thereby fundamentally eliminating beam squint. Leveraging this chip and a 1 × 4 dielectric rod antenna array, we achieve beam steering with a total beam switching time of 120 ns and a maximum angle of ±20.19°. We demonstrate wireless transmission with a line rate of 100 Gb/s at two distinct angles. To the best of our knowledge, this is the first integrated THz beamforming system that realizes broadband, beam-squint-free operation using OTTDLs. This work represents a significant step toward scalable, low-latency, and high-speed THz wireless networks, offering a viable pathway for dynamic beam management in future 6G systems.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Ziheng Ni, \nFan Yang, \nHao Jiang, \nLiangjun Lu, \nTingxuan Hu, \nZhuoyue Wen, \nYuqian Tang, \nMo Li, \nJian Zhang, \nYu Li, \nYuyao Guo, \nJianping Chen, \nLinjie Zhou"
+            }
+        ],
+        "author": "Ziheng Ni, \nFan Yang, \nHao Jiang, \nLiangjun Lu, \nTingxuan Hu, \nZhuoyue Wen, \nYuqian Tang, \nMo Li, \nJian Zhang, \nYu Li, \nYuyao Guo, \nJianping Chen, \nLinjie Zhou",
+        "author_detail": {
+            "name": "Ziheng Ni, \nFan Yang, \nHao Jiang, \nLiangjun Lu, \nTingxuan Hu, \nZhuoyue Wen, \nYuqian Tang, \nMo Li, \nJian Zhang, \nYu Li, \nYuyao Guo, \nJianping Chen, \nLinjie Zhou"
+        },
+        "tags": [
+            {
+                "term": "RESEARCH ARTICLE",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/lpor.202502319",
+        "prism_publicationname": "Laser & Photonics Reviews",
+        "prism_doi": "10.1002/lpor.202502319",
+        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502319?af=R",
+        "prism_section": "RESEARCH ARTICLE",
+        "journal": "Laser & Photonics Reviews",
+        "title_cn": "用于快速光束无斜视转向和无线通信的集成光子学辅助太赫兹波束形成器"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502608?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/lpor.202502608",
+        "published": "Tue, 20 Jan 2026 06:16:37 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            20,
+            14,
+            16,
+            37,
+            1,
+            20,
+            0
+        ],
+        "updated": "2026-01-20T06:16:37-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            20,
+            14,
+            16,
+            37,
+            1,
+            20,
+            0
+        ],
+        "source": {
+            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
+            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
+        },
+        "prism_coverdate": "",
+        "prism_coverdisplaydate": "",
+        "id": "https://doi.org/10.1002/lpor.202502608",
+        "guidislink": false,
+        "title": "Meta‐Training of Diffractive Meta‐Neural Networks for Super‐Resolution Direction of Arrival Estimation",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Meta‐Training of Diffractive Meta‐Neural Networks for Super‐Resolution Direction of Arrival Estimation"
+        },
+        "summary": "Laser &amp;Photonics Reviews, EarlyView.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Laser &amp;Photonics Reviews, EarlyView."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "This work presents diffractive meta‐neural networks (DMNNs) that integrate multidimensional metasurface modulation, spectral‐polarization multiplexing, and meta‐training for high‐capacity super‐resolution angular sensing. A three‐layer DMNN operating at 27, 29, and 31 GHz across x and y polarizations with lightweight electronic neural networks achieve 7×$\\times$ diffraction‐limited resolution, wide‐field dual‐angle estimation, and an order‐of‐magnitude higher angular estimation capacity, advancing high‐throughput super‐resolution photonic computing.\n\n\n\n\n\n\n\n\nABSTRACT\nDiffractive neural networks leverage the high‐dimensional characteristics of electromagnetic (EM) fields for high‐throughput computing. However, existing architectures face challenges in integrating large‐scale multidimensional metasurfaces into precise network training and haven't utilized multidimensional EM field coding schemes for super‐resolution sensing. Here, diffractive meta‐neural networks (DMNNs) are proposed for accurate EM field modulation through metasurfaces, which enable multidimensional multiplexing and coding for multi‐task learning and high‐throughput super‐resolution direction of arrival estimation. DMNN integrates pre‐trained mini‐metanets to characterize meta‐atom optical modulations across polarizations and frequencies, with structure parameters designed using meta‐training. DMNN simultaneously resolves azimuthal and elevational angles through x and y‐polarizations, while the interleaving of frequency‐multiplexed angular intervals generate spectral‐encoded super‐oscillatory angular responses to achieve wide‐field super‐resolution estimation. Post‐processing lightweight fully‐connected neural networks further enhance the performance. Experimental results validate that a three‐layer DMNN operating at 27, 29, and 31 GHz achieves 0.5∘$^\\circ$ angular resolution, i.e., ∼7×$\\sim 7\\times$ the Rayleigh diffraction limit, a mean absolute error of 0.048∘$^\\circ$ for incoherent targets within ±11.5∘$\\pm 11.5^\\circ$, and an angular estimation capacity of ∼$\\sim$1917, an order of magnitude higher than that of existing methods. Our work advances super‐resolution photonic computing systems by utilizing inherent high‐parallelism and all‐optical coding methods for next‐generation sensing applications."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"Meta-Training of Diffractive Meta-Neural Networks for Super-Resolution Direction of Arrival Estimation\" src=\"https://onlinelibrary.wiley.com/cms/asset/c8f4a1ff-bfea-4592-a006-25f586eb1311/lpor70889-gra-0001-m.png\" />\n<p>This work presents diffractive meta-neural networks (DMNNs) that integrate multidimensional metasurface modulation, spectral-polarization multiplexing, and meta-training for high-capacity super-resolution angular sensing. A three-layer DMNN operating at 27, 29, and 31 GHz across x and y polarizations with lightweight electronic neural networks achieve 7×$\\times$ diffraction-limited resolution, wide-field dual-angle estimation, and an order-of-magnitude higher angular estimation capacity, advancing high-throughput super-resolution photonic computing.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>Diffractive neural networks leverage the high-dimensional characteristics of electromagnetic (EM) fields for high-throughput computing. However, existing architectures face challenges in integrating large-scale multidimensional metasurfaces into precise network training and haven't utilized multidimensional EM field coding schemes for super-resolution sensing. Here, diffractive meta-neural networks (DMNNs) are proposed for accurate EM field modulation through metasurfaces, which enable multidimensional multiplexing and coding for multi-task learning and high-throughput super-resolution direction of arrival estimation. DMNN integrates pre-trained mini-metanets to characterize meta-atom optical modulations across polarizations and frequencies, with structure parameters designed using meta-training. DMNN simultaneously resolves azimuthal and elevational angles through x and y-polarizations, while the interleaving of frequency-multiplexed angular intervals generate spectral-encoded super-oscillatory angular responses to achieve wide-field super-resolution estimation. Post-processing lightweight fully-connected neural networks further enhance the performance. Experimental results validate that a three-layer DMNN operating at 27, 29, and 31 GHz achieves 0.5∘$^\\circ$ angular resolution, i.e., ∼7×$\\sim 7\\times$ the Rayleigh diffraction limit, a mean absolute error of 0.048∘$^\\circ$ for incoherent targets within ±11.5∘$\\pm 11.5^\\circ$, and an angular estimation capacity of ∼$\\sim$1917, an order of magnitude higher than that of existing methods. Our work advances super-resolution photonic computing systems by utilizing inherent high-parallelism and all-optical coding methods for next-generation sensing applications.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Songtao Yang, \nSheng Gao, \nChu Wu, \nZejia Zhao, \nHaiou Zhang, \nXing Lin"
+            }
+        ],
+        "author": "Songtao Yang, \nSheng Gao, \nChu Wu, \nZejia Zhao, \nHaiou Zhang, \nXing Lin",
+        "author_detail": {
+            "name": "Songtao Yang, \nSheng Gao, \nChu Wu, \nZejia Zhao, \nHaiou Zhang, \nXing Lin"
+        },
+        "tags": [
+            {
+                "term": "RESEARCH ARTICLE",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/lpor.202502608",
+        "prism_publicationname": "Laser & Photonics Reviews",
+        "prism_doi": "10.1002/lpor.202502608",
+        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502608?af=R",
+        "prism_section": "RESEARCH ARTICLE",
+        "journal": "Laser & Photonics Reviews",
+        "title_cn": "用于超分辨率到达估计方向的衍射元神经网络元训练"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202503247?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/lpor.202503247",
+        "published": "Tue, 20 Jan 2026 06:23:41 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            20,
+            14,
+            23,
+            41,
+            1,
+            20,
+            0
+        ],
+        "updated": "2026-01-20T06:23:41-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            20,
+            14,
+            23,
+            41,
+            1,
+            20,
+            0
+        ],
+        "source": {
+            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
+            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
+        },
+        "prism_coverdate": "",
+        "prism_coverdisplaydate": "",
+        "id": "https://doi.org/10.1002/lpor.202503247",
+        "guidislink": false,
+        "title": "Chiral‐Symmetric Zero‐Dimensional Organic Metal Halides: Temperature‐Independent Circularly Polarized Luminescence and Their Excitonic Dynamics",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Chiral‐Symmetric Zero‐Dimensional Organic Metal Halides: Temperature‐Independent Circularly Polarized Luminescence and Their Excitonic Dynamics"
+        },
+        "summary": "Laser &amp;Photonics Reviews, EarlyView.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Laser &amp;Photonics Reviews, EarlyView."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "The optical activity of these chiral compounds can be tuned by substituting the central ion; although these compounds exhibit both thermal expansion and negative thermal expansion, their polarized luminescence remains temperature‐independent.\n\n\n\n\n\n\n\n\nABSTRACT\nCircularly polarized luminescence (CPL) has become a cornerstone in the study of fluorescent materials, offering transformative potential for applications such as autostereoscopic 3D displays, optical information storage and processing, biological encoding and sensing, and anti‐counterfeiting technologies. In this work, two sets of chiral‐symmetric, low‐dimensional organometallic halides were synthesized through a self‐assembly process, resulting in unique 0D molecular architectures. These materials exhibit exceptional optical activity, particularly in chiral luminescence, which can be finely tuned by substituting Cu+ with Ag+. A striking feature is their temperature‐dependent behavior: across a range of 80–350 K, the materials display both thermal expansion and negative thermal expansion, accompanied by anomalous luminescence variations driven by changes in excitonic dynamics. Remarkably, temperature‐dependent single‐crystal analyses reveal negligible structural changes, suggesting that the observed luminescent shifts primarily stem from exciton recombination processes. Furthermore, the luminescence dissymmetry factor (glum) remains stable across this temperature range, highlighting its structural origin and affirming the materials’ robustness in thermally variable environments. These findings deepen the understanding of chiral luminescent materials and enhance their potential for advanced optical applications, particularly in designing temperature‐resilient systems for cutting‐edge technologies."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"Chiral-Symmetric Zero-Dimensional Organic Metal Halides: Temperature-Independent Circularly Polarized Luminescence and Their Excitonic Dynamics\" src=\"https://onlinelibrary.wiley.com/cms/asset/15a5e600-7d29-4198-afd5-8b6934f90cc3/lpor70905-gra-0001-m.png\" />\n<p>The optical activity of these chiral compounds can be tuned by substituting the central ion; although these compounds exhibit both thermal expansion and negative thermal expansion, their polarized luminescence remains temperature-independent.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>Circularly polarized luminescence (CPL) has become a cornerstone in the study of fluorescent materials, offering transformative potential for applications such as autostereoscopic 3D displays, optical information storage and processing, biological encoding and sensing, and anti-counterfeiting technologies. In this work, two sets of chiral-symmetric, low-dimensional organometallic halides were synthesized through a self-assembly process, resulting in unique 0D molecular architectures. These materials exhibit exceptional optical activity, particularly in chiral luminescence, which can be finely tuned by substituting Cu<sup>+</sup> with Ag<sup>+</sup>. A striking feature is their temperature-dependent behavior: across a range of 80–350 K, the materials display both thermal expansion and negative thermal expansion, accompanied by anomalous luminescence variations driven by changes in excitonic dynamics. Remarkably, temperature-dependent single-crystal analyses reveal negligible structural changes, suggesting that the observed luminescent shifts primarily stem from exciton recombination processes. Furthermore, the luminescence dissymmetry factor (<i>g</i>\n<sub>lum</sub>) remains stable across this temperature range, highlighting its structural origin and affirming the materials’ robustness in thermally variable environments. These findings deepen the understanding of chiral luminescent materials and enhance their potential for advanced optical applications, particularly in designing temperature-resilient systems for cutting-edge technologies.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Si‐Fan Lu, \nJian Lu, \nMeng‐Na Jing, \nAi‐Ping Jin, \nZhi‐Liang Meng, \nFa‐Kun Zheng, \nGuo‐Cong Guo"
+            }
+        ],
+        "author": "Si‐Fan Lu, \nJian Lu, \nMeng‐Na Jing, \nAi‐Ping Jin, \nZhi‐Liang Meng, \nFa‐Kun Zheng, \nGuo‐Cong Guo",
+        "author_detail": {
+            "name": "Si‐Fan Lu, \nJian Lu, \nMeng‐Na Jing, \nAi‐Ping Jin, \nZhi‐Liang Meng, \nFa‐Kun Zheng, \nGuo‐Cong Guo"
+        },
+        "tags": [
+            {
+                "term": "RESEARCH ARTICLE",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/lpor.202503247",
+        "prism_publicationname": "Laser & Photonics Reviews",
+        "prism_doi": "10.1002/lpor.202503247",
+        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202503247?af=R",
+        "prism_section": "RESEARCH ARTICLE",
+        "journal": "Laser & Photonics Reviews",
+        "title_cn": "手性对称零维有机金属卤化物：温度无关的圆偏振发光及其激子动力学"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-026-02190-z",
+        "title": "Detection and imaging of chemicals and hidden explosives using terahertz time-domain spectroscopy and deep learning",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Detection and imaging of chemicals and hidden explosives using terahertz time-domain spectroscopy and deep learning"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-026-02190-z"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-026-02190-z",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41377-026-02190-z\">doi:10.1038/s41377-026-02190-z</a></p>Detection and imaging of chemicals and hidden explosives using terahertz time-domain spectroscopy and deep learning"
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 22 January 2026; doi:10.1038/s41377-026-02190-zDetection and imaging of chemicals and hidden explosives using terahertz time-domain spectroscopy and deep learning",
+        "authors": [
+            {
+                "name": "Xinghe Jiang"
+            },
+            {
+                "name": "Yuhang Li"
+            },
+            {
+                "name": "Yuzhu Li"
+            },
+            {
+                "name": "Che-Yung Shen"
+            },
+            {
+                "name": "Aydogan Ozcan"
+            },
+            {
+                "name": "Mona Jarrahi"
+            }
+        ],
+        "author": "Mona Jarrahi",
+        "author_detail": {
+            "name": "Xinghe Jiang"
+        },
+        "dc_identifier": "doi:10.1038/s41377-026-02190-z",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-22; | doi:10.1038/s41377-026-02190-z",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-026-02190-z",
+        "prism_url": "https://www.nature.com/articles/s41377-026-02190-z",
+        "journal": "Light: Science & Applications",
+        "title_cn": "使用太赫兹时域光谱和深度学习对化学品和隐藏爆炸物进行检测和成像"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02169-2",
+        "title": "Dispersion engineering by rotational symmetry breaking in an optical microcavity",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Dispersion engineering by rotational symmetry breaking in an optical microcavity"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02169-2"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02169-2",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02169-2\">doi:10.1038/s41377-025-02169-2</a></p>Dispersion engineering by rotational symmetry breaking in an optical microcavity"
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 22 January 2026; doi:10.1038/s41377-025-02169-2Dispersion engineering by rotational symmetry breaking in an optical microcavity",
+        "authors": [
+            {
+                "name": "Jian-Zheng Ren"
+            },
+            {
+                "name": "Li-Jie Li"
+            },
+            {
+                "name": "Rui-Qi Zhang"
+            },
+            {
+                "name": "Zhi-Yan Wang"
+            },
+            {
+                "name": "Qi-Tao Cao"
+            },
+            {
+                "name": "Yun-Feng Xiao"
+            }
+        ],
+        "author": "Yun-Feng Xiao",
+        "author_detail": {
+            "name": "Jian-Zheng Ren"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02169-2",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-22; | doi:10.1038/s41377-025-02169-2",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02169-2",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02169-2",
+        "journal": "Light: Science & Applications",
+        "title_cn": "光学微腔中旋转对称破缺的色散工程"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02057-9",
+        "title": "Soft X-ray imaging with coherence tomography in the water window spectral range using high-harmonic generation",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Soft X-ray imaging with coherence tomography in the water window spectral range using high-harmonic generation"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02057-9"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02057-9",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02057-9\">doi:10.1038/s41377-025-02057-9</a></p>Water window imaging with high-harmonic generation is achieved using soft X-ray coherence tomography (SXCT), revealing the cross-sectional structure of buried nanolayers with 12 nm axial resolution."
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 22 January 2026; doi:10.1038/s41377-025-02057-9Water window imaging with high-harmonic generation is achieved using soft X-ray coherence tomography (SXCT), revealing the cross-sectional structure of buried nanolayers with 12 nm axial resolution.",
+        "authors": [
+            {
+                "name": "Julius Reinhard"
+            },
+            {
+                "name": "Felix Wiesner"
+            },
+            {
+                "name": "Martin Hennecke"
+            },
+            {
+                "name": "Themistoklis Sidiropoulos"
+            },
+            {
+                "name": "Sophia Kaleta"
+            },
+            {
+                "name": "Julian Späthe"
+            },
+            {
+                "name": "Johann Jakob Abel"
+            },
+            {
+                "name": "Martin Wünsche"
+            },
+            {
+                "name": "Gabriele Schmidl"
+            },
+            {
+                "name": "Jonathan Plentz"
+            },
+            {
+                "name": "Uwe Hübner"
+            },
+            {
+                "name": "Katharina Freiberg"
+            },
+            {
+                "name": "Jonathan Apell"
+            },
+            {
+                "name": "Stephanie Lippmann"
+            },
+            {
+                "name": "Matthias Schnürer"
+            },
+            {
+                "name": "Stefan Eisebitt"
+            },
+            {
+                "name": "Gerhard G. Paulus"
+            },
+            {
+                "name": "Silvio Fuchs"
+            }
+        ],
+        "author": "Silvio Fuchs",
+        "author_detail": {
+            "name": "Julius Reinhard"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02057-9",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-22; | doi:10.1038/s41377-025-02057-9",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02057-9",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02057-9",
+        "journal": "Light: Science & Applications",
+        "title_cn": "使用高次谐波发生在水窗光谱范围内进行相干断层扫描的软 X 射线成像"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02109-0",
+        "title": "Experimental demonstration of spatiotemporal analog computation in ultrafast optics",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Experimental demonstration of spatiotemporal analog computation in ultrafast optics"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02109-0"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02109-0",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02109-0\">doi:10.1038/s41377-025-02109-0</a></p>Experimental demonstration of spatiotemporal analog computation in ultrafast optics"
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 22 January 2026; doi:10.1038/s41377-025-02109-0Experimental demonstration of spatiotemporal analog computation in ultrafast optics",
+        "authors": [
+            {
+                "name": "Junyi Huang"
+            },
+            {
+                "name": "Dong Zhao"
+            },
+            {
+                "name": "Jixuan Shi"
+            },
+            {
+                "name": "Hongliang Zhang"
+            },
+            {
+                "name": "Hengyi Wang"
+            },
+            {
+                "name": "Fang-Wen Sun"
+            },
+            {
+                "name": "Qiwen Zhan"
+            },
+            {
+                "name": "Shiyao Zhu"
+            },
+            {
+                "name": "Kun Huang"
+            },
+            {
+                "name": "Zhichao Ruan"
+            }
+        ],
+        "author": "Zhichao Ruan",
+        "author_detail": {
+            "name": "Junyi Huang"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02109-0",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-22; | doi:10.1038/s41377-025-02109-0",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02109-0",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02109-0",
+        "journal": "Light: Science & Applications",
+        "title_cn": "超快光学时空模拟计算的实验演示"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02102-7",
+        "title": "Generation of vectorial generalized vortex array with metasurfaces",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Generation of vectorial generalized vortex array with metasurfaces"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02102-7"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02102-7",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02102-7\">doi:10.1038/s41377-025-02102-7</a></p>Generation of vectorial generalized vortex array with metasurfaces"
+            }
+        ],
+        "summary": "Light: Science &amp; Applications, Published online: 22 January 2026; doi:10.1038/s41377-025-02102-7Generation of vectorial generalized vortex array with metasurfaces",
+        "authors": [
+            {
+                "name": "Qingsong Yao"
+            },
+            {
+                "name": "Zile Li"
+            },
+            {
+                "name": "Guoxing Zheng"
+            }
+        ],
+        "author": "Guoxing Zheng",
+        "author_detail": {
+            "name": "Qingsong Yao"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02102-7",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-22; | doi:10.1038/s41377-025-02102-7",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02102-7",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02102-7",
+        "journal": "Light: Science & Applications",
+        "title_cn": "具有超表面的矢量广义涡阵列的生成"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02761",
+        "title": "Ultrathin Dual-Band Polaritonic Metasurface Enabling Robust Far-Infrared Detection",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Ultrathin Dual-Band Polaritonic Metasurface Enabling Robust Far-Infrared Detection"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02761?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02761",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 614-623, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 614-623, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 614-623, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02761",
+        "dc_source": "ACS Photonics",
+        "updated": "2025-12-22T08:00:00Z",
+        "updated_parsed": [
+            2025,
+            12,
+            22,
+            8,
+            0,
+            0,
+            0,
+            356,
+            0
+        ],
+        "rights": "© 2025 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2025 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Tao Cheng"
+            },
+            {
+                "name": "WenYu Li"
+            },
+            {
+                "name": "Kaili Sun"
+            },
+            {
+                "name": "Baole Sun"
+            },
+            {
+                "name": "Jian Wang"
+            },
+            {
+                "name": "Tianbao Zhao"
+            },
+            {
+                "name": "Huanhuan Zhao"
+            },
+            {
+                "name": "Linhua Liu"
+            },
+            {
+                "name": "Zhanghua Han"
+            },
+            {
+                "name": "Jia-Yue Yang"
+            }
+        ],
+        "author": "Jia-Yue Yang",
+        "author_detail": {
+            "name": "Tao Cheng"
+        },
+        "prism_publicationname": "Ultrathin Dual-Band Polaritonic Metasurface Enabling Robust Far-Infrared Detection",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "614",
+        "prism_endingpage": "623",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02761",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02761?af=R",
+        "prism_copyright": "© 2025 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "超薄双波段极化超表面实现稳健的远红外检测"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02743",
+        "title": "Adaptive Optics-Assisted Large-Field Structured Illumination Microscopy via Coherent Aberration Sensing",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Adaptive Optics-Assisted Large-Field Structured Illumination Microscopy via Coherent Aberration Sensing"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02743?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02743",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 601-613, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 601-613, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 601-613, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02743",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-07T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            7,
+            8,
+            0,
+            0,
+            2,
+            7,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Chen Liang"
+            },
+            {
+                "name": "Ke Du"
+            },
+            {
+                "name": "Fan Feng"
+            },
+            {
+                "name": "Hongrun Yang"
+            },
+            {
+                "name": "Chang Lu"
+            },
+            {
+                "name": "Jiayuan Wen"
+            },
+            {
+                "name": "Heng Mao"
+            }
+        ],
+        "author": "Heng Mao",
+        "author_detail": {
+            "name": "Chen Liang"
+        },
+        "prism_publicationname": "Adaptive Optics-Assisted Large-Field Structured Illumination Microscopy via Coherent Aberration Sensing",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "601",
+        "prism_endingpage": "613",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02743",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02743?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "通过相干像差传感的自适应光学辅助大视场结构照明显微镜"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02685",
+        "title": "In Vivo Assessment of Benzoporphyrin Uptake and Singlet Oxygen Generation in Mice for Photodynamic Therapy Monitoring",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "In Vivo Assessment of Benzoporphyrin Uptake and Singlet Oxygen Generation in Mice for Photodynamic Therapy Monitoring"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02685?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02685",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 592-600, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 592-600, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 592-600, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02685",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-08T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            8,
+            8,
+            0,
+            0,
+            3,
+            8,
+            0
+        ],
+        "rights": "© 2026 The Authors. Published by American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 The Authors. Published by American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Vikas Vikas"
+            },
+            {
+                "name": "Baozhu Lu"
+            },
+            {
+                "name": "Weibing Yang"
+            },
+            {
+                "name": "Brian C. Wilson"
+            },
+            {
+                "name": "Timothy C. Zhu"
+            },
+            {
+                "name": "Robert H. Hadfield"
+            }
+        ],
+        "author": "Robert H. Hadfield",
+        "author_detail": {
+            "name": "Vikas Vikas"
+        },
+        "prism_publicationname": "In Vivo Assessment of Benzoporphyrin Uptake and Singlet Oxygen Generation in Mice for Photodynamic Therapy Monitoring",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "592",
+        "prism_endingpage": "600",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02685",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02685?af=R",
+        "prism_copyright": "© 2026 The Authors. Published by American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "用于光动力治疗监测的小鼠苯并卟啉摄取和单线态氧生成的体内评估"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02677",
+        "title": "Unlocking and Controlling Efficient Second-Order Nonlinear Terahertz Photocurrents in Centrosymmetric Dirac Semimetals",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Unlocking and Controlling Efficient Second-Order Nonlinear Terahertz Photocurrents in Centrosymmetric Dirac Semimetals"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02677?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02677",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 582-591, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 582-591, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 582-591, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02677",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-07T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            7,
+            8,
+            0,
+            0,
+            2,
+            7,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Peng Suo"
+            },
+            {
+                "name": "Long Geng"
+            },
+            {
+                "name": "Yunkun Yang"
+            },
+            {
+                "name": "Chen Wang"
+            },
+            {
+                "name": "Yidan Zhang"
+            },
+            {
+                "name": "Xian Lin"
+            },
+            {
+                "name": "Chao Zhang"
+            },
+            {
+                "name": "Faxian Xiu"
+            },
+            {
+                "name": "Guohong Ma"
+            }
+        ],
+        "author": "Guohong Ma",
+        "author_detail": {
+            "name": "Peng Suo"
+        },
+        "prism_publicationname": "Unlocking and Controlling Efficient Second-Order Nonlinear Terahertz Photocurrents in Centrosymmetric Dirac Semimetals",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "582",
+        "prism_endingpage": "591",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02677",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02677?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "解锁和控制中心对称狄拉克半金属中的高效二阶非线性太赫兹光电流"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02587",
+        "title": "In Situ Tracking of Saturation Dynamics in Nonlinear Metasurfaces",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "In Situ Tracking of Saturation Dynamics in Nonlinear Metasurfaces"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02587?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02587",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 576-581, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 576-581, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 576-581, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02587",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-09T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            9,
+            8,
+            0,
+            0,
+            4,
+            9,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Lun Qu"
+            },
+            {
+                "name": "Xiaohai Liu"
+            },
+            {
+                "name": "Wei Wu"
+            },
+            {
+                "name": "Chenyang Li"
+            },
+            {
+                "name": "Lu Bai"
+            },
+            {
+                "name": "Lin Li"
+            },
+            {
+                "name": "Pengfei Zhu"
+            },
+            {
+                "name": "Wei Cai"
+            },
+            {
+                "name": "Mengxin Ren"
+            },
+            {
+                "name": "Jingjun Xu"
+            }
+        ],
+        "author": "Jingjun Xu",
+        "author_detail": {
+            "name": "Lun Qu"
+        },
+        "prism_publicationname": "In Situ Tracking of Saturation Dynamics in Nonlinear Metasurfaces",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "576",
+        "prism_endingpage": "581",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02587",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02587?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "非线性超表面中饱和动力学的原位跟踪"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02548",
+        "title": "Dual-Facet Passivation of Lead Sulfide Quantum Dots via an Ion-Pair Ligand toward High-Performance Near-Infrared Photodetectors",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Dual-Facet Passivation of Lead Sulfide Quantum Dots via an Ion-Pair Ligand toward High-Performance Near-Infrared Photodetectors"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02548?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02548",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 567-575, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 567-575, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 567-575, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02548",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-05T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            5,
+            8,
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Zi-Yu Song"
+            },
+            {
+                "name": "Ben-Tian Xu"
+            },
+            {
+                "name": "Ye Wang"
+            },
+            {
+                "name": "Wei-Zhi Liu"
+            },
+            {
+                "name": "Yun Hu"
+            },
+            {
+                "name": "Jia-Hui Liu"
+            },
+            {
+                "name": "Feng Zhao"
+            },
+            {
+                "name": "Dong-Ying Zhou"
+            },
+            {
+                "name": "Liang-Sheng Liao"
+            }
+        ],
+        "author": "Liang-Sheng Liao",
+        "author_detail": {
+            "name": "Zi-Yu Song"
+        },
+        "prism_publicationname": "Dual-Facet Passivation of Lead Sulfide Quantum Dots via an Ion-Pair Ligand toward High-Performance Near-Infrared Photodetectors",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "567",
+        "prism_endingpage": "575",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02548",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02548?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "通过离子对配体对硫化铅量子点进行双面钝化以实现高性能近红外光电探测器"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02535",
+        "title": "Anomalous Spontaneous Emission Enhancement by Bound States in the Continuum in Nonlocal Metasurfaces",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Anomalous Spontaneous Emission Enhancement by Bound States in the Continuum in Nonlocal Metasurfaces"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02535?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02535",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 560-566, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 560-566, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 560-566, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02535",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-08T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            8,
+            8,
+            0,
+            0,
+            3,
+            8,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Keren Wang"
+            },
+            {
+                "name": "Jing Du"
+            },
+            {
+                "name": "Wei Wang"
+            }
+        ],
+        "author": "Wei Wang",
+        "author_detail": {
+            "name": "Keren Wang"
+        },
+        "prism_publicationname": "Anomalous Spontaneous Emission Enhancement by Bound States in the Continuum in Nonlocal Metasurfaces",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "560",
+        "prism_endingpage": "566",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02535",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02535?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "非局域超表面连续体中束缚态的反常自发发射增强"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02483",
+        "title": "Engineering Biomimetic Compound Eyes for Insect-Eye Visual Systems",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Engineering Biomimetic Compound Eyes for Insect-Eye Visual Systems"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02483?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02483",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 549-559, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 549-559, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 549-559, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02483",
+        "dc_source": "ACS Photonics",
+        "updated": "2025-12-15T08:00:00Z",
+        "updated_parsed": [
+            2025,
+            12,
+            15,
+            8,
+            0,
+            0,
+            0,
+            349,
+            0
+        ],
+        "rights": "© 2025 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2025 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Yan Long"
+            },
+            {
+                "name": "Xuhui Zhang"
+            },
+            {
+                "name": "Siyu Ding"
+            },
+            {
+                "name": "Li Wei"
+            },
+            {
+                "name": "Bo Dai"
+            },
+            {
+                "name": "Songlin Zhuang"
+            },
+            {
+                "name": "Dawei Zhang"
+            }
+        ],
+        "author": "Dawei Zhang",
+        "author_detail": {
+            "name": "Yan Long"
+        },
+        "prism_publicationname": "Engineering Biomimetic Compound Eyes for Insect-Eye Visual Systems",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "549",
+        "prism_endingpage": "559",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02483",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02483?af=R",
+        "prism_copyright": "© 2025 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "用于昆虫眼视觉系统的仿生复眼工程"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02477",
+        "title": "Eco-Friendly and Air-Compatible Fabrication of Reduced-Dimensional Perovskites for High-Efficiency Light-Emitting Diodes",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Eco-Friendly and Air-Compatible Fabrication of Reduced-Dimensional Perovskites for High-Efficiency Light-Emitting Diodes"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02477?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02477",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 542-548, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 542-548, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 542-548, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02477",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-07T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            7,
+            8,
+            0,
+            0,
+            2,
+            7,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Jiuyao Du"
+            },
+            {
+                "name": "Jiawei Chen"
+            },
+            {
+                "name": "Yuhang Cui"
+            },
+            {
+                "name": "Yuanzhuang Cheng"
+            },
+            {
+                "name": "Danlei Zhu"
+            },
+            {
+                "name": "Zicong Jin"
+            },
+            {
+                "name": "Shuyue Dong"
+            },
+            {
+                "name": "Lian Duan"
+            },
+            {
+                "name": "Jian Xu"
+            },
+            {
+                "name": "Dongxin Ma"
+            }
+        ],
+        "author": "Dongxin Ma",
+        "author_detail": {
+            "name": "Jiuyao Du"
+        },
+        "prism_publicationname": "Eco-Friendly and Air-Compatible Fabrication of Reduced-Dimensional Perovskites for High-Efficiency Light-Emitting Diodes",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "542",
+        "prism_endingpage": "548",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02477",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02477?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "用于高效发光二极管的降维钙钛矿的环保且空气兼容的制造"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02472",
+        "title": "On-Chip Integrated Ultra-Compact Microscale Optical Logic Operations Based on Diffractive Neural Networks",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "On-Chip Integrated Ultra-Compact Microscale Optical Logic Operations Based on Diffractive Neural Networks"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02472?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02472",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 534-541, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 534-541, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 534-541, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02472",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-10T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            10,
+            8,
+            0,
+            0,
+            5,
+            10,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Jiping Duan"
+            },
+            {
+                "name": "Jinming Hu"
+            },
+            {
+                "name": "Shengting Zhu"
+            },
+            {
+                "name": "Bo Chen"
+            },
+            {
+                "name": "Min Gu"
+            },
+            {
+                "name": "Yinan Zhang"
+            }
+        ],
+        "author": "Yinan Zhang",
+        "author_detail": {
+            "name": "Jiping Duan"
+        },
+        "prism_publicationname": "On-Chip Integrated Ultra-Compact Microscale Optical Logic Operations Based on Diffractive Neural Networks",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "534",
+        "prism_endingpage": "541",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02472",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02472?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "基于衍射神经网络的片上集成超紧凑微型光学逻辑运算"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02463",
+        "title": "Highly Integrated Fiber-Optic Transducer for Dual-Modality Imaging: Advancing Generating Efficiency and Bandwidth",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Highly Integrated Fiber-Optic Transducer for Dual-Modality Imaging: Advancing Generating Efficiency and Bandwidth"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02463?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02463",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 524-533, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 524-533, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 524-533, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02463",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-02T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            2,
+            8,
+            0,
+            0,
+            4,
+            2,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Dongchen Xu"
+            },
+            {
+                "name": "Hao Li"
+            },
+            {
+                "name": "Anqi Wang"
+            },
+            {
+                "name": "Geng Chen"
+            },
+            {
+                "name": "Yueqi Liu"
+            },
+            {
+                "name": "Zhi Zhang"
+            },
+            {
+                "name": "Shaoling Zhang"
+            },
+            {
+                "name": "Fujun Zhang"
+            },
+            {
+                "name": "Weili Li"
+            },
+            {
+                "name": "Yingxiong Qin"
+            },
+            {
+                "name": "Perry Ping Shum"
+            },
+            {
+                "name": "Qizhen Sun"
+            }
+        ],
+        "author": "Qizhen Sun",
+        "author_detail": {
+            "name": "Dongchen Xu"
+        },
+        "prism_publicationname": "Highly Integrated Fiber-Optic Transducer for Dual-Modality Imaging: Advancing Generating Efficiency and Bandwidth",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "524",
+        "prism_endingpage": "533",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02463",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02463?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "用于双模态成像的高度集成光纤传感器：提高发电效率和带宽"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02366",
+        "title": "Deep-Learning-Enabled State Classification in Thermally Stabilized Soliton Microcombs",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Deep-Learning-Enabled State Classification in Thermally Stabilized Soliton Microcombs"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02366?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02366",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 510-523, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 510-523, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 510-523, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02366",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-02T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            2,
+            8,
+            0,
+            0,
+            4,
+            2,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Haiju Li"
+            },
+            {
+                "name": "Mohamad Reza Nurrahman"
+            },
+            {
+                "name": "Hyeon Hwang"
+            },
+            {
+                "name": "Jing Wang"
+            },
+            {
+                "name": "Yang Lu"
+            },
+            {
+                "name": "Wei Sun"
+            },
+            {
+                "name": "Junqiu Liu"
+            },
+            {
+                "name": "Min-Kyo Seo"
+            },
+            {
+                "name": "Liandong Yu"
+            }
+        ],
+        "author": "Liandong Yu",
+        "author_detail": {
+            "name": "Haiju Li"
+        },
+        "prism_publicationname": "Deep-Learning-Enabled State Classification in Thermally Stabilized Soliton Microcombs",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "510",
+        "prism_endingpage": "523",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02366",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02366?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "热稳定孤子微梳中的深度学习状态分类"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02363",
+        "title": "Enhancing the Performance of InGaN-Based Micro-LED Arrays via Fluorine Ion Implantation Passivation Ring Design",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Enhancing the Performance of InGaN-Based Micro-LED Arrays via Fluorine Ion Implantation Passivation Ring Design"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02363?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02363",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 501-509, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 501-509, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 501-509, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02363",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-06T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            6,
+            8,
+            0,
+            0,
+            1,
+            6,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Yuzhu Pan"
+            },
+            {
+                "name": "Zijing Huang"
+            },
+            {
+                "name": "Wingcheung Chong"
+            },
+            {
+                "name": "Tao Wang"
+            },
+            {
+                "name": "Tiwei Chen"
+            },
+            {
+                "name": "Jia Zhou"
+            },
+            {
+                "name": "Dongdong Wu"
+            },
+            {
+                "name": "Qiang Zha"
+            },
+            {
+                "name": "Wei Cheng"
+            },
+            {
+                "name": "Yong Cai"
+            },
+            {
+                "name": "Wenhua Shi"
+            },
+            {
+                "name": "Xiaodong Zhang"
+            },
+            {
+                "name": "Dongmin Wu"
+            },
+            {
+                "name": "Zhongming Zeng"
+            },
+            {
+                "name": "Qian Sun"
+            },
+            {
+                "name": "Baoshun Zhang"
+            }
+        ],
+        "author": "Baoshun Zhang",
+        "author_detail": {
+            "name": "Yuzhu Pan"
+        },
+        "prism_publicationname": "Enhancing the Performance of InGaN-Based Micro-LED Arrays via Fluorine Ion Implantation Passivation Ring Design",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "501",
+        "prism_endingpage": "509",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02363",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02363?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "通过氟离子注入钝化环设计增强 InGaN 基 Micro-LED 阵列的性能"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02360",
+        "title": "Nontoxic Ultrasmall Quantum Dots Enable Scalable Luminescent Solar Concentrators for Vehicle Photovoltaics",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Nontoxic Ultrasmall Quantum Dots Enable Scalable Luminescent Solar Concentrators for Vehicle Photovoltaics"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02360?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02360",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 489-500, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 489-500, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 489-500, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02360",
+        "dc_source": "ACS Photonics",
+        "updated": "2025-12-23T08:00:00Z",
+        "updated_parsed": [
+            2025,
+            12,
+            23,
+            8,
+            0,
+            0,
+            1,
+            357,
+            0
+        ],
+        "rights": "© 2025 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2025 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Qi Nie"
+            },
+            {
+                "name": "Zhengxiao Li"
+            },
+            {
+                "name": "Ge Wang"
+            },
+            {
+                "name": "Wenqing Li"
+            },
+            {
+                "name": "Kuilin Li"
+            },
+            {
+                "name": "Yi Tong"
+            },
+            {
+                "name": "Qing Liu"
+            },
+            {
+                "name": "Zongwei Chen"
+            },
+            {
+                "name": "Fucai Liu"
+            },
+            {
+                "name": "Xiao Luo"
+            }
+        ],
+        "author": "Xiao Luo",
+        "author_detail": {
+            "name": "Qi Nie"
+        },
+        "prism_publicationname": "Nontoxic Ultrasmall Quantum Dots Enable Scalable Luminescent Solar Concentrators for Vehicle Photovoltaics",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "489",
+        "prism_endingpage": "500",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02360",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02360?af=R",
+        "prism_copyright": "© 2025 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "无毒超小量子点为汽车光伏发电提供可扩展的发光太阳能聚光器"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02347",
+        "title": "Electromagnetically Induced Absorption in Magnetorheological Microcavities Enables Precise Hysteresis Sensing",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Electromagnetically Induced Absorption in Magnetorheological Microcavities Enables Precise Hysteresis Sensing"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02347?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02347",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 482-488, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 482-488, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 482-488, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02347",
+        "dc_source": "ACS Photonics",
+        "updated": "2025-12-24T08:00:00Z",
+        "updated_parsed": [
+            2025,
+            12,
+            24,
+            8,
+            0,
+            0,
+            2,
+            358,
+            0
+        ],
+        "rights": "© 2025 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2025 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Xiaolin Jin"
+            },
+            {
+                "name": "Mengmeng Chen"
+            },
+            {
+                "name": "Xiaobo Ma"
+            },
+            {
+                "name": "Jihui Zheng"
+            },
+            {
+                "name": "Kaiming Zhou"
+            },
+            {
+                "name": "Bing Sun"
+            },
+            {
+                "name": "Lei Shi"
+            },
+            {
+                "name": "Zuxing Zhang"
+            },
+            {
+                "name": "Lin Zhang"
+            }
+        ],
+        "author": "Lin Zhang",
+        "author_detail": {
+            "name": "Xiaolin Jin"
+        },
+        "prism_publicationname": "Electromagnetically Induced Absorption in Magnetorheological Microcavities Enables Precise Hysteresis Sensing",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "482",
+        "prism_endingpage": "488",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02347",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02347?af=R",
+        "prism_copyright": "© 2025 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "磁流变微腔中的电磁感应吸收可实现精确的磁滞传感"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02303",
+        "title": "Buried Stressor Engineering for Position-Controlled InGaAs Quantum Dots with Local Density Variation for Integrated Quantum Photonics",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Buried Stressor Engineering for Position-Controlled InGaAs Quantum Dots with Local Density Variation for Integrated Quantum Photonics"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02303?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02303",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 471-481, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 471-481, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 471-481, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02303",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-07T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            7,
+            8,
+            0,
+            0,
+            2,
+            7,
+            0
+        ],
+        "rights": "© 2026 The Authors. Published by American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 The Authors. Published by American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Martin Podhorský"
+            },
+            {
+                "name": "Maximilian Klonz"
+            },
+            {
+                "name": "Lux Böhmer"
+            },
+            {
+                "name": "Sebastian Kulig"
+            },
+            {
+                "name": "Chirag C. Palekar"
+            },
+            {
+                "name": "Petr Klenovský"
+            },
+            {
+                "name": "Sven Rodt"
+            },
+            {
+                "name": "Stephan Reitzenstein"
+            }
+        ],
+        "author": "Stephan Reitzenstein",
+        "author_detail": {
+            "name": "Martin Podhorský"
+        },
+        "prism_publicationname": "Buried Stressor Engineering for Position-Controlled InGaAs Quantum Dots with Local Density Variation for Integrated Quantum Photonics",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "471",
+        "prism_endingpage": "481",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02303",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02303?af=R",
+        "prism_copyright": "© 2026 The Authors. Published by American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "用于集成量子光子学的具有局部密度变化的位置控制 InGaAs 量子点的埋置应力源工程"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02297",
+        "title": "Ultranarrow-Band DUV Detection Enabled by Plasmonic Coupled Nanohole Arrays in AlN/GaN Superlattices",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Ultranarrow-Band DUV Detection Enabled by Plasmonic Coupled Nanohole Arrays in AlN/GaN Superlattices"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02297?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02297",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 461-470, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 461-470, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 461-470, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02297",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-08T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            8,
+            8,
+            0,
+            0,
+            3,
+            8,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Junxin Chen"
+            },
+            {
+                "name": "Lingli Zhu"
+            },
+            {
+                "name": "Yujie Gao"
+            },
+            {
+                "name": "Xinyu Yang"
+            },
+            {
+                "name": "Na Gao"
+            },
+            {
+                "name": "Deyi Fu"
+            },
+            {
+                "name": "Li Chen"
+            },
+            {
+                "name": "Shan Zhu"
+            },
+            {
+                "name": "Huanyang Chen"
+            },
+            {
+                "name": "Duanjun Cai"
+            },
+            {
+                "name": "Shuping Li"
+            },
+            {
+                "name": "Junyong Kang"
+            },
+            {
+                "name": "Rong Zhang"
+            }
+        ],
+        "author": "Rong Zhang",
+        "author_detail": {
+            "name": "Junxin Chen"
+        },
+        "prism_publicationname": "Ultranarrow-Band DUV Detection Enabled by Plasmonic Coupled Nanohole Arrays in AlN/GaN Superlattices",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "461",
+        "prism_endingpage": "470",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02297",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02297?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "AlN/GaN 超晶格中的等离子体耦合纳米孔阵列实现超窄带 DUV 检测"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02229",
+        "title": "Large-Area Fabrication of Holographic Metasurfaces Based on BaTiO3 Nanoparticle-Embedded Resins",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Large-Area Fabrication of Holographic Metasurfaces Based on BaTiO3 Nanoparticle-Embedded Resins"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02229?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02229",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 453-460, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 453-460, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 453-460, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02229",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-06T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            6,
+            8,
+            0,
+            0,
+            1,
+            6,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Seungyeon Lee"
+            },
+            {
+                "name": "Chanwoong Park"
+            },
+            {
+                "name": "Hansang Sung"
+            },
+            {
+                "name": "Seongwoo Park"
+            },
+            {
+                "name": "Hyeonseong Yun"
+            },
+            {
+                "name": "Minjeong Lee"
+            },
+            {
+                "name": "Heon Lee"
+            }
+        ],
+        "author": "Heon Lee",
+        "author_detail": {
+            "name": "Seungyeon Lee"
+        },
+        "prism_publicationname": "Large-Area Fabrication of Holographic Metasurfaces Based on BaTiO3 Nanoparticle-Embedded Resins",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "453",
+        "prism_endingpage": "460",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02229",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02229?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "基于 BaTiO3 纳米粒子嵌入树脂的大面积全息超表面制造"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02202",
+        "title": "Nonlocal Metasurfaces with Lithographically Defined Vertical Symmetry Breaking",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Nonlocal Metasurfaces with Lithographically Defined Vertical Symmetry Breaking"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02202?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02202",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 445-452, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 445-452, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 445-452, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02202",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-05T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            5,
+            8,
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Stephanie C. Malek"
+            },
+            {
+                "name": "Courtney L. H. Sovinec"
+            },
+            {
+                "name": "William M. Martinez"
+            },
+            {
+                "name": "Chloe F. Doiron"
+            }
+        ],
+        "author": "Chloe F. Doiron",
+        "author_detail": {
+            "name": "Stephanie C. Malek"
+        },
+        "prism_publicationname": "Nonlocal Metasurfaces with Lithographically Defined Vertical Symmetry Breaking",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "445",
+        "prism_endingpage": "452",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02202",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02202?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "具有光刻定义的垂直对称破缺的非局域超表面"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02170",
+        "title": "Harnessing Graded-like Spiking Dynamics in Semiconductor Lasers for High-Speed and Energy-Efficient Reservoir Computing",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Harnessing Graded-like Spiking Dynamics in Semiconductor Lasers for High-Speed and Energy-Efficient Reservoir Computing"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02170?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02170",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 433-444, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 433-444, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 433-444, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02170",
+        "dc_source": "ACS Photonics",
+        "updated": "2025-12-30T08:00:00Z",
+        "updated_parsed": [
+            2025,
+            12,
+            30,
+            8,
+            0,
+            0,
+            1,
+            364,
+            0
+        ],
+        "rights": "© 2025 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2025 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Yu Huang"
+            },
+            {
+                "name": "Yigong Yang"
+            },
+            {
+                "name": "Changdi Zhou"
+            },
+            {
+                "name": "Pei Zhou"
+            },
+            {
+                "name": "Kuenyao Lau"
+            },
+            {
+                "name": "Nianqiang Li"
+            }
+        ],
+        "author": "Nianqiang Li",
+        "author_detail": {
+            "name": "Yu Huang"
+        },
+        "prism_publicationname": "Harnessing Graded-like Spiking Dynamics in Semiconductor Lasers for High-Speed and Energy-Efficient Reservoir Computing",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "433",
+        "prism_endingpage": "444",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02170",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02170?af=R",
+        "prism_copyright": "© 2025 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "利用半导体激光器中的分级尖峰动力学进行高速、节能的储层计算"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c02041",
+        "title": "Efficient Layer-by-Layer Processed Small-Molecule Donor/Polymer Acceptor Solar Cells: Morphology-Dependent Charge-Transfer Mechanisms",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Efficient Layer-by-Layer Processed Small-Molecule Donor/Polymer Acceptor Solar Cells: Morphology-Dependent Charge-Transfer Mechanisms"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02041?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c02041",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 424-432, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 424-432, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 424-432, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c02041",
+        "dc_source": "ACS Photonics",
+        "updated": "2025-12-30T08:00:00Z",
+        "updated_parsed": [
+            2025,
+            12,
+            30,
+            8,
+            0,
+            0,
+            1,
+            364,
+            0
+        ],
+        "rights": "© 2025 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2025 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Beining Wang"
+            },
+            {
+                "name": "Zhongle Chen"
+            },
+            {
+                "name": "Xingyu Liu"
+            },
+            {
+                "name": "Chenghuan Chen"
+            },
+            {
+                "name": "Yuxuan Wang"
+            },
+            {
+                "name": "István Bíró"
+            },
+            {
+                "name": "Gusztáv Fekete"
+            },
+            {
+                "name": "Shu Xu"
+            },
+            {
+                "name": "Hai-Qiao Wang"
+            }
+        ],
+        "author": "Hai-Qiao Wang",
+        "author_detail": {
+            "name": "Beining Wang"
+        },
+        "prism_publicationname": "Efficient Layer-by-Layer Processed Small-Molecule Donor/Polymer Acceptor Solar Cells: Morphology-Dependent Charge-Transfer Mechanisms",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "424",
+        "prism_endingpage": "432",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c02041",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c02041?af=R",
+        "prism_copyright": "© 2025 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "高效的逐层处理的小分子供体/聚合物受体太阳能电池：形态依赖的电荷转移机制"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c01983",
+        "title": "Ultrafast-Broadband Photodetector with High Responsivity Based on an Interface-Engineered 2D Perovskite/CdSe Type-II Heterojunction",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Ultrafast-Broadband Photodetector with High Responsivity Based on an Interface-Engineered 2D Perovskite/CdSe Type-II Heterojunction"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c01983?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c01983",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 413-423, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 413-423, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 413-423, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c01983",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-07T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            7,
+            8,
+            0,
+            0,
+            2,
+            7,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Yan Yang"
+            },
+            {
+                "name": "Haiqiang Huang"
+            },
+            {
+                "name": "Lei Liu"
+            },
+            {
+                "name": "Qiuhong Tan"
+            },
+            {
+                "name": "Yifei Huang"
+            },
+            {
+                "name": "Lujun Yang"
+            },
+            {
+                "name": "Hui Zhang"
+            },
+            {
+                "name": "Xuejin Zhang"
+            },
+            {
+                "name": "Feng Song"
+            },
+            {
+                "name": "Yingkai Liu"
+            }
+        ],
+        "author": "Yingkai Liu",
+        "author_detail": {
+            "name": "Yan Yang"
+        },
+        "prism_publicationname": "Ultrafast-Broadband Photodetector with High Responsivity Based on an Interface-Engineered 2D Perovskite/CdSe Type-II Heterojunction",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "413",
+        "prism_endingpage": "423",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c01983",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c01983?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "基于界面设计的二维钙钛矿/CdSe II 型异质结的高响应度超快宽带光电探测器"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c01864",
+        "title": "Ultrasensitive MoS2/Cu@CuO Hybrid Heterojunction Photodetector",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Ultrasensitive MoS2/Cu@CuO Hybrid Heterojunction Photodetector"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c01864?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c01864",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 403-412, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 403-412, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 403-412, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c01864",
+        "dc_source": "ACS Photonics",
+        "updated": "2025-11-25T08:00:00Z",
+        "updated_parsed": [
+            2025,
+            11,
+            25,
+            8,
+            0,
+            0,
+            1,
+            329,
+            0
+        ],
+        "rights": "© 2025 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2025 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Miaomiao Zhang"
+            },
+            {
+                "name": "Kaixi Shi"
+            },
+            {
+                "name": "Jinhua Li"
+            },
+            {
+                "name": "Haiyan Tao"
+            },
+            {
+                "name": "Yingjiao Zhai"
+            },
+            {
+                "name": "Federico Rosei"
+            }
+        ],
+        "author": "Federico Rosei",
+        "author_detail": {
+            "name": "Miaomiao Zhang"
+        },
+        "prism_publicationname": "Ultrasensitive MoS2/Cu@CuO Hybrid Heterojunction Photodetector",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "403",
+        "prism_endingpage": "412",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c01864",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c01864?af=R",
+        "prism_copyright": "© 2025 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "超灵敏MoS2/Cu@CuO混合异质结光电探测器"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c01844",
+        "title": "Abnormal Surface Magnetic-Dipole-Contributed Second Harmonic Generation in Centrosymmetric 2D Antiferromagnets",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Abnormal Surface Magnetic-Dipole-Contributed Second Harmonic Generation in Centrosymmetric 2D Antiferromagnets"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c01844?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c01844",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 394-402, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 394-402, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 394-402, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c01844",
+        "dc_source": "ACS Photonics",
+        "updated": "2025-12-30T08:00:00Z",
+        "updated_parsed": [
+            2025,
+            12,
+            30,
+            8,
+            0,
+            0,
+            1,
+            364,
+            0
+        ],
+        "rights": "© 2025 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2025 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Wenjuan Huang"
+            },
+            {
+                "name": "Yue Xiao"
+            },
+            {
+                "name": "Han Han"
+            },
+            {
+                "name": "Fangfang Xia"
+            },
+            {
+                "name": "Jie Liu"
+            },
+            {
+                "name": "Bo Zhao"
+            },
+            {
+                "name": "Xiangbai Chen"
+            },
+            {
+                "name": "Yongbing Xu"
+            }
+        ],
+        "author": "Yongbing Xu",
+        "author_detail": {
+            "name": "Wenjuan Huang"
+        },
+        "prism_publicationname": "Abnormal Surface Magnetic-Dipole-Contributed Second Harmonic Generation in Centrosymmetric 2D Antiferromagnets",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "394",
+        "prism_endingpage": "402",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c01844",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c01844?af=R",
+        "prism_copyright": "© 2025 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "中心对称二维反铁磁体中异常表面磁偶极子产生的二次谐波"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c01774",
+        "title": "Mode- and Polarization-Selective Control of Exciton and Trion Emission in Colloidal Nanoplatelets Coupled to Guided Metasurface Resonators",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Mode- and Polarization-Selective Control of Exciton and Trion Emission in Colloidal Nanoplatelets Coupled to Guided Metasurface Resonators"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c01774?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c01774",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 385-393, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 385-393, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 385-393, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c01774",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-07T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            7,
+            8,
+            0,
+            0,
+            2,
+            7,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Komal Sharma"
+            },
+            {
+                "name": "Nitish Kumar Gupta"
+            },
+            {
+                "name": "Venkatachalam P"
+            },
+            {
+                "name": "Shankar Kumar Selvaraja"
+            },
+            {
+                "name": "Jaydeep K. Basu"
+            }
+        ],
+        "author": "Jaydeep K. Basu",
+        "author_detail": {
+            "name": "Komal Sharma"
+        },
+        "prism_publicationname": "Mode- and Polarization-Selective Control of Exciton and Trion Emission in Colloidal Nanoplatelets Coupled to Guided Metasurface Resonators",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "385",
+        "prism_endingpage": "393",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c01774",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c01774?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "与引导超表面谐振器耦合的胶体纳米片中激子和 Trion 发射的模式和偏振选择性控制"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c01389",
+        "title": "Coherent Synthesis of Silicon Optical Phased Arrays toward Enhanced Power and Aperture",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Coherent Synthesis of Silicon Optical Phased Arrays toward Enhanced Power and Aperture"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c01389?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c01389",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 373-384, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 373-384, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 373-384, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c01389",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-08T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            8,
+            8,
+            0,
+            0,
+            3,
+            8,
+            0
+        ],
+        "rights": "© 2026 American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Xin Yan"
+            },
+            {
+                "name": "Feng Li"
+            },
+            {
+                "name": "Han Wang"
+            },
+            {
+                "name": "Xiaohua Feng"
+            },
+            {
+                "name": "Weimin Xie"
+            },
+            {
+                "name": "Yunchao Li"
+            },
+            {
+                "name": "Xu Yang"
+            },
+            {
+                "name": "Kai Jin"
+            },
+            {
+                "name": "Xiqi Li"
+            },
+            {
+                "name": "Xuejun Zhang"
+            },
+            {
+                "name": "Mingwei Tang"
+            },
+            {
+                "name": "Kai Wei"
+            }
+        ],
+        "author": "Kai Wei",
+        "author_detail": {
+            "name": "Xin Yan"
+        },
+        "prism_publicationname": "Coherent Synthesis of Silicon Optical Phased Arrays toward Enhanced Power and Aperture",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "373",
+        "prism_endingpage": "384",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c01389",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c01389?af=R",
+        "prism_copyright": "© 2026 American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "硅光学相控阵的相干合成以增强功率和孔径"
+    },
+    {
+        "id": "https://doi.org/10.1021/acsphotonics.5c00993",
+        "title": "Physics-Guided and Fabrication-Aware Inverse Design of Photonic Devices Using Diffusion Models",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Physics-Guided and Fabrication-Aware Inverse Design of Photonic Devices Using Diffusion Models"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c00993?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1021/acsphotonics.5c00993",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<div><cite>ACS Photonics, <a href=\"https://pubs.acs.org/toc/apchd5/13/2\">Volume 13, Issue 2</a>, Page 363-372, January 21, 2026. <br /></cite></div>"
+            }
+        ],
+        "summary": "ACS Photonics, Volume 13, Issue 2, Page 363-372, January 21, 2026.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "ACS Photonics, Volume 13, Issue 2, Page 363-372, January 21, 2026. <br />"
+        },
+        "dc_identifier": "10.1021/acsphotonics.5c00993",
+        "dc_source": "ACS Photonics",
+        "updated": "2026-01-02T08:00:00Z",
+        "updated_parsed": [
+            2026,
+            1,
+            2,
+            8,
+            0,
+            0,
+            4,
+            2,
+            0
+        ],
+        "rights": "© 2026 The Authors. Published by American Chemical Society",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "© 2026 The Authors. Published by American Chemical Society"
+        },
+        "authors": [
+            {
+                "name": "Dongjin Seo"
+            },
+            {
+                "name": "Soobin Um"
+            },
+            {
+                "name": "Sangbin Lee"
+            },
+            {
+                "name": "Jong Chul Ye"
+            },
+            {
+                "name": "Haejun Chung"
+            }
+        ],
+        "author": "Haejun Chung",
+        "author_detail": {
+            "name": "Dongjin Seo"
+        },
+        "prism_publicationname": "Physics-Guided and Fabrication-Aware Inverse Design of Photonic Devices Using Diffusion Models",
+        "prism_volume": "13",
+        "prism_number": "2",
+        "prism_startingpage": "363",
+        "prism_endingpage": "372",
+        "prism_coverdate": "2026-01-21T08:00:00Z",
+        "prism_coverdisplaydate": "2026-01-21T08:00:00Z",
+        "prism_doi": "10.1021/acsphotonics.5c00993",
+        "prism_url": "https://pubs.acs.org/doi/10.1021/acsphotonics.5c00993?af=R",
+        "prism_copyright": "© 2026 The Authors. Published by American Chemical Society",
+        "journal": "ACS Photonics",
+        "title_cn": "使用扩散模型进行光子器件的物理引导和制造感知逆向设计"
+    },
+    {
+        "title": "Single-photon lidar system and multiscale optimization algorithm for extreme SBR",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Single-photon lidar system and multiscale optimization algorithm for extreme SBR"
+        },
+        "summary": "Publication date: June 2026Source: Optics and Lasers in Engineering, Volume 201Author(s): Jinfeng Xu, Qingsheng Xue, Fengqin Lu, Junhong Song, Xing Li",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: June 2026</p><p><b>Source:</b> Optics and Lasers in Engineering, Volume 201</p><p>Author(s): Jinfeng Xu, Qingsheng Xue, Fengqin Lu, Junhong Song, Xing Li</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0143816626000291?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0143816626000291",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0143816626000291",
+        "guidislink": false,
+        "journal": "Optics and Lasers in Engineering",
+        "title_cn": "单光子激光雷达系统及极限SBR多尺度优化算法"
+    },
+    {
+        "title": "DFPPNet: 3D shape reconstruction of dynamic object via FPP method without motion-induced error",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "DFPPNet: 3D shape reconstruction of dynamic object via FPP method without motion-induced error"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Qingbin Zhang, Lianpo Wang",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Qingbin Zhang, Lianpo Wang</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399226000459?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226000459",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399226000459",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "DFPPNet：通过 FPP 方法重建动态物体的 3D 形状，无运动引起的误差"
+    },
+    {
+        "title": "A multi stage coarse-to-fine network with semantic similarity for infrared and visible image registration",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "A multi stage coarse-to-fine network with semantic similarity for infrared and visible image registration"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Xuheng Liu, Rencan Nie, Jinde Cao, Chenghao Cao, Liuyan Shi",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Xuheng Liu, Rencan Nie, Jinde Cao, Chenghao Cao, Liuyan Shi</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399225021851?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399225021851",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399225021851",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "用于红外和可见光图像配准的具有语义相似性的多级从粗到细网络"
+    },
+    {
+        "title": "Backward-directional low insertion loss pump-signal combiner with low-NA signal fiber",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Backward-directional low insertion loss pump-signal combiner with low-NA signal fiber"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Yang Wang, Feng Xiong, Qi Zhang, Yunliang Ma, Chenglin Xu, Wei Mu, Xiaobei Zhang",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Yang Wang, Feng Xiong, Qi Zhang, Yunliang Ma, Chenglin Xu, Wei Mu, Xiaobei Zhang</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S003039922600126X?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S003039922600126X",
+        "id": "https://www.sciencedirect.com/science/article/pii/S003039922600126X",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "具有低数值孔径信号光纤的后向低插入损耗泵浦信号合路器"
+    },
+    {
+        "title": "Temperature compensation carbon dioxide photoacoustic spectroscopy system enabled by miniaturized resonant photoacoustic cell",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Temperature compensation carbon dioxide photoacoustic spectroscopy system enabled by miniaturized resonant photoacoustic cell"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Yujie Wei, Silian Sun, Zeru Wang, Rongkang Yu, Hao Zhang, Weiwei Cui",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Yujie Wei, Silian Sun, Zeru Wang, Rongkang Yu, Hao Zhang, Weiwei Cui</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399225022388?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399225022388",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399225022388",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "由小型化谐振光声池实现的温度补偿二氧化碳光声光谱系统"
+    },
+    {
+        "title": "Dynamic process and mechanism of the laser-based particle-size driven gradient-structured beds fusion",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Dynamic process and mechanism of the laser-based particle-size driven gradient-structured beds fusion"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Ziao Yan, Nan Su, Zhanpeng Sun, Jiapeng Zhang, Mingyang Zheng, Yaxuan Gao, Guang Yang",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Ziao Yan, Nan Su, Zhanpeng Sun, Jiapeng Zhang, Mingyang Zheng, Yaxuan Gao, Guang Yang</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399226000897?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226000897",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399226000897",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "激光粒度驱动梯度结构床聚变动态过程及机理"
+    },
+    {
+        "title": "Enhancing V<sub>Si</sub> fluorescence collection efficiency via 3D direct-written SiC immersion lenses with hollow cylindrical vector beam",
+        "title_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Enhancing V<sub>Si</sub> fluorescence collection efficiency via 3D direct-written SiC immersion lenses with hollow cylindrical vector beam"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Bing Dong, Qingqing Sun, Zongwei Xu",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Bing Dong, Qingqing Sun, Zongwei Xu</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399226001179?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226001179",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399226001179",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "通过空心圆柱矢量光束 3D 直写 SiC 浸没透镜提高 V<sub>Si</sub> 荧光收集效率"
+    },
+    {
+        "title": "Research on All-Fiber monostatic linear frequency modulation laser doppler vibrometry",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Research on All-Fiber monostatic linear frequency modulation laser doppler vibrometry"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Yuehan Jiang, Haonan Yuan, Ming Wang, Jie Guo, Tingfeng Wang",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Yuehan Jiang, Haonan Yuan, Ming Wang, Jie Guo, Tingfeng Wang</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399226001131?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226001131",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399226001131",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "全光纤单基地线性调频激光多普勒测振技术研究"
+    },
+    {
+        "title": "Multiphysics coupling mechanism of defect formation and regulation strategies in large layer thickness selective laser melting of 316L stainless steel",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Multiphysics coupling mechanism of defect formation and regulation strategies in large layer thickness selective laser melting of 316L stainless steel"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Guang Yang, Ranliang Wu, Da An, Qi Liu, Han Xie, Shibo Liu",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Guang Yang, Ranliang Wu, Da An, Qi Liu, Han Xie, Shibo Liu</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399226000915?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226000915",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399226000915",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "316L不锈钢大层厚选区激光熔化缺陷形成的多物理场耦合机制及调控策略"
+    },
+    {
+        "title": "Gradient backscattering-enhanced bending-insensitive optical fiber for distributed acoustic sensing",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Gradient backscattering-enhanced bending-insensitive optical fiber for distributed acoustic sensing"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Zewen Han, Kehua Yan, Xinyu Li, Xi Yang, Zeng-Ling Ran, Yu Wu, Yuan Gong",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Zewen Han, Kehua Yan, Xinyu Li, Xi Yang, Zeng-Ling Ran, Yu Wu, Yuan Gong</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399226001210?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226001210",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399226001210",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "用于分布式声学传感的梯度反向散射增强弯曲不敏感光纤"
+    },
+    {
+        "title": "A broadband distributed acoustic sensing system integrating phase-sensitive OTDR and Mach-Zehnder interferometer",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "A broadband distributed acoustic sensing system integrating phase-sensitive OTDR and Mach-Zehnder interferometer"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Lang Xie, Juxiang Qiu, Hechao Wang, Jingcai Xu, Peidong Hou, Yu Wu",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Lang Xie, Juxiang Qiu, Hechao Wang, Jingcai Xu, Peidong Hou, Yu Wu</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399226000435?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226000435",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399226000435",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "集成相敏 OTDR 和马赫曾德干涉仪的宽带分布式声学传感系统"
+    },
+    {
+        "title": "Enhanced feature fusion of graph convolutional network and collaborative attention CNN network for hyperspectral image classification",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Enhanced feature fusion of graph convolutional network and collaborative attention CNN network for hyperspectral image classification"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Chenming Li, Xuancheng Fan, Yiyan Zhang, Ruizhe Liu, Hongmin Gao, Shufang Xu",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Chenming Li, Xuancheng Fan, Yiyan Zhang, Ruizhe Liu, Hongmin Gao, Shufang Xu</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399225021929?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399225021929",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399225021929",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "用于高光谱图像分类的图卷积网络和协作注意力CNN网络的增强特征融合"
+    },
+    {
+        "title": "Irradiance mapping-driven infrared image simulation: Achieving noise-free accuracy with high data reusability",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Irradiance mapping-driven infrared image simulation: Achieving noise-free accuracy with high data reusability"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Puyousen Zhang, Yiwen Li, Yao Li, Binbin Pei, Yinghong Li",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Puyousen Zhang, Yiwen Li, Yao Li, Binbin Pei, Yinghong Li</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399226001039?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226001039",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399226001039",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "辐照度映射驱动的红外图像模拟：通过高数据可重用性实现无噪声精度"
+    },
+    {
+        "title": "Integrated photonic devices engineered on subwavelength grating waveguides – A review",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Integrated photonic devices engineered on subwavelength grating waveguides – A review"
+        },
+        "summary": "Publication date: May 2026Source: Optics & Laser Technology, Volume 197Author(s): Shalini Vardhan, Ritu Raj Singh, Neeraj Goel, Aditya Kushwaha",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Shalini Vardhan, Ritu Raj Singh, Neeraj Goel, Aditya Kushwaha</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0030399226000654?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226000654",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0030399226000654",
+        "guidislink": false,
+        "journal": "Optics and Laser Technology",
+        "title_cn": "基于亚波长光栅波导的集成光子器件——综述"
+    }
+]

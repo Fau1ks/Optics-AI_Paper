@@ -9191,5 +9191,60 @@
         "journal": "Optics Express",
         "title_cn": "在互耦合半导体激光器中使用光频差检测进行光子决策",
         "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.586972",
+        "title": "Optical cross-purity",
+        "link": "https://doi.org/10.1364/ol.586972",
+        "published": "2026-01-22",
+        "author": "Ayman Abouraddy, Bahaa Saleh",
+        "summary": "Abstract not available.",
+        "journal": "Optics Letters",
+        "title_cn": "光学交叉纯度",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.579897",
+        "title": "How sensitive is the reduced scattering coefficient to changes in specific micro-scale biophysical properties of tissue scatterers?",
+        "link": "https://doi.org/10.1364/ol.579897",
+        "published": "2026-01-22",
+        "author": "Robert Wilson, Colleen Flanagan, Mary-Ann Mycek",
+        "summary": "Abstract not available.",
+        "journal": "Optics Letters",
+        "title_cn": "降低的散射系数对组织散射体特定微观生物物理特性的变化有多敏感？",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.586614",
+        "title": "Multimode interface between optical free-space- and waveguide modes",
+        "link": "https://doi.org/10.1364/ol.586614",
+        "published": "2026-01-22",
+        "author": "Teresia Stranden, Oussama Korichi, Matias Eriksson, Matteo Cherchi, George Thomas, Robert Fickler",
+        "summary": "Abstract not available.",
+        "journal": "Optics Letters",
+        "title_cn": "光学自由空间模式和波导模式之间的多模接口",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.586063",
+        "title": "Low-loss Plasmonic Waveguide with High Optical Confinement on the Thin-Film Lithium Niobate-on-Insulator (LNOI) Platform",
+        "link": "https://doi.org/10.1364/ol.586063",
+        "published": "2026-01-22",
+        "author": "Shuqi Xiao, Gaolei Hu, Jiapeng Luan, Yue Qin, Zhenzhou Cheng, Zunyue Zhang, Yi Wang, Hon Tsang",
+        "summary": "Abstract not available.",
+        "journal": "Optics Letters",
+        "title_cn": "薄膜绝缘体上铌酸锂 (LNOI) 平台上具有高光学限制的低损耗等离子体波导",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.586393",
+        "title": "NPRO laser feedback interferometer with improved sensitivity",
+        "link": "https://doi.org/10.1364/ol.586393",
+        "published": "2026-01-22",
+        "author": "Wenxun li, Chunzhao Ma, Weitong Fan, Xuezhen Gong, Danqing Liu, Jie Xu, changlei guo",
+        "summary": "Abstract not available.",
+        "journal": "Optics Letters",
+        "title_cn": "NPRO 激光反馈干涉仪，灵敏度更高",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
     }
 ]

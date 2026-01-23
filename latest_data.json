@@ -268,5 +268,124 @@
         "journal": "Optics and Lasers in Engineering",
         "title_cn": "基于畸变抑制复合透镜阵列和预校正编码图像的增强重建精度的3D光场显示",
         "abstract_cn": "Publication date: June 2026Source: Optics and Lasers in Engineering, Volume 201Author(s): Xudong Wen, Xin Gao, Yaohe Zheng, Ziyun Lu, Jinhong He, Hanyu Li, Ningchi Li, Boyang Liu, Binbin Yan, Xunbo Yu, Xinzhu Sang"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41566-026-01852-z",
+        "title": "Author Correction: Stabilizing high-efficiency perovskite solar cells via strategic interfacial contact engineering",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Author Correction: Stabilizing high-efficiency perovskite solar cells via strategic interfacial contact engineering"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41566-026-01852-z"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41566-026-01852-z",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Nature Photonics, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41566-026-01852-z\">doi:10.1038/s41566-026-01852-z</a></p>Author Correction: Stabilizing high-efficiency perovskite solar cells via strategic interfacial contact engineering"
+            }
+        ],
+        "summary": "Nature Photonics, Published online: 22 January 2026; doi:10.1038/s41566-026-01852-zAuthor Correction: Stabilizing high-efficiency perovskite solar cells via strategic interfacial contact engineering",
+        "authors": [
+            {
+                "name": "Guixiang Li"
+            },
+            {
+                "name": "Zuhong Zhang"
+            },
+            {
+                "name": "Benjamin Agyei-Tuffour"
+            },
+            {
+                "name": "Luyan Wu"
+            },
+            {
+                "name": "Thomas W. Gries"
+            },
+            {
+                "name": "Karunanantharajah Prashanthan"
+            },
+            {
+                "name": "Lennart Frohloff"
+            },
+            {
+                "name": "Artem Musiienko"
+            },
+            {
+                "name": "Jinzhao Li"
+            },
+            {
+                "name": "Rui Zhu"
+            },
+            {
+                "name": "Lucy J. F. Hart"
+            },
+            {
+                "name": "Luyao Wang"
+            },
+            {
+                "name": "Zhe Li"
+            },
+            {
+                "name": "Bo Hou"
+            },
+            {
+                "name": "Norbert Koch"
+            },
+            {
+                "name": "Michele Saba"
+            },
+            {
+                "name": "Piers R. F. Barnes"
+            },
+            {
+                "name": "Jenny Nelson"
+            },
+            {
+                "name": "Paul J. Dyson"
+            },
+            {
+                "name": "Mohammad Khaja Nazeeruddin"
+            },
+            {
+                "name": "Meng Li"
+            },
+            {
+                "name": "Antonio Abate"
+            }
+        ],
+        "author": "Antonio Abate",
+        "author_detail": {
+            "name": "Guixiang Li"
+        },
+        "dc_identifier": "doi:10.1038/s41566-026-01852-z",
+        "dc_source": "Nature Photonics, Published online: 2026-01-22; | doi:10.1038/s41566-026-01852-z",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Nature Photonics",
+        "prism_doi": "10.1038/s41566-026-01852-z",
+        "prism_url": "https://www.nature.com/articles/s41566-026-01852-z",
+        "journal": "Nature Photonics",
+        "title_cn": "作者更正：通过战略界面接触工程稳定高效钙钛矿太阳能电池",
+        "abstract_cn": "《自然光子学》，在线发布：2026 年 1 月 22 日； doi:10.1038/s41566-026-01852-z作者更正：通过战略界面接触工程稳定高效钙钛矿太阳能电池"
     }
 ]

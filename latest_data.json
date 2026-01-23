@@ -9246,5 +9246,704 @@
         "journal": "Optics Letters",
         "title_cn": "NPRO 激光反馈干涉仪，灵敏度更高",
         "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/prj.587213",
+        "title": "High-Performance Tellurium Films with Engineered Ordered Texture: Synergistic Enhancement of Carrier Mobility and Stability",
+        "link": "https://doi.org/10.1364/prj.587213",
+        "published": "2026-01-22",
+        "author": "Lijian Li, Yun Wei, Peng Guo, Wanyu Ma, Yifu Zhang, Yinglin Wang, Peng Wan, Hui Li, Caixia Kan, Daning Shi, Mingming Jiang",
+        "summary": "Abstract not available.",
+        "journal": "Photonics Research",
+        "title_cn": "具有工程有序织构的高性能碲薄膜：载流子迁移率和稳定性的协同增强",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02127-y",
+        "title": "A near-infrared Sn-Pb perovskite imager with monolithic integration",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "A near-infrared Sn-Pb perovskite imager with monolithic integration"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02127-y"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02127-y",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02127-y\">doi:10.1038/s41377-025-02127-y</a></p>Monolithic Sn-Pb perovskite NIR imager with Sn(SCN)2 passivation achieves low dark current, high detectivity and material recognition for advanced sensing and imaging."
+            }
+        ],
+        "summary": "Monolithic Sn-Pb perovskite NIR imager with Sn(SCN)2 passivation achieves low dark current, high detectivity and material recognition for advanced sensing and imaging.",
+        "authors": [
+            {
+                "name": "Ciyu Ge"
+            },
+            {
+                "name": "Chengjie Deng"
+            },
+            {
+                "name": "Jiaxing Zhu"
+            },
+            {
+                "name": "Yongcheng Zhu"
+            },
+            {
+                "name": "Qi Xu"
+            },
+            {
+                "name": "Borui Jiang"
+            },
+            {
+                "name": "Long Chen"
+            },
+            {
+                "name": "Yuxuan Liu"
+            },
+            {
+                "name": "Boxiang Song"
+            },
+            {
+                "name": "Ping Fu"
+            },
+            {
+                "name": "Chao Chen"
+            },
+            {
+                "name": "Liang Gao"
+            },
+            {
+                "name": "Jiang Tang"
+            }
+        ],
+        "author": "Jiang Tang",
+        "author_detail": {
+            "name": "Ciyu Ge"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02127-y",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-20; | doi:10.1038/s41377-025-02127-y",
+        "updated": "2026-01-20",
+        "updated_parsed": [
+            2026,
+            1,
+            20,
+            0,
+            0,
+            0,
+            1,
+            20,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02127-y",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02127-y",
+        "journal": "Light: Science & Applications",
+        "title_cn": "具有单片集成功能的近红外锡铅钙钛矿成像仪",
+        "abstract_cn": "采用 Sn(SCN)2 钝化的单片 Sn-Pb 钙钛矿近红外成像仪可实现低暗电流、高探测率和材料识别，从而实现先进的传感和成像。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02182-5",
+        "title": "High-efficiency femtosecond laser fabrication of graphene-hybrid planar micro-supercapacitors with micro/nanostructured electrodes",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "High-efficiency femtosecond laser fabrication of graphene-hybrid planar micro-supercapacitors with micro/nanostructured electrodes"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02182-5"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02182-5",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 21 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02182-5\">doi:10.1038/s41377-025-02182-5</a></p>Universal femtosecond laser and spatial light modulation enable rapid fabrication of graphene-hybrid micro-supercapacitors on silicon. Simultaneous formation of ordered subwavelength electrode micro/nanostructures boosts processing efficiency and device performance."
+            }
+        ],
+        "summary": "Universal femtosecond laser and spatial light modulation enable rapid fabrication of graphene-hybrid micro-supercapacitors on silicon. Simultaneous formation of ordered subwavelength electrode micro/nanostructures boosts processing efficiency and device performance.",
+        "authors": [
+            {
+                "name": "Yuyuan Zhang"
+            },
+            {
+                "name": "Tingting Zou"
+            },
+            {
+                "name": "Haobo Jiang"
+            },
+            {
+                "name": "Xiuyan Fu"
+            },
+            {
+                "name": "Wei Xin"
+            },
+            {
+                "name": "Yiyang Meng"
+            },
+            {
+                "name": "Xilin Li"
+            },
+            {
+                "name": "Jun-Ming Cao"
+            },
+            {
+                "name": "Lin Yang"
+            },
+            {
+                "name": "Yuanzheng Li"
+            },
+            {
+                "name": "Weizhen Liu"
+            },
+            {
+                "name": "Dongdong Han"
+            },
+            {
+                "name": "Xing-Long Wu"
+            },
+            {
+                "name": "Jianjun Yang"
+            },
+            {
+                "name": "Haiyang Xu"
+            },
+            {
+                "name": "Yichun Liu"
+            }
+        ],
+        "author": "Yichun Liu",
+        "author_detail": {
+            "name": "Yuyuan Zhang"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02182-5",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-21; | doi:10.1038/s41377-025-02182-5",
+        "updated": "2026-01-21",
+        "updated_parsed": [
+            2026,
+            1,
+            21,
+            0,
+            0,
+            0,
+            2,
+            21,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02182-5",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02182-5",
+        "journal": "Light: Science & Applications",
+        "title_cn": "具有微/纳米结构电极的石墨烯混合平面微型超级电容器的高效飞秒激光制造",
+        "abstract_cn": "通用飞秒激光和空间光调制能够在硅上快速制造石墨烯混合微型超级电容器。同时形成有序亚波长电极微/纳米结构可提高加工效率和器件性能。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02172-7",
+        "title": "TRIXS: a multilayer grating solution towards highly efficient resonant inelastic tender X-ray scattering",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "TRIXS: a multilayer grating solution towards highly efficient resonant inelastic tender X-ray scattering"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02172-7"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02172-7",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 21 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02172-7\">doi:10.1038/s41377-025-02172-7</a></p>Multilayer-grating-based spectrometer with high photon flux and moderate energy resolution for tender X-ray"
+            }
+        ],
+        "summary": "Multilayer-grating-based spectrometer with high photon flux and moderate energy resolution for tender X-ray",
+        "authors": [
+            {
+                "name": "Ke-Jin Zhou"
+            },
+            {
+                "name": "Qiushi Huang"
+            },
+            {
+                "name": "Mirian Garcia-Fernandez"
+            },
+            {
+                "name": "Yeqi Zhuang"
+            },
+            {
+                "name": "Stefano Agrestini"
+            },
+            {
+                "name": "Shengyou Wen"
+            },
+            {
+                "name": "Thomas Rice"
+            },
+            {
+                "name": "Sahil Tippireddy"
+            },
+            {
+                "name": "Jaewon Choi"
+            },
+            {
+                "name": "Andrew Walters"
+            },
+            {
+                "name": "Igor V. Kozhevnikov"
+            },
+            {
+                "name": "Zhe Zhang"
+            },
+            {
+                "name": "Runze Qi"
+            },
+            {
+                "name": "Zhong Zhang"
+            },
+            {
+                "name": "Hongchang Wang"
+            },
+            {
+                "name": "Zhanshan Wang"
+            }
+        ],
+        "author": "Zhanshan Wang",
+        "author_detail": {
+            "name": "Ke-Jin Zhou"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02172-7",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-21; | doi:10.1038/s41377-025-02172-7",
+        "updated": "2026-01-21",
+        "updated_parsed": [
+            2026,
+            1,
+            21,
+            0,
+            0,
+            0,
+            2,
+            21,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02172-7",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02172-7",
+        "journal": "Light: Science & Applications",
+        "title_cn": "TRIXS：一种多层光栅解决方案，可实现高效共振非弹性 X 射线散射",
+        "abstract_cn": "基于多层光栅的光谱仪，具有高光子通量和中等能量分辨率，适用于柔和的 X 射线"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-026-02190-z",
+        "title": "Detection and imaging of chemicals and hidden explosives using terahertz time-domain spectroscopy and deep learning",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Detection and imaging of chemicals and hidden explosives using terahertz time-domain spectroscopy and deep learning"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-026-02190-z"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-026-02190-z",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41377-026-02190-z\">doi:10.1038/s41377-026-02190-z</a></p>Detection and imaging of chemicals and hidden explosives using terahertz time-domain spectroscopy and deep learning"
+            }
+        ],
+        "summary": "Detecting concealed chemicals and explosives remains a critical challenge in global security. Terahertz time-domain spectroscopy (THz-TDS) offers a promising non-invasive and stand-off detection technique owing to its ability to penetrate optically opaque materials without causing ionization damage. While many chemicals exhibit distinct spectral features in the terahertz range, conventional terahertz-based detection methods often struggle in real-world environments, where variations in sample geometry, thickness, and packaging can lead to inconsistent spectral responses. In this study, we present a chemical imaging system that integrates THz-TDS with deep learning to enable accurate pixel-level identification and classification of different explosives. Operating in reflection mode and enhanced with plasmonic nanoantenna arrays, our THz-TDS system achieves a peak dynamic range of 96 dB and a detection bandwidth of 4.5 THz, supporting practical, stand-off operation. By analyzing individual time-domain pulses with deep neural networks, the system exhibits strong resilience to environmental variations and sample inconsistencies. Blind testing across eight chemicals—including pharmaceutical excipients and explosive compounds—resulted in an average classification accuracy of 99.42% at the pixel level. Notably, the system maintained an average accuracy of 88.83% when detecting explosives concealed under opaque paper coverings, demonstrating its robust generalization capability. These results highlight the potential of combining advanced terahertz spectroscopy with neural networks for highly sensitive and specific chemical and explosive detection in diverse and operationally relevant scenarios.",
+        "authors": [
+            {
+                "name": "Xinghe Jiang"
+            },
+            {
+                "name": "Yuhang Li"
+            },
+            {
+                "name": "Yuzhu Li"
+            },
+            {
+                "name": "Che-Yung Shen"
+            },
+            {
+                "name": "Aydogan Ozcan"
+            },
+            {
+                "name": "Mona Jarrahi"
+            }
+        ],
+        "author": "Mona Jarrahi",
+        "author_detail": {
+            "name": "Xinghe Jiang"
+        },
+        "dc_identifier": "doi:10.1038/s41377-026-02190-z",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-22; | doi:10.1038/s41377-026-02190-z",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-026-02190-z",
+        "prism_url": "https://www.nature.com/articles/s41377-026-02190-z",
+        "journal": "Light: Science & Applications",
+        "title_cn": "使用太赫兹时域光谱和深度学习对化学品和隐藏爆炸物进行检测和成像",
+        "abstract_cn": "检测隐藏的化学品和爆炸物仍然是全球安全的一项严峻挑战。太赫兹时域光谱（THz-TDS）提供了一种有前途的非侵入性和远距离检测技术，因为它能够穿透光学不透明材料而不造成电离损伤。虽然许多化学品在太赫兹范围内表现出独特的光谱特征，但传统的基于太赫兹的检测方法通常在现实环境中举步维艰，其中样品几何形状、厚度和包装的变化可能导致光谱响应不一致。在这项研究中，我们提出了一种化学成像系统，它将 THz-TDS 与深度学习相结合，能够对不同爆炸物进行精确的像素级识别和分类。我们的 THz-TDS 系统在反射模式下运行，并通过等离子体纳米天线阵列进行增强，可实现 96dB 的峰值动态范围和 4.5THz 的检测带宽，支持实际的隔离操作。通过使用深度神经网络分析单个时域脉冲，该系统对环境变化和样本不一致表现出强大的适应能力。对八种化学品（包括药用辅料和爆炸性化合物）进行盲测，像素级平均分类准确度达到 99.42%。值得注意的是，该系统在检测隐藏在不透明纸质覆盖物下的爆炸物时，平均准确率保持在 88.83%，展示了其强大的泛化能力。这些结果凸显了将先进的太赫兹光谱与神经网络相结合的潜力，可在多种和操作相关的场景中进行高灵敏度和特定的化学和爆炸物检测。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02169-2",
+        "title": "Dispersion engineering by rotational symmetry breaking in an optical microcavity",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Dispersion engineering by rotational symmetry breaking in an optical microcavity"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02169-2"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02169-2",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02169-2\">doi:10.1038/s41377-025-02169-2</a></p>Dispersion engineering by rotational symmetry breaking in an optical microcavity"
+            }
+        ],
+        "summary": "Dispersion engineering is pivotal for nonlinear optics, yet it often faces challenges posed by material and structural limitations. Here, we establish rotational symmetry breaking as the guiding principle for dispersion engineering in optical microcavities. Through boundary deformation, multi-branch global dispersion emerges in island modes, and local dispersion is controlled via resonance-assisted tunneling between quasi-whispering gallery modes. Enabled by the global dispersion, the optical parametric oscillation is predicted in blue-violet light spectrum with high efficiency (&gt;55%) and large frequency separation (&gt;180 THz). Using the local dispersion engineering, the doubly-resonant enhancement of second-harmonic generation is regulated by the resonance-assisted tunneling.",
+        "authors": [
+            {
+                "name": "Jian-Zheng Ren"
+            },
+            {
+                "name": "Li-Jie Li"
+            },
+            {
+                "name": "Rui-Qi Zhang"
+            },
+            {
+                "name": "Zhi-Yan Wang"
+            },
+            {
+                "name": "Qi-Tao Cao"
+            },
+            {
+                "name": "Yun-Feng Xiao"
+            }
+        ],
+        "author": "Yun-Feng Xiao",
+        "author_detail": {
+            "name": "Jian-Zheng Ren"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02169-2",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-22; | doi:10.1038/s41377-025-02169-2",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02169-2",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02169-2",
+        "journal": "Light: Science & Applications",
+        "title_cn": "光学微腔中旋转对称破缺的色散工程",
+        "abstract_cn": "色散工程对于非线性光学至关重要，但它经常面临材料和结构限制带来的挑战。在这里，我们将旋转对称破缺确立为光学微腔色散工程的指导原则。通过边界变形，在岛模式中出现多分支全局色散，并且通过准回音壁模式之间的共振辅助隧道控制局部色散。通过全局色散，可以预测蓝紫光光谱中的光学参量振荡具有高效率（> 55％）和大频率间隔（> 180 THz）。利用局部色散工程，通过谐振辅助隧道调节二次谐波产生的双谐振增强。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02057-9",
+        "title": "Soft X-ray imaging with coherence tomography in the water window spectral range using high-harmonic generation",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Soft X-ray imaging with coherence tomography in the water window spectral range using high-harmonic generation"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02057-9"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02057-9",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02057-9\">doi:10.1038/s41377-025-02057-9</a></p>Water window imaging with high-harmonic generation is achieved using soft X-ray coherence tomography (SXCT), revealing the cross-sectional structure of buried nanolayers with 12 nm axial resolution."
+            }
+        ],
+        "summary": "Water window imaging with high-harmonic generation is achieved using soft X-ray coherence tomography (SXCT), revealing the cross-sectional structure of buried nanolayers with 12 nm axial resolution.",
+        "authors": [
+            {
+                "name": "Julius Reinhard"
+            },
+            {
+                "name": "Felix Wiesner"
+            },
+            {
+                "name": "Martin Hennecke"
+            },
+            {
+                "name": "Themistoklis Sidiropoulos"
+            },
+            {
+                "name": "Sophia Kaleta"
+            },
+            {
+                "name": "Julian Späthe"
+            },
+            {
+                "name": "Johann Jakob Abel"
+            },
+            {
+                "name": "Martin Wünsche"
+            },
+            {
+                "name": "Gabriele Schmidl"
+            },
+            {
+                "name": "Jonathan Plentz"
+            },
+            {
+                "name": "Uwe Hübner"
+            },
+            {
+                "name": "Katharina Freiberg"
+            },
+            {
+                "name": "Jonathan Apell"
+            },
+            {
+                "name": "Stephanie Lippmann"
+            },
+            {
+                "name": "Matthias Schnürer"
+            },
+            {
+                "name": "Stefan Eisebitt"
+            },
+            {
+                "name": "Gerhard G. Paulus"
+            },
+            {
+                "name": "Silvio Fuchs"
+            }
+        ],
+        "author": "Silvio Fuchs",
+        "author_detail": {
+            "name": "Julius Reinhard"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02057-9",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-22; | doi:10.1038/s41377-025-02057-9",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02057-9",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02057-9",
+        "journal": "Light: Science & Applications",
+        "title_cn": "使用高次谐波发生在水窗光谱范围内进行相干断层扫描的软 X 射线成像",
+        "abstract_cn": "使用软 X 射线相干断层扫描 (SXCT) 实现高次谐波产生的水窗成像，以 12 nm 轴向分辨率揭示埋入纳米层的横截面结构。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02109-0",
+        "title": "Experimental demonstration of spatiotemporal analog computation in ultrafast optics",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Experimental demonstration of spatiotemporal analog computation in ultrafast optics"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02109-0"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02109-0",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02109-0\">doi:10.1038/s41377-025-02109-0</a></p>Experimental demonstration of spatiotemporal analog computation in ultrafast optics"
+            }
+        ],
+        "summary": "It is intractable to perform information processing and computation on single ultrafast optical pulses, within picoseconds or even femtoseconds. Here, we experimentally demonstrate an optical spatiotemporal differentiator, a mirror-symmetry-breaking dielectric metagrating, which performs analog computations of both spatial and temporal differentiations on single ultrafast optical wavepackets. The spatiotemporal differentiator is designed with a transfer function with linear dependence on spatial wavevector and temporal frequency and fabricated by using a double-exposure E-beam lithography process. We achieve the first-order spatiotemporal differentiation with experimental resolutions of approximately 14 μm (in space) and 260 fs (in time). Furthermore, we report a parabolic relationship between the transverse velocity of a front-tilted photonic wavepacket and the normalized intensity of its first-order spatiotemporal-differentiation wavepacket. This relationship allows direct measurement of the transverse velocity using only the normalized intensity, fundamentally simplifying velocity detection. These capabilities of optical spatiotemporal computation endow emerging space-time optics with fundamental computation blocks.",
+        "authors": [
+            {
+                "name": "Junyi Huang"
+            },
+            {
+                "name": "Dong Zhao"
+            },
+            {
+                "name": "Jixuan Shi"
+            },
+            {
+                "name": "Hongliang Zhang"
+            },
+            {
+                "name": "Hengyi Wang"
+            },
+            {
+                "name": "Fang-Wen Sun"
+            },
+            {
+                "name": "Qiwen Zhan"
+            },
+            {
+                "name": "Shiyao Zhu"
+            },
+            {
+                "name": "Kun Huang"
+            },
+            {
+                "name": "Zhichao Ruan"
+            }
+        ],
+        "author": "Zhichao Ruan",
+        "author_detail": {
+            "name": "Junyi Huang"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02109-0",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-22; | doi:10.1038/s41377-025-02109-0",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02109-0",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02109-0",
+        "journal": "Light: Science & Applications",
+        "title_cn": "超快光学时空模拟计算的实验演示",
+        "abstract_cn": "在皮秒甚至飞秒内对单个超快光脉冲进行信息处理和计算是很困难的。在这里，我们通过实验演示了一种光学时空微分器，一种打破镜像对称的介电元光栅，它可以对单个超快光波包的空间和时间微分进行模拟计算。时空微分器的设计具有与空间波矢量和时间频率线性相关的传递函数，并通过使用双曝光电子束光刻工艺制造。我们以大约 14 μm（空间）和 260fs（时间）的实验分辨率实现了一阶时空微分。此外，我们报告了前倾光子波包的横向速度与其一阶时空微分波包的归一化强度之间的抛物线关系。这种关系允许仅使用归一化强度直接测量横向速度，从根本上简化了速度检测。光学时空计算的这些能力赋予新兴的时空光学基本的计算模块。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02102-7",
+        "title": "Generation of vectorial generalized vortex array with metasurfaces",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Generation of vectorial generalized vortex array with metasurfaces"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02102-7"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02102-7",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02102-7\">doi:10.1038/s41377-025-02102-7</a></p>Generation of vectorial generalized vortex array with metasurfaces"
+            }
+        ],
+        "summary": "The ability to create complex three-dimensional structures of light is extremely challenging. Now, a technique combining Dammann optimization with metasurfaces has been developed, enabling control over all parameters, including polarization, phase, angular momentum, and spatial modes. The generation of three-dimensional generalized vortex beams can open new horizons for their applications in photonics.",
+        "authors": [
+            {
+                "name": "Qingsong Yao"
+            },
+            {
+                "name": "Zile Li"
+            },
+            {
+                "name": "Guoxing Zheng"
+            }
+        ],
+        "author": "Guoxing Zheng",
+        "author_detail": {
+            "name": "Qingsong Yao"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02102-7",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-22; | doi:10.1038/s41377-025-02102-7",
+        "updated": "2026-01-22",
+        "updated_parsed": [
+            2026,
+            1,
+            22,
+            0,
+            0,
+            0,
+            3,
+            22,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02102-7",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02102-7",
+        "journal": "Light: Science & Applications",
+        "title_cn": "具有超表面的矢量广义涡阵列的生成",
+        "abstract_cn": "创建复杂的三维光结构的能力极具挑战性。现在，一种将达曼优化与超表面相结合的技术已经开发出来，可以控制所有参数，包括偏振、相位、角动量和空间模式。三维广义涡旋光束的产生可以为其在光子学中的应用开辟新的视野。"
     }
 ]

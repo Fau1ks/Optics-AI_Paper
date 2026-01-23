@@ -9096,5 +9096,67 @@
         "journal": "Optics Letters",
         "title_cn": "基于柔性硫属化物聚合物的中红外微光学元件",
         "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41377-025-02132-1",
+        "title": "III-Nitrides empower miniaturized spectral imager in ultraviolet",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "III-Nitrides empower miniaturized spectral imager in ultraviolet"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41377-025-02132-1"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41377-025-02132-1",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Light: Science &amp; Applications, Published online: 23 January 2026; <a href=\"https://www.nature.com/articles/s41377-025-02132-1\">doi:10.1038/s41377-025-02132-1</a></p>A miniaturized on-chip spectral imager based on III-nitride cascaded photodiodes achieves 0.62 nm accuracy and sub-10 ns response, extending spectral imaging into the ultraviolet regime."
+            }
+        ],
+        "summary": "A miniaturized on-chip spectral imager based on III-nitride cascaded photodiodes achieves 0.62 nm accuracy and sub-10 ns response, extending spectral imaging into the ultraviolet regime.",
+        "authors": [
+            {
+                "name": "Yuji Zhao"
+            },
+            {
+                "name": "Tao Li"
+            },
+            {
+                "name": "Boon Ooi"
+            }
+        ],
+        "author": "Boon Ooi",
+        "author_detail": {
+            "name": "Yuji Zhao"
+        },
+        "dc_identifier": "doi:10.1038/s41377-025-02132-1",
+        "dc_source": "Light: Science & Applications, Published online: 2026-01-23; | doi:10.1038/s41377-025-02132-1",
+        "updated": "2026-01-23",
+        "updated_parsed": [
+            2026,
+            1,
+            23,
+            0,
+            0,
+            0,
+            4,
+            23,
+            0
+        ],
+        "prism_publicationname": "Light: Science & Applications",
+        "prism_doi": "10.1038/s41377-025-02132-1",
+        "prism_url": "https://www.nature.com/articles/s41377-025-02132-1",
+        "journal": "Light: Science & Applications",
+        "title_cn": "III-氮化物赋​​予微型紫外光谱成像仪",
+        "abstract_cn": "基于 III 族氮化物级联光电二极管的小型化片上光谱成像仪可实现 0.62 nm 精度和亚 10 ns 响应，将光谱成像扩展到紫外区域。"
     }
 ]

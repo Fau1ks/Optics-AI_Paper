@@ -155,5 +155,129 @@
         "journal": "Optics and Laser Technology",
         "title_cn": "太赫兹成像技术研究进展及应用前景综述",
         "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "id": "https://doi.org/10.1364/prj.577410",
+        "title": "A Comprehensive Review of Recent Advances in Graphene-Based Self-Powered Photodetectors for Flexible and Sustainable Photonic Technologies",
+        "link": "https://doi.org/10.1364/prj.577410",
+        "published": "2026-01-23",
+        "author": "Muhammad Sulaman, Ammarah Afzal, Muhammad Qasim, Shareen Shafique, Yang Wang, Chuanbo li, Xin Tang",
+        "summary": "Abstract not available.",
+        "journal": "Photonics Research",
+        "title_cn": "全面回顾基于石墨烯的自供电光电探测器的最新进展，以实现灵活和可持续的光子技术",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/prj.584792",
+        "title": "Neural Network Assisted Design of High-performance Broadband All-dielectric Infrared Metasurface Absorber with High Fabrication Tolerance",
+        "link": "https://doi.org/10.1364/prj.584792",
+        "published": "2026-01-23",
+        "author": "wenqian zhang, Ruoxin Fan, Yan Miao, Jinguo Chen, Youxin Chen, Qingkang WANG",
+        "summary": "Abstract not available.",
+        "journal": "Photonics Research",
+        "title_cn": "具有高制造公差的高性能宽带全电介质红外超表面吸收器的神经网络辅助设计",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1002/adpr.202500296",
+        "title": "Polariton‐Mediated Energy Transfer in a Tunable Optical Multimode Microcavity Exceeding 10 μm",
+        "link": "https://doi.org/10.1002/adpr.202500296",
+        "published": "2026-01-23",
+        "author": "Christoph Kertzscher, Michael Mauch, Jakob Keck, Alfred J. Meixner",
+        "summary": "<jats:p>Energy transfer between a donor‐acceptor pair of J‐aggregated dyes, which are spin‐coated onto the mirrors of a tunable Fabry–Pérot microresonator, is studied. It is found that both donor and acceptor are strongly coupled to the optical modes of the resonator and form hybrid light–matter states (polaritons). The shapes of the fluorescence spectra show efficient energy transfer from donor to acceptor, which are separated up to 11 μm. Within the same measurement, the energy transfer efficiency appears to be independent of donor–acceptor separation. The observed fluorescence features are well explained by a phenomenological Hamiltonian, which models the emerging polariton modes and rate equations.</jats:p>",
+        "journal": "Advanced Photonics Research",
+        "title_cn": "超过 10μm 的可调谐光学多模微腔中极化子介导的能量传输",
+        "abstract_cn": "<jats:p>研究了 J 聚集染料的供体-受体对之间的能量转移，这些染料被旋涂到可调谐法布里-珀罗微谐振器的镜子上。研究发现，供体和受体都与谐振器的光学模式强烈耦合，并形成混合光-物质态（极化子）。荧光光谱的形状显示了从供体到受体的有效能量转移，其间隔可达 11μm。在相同的测量中，能量转移效率似乎与供体-受体分离无关。现象学哈密顿量可以很好地解释观察到的荧光特征，该哈密顿量模拟了新兴的极化子模式和速率方程。</jats:p>"
+    },
+    {
+        "id": "https://doi.org/10.1002/adpr.202500245",
+        "title": "Phenanthroline‐Modified Electrodes for Suppressing Moisture‐Induced Degradation in Nonencapsulated Organic Light‐Emitting Diodes",
+        "link": "https://doi.org/10.1002/adpr.202500245",
+        "published": "2026-01-23",
+        "author": "Takuya Okada, Tsubasa Sasaki, Taku Oono, Hirohiko Fukagawa, Takahisa Shimizu",
+        "summary": "<jats:p>Electron injection stability is crucial for organic semiconductors. Although phenanthroline (Phen) derivatives are stable and efficient electrode modification materials, their air stability is underexplored, and the impacts of environmental factors on Phen‐modified electrodes are not well understood. This study investigates the degradation of Phen‐modified organic light‐emitting diodes (OLEDs) by monitoring temporal changes in the light‐emitting area under ambient air exposure without encapsulation. The results demonstrate that Phen modification stabilizes electron injection under room‐temperature and atmospheric‐pressure conditions. The degradation behavior is consistent with Fick's law of diffusion. A strong correlation between the degradation rate and relative humidity indicates a mechanism wherein water molecule diffusion governs the degradation process. The film densities of Phen derivatives are calculated using molecular dynamics simulations. High‐density modifier films may physically hinder water diffusion, suppressing degradation. These findings highlight the potential of Phen‐based materials to enable high‐performance organic electronics with efficient electron injection and enhanced stability under minimal encapsulation.</jats:p>",
+        "journal": "Advanced Photonics Research",
+        "title_cn": "用于抑制非封装有机发光二极管中水分引起的降解的菲咯啉修饰电极",
+        "abstract_cn": "<jats:p>电子注入稳定性对于有机半导体至关重要。尽管菲咯啉（Phen）衍生物是稳定高效的电极修饰材料，但其空气稳定性尚未得到充分研究，环境因素对 Phen 修饰电极的影响尚不清楚。本研究通过监测未封装的环境空气暴露下发光区域的时间变化来研究 Phen 修饰的有机发光二极管 (OLED) 的降解情况。结果表明，Phen 修饰可以在室温和大气压条件下稳定电子注入。降解行为符合菲克扩散定律。降解速率和相对湿度之间的强相关性表明水分子扩散控制降解过程的机制。 Phen 衍生物的膜密度是使用分子动力学模拟计算的。高密度改性剂膜可能会物理阻碍水扩散，从而抑制降解。这些发现凸显了 Phen 基材料在实现高性能有机电子器件方面的潜力，在最小封装下具有高效的电子注入和增强的稳定性。</jats:p>"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41566-026-01853-y",
+        "title": "Publisher Correction: Spontaneous 2D perovskite formation at the buried interface of perovskite solar cells enhances crystallization uniformity and defect passivation",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Publisher Correction: Spontaneous 2D perovskite formation at the buried interface of perovskite solar cells enhances crystallization uniformity and defect passivation"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41566-026-01853-y"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41566-026-01853-y",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Nature Photonics, Published online: 23 January 2026; <a href=\"https://www.nature.com/articles/s41566-026-01853-y\">doi:10.1038/s41566-026-01853-y</a></p>Publisher Correction: Spontaneous 2D perovskite formation at the buried interface of perovskite solar cells enhances crystallization uniformity and defect passivation"
+            }
+        ],
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "authors": [
+            {
+                "name": "Yuping Gao"
+            },
+            {
+                "name": "Hang Liu"
+            },
+            {
+                "name": "Zonglong Song"
+            },
+            {
+                "name": "Yu Chen"
+            },
+            {
+                "name": "Liu Yang"
+            },
+            {
+                "name": "Ziyang Hu"
+            },
+            {
+                "name": "Yu Zou"
+            },
+            {
+                "name": "Yongsheng Chen"
+            },
+            {
+                "name": "Yongsheng Liu"
+            }
+        ],
+        "author": "Yongsheng Liu",
+        "author_detail": {
+            "name": "Yuping Gao"
+        },
+        "dc_identifier": "doi:10.1038/s41566-026-01853-y",
+        "dc_source": "Nature Photonics, Published online: 2026-01-23; | doi:10.1038/s41566-026-01853-y",
+        "updated": "2026-01-23",
+        "updated_parsed": [
+            2026,
+            1,
+            23,
+            0,
+            0,
+            0,
+            4,
+            23,
+            0
+        ],
+        "prism_publicationname": "Nature Photonics",
+        "prism_doi": "10.1038/s41566-026-01853-y",
+        "prism_url": "https://www.nature.com/articles/s41566-026-01853-y",
+        "journal": "Nature Photonics",
+        "title_cn": "出版商更正：钙钛矿太阳能电池埋入界面处自发形成的二维钙钛矿增强了结晶均匀性和缺陷钝化",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
     }
 ]

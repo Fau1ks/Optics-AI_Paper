@@ -8361,5 +8361,729 @@
         "journal": "arXiv: Nerf",
         "title_cn": "ThermoSplat：具有特征调制和几何解耦的跨模态 3D 高斯喷射",
         "abstract_cn": "集成 RGB 和热红外数据的多模态场景重建对于在不同照明和天气条件下实现稳健的环境感知至关重要。然而，将 3D 高斯散射 (3DGS) 扩展到多光谱场景仍然具有挑战性。当前的方法通常难以充分利用多模态数据的互补信息，通常依赖于往往忽略跨模态相关性或利用无法自适应处理频谱之间复杂的结构相关性和物理差异的共享表示的机制。为了解决这些限制，我们提出了 ThermoSplat，这是一种新颖的框架，可以通过主动特征调制和自适应几何解耦来实现深度光谱感知重建。首先，我们引入了一种跨模态 FiLM 调制机制，该机制可动态调节热结构先验的共享潜在特征，从而通过可靠的跨模态几何线索有效地指导可见纹理合成。其次，为了适应特定于模态的几何不一致，我们提出了一种模态自适应几何解耦方案，该方案可以学习独立的不透明度偏移并为热分支执行独立的光栅化通道。此外，还采用混合渲染管道将显式球谐函数与隐式神经解码相集成，确保语义一致性和高频细节保留。对 RGBT-Scenes 数据集的大量实验表明，ThermoSplat 在可见光和热光谱方面均实现了最先进的渲染质量。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41566-025-01828-5",
+        "title": "Multiplying matrices in a single pass with light",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Multiplying matrices in a single pass with light"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41566-025-01828-5"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41566-025-01828-5",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Nature Photonics, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41566-025-01828-5\">doi:10.1038/s41566-025-01828-5</a></p>Optical computing has been limited to vector–matrix multiplications, with matrix–matrix operations requiring wavelength- or time-division multiplexing, reducing energy efficiency and speed. Now, researchers have demonstrated a free-space optical approach that overcomes these limitations, enabling parallel matrix–matrix and tensor–matrix multiplications in a single optical operation."
+            }
+        ],
+        "summary": "Optical computing has been limited to vector–matrix multiplications, with matrix–matrix operations requiring wavelength- or time-division multiplexing, reducing energy efficiency and speed. Now, researchers have demonstrated a free-space optical approach that overcomes these limitations, enabling parallel matrix–matrix and tensor–matrix multiplications in a single optical operation.",
+        "authors": [
+            {
+                "name": "Carlos A. Ríos Ocampo"
+            },
+            {
+                "name": "Nathan Youngblood"
+            }
+        ],
+        "author": "Nathan Youngblood",
+        "author_detail": {
+            "name": "Carlos A. Ríos Ocampo"
+        },
+        "dc_identifier": "doi:10.1038/s41566-025-01828-5",
+        "dc_source": "Nature Photonics, Published online: 2026-01-06; | doi:10.1038/s41566-025-01828-5",
+        "updated": "2026-01-06",
+        "updated_parsed": [
+            2026,
+            1,
+            6,
+            0,
+            0,
+            0,
+            1,
+            6,
+            0
+        ],
+        "prism_publicationname": "Nature Photonics",
+        "prism_doi": "10.1038/s41566-025-01828-5",
+        "prism_url": "https://www.nature.com/articles/s41566-025-01828-5",
+        "journal": "Nature Photonics",
+        "title_cn": "用光单次将矩阵相乘",
+        "abstract_cn": "光学计算仅限于矢量矩阵乘法，矩阵运算需要波长或时分复用，从而降低了能源效率和速度。现在，研究人员展示了一种克服这些限制的自由空间光学方法，能够在单个光学操作中实现并行矩阵-矩阵和张量-矩阵乘法。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41566-025-01812-z",
+        "title": "In-pixel colour correction with organic self-adaptive transistors",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "In-pixel colour correction with organic self-adaptive transistors"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41566-025-01812-z"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41566-025-01812-z",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Nature Photonics, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41566-025-01812-z\">doi:10.1038/s41566-025-01812-z</a></p>A colour correction array featuring red-, green- and blue-sensitive organic transistors integrated within a single pixel enables self-adaptive intensity and colour correction."
+            }
+        ],
+        "summary": "A colour correction array featuring red-, green- and blue-sensitive organic transistors integrated within a single pixel enables self-adaptive intensity and colour correction.",
+        "authors": [
+            {
+                "name": "Zihan He"
+            },
+            {
+                "name": "Wei Wang"
+            },
+            {
+                "name": "Zepang Zhan"
+            },
+            {
+                "name": "Lingxuan Jia"
+            },
+            {
+                "name": "Yutao Ge"
+            },
+            {
+                "name": "Zitong Zhan"
+            },
+            {
+                "name": "Peiyao Xue"
+            },
+            {
+                "name": "Weijie Wang"
+            },
+            {
+                "name": "Lanyi Xiang"
+            },
+            {
+                "name": "Yingqiao Ma"
+            },
+            {
+                "name": "Yawen Li"
+            },
+            {
+                "name": "Zhiyi Li"
+            },
+            {
+                "name": "Xiaojuan Dai"
+            },
+            {
+                "name": "Dekai Ye"
+            },
+            {
+                "name": "Liyao Liu"
+            },
+            {
+                "name": "Fengjiao Zhang"
+            },
+            {
+                "name": "Ye Zou"
+            },
+            {
+                "name": "Yuze Lin"
+            },
+            {
+                "name": "Xiaowei Zhan"
+            },
+            {
+                "name": "Daoben Zhu"
+            },
+            {
+                "name": "Chong-an Di"
+            }
+        ],
+        "author": "Chong-an Di",
+        "author_detail": {
+            "name": "Zihan He"
+        },
+        "dc_identifier": "doi:10.1038/s41566-025-01812-z",
+        "dc_source": "Nature Photonics, Published online: 2026-01-07; | doi:10.1038/s41566-025-01812-z",
+        "updated": "2026-01-07",
+        "updated_parsed": [
+            2026,
+            1,
+            7,
+            0,
+            0,
+            0,
+            2,
+            7,
+            0
+        ],
+        "prism_publicationname": "Nature Photonics",
+        "prism_doi": "10.1038/s41566-025-01812-z",
+        "prism_url": "https://www.nature.com/articles/s41566-025-01812-z",
+        "journal": "Nature Photonics",
+        "title_cn": "使用有机自适应晶体管进行像素内色彩校正",
+        "abstract_cn": "色彩校正阵列在单个像素内集成了红色、绿色和蓝色敏感有机晶体管，可实现自适应强度和色彩校正。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41566-025-01810-1",
+        "title": "Stable deep-blue organic light-emitting diodes based on sensitized fluorescence",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Stable deep-blue organic light-emitting diodes based on sensitized fluorescence"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41566-025-01810-1"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41566-025-01810-1",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Nature Photonics, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41566-025-01810-1\">doi:10.1038/s41566-025-01810-1</a></p>This Review discusses recent advances in sensitized fluorescence emitters for deep-blue organic light-emitting diodes, reviewing progress in molecular design and device performance as well as key remaining challenges."
+            }
+        ],
+        "summary": "This Review discusses recent advances in sensitized fluorescence emitters for deep-blue organic light-emitting diodes, reviewing progress in molecular design and device performance as well as key remaining challenges.",
+        "authors": [
+            {
+                "name": "Dongdong Zhang"
+            },
+            {
+                "name": "Hengyi Dai"
+            },
+            {
+                "name": "Hai Zhang"
+            },
+            {
+                "name": "Lian Duan"
+            }
+        ],
+        "author": "Lian Duan",
+        "author_detail": {
+            "name": "Dongdong Zhang"
+        },
+        "dc_identifier": "doi:10.1038/s41566-025-01810-1",
+        "dc_source": "Nature Photonics, Published online: 2026-01-08; | doi:10.1038/s41566-025-01810-1",
+        "updated": "2026-01-08",
+        "updated_parsed": [
+            2026,
+            1,
+            8,
+            0,
+            0,
+            0,
+            3,
+            8,
+            0
+        ],
+        "prism_publicationname": "Nature Photonics",
+        "prism_doi": "10.1038/s41566-025-01810-1",
+        "prism_url": "https://www.nature.com/articles/s41566-025-01810-1",
+        "journal": "Nature Photonics",
+        "title_cn": "基于敏化荧光的稳定深蓝色有机发光二极管",
+        "abstract_cn": "本综述讨论了深蓝色有机发光二极管敏化荧光发射器的最新进展，回顾了分子设计和器件性能方面的进展以及仍然存在的关键挑战。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41566-025-01823-w",
+        "title": "Encoding and manipulating ultrafast coherent valleytronic information with lightwaves",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Encoding and manipulating ultrafast coherent valleytronic information with lightwaves"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41566-025-01823-w"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41566-025-01823-w",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Nature Photonics, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41566-025-01823-w\">doi:10.1038/s41566-025-01823-w</a></p>A method to coherently manipulate excitons and perform all-optical logic operations using the valley degree of freedom in monolayer WS2 is discussed."
+            }
+        ],
+        "summary": "A method to coherently manipulate excitons and perform all-optical logic operations using the valley degree of freedom in monolayer WS2 is discussed.",
+        "authors": [
+            {
+                "name": "Francesco Gucci"
+            },
+            {
+                "name": "Eduardo B. Molinero"
+            },
+            {
+                "name": "Mattia Russo"
+            },
+            {
+                "name": "Pablo San-Jose"
+            },
+            {
+                "name": "Franco V. A. Camargo"
+            },
+            {
+                "name": "Margherita Maiuri"
+            },
+            {
+                "name": "Misha Ivanov"
+            },
+            {
+                "name": "Álvaro Jiménez-Galán"
+            },
+            {
+                "name": "Rui E. F. Silva"
+            },
+            {
+                "name": "Stefano Dal Conte"
+            },
+            {
+                "name": "Giulio Cerullo"
+            }
+        ],
+        "author": "Giulio Cerullo",
+        "author_detail": {
+            "name": "Francesco Gucci"
+        },
+        "dc_identifier": "doi:10.1038/s41566-025-01823-w",
+        "dc_source": "Nature Photonics, Published online: 2026-01-09; | doi:10.1038/s41566-025-01823-w",
+        "updated": "2026-01-09",
+        "updated_parsed": [
+            2026,
+            1,
+            9,
+            0,
+            0,
+            0,
+            4,
+            9,
+            0
+        ],
+        "prism_publicationname": "Nature Photonics",
+        "prism_doi": "10.1038/s41566-025-01823-w",
+        "prism_url": "https://www.nature.com/articles/s41566-025-01823-w",
+        "journal": "Nature Photonics",
+        "title_cn": "用光波编码和操纵超快相干谷电子信息",
+        "abstract_cn": "讨论了一种利用单层 WS2 谷自由度来相干操纵激子并执行全光逻辑运算的方法。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41566-025-01825-8",
+        "title": "On-chip topological leaky-wave antenna for full-space terahertz wireless connectivity",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "On-chip topological leaky-wave antenna for full-space terahertz wireless connectivity"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41566-025-01825-8"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41566-025-01825-8",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Nature Photonics, Published online: 12 January 2026; <a href=\"https://www.nature.com/articles/s41566-025-01825-8\">doi:10.1038/s41566-025-01825-8</a></p>On-chip terahertz topological leaky-wave antennas based on valley photonic crystals achieve beam scanning over 75% of the three-dimensional solid angle. The time-reversal-symmetric topological leaky-wave antenna further enables the simultaneous demonstration of real-time high-definition television streaming and 24 Gbps directional wireless data transmission in opposite directions."
+            }
+        ],
+        "summary": "On-chip terahertz topological leaky-wave antennas based on valley photonic crystals achieve beam scanning over 75% of the three-dimensional solid angle. The time-reversal-symmetric topological leaky-wave antenna further enables the simultaneous demonstration of real-time high-definition television streaming and 24 Gbps directional wireless data transmission in opposite directions.",
+        "authors": [
+            {
+                "name": "Wenhao Wang"
+            },
+            {
+                "name": "Yi Ji Tan"
+            },
+            {
+                "name": "Pascal Szriftgiser"
+            },
+            {
+                "name": "Guillaume Ducournau"
+            },
+            {
+                "name": "Ranjan Singh"
+            }
+        ],
+        "author": "Ranjan Singh",
+        "author_detail": {
+            "name": "Wenhao Wang"
+        },
+        "dc_identifier": "doi:10.1038/s41566-025-01825-8",
+        "dc_source": "Nature Photonics, Published online: 2026-01-12; | doi:10.1038/s41566-025-01825-8",
+        "updated": "2026-01-12",
+        "updated_parsed": [
+            2026,
+            1,
+            12,
+            0,
+            0,
+            0,
+            0,
+            12,
+            0
+        ],
+        "prism_publicationname": "Nature Photonics",
+        "prism_doi": "10.1038/s41566-025-01825-8",
+        "prism_url": "https://www.nature.com/articles/s41566-025-01825-8",
+        "journal": "Nature Photonics",
+        "title_cn": "用于全空间太赫兹无线连接的片上拓扑漏波天线",
+        "abstract_cn": "基于谷光子晶体的片上太赫兹拓扑漏波天线实现了超过75%的三维立体角的波束扫描。时间反转对称拓扑漏波天线进一步实现了实时高清电视流和相反方向的24Gbps定向无线数据传输的同时演示。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41566-025-01832-9",
+        "title": "A high-speed heterogeneous lithium tantalate silicon photonics platform",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "A high-speed heterogeneous lithium tantalate silicon photonics platform"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41566-025-01832-9"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41566-025-01832-9",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Nature Photonics, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41566-025-01832-9\">doi:10.1038/s41566-025-01832-9</a></p>Lithium tantalate is heterogeneously integrated with silicon photonic integrated circuits via a micro-transfer printing process in a manner fully compatible with existing workflows. A Mach–Zehnder modulator with an insertion loss of 2.9 dB and 70 GHz operation is demonstrated."
+            }
+        ],
+        "summary": "Lithium tantalate is heterogeneously integrated with silicon photonic integrated circuits via a micro-transfer printing process in a manner fully compatible with existing workflows. A Mach–Zehnder modulator with an insertion loss of 2.9 dB and 70 GHz operation is demonstrated.",
+        "authors": [
+            {
+                "name": "Margot Niels"
+            },
+            {
+                "name": "Tom Vanackere"
+            },
+            {
+                "name": "Ewoud Vissers"
+            },
+            {
+                "name": "Tingting Zhai"
+            },
+            {
+                "name": "Patrick Nenezic"
+            },
+            {
+                "name": "Jakob Declercq"
+            },
+            {
+                "name": "Cédric Bruynsteen"
+            },
+            {
+                "name": "Shengpu Niu"
+            },
+            {
+                "name": "Arno Moerman"
+            },
+            {
+                "name": "Olivier Caytan"
+            },
+            {
+                "name": "Nishant Singh"
+            },
+            {
+                "name": "Sam Lemey"
+            },
+            {
+                "name": "Xin Yin"
+            },
+            {
+                "name": "Sofie Janssen"
+            },
+            {
+                "name": "Peter Verheyen"
+            },
+            {
+                "name": "Neha Singh"
+            },
+            {
+                "name": "Dieter Bode"
+            },
+            {
+                "name": "Martin Davi"
+            },
+            {
+                "name": "Filippo Ferraro"
+            },
+            {
+                "name": "Philippe Absil"
+            },
+            {
+                "name": "Sadhishkumar Balakrishnan"
+            },
+            {
+                "name": "Joris Van Campenhout"
+            },
+            {
+                "name": "Günther Roelkens"
+            },
+            {
+                "name": "Bart Kuyken"
+            },
+            {
+                "name": "Maximilien Billet"
+            }
+        ],
+        "author": "Maximilien Billet",
+        "author_detail": {
+            "name": "Margot Niels"
+        },
+        "dc_identifier": "doi:10.1038/s41566-025-01832-9",
+        "dc_source": "Nature Photonics, Published online: 2026-01-13; | doi:10.1038/s41566-025-01832-9",
+        "updated": "2026-01-13",
+        "updated_parsed": [
+            2026,
+            1,
+            13,
+            0,
+            0,
+            0,
+            1,
+            13,
+            0
+        ],
+        "prism_publicationname": "Nature Photonics",
+        "prism_doi": "10.1038/s41566-025-01832-9",
+        "prism_url": "https://www.nature.com/articles/s41566-025-01832-9",
+        "journal": "Nature Photonics",
+        "title_cn": "高速异构钽酸锂硅光子平台",
+        "abstract_cn": "钽酸锂通过微转移印刷工艺与硅光子集成电路异构集成，与现有工作流程完全兼容。演示了插入损耗为 2.9dB、工作频率为 70GHz 的 Mach-Zehnder 调制器。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41566-025-01827-6",
+        "title": "Photostable donor–acceptor interface for minimizing energy loss in inverted perovskite solar cells",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Photostable donor–acceptor interface for minimizing energy loss in inverted perovskite solar cells"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41566-025-01827-6"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41566-025-01827-6",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Nature Photonics, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41566-025-01827-6\">doi:10.1038/s41566-025-01827-6</a></p>A new self-assembled monolayer at the buried interface of inverted perovskite solar cells improves photostability and favours energy transfer, resulting in devices with a certified power conversion efficiency of 27.19% and 1,500-h stability under the ISOS-L-2 protocol."
+            }
+        ],
+        "summary": "A new self-assembled monolayer at the buried interface of inverted perovskite solar cells improves photostability and favours energy transfer, resulting in devices with a certified power conversion efficiency of 27.19% and 1,500-h stability under the ISOS-L-2 protocol.",
+        "authors": [
+            {
+                "name": "Congcong Tian"
+            },
+            {
+                "name": "Anxin Sun"
+            },
+            {
+                "name": "Jinling Chen"
+            },
+            {
+                "name": "Rongshan Zhuang"
+            },
+            {
+                "name": "Chen Chen"
+            },
+            {
+                "name": "Jiawei Zheng"
+            },
+            {
+                "name": "Shuo Liu"
+            },
+            {
+                "name": "Jiajun Du"
+            },
+            {
+                "name": "Qianwen Chen"
+            },
+            {
+                "name": "Lei Cai"
+            },
+            {
+                "name": "Shulin Han"
+            },
+            {
+                "name": "Feng Tian"
+            },
+            {
+                "name": "Chun-Chao Chen"
+            }
+        ],
+        "author": "Chun-Chao Chen",
+        "author_detail": {
+            "name": "Congcong Tian"
+        },
+        "dc_identifier": "doi:10.1038/s41566-025-01827-6",
+        "dc_source": "Nature Photonics, Published online: 2026-01-14; | doi:10.1038/s41566-025-01827-6",
+        "updated": "2026-01-14",
+        "updated_parsed": [
+            2026,
+            1,
+            14,
+            0,
+            0,
+            0,
+            2,
+            14,
+            0
+        ],
+        "prism_publicationname": "Nature Photonics",
+        "prism_doi": "10.1038/s41566-025-01827-6",
+        "prism_url": "https://www.nature.com/articles/s41566-025-01827-6",
+        "journal": "Nature Photonics",
+        "title_cn": "光稳定的供体-受体界面可最大限度地减少倒置钙钛矿太阳能电池的能量损失",
+        "abstract_cn": "倒置钙钛矿太阳能电池埋入界面处的新型自组装单层可提高光稳定性并有利于能量转移，从而使设备在 ISOS-L-2 协议下具有 27.19% 的认证功率转换效率和 1,500 小时的稳定性。"
+    },
+    {
+        "id": "https://www.nature.com/articles/s41566-025-01817-8",
+        "title": "Axially chiral molecular contacts with low isomerization barriers for perovskite solar cells",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Axially chiral molecular contacts with low isomerization barriers for perovskite solar cells"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nature.com/articles/s41566-025-01817-8"
+            }
+        ],
+        "link": "https://www.nature.com/articles/s41566-025-01817-8",
+        "content": [
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<p>Nature Photonics, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41566-025-01817-8\">doi:10.1038/s41566-025-01817-8</a></p>A non-coplanar axially chiral molecular contact favours the crystalline growth of perovskite film and improves interfacial stability in perovskite solar cells. Small-area devices yield a certified power conversion efficiency of 26.44% and maintain 98% of it after 2,000 hours of operation."
+            }
+        ],
+        "summary": "A non-coplanar axially chiral molecular contact favours the crystalline growth of perovskite film and improves interfacial stability in perovskite solar cells. Small-area devices yield a certified power conversion efficiency of 26.44% and maintain 98% of it after 2,000 hours of operation.",
+        "authors": [
+            {
+                "name": "Wenhan Yang"
+            },
+            {
+                "name": "Xin Guan"
+            },
+            {
+                "name": "Qingbin Cai"
+            },
+            {
+                "name": "Yuexin Lin"
+            },
+            {
+                "name": "Zuhong Zhang"
+            },
+            {
+                "name": "Jinbo Zhao"
+            },
+            {
+                "name": "Jia Guo"
+            },
+            {
+                "name": "Annan Zhu"
+            },
+            {
+                "name": "Fenqi Du"
+            },
+            {
+                "name": "Wenjing Zhu"
+            },
+            {
+                "name": "Jin Liu"
+            },
+            {
+                "name": "Sen Jiang"
+            },
+            {
+                "name": "Nan Zhang"
+            },
+            {
+                "name": "Xiaolong Liu"
+            },
+            {
+                "name": "Lei Zhang"
+            },
+            {
+                "name": "Youshen Wu"
+            },
+            {
+                "name": "Shengchun Yang"
+            },
+            {
+                "name": "Meng Li"
+            },
+            {
+                "name": "Chao Liang"
+            }
+        ],
+        "author": "Chao Liang",
+        "author_detail": {
+            "name": "Wenhan Yang"
+        },
+        "dc_identifier": "doi:10.1038/s41566-025-01817-8",
+        "dc_source": "Nature Photonics, Published online: 2026-01-19; | doi:10.1038/s41566-025-01817-8",
+        "updated": "2026-01-19",
+        "updated_parsed": [
+            2026,
+            1,
+            19,
+            0,
+            0,
+            0,
+            0,
+            19,
+            0
+        ],
+        "prism_publicationname": "Nature Photonics",
+        "prism_doi": "10.1038/s41566-025-01817-8",
+        "prism_url": "https://www.nature.com/articles/s41566-025-01817-8",
+        "journal": "Nature Photonics",
+        "title_cn": "用于钙钛矿太阳能电池的具有低异构化势垒的轴向手性分子接触",
+        "abstract_cn": "非共面轴向手性分子接触有利于钙钛矿薄膜的晶体生长，并提高钙钛矿太阳能电池的界面稳定性。小面积设备经认证的功率转换效率为 26.44%，并在运行 2,000 小时后仍保持 98%。"
     }
 ]

@@ -9158,5 +9158,38 @@
         "journal": "Light: Science & Applications",
         "title_cn": "III-氮化物赋​​予微型紫外光谱成像仪",
         "abstract_cn": "基于 III 族氮化物级联光电二极管的小型化片上光谱成像仪可实现 0.62 nm 精度和亚 10 ns 响应，将光谱成像扩展到紫外区域。"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.587522",
+        "title": "Temporal logic and encoding function based on anisotropic photonic time crystals",
+        "link": "https://doi.org/10.1364/ol.587522",
+        "published": "2026-01-22",
+        "author": "Shuo Xu, HaiFeng Zhang",
+        "summary": "Abstract not available.",
+        "journal": "Optics Letters",
+        "title_cn": "基于各向异性光子时间晶体的时间逻辑和编码功能",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.582700",
+        "title": "Intelligent Wavefront Correction via Self-supervised Predictive Zernike Phase Inversion Network",
+        "link": "https://doi.org/10.1364/oe.582700",
+        "published": "2026-01-22",
+        "author": "Xinjie Zhang, Haoyu Zhang, Chaoxu Chen, Ziwei Li, Chao Shen, Junwen Zhang, Nan Chi, Jianyang Shi",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "通过自监督预测泽尼克反相网络进行智能波前校正",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.579304",
+        "title": "Photonic decision making using optical frequency difference detection in mutually-coupled semiconductor lasers",
+        "link": "https://doi.org/10.1364/oe.579304",
+        "published": "2026-01-22",
+        "author": "Hidetoshi Taira, Takatomo Mihana, Shun Kotoku, Andre Rohm, Kazutaka Kanno, Atsushi Uchida, Ryoichi Horisaki",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "在互耦合半导体激光器中使用光频差检测进行光子决策",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
     }
 ]

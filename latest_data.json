@@ -214,5 +214,92 @@
         "journal": "Displays",
         "title_cn": "Ctp2Fic：从粗粒度令牌剪枝到细粒度令牌聚类以实现 LVLM 推理加速",
         "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "title": "Wavefront-driven optimization for high-quality hologram generation",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Wavefront-driven optimization for high-quality hologram generation"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: June 2026</p><p><b>Source:</b> Optics and Lasers in Engineering, Volume 201</p><p>Author(s): Zhenyang Zhang, Xianrui Feng, Hao Jiang, Jian Wang, Zhengqiong Dong, Lei Nie, Jinlong Zhu, Shiyuan Liu</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0143816626000345?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0143816626000345",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0143816626000345",
+        "guidislink": false,
+        "journal": "Optics and Lasers in Engineering",
+        "title_cn": "用于高质量全息图生成的波前驱动优化",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "title": "Far field single-pixel image-free tracking for moving object",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Far field single-pixel image-free tracking for moving object"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: June 2026</p><p><b>Source:</b> Optics and Lasers in Engineering, Volume 201</p><p>Author(s): Yunsong Gu, Huahua Wang, Han Zhuang, Bingjie Li, Hongyue Xiao, Changqi Zhang, Hongwei Jiang, Haochong Huang, Zhiyuan Zheng, Ze Zhang, Lu Gao</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0143816626000515?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0143816626000515",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0143816626000515",
+        "guidislink": false,
+        "journal": "Optics and Lasers in Engineering",
+        "title_cn": "运动物体的远场单像素无图像跟踪",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "title": "Large-aperture nonparaxial Alvarez lenses enabling varifocal augmented reality head-up displays with a wide field of view",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Large-aperture nonparaxial Alvarez lenses enabling varifocal augmented reality head-up displays with a wide field of view"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: June 2026</p><p><b>Source:</b> Optics and Lasers in Engineering, Volume 201</p><p>Author(s): Yi Liu, Haoteng Liu, Zhiqing Zhao, Qimeng Wang, Weiji Liang, Bo-Ru Yang, Zong Qin</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S0143816626000382?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S0143816626000382",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0143816626000382",
+        "guidislink": false,
+        "journal": "Optics and Lasers in Engineering",
+        "title_cn": "大孔径非近轴 Alvarez 镜头可实现具有宽视场的变焦增强现实平视显示器",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
     }
 ]

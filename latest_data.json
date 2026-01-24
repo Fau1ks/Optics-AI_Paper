@@ -1,752 +1,218 @@
 [
     {
-        "id": "https://doi.org/10.1109/tip.2026.3654892",
-        "title": "Unc-SOD: An Uncertainty Learning Framework for Small Object Detection",
-        "link": "https://doi.org/10.1109/tip.2026.3654892",
-        "published": "2026",
-        "author": "Xiang Yuan, Gong Cheng, Jiacheng Cheng, Ruixiang Yao, Junwei Han",
-        "summary": "Small object detection (SOD) constitutes a notable yet immensely arduous task, stemming from the restricted informative regions inherent in size-limited instances, which further sparks off heightened uncertainty beyond the capacity of current two-stage detectors. Specifically, the intrinsic ambiguity in small objects undermines the prevailing sampling paradigms and may mislead the model to devote futile effort to those unrecognizable targets, while the inconsistency of features utilized for the detection at two stages further exposes the hierarchical uncertainty. In this paper, we develop an Uncertainty learning framework for Small Object Detection, dubbed as Unc-SOD. By incorporating an auxiliary uncertainty branch to conventional Region Proposal Network (RPN), we model the indeterminacy at instance-level which later on serves as a surrogate criterion for sampling, thereby unearthing adequate candidates dynamically based on the varying degrees of uncertainty and facilitating the learning of proposal networks. In parallel, a Perception-and-Interaction strategy is devised to capture rich and discriminative representations, through optimizing the intrinsic properties from the regional features at the original pyramid and the assigned one, in which the perceptual process unfolds in a mutual paradigm. As the seminal attempt to model uncertainty in SOD task, our Unc-SOD yields state-of-the-art performance on two large-scale small object detection benchmarks, SODA-D and SODA-A, and the results on several SOD-oriented datasets including COCO, VisDrone, and Tsinghua-Tencent 100K also exhibit the promotion to baseline detector. This underscores the efficacy of our approach and its superiority over prevailing detectors when dealing with small instances.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "Unc-SOD：用于小物体检测的不确定性学习框架",
-        "abstract_cn": "小物体检测（SOD）是一项值得注意但极其艰巨的任务，源于尺寸有限实例中固有的有限信息区域，这进一步引发了超出当前两级探测器能力的高度不确定性。具体来说，小物体固有的模糊性破坏了流行的采样范式，并可能误导模型对那些无法识别的目标进行徒劳的努力，而两个阶段用于检测的特征的不一致进一步暴露了层次的不确定性。在本文中，我们开发了一个用于小目标检测的不确定性学习框架，称为 Unc-SOD。通过将辅助不确定性分支合并到传统的区域提议网络（RPN）中，我们对实例级别的不确定性进行建模，随后将其用作采样的替代标准，从而根据不同程度的不确定性动态地挖掘足够的候选者，并促进提议网络的学习。与此同时，通过优化原始金字塔和指定金字塔的区域特征的内在属性，设计了一种感知与交互策略来捕获丰富且有区别的表示，其中感知过程在相互范式中展开。作为 SOD 任务中不确定性建模的开创性尝试，我们的 Unc-SOD 在两个大规模小目标检测基准 SODA-D 和 SODA-A 上产生了最先进的性能，并且在包括 COCO、VisDrone 和 Tsinghua-Tencent 100K 在内的几个面向 SOD 的数据集上的结果也显示出对基线检测器的提升。这强调了我们的方法的有效性及其在处理小实例时相对于主流检测器的优越性。"
+        "id": "https://doi.org/10.1117/1.ap.8.1.010501",
+        "title": "Integrated continuous-variable quantum light resource for quantum information",
+        "link": "https://doi.org/10.1117/1.ap.8.1.010501",
+        "published": "2026-01-23",
+        "author": "Xifeng Ren, Guangcan Guo",
+        "summary": "The article comments on a comprehensive review of integrated continuous-variable quantum light sources, high lighting its structured synthesis of recent advances and its relevance to scalable CV quantum computing.",
+        "journal": "Advanced Photonics",
+        "title_cn": "用于量子信息的集成连续可变量子光源",
+        "abstract_cn": "文章对集成连续可变量子光源进行了全面回顾，重点介绍了其最新进展的结构化综合及其与可扩展的 CV 量子计算的相关性。"
     },
     {
-        "id": "https://doi.org/10.1364/optica.586220",
-        "title": "Terahertz Fourier Ptychographic Imaging",
-        "link": "https://doi.org/10.1364/optica.586220",
+        "id": "https://doi.org/10.1364/boe.582416",
+        "title": "Reliability of diffuse optical spectroscopies for evaluation of cerebral hemometabolic stress in children with sickle cell anemia",
+        "link": "https://doi.org/10.1364/boe.582416",
         "published": "2026-01-23",
-        "author": "Pitambar Mukherjee, Vivek Kumar, Frederic Fauquet, Amaury Badon, Damien Bigourd, Kedar Khare, Sylvain Gigan, Patrick Mounaix",
+        "author": "Giovani Martins, Rowan Brothers, Kristin Wubbena, Mariam Akbar, Michael Arrington, Katherine Turrentine, Sydney Triplett, Hongting Zhao, Tara Urner, Shasha Bai, Amy Tang, Kirshma Khemani, Beatrice Gee, R. brown, Erin Buckley",
         "summary": "Abstract not available.",
-        "journal": "Optica",
-        "title_cn": "太赫兹傅里叶叠层成像",
+        "journal": "Biomedical Optics Express",
+        "title_cn": "漫反射光谱评估镰状细胞性贫血儿童脑血液代谢应激的可靠性",
         "abstract_cn": "（摘要暂缺，等待官方补全）"
     },
     {
-        "id": "https://doi.org/10.1364/ol.576900",
-        "title": "Atmospheric Carbon Concentration Scenario Classification Based on the Fusion of Spectral and Acoustic Modalities",
-        "link": "https://doi.org/10.1364/ol.576900",
+        "id": "https://doi.org/10.1364/boe.587407",
+        "title": "Wide-Field and Non-Invasive Imaging of Brain Tumours with Scattered Light Techniques",
+        "link": "https://doi.org/10.1364/boe.587407",
         "published": "2026-01-23",
-        "author": "ShiHao Liu, Yu Zhang, Jun Feng, Wenhan Gao, TianLong Li, Yuzhu Liu",
+        "author": "Philip Binner, Jack Radford, Ilya Starshynov, Mansa Madhusudan, Karen Strathdee, Katrina Stevenson, Matthew Walker, Giuseppe Ciccone, Gonzalo Tejeda, Andrew Tobin, Massimo Vassalli, Anthony Chalmers, Jinendra Ekanayake, Daniele Faccio",
         "summary": "Abstract not available.",
-        "journal": "Optics Letters",
-        "title_cn": "基于光谱和声学模态融合的大气碳浓度情景分类",
+        "journal": "Biomedical Optics Express",
+        "title_cn": "利用散射光技术对脑肿瘤进行宽视野和非侵入性成像",
         "abstract_cn": "（摘要暂缺，等待官方补全）"
     },
     {
-        "id": "https://doi.org/10.1364/ol.585954",
-        "title": "PRISM: A novel Peak Region Identification and Signature Mapping method based on Laser-Induced Spectroscopy-Acoustics Fusion for metal corrosion discrimination",
-        "link": "https://doi.org/10.1364/ol.585954",
+        "id": "https://doi.org/10.1364/boe.584263",
+        "title": "Processing Pipeline for Large Optical Coherence Elastography Datasets with Quasi Static Air-Jet Excitation: Application to Human Brain Tumor Tissue",
+        "link": "https://doi.org/10.1364/boe.584263",
         "published": "2026-01-23",
-        "author": "Wenkang Sun, Wenhan Gao, Yu Zhang, dongdong Deng, Tianzhuang Wu, Boyuan Han, Junjie Li, Ziwei Wang, Yuzhu Liu",
+        "author": "Nicolas Detrez, Sazgar Burhan, Jessica Kren, Jakob Matschke, Christian Hagel, Steffen Buschschlüter, Dirk Theisen-Kunde, Matteo Bonsanto, Robert Huber, Ralf Brinkmann",
         "summary": "Abstract not available.",
-        "journal": "Optics Letters",
-        "title_cn": "PRISM：一种基于激光诱导光谱-声学融合的新型峰区识别和特征映射方法，用于金属腐蚀辨别",
+        "journal": "Biomedical Optics Express",
+        "title_cn": "具有准静态喷气激励的大型光学相干弹性成像数据集的处理流程：在人脑肿瘤组织中的应用",
         "abstract_cn": "（摘要暂缺，等待官方补全）"
     },
     {
-        "id": "https://doi.org/10.1364/ol.586227",
-        "title": "Self-referenced polarization augmented Jones matrix imaging using cyclic shearing interferometry",
-        "link": "https://doi.org/10.1364/ol.586227",
+        "id": "https://doi.org/10.1364/boe.583648",
+        "title": "fNIRS Reveals Comparable Reductions in Cortical Hyperconnectivity Following Once-Daily and Twice-Daily rTMS in Poststroke Aphasia",
+        "link": "https://doi.org/10.1364/boe.583648",
         "published": "2026-01-23",
-        "author": "VIPIN TIWARI, Davood Khodadad",
+        "author": "Lu Chong, Yizhen Liu, Yao Wang, Tiantian Xue, Siyu Wang, Tianxu Chen",
         "summary": "Abstract not available.",
-        "journal": "Optics Letters",
-        "title_cn": "使用循环剪切干涉测量法的自参考偏振增强琼斯矩阵成像",
+        "journal": "Biomedical Optics Express",
+        "title_cn": "fNIRS 揭示了中风后失语症患者每日一次和每日两次 rTMS 后皮质超连接性的相应降低",
         "abstract_cn": "（摘要暂缺，等待官方补全）"
     },
     {
-        "id": "https://doi.org/10.1364/ol.585515",
-        "title": "3D-printed micro-optical dark-field condenser",
-        "link": "https://doi.org/10.1364/ol.585515",
-        "published": "2026-01-23",
-        "author": "Robert Horvat, Leander Siegle, Luca Schmid, Pavel Ruchka, Philipp Flad, Monika Ubl, Michael Schmid, Lukas Wesemann, Harald Giessen",
-        "summary": "Abstract not available.",
-        "journal": "Optics Letters",
-        "title_cn": "3D打印微光学暗场聚光镜",
-        "abstract_cn": "（摘要暂缺，等待官方补全）"
-    },
-    {
-        "id": "https://doi.org/10.1364/ol.583514",
-        "title": "Photonic Generation of Terahertz Multi-Beams by Photomixer Arrays Exploiting Fiber Chromatic Dispersion",
-        "link": "https://doi.org/10.1364/ol.583514",
-        "published": "2026-01-23",
-        "author": "Yoshiki Kamiura, Masato Kawano, Yuya Mikami, Kazutoshi Kato",
-        "summary": "Abstract not available.",
-        "journal": "Optics Letters",
-        "title_cn": "利用光纤色散的光混频器阵列产生太赫兹多光束的光子",
-        "abstract_cn": "（摘要暂缺，等待官方补全）"
-    },
-    {
-        "id": "https://doi.org/10.1364/ol.586687",
-        "title": "A large aperture telescope system based on a secondary optical beam expander with tracking precision in 100 nanoradians",
-        "link": "https://doi.org/10.1364/ol.586687",
-        "published": "2026-01-23",
-        "author": "Chenglin Zhou, rui xiu, Zeng Chenchen, Tingting Wang, Jianan Sun, YunPeng Liu, Jincai Wu, Liang Zhang",
-        "summary": "Abstract not available.",
-        "journal": "Optics Letters",
-        "title_cn": "基于二次扩束镜的大口径望远镜系统，跟踪精度达100纳弧度",
-        "abstract_cn": "（摘要暂缺，等待官方补全）"
-    },
-    {
-        "id": "https://doi.org/10.1002/adpr.202500200",
-        "title": "Ultrabroad and Wide‐Angle High‐Temperature‐Stability Infrared Metamaterial Absorber Based on All‐Dielectric Silicon Nitride (Si\n                    <sub>3</sub>\n                    N\n                    <sub>4</sub>\n                    )",
-        "link": "https://doi.org/10.1002/adpr.202500200",
-        "published": "2026-01-23",
-        "author": "Jiayu Jia, Yanfang Xiao, Lingling Yang, Bin Cai, Yongzhi Cheng, Hui Luo, Xiangcheng Li",
-        "summary": "<jats:p>\n                    Ultrabroadband absorption across the long‐wave and ultralong‐wave infrared (LWIR/ULWIR) spectrum is essential for applications ranging from thermal imaging to spectroscopy, yet remains a persistent challenge. Herein, a refractory metamaterial absorber (MMA) composed of four vertically tapered silicon nitride (Si\n                    <jats:sub>3</jats:sub>\n                    N\n                    <jats:sub>4</jats:sub>\n                    ) rods on a tungsten substrate is proposed. Finite element method (FEM) simulations show that the MMA achieves an absorbance of over 90% from 7.15 to 31.62 μm, with a relative bandwidth of 126.23%. Notably, the absorbance peak of the MMA is up to 99.97%, 97.92%, 98.42%, and 99.96% at 7.653, 9.045, 16.762, and 26.731 μm, respectively. An equivalent circuit model corroborates these results and elucidates the underlying impedance matching. The ultra‐broadband performance arises from synergistic coupling of multiple resonant modes, including waveguide resonance (WGR) with higher‐order, Fabry–Pérot (F–P) cavity resonance (FPCR), local surface/propagating plasmon resonance (LSPR/PPR), as well as intrinsic losses of Si\n                    <jats:sub>3</jats:sub>\n                    N\n                    <jats:sub>4</jats:sub>\n                    material. The MMA also exhibits wide‐angle stability, maintaining high efficiency for incidence up to 50° under both TE and TM polarizations. It's simple, tunable geometry and fully dielectric composition facilitate fabrication and ensure high‐temperature resilience. This design offers a robust platform for advanced infrared systems, including thermal energy harvesting and spectral imaging.\n                  </jats:p>",
-        "journal": "Advanced Photonics Research",
-        "title_cn": "基于全电介质氮化硅（Si <sub>3</sub> N <sub>4</sub>）的超宽广角高温稳定性红外超材料吸收体",
-        "abstract_cn": "<贾茨：p>\n                    长波和超长波红外（LWIR/ULWIR）光谱的超宽带吸收对于从热成像到光谱学的各种应用至关重要，但仍然是一个持续存在的挑战。在此，由四个垂直锥形氮化硅（Si\n                    <贾茨：子>3</贾茨：子>\n                    氮\n                    <贾茨：子>4</贾茨：子>\n                    ）提出了钨基板上的棒。有限元法（FEM）模拟表明，MMA在7.15~31.62μm范围内的吸光度达到90%以上，相对带宽为126.23%。值得注意的是，MMA的吸光度峰分别在7.653、9.045、16.762和26.731μm处高达99.97%、97.92%、98.42%和99.96%。等效电路模型证实了这些结果并阐明了潜在的阻抗匹配。超宽带性能源自多种谐振模式的协同耦合，包括高阶波导谐振（WGR）、法布里-珀罗（F-P）腔谐振（FPCR）、局域表面/传播等离子体谐振（LSPR/PPR）以及Si的固有损耗\n                    <贾茨：子>3</贾茨：子>\n                    氮\n                    <贾茨：子>4</贾茨：子>\n                    材料。 MMA 还表现出广角稳定性，在 TE 和 TM 偏振下保持高达 50° 的入射效率。它具有简单、可调的几何形状和全介电成分，有利于制造并确保高温弹性。该设计为先进的红外系统提供了一个强大的平台，包括热能收集和光谱成像。\n                  </贾茨：p>"
-    },
-    {
-        "title": "RAP-SORT: Advanced Multi-Object Tracking for complex scenarios",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "",
-            "value": "RAP-SORT: Advanced Multi-Object Tracking for complex scenarios"
-        },
-        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "",
-            "value": "<p>Publication date: April 2026</p><p><b>Source:</b> Displays, Volume 92</p><p>Author(s): Shuming Zhang, Yuhang Zhu, Yanhui Sun, Weiyong Liu, Zhangjin Huang</p>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.sciencedirect.com/science/article/pii/S0141938226000247?dgcid=rss_sd_all"
-            }
-        ],
-        "link": "https://www.sciencedirect.com/science/article/pii/S0141938226000247",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0141938226000247",
-        "guidislink": false,
-        "journal": "Displays",
-        "title_cn": "RAP-SORT：适用于复杂场景的高级多对象跟踪",
-        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
-    },
-    {
-        "title": "A review of the research progress and application prospects of terahertz imaging technology",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "",
-            "value": "A review of the research progress and application prospects of terahertz imaging technology"
-        },
-        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "",
-            "value": "<p>Publication date: May 2026</p><p><b>Source:</b> Optics & Laser Technology, Volume 197</p><p>Author(s): Shuaikang He, Manna Gu, Zhikai Hu, Chenxia Li, Ying Tian, Le Wang, Xufeng Jing</p>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.sciencedirect.com/science/article/pii/S0030399226001283?dgcid=rss_sd_all"
-            }
-        ],
-        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226001283",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0030399226001283",
-        "guidislink": false,
-        "journal": "Optics and Laser Technology",
-        "title_cn": "太赫兹成像技术研究进展及应用前景综述",
-        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
-    },
-    {
-        "id": "https://doi.org/10.1364/prj.577410",
-        "title": "A Comprehensive Review of Recent Advances in Graphene-Based Self-Powered Photodetectors for Flexible and Sustainable Photonic Technologies",
-        "link": "https://doi.org/10.1364/prj.577410",
-        "published": "2026-01-23",
-        "author": "Muhammad Sulaman, Ammarah Afzal, Muhammad Qasim, Shareen Shafique, Yang Wang, Chuanbo li, Xin Tang",
-        "summary": "Abstract not available.",
-        "journal": "Photonics Research",
-        "title_cn": "全面回顾基于石墨烯的自供电光电探测器的最新进展，以实现灵活和可持续的光子技术",
-        "abstract_cn": "（摘要暂缺，等待官方补全）"
-    },
-    {
-        "id": "https://doi.org/10.1364/prj.584792",
-        "title": "Neural Network Assisted Design of High-performance Broadband All-dielectric Infrared Metasurface Absorber with High Fabrication Tolerance",
-        "link": "https://doi.org/10.1364/prj.584792",
-        "published": "2026-01-23",
-        "author": "wenqian zhang, Ruoxin Fan, Yan Miao, Jinguo Chen, Youxin Chen, Qingkang WANG",
-        "summary": "Abstract not available.",
-        "journal": "Photonics Research",
-        "title_cn": "具有高制造公差的高性能宽带全电介质红外超表面吸收器的神经网络辅助设计",
-        "abstract_cn": "（摘要暂缺，等待官方补全）"
-    },
-    {
-        "id": "https://doi.org/10.1002/adpr.202500296",
-        "title": "Polariton‐Mediated Energy Transfer in a Tunable Optical Multimode Microcavity Exceeding 10 μm",
-        "link": "https://doi.org/10.1002/adpr.202500296",
-        "published": "2026-01-23",
-        "author": "Christoph Kertzscher, Michael Mauch, Jakob Keck, Alfred J. Meixner",
-        "summary": "<jats:p>Energy transfer between a donor‐acceptor pair of J‐aggregated dyes, which are spin‐coated onto the mirrors of a tunable Fabry–Pérot microresonator, is studied. It is found that both donor and acceptor are strongly coupled to the optical modes of the resonator and form hybrid light–matter states (polaritons). The shapes of the fluorescence spectra show efficient energy transfer from donor to acceptor, which are separated up to 11 μm. Within the same measurement, the energy transfer efficiency appears to be independent of donor–acceptor separation. The observed fluorescence features are well explained by a phenomenological Hamiltonian, which models the emerging polariton modes and rate equations.</jats:p>",
-        "journal": "Advanced Photonics Research",
-        "title_cn": "超过 10μm 的可调谐光学多模微腔中极化子介导的能量传输",
-        "abstract_cn": "<jats:p>研究了 J 聚集染料的供体-受体对之间的能量转移，这些染料被旋涂到可调谐法布里-珀罗微谐振器的镜子上。研究发现，供体和受体都与谐振器的光学模式强烈耦合，并形成混合光-物质态（极化子）。荧光光谱的形状显示了从供体到受体的有效能量转移，其间隔可达 11μm。在相同的测量中，能量转移效率似乎与供体-受体分离无关。现象学哈密顿量可以很好地解释观察到的荧光特征，该哈密顿量模拟了新兴的极化子模式和速率方程。</jats:p>"
-    },
-    {
-        "id": "https://doi.org/10.1002/adpr.202500245",
-        "title": "Phenanthroline‐Modified Electrodes for Suppressing Moisture‐Induced Degradation in Nonencapsulated Organic Light‐Emitting Diodes",
-        "link": "https://doi.org/10.1002/adpr.202500245",
-        "published": "2026-01-23",
-        "author": "Takuya Okada, Tsubasa Sasaki, Taku Oono, Hirohiko Fukagawa, Takahisa Shimizu",
-        "summary": "<jats:p>Electron injection stability is crucial for organic semiconductors. Although phenanthroline (Phen) derivatives are stable and efficient electrode modification materials, their air stability is underexplored, and the impacts of environmental factors on Phen‐modified electrodes are not well understood. This study investigates the degradation of Phen‐modified organic light‐emitting diodes (OLEDs) by monitoring temporal changes in the light‐emitting area under ambient air exposure without encapsulation. The results demonstrate that Phen modification stabilizes electron injection under room‐temperature and atmospheric‐pressure conditions. The degradation behavior is consistent with Fick's law of diffusion. A strong correlation between the degradation rate and relative humidity indicates a mechanism wherein water molecule diffusion governs the degradation process. The film densities of Phen derivatives are calculated using molecular dynamics simulations. High‐density modifier films may physically hinder water diffusion, suppressing degradation. These findings highlight the potential of Phen‐based materials to enable high‐performance organic electronics with efficient electron injection and enhanced stability under minimal encapsulation.</jats:p>",
-        "journal": "Advanced Photonics Research",
-        "title_cn": "用于抑制非封装有机发光二极管中水分引起的降解的菲咯啉修饰电极",
-        "abstract_cn": "<jats:p>电子注入稳定性对于有机半导体至关重要。尽管菲咯啉（Phen）衍生物是稳定高效的电极修饰材料，但其空气稳定性尚未得到充分研究，环境因素对 Phen 修饰电极的影响尚不清楚。本研究通过监测未封装的环境空气暴露下发光区域的时间变化来研究 Phen 修饰的有机发光二极管 (OLED) 的降解情况。结果表明，Phen 修饰可以在室温和大气压条件下稳定电子注入。降解行为符合菲克扩散定律。降解速率和相对湿度之间的强相关性表明水分子扩散控制降解过程的机制。 Phen 衍生物的膜密度是使用分子动力学模拟计算的。高密度改性剂膜可能会物理阻碍水扩散，从而抑制降解。这些发现凸显了 Phen 基材料在实现高性能有机电子器件方面的潜力，在最小封装下具有高效的电子注入和增强的稳定性。</jats:p>"
-    },
-    {
-        "id": "https://www.nature.com/articles/s41566-026-01853-y",
-        "title": "Publisher Correction: Spontaneous 2D perovskite formation at the buried interface of perovskite solar cells enhances crystallization uniformity and defect passivation",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "",
-            "value": "Publisher Correction: Spontaneous 2D perovskite formation at the buried interface of perovskite solar cells enhances crystallization uniformity and defect passivation"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.nature.com/articles/s41566-026-01853-y"
-            }
-        ],
-        "link": "https://www.nature.com/articles/s41566-026-01853-y",
-        "content": [
-            {
-                "type": "text/html",
-                "language": null,
-                "base": "",
-                "value": "<p>Nature Photonics, Published online: 23 January 2026; <a href=\"https://www.nature.com/articles/s41566-026-01853-y\">doi:10.1038/s41566-026-01853-y</a></p>Publisher Correction: Spontaneous 2D perovskite formation at the buried interface of perovskite solar cells enhances crystallization uniformity and defect passivation"
-            }
-        ],
-        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
-        "authors": [
-            {
-                "name": "Yuping Gao"
-            },
-            {
-                "name": "Hang Liu"
-            },
-            {
-                "name": "Zonglong Song"
-            },
-            {
-                "name": "Yu Chen"
-            },
-            {
-                "name": "Liu Yang"
-            },
-            {
-                "name": "Ziyang Hu"
-            },
-            {
-                "name": "Yu Zou"
-            },
-            {
-                "name": "Yongsheng Chen"
-            },
-            {
-                "name": "Yongsheng Liu"
-            }
-        ],
-        "author": "Yongsheng Liu",
-        "author_detail": {
-            "name": "Yuping Gao"
-        },
-        "dc_identifier": "doi:10.1038/s41566-026-01853-y",
-        "dc_source": "Nature Photonics, Published online: 2026-01-23; | doi:10.1038/s41566-026-01853-y",
-        "updated": "2026-01-23",
-        "updated_parsed": [
-            2026,
-            1,
-            23,
-            0,
-            0,
-            0,
-            4,
-            23,
-            0
-        ],
-        "prism_publicationname": "Nature Photonics",
-        "prism_doi": "10.1038/s41566-026-01853-y",
-        "prism_url": "https://www.nature.com/articles/s41566-026-01853-y",
-        "journal": "Nature Photonics",
-        "title_cn": "出版商更正：钙钛矿太阳能电池埋入界面处自发形成的二维钙钛矿增强了结晶均匀性和缺陷钝化",
-        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
-    },
-    {
-        "id": "https://doi.org/10.1002/adpr.202500267",
-        "title": "Dispersion Analysis of Silver Thiogallate in a Broad Mid‐Infrared Range",
-        "link": "https://doi.org/10.1002/adpr.202500267",
-        "published": "2026-01-23",
-        "author": "Evgeniy S. Zatsepin, Artem S. Sabanin, Dmitriy V. Badikov, Sergei P. Kulik, Anna V. Paterova",
-        "summary": "<jats:p>\n                    Nonlinear optical materials designed for mid‐infrared applications gain increasing interest in photonics and quantum‐optical research. However, many of these materials remain unexplored in the broad mid‐infrared range due to the limited availability of suitable equipment. Silver thiogallate (AgGaS\n                    <jats:sub>2</jats:sub>\n                    ) is one of the widely known nonlinear crystals used in mid‐infrared frequency‐conversion applications. While its transmission and refractive indices are well characterized up to 10.6 μm, dispersion properties beyond this wavelength remain unreported. In this work, a quantum‐optical approach is employed to determine the refractive indices of AgGaS\n                    <jats:sub>2</jats:sub>\n                    across an extended mid‐infrared wavelength range. Correlated photon pairs are generated in the crystal, where one photon in a pair is generated at a near‐infrared wavelength and the other in the mid‐infrared. Due to the correlations, detecting the spectrum of the near‐infrared photons allows inferring the crystal's dispersion properties in the mid‐infrared region up to 21 μm, without the need for infrared light sources or detectors. Sellmeier equations are further proposed that accurately describe both ordinary and extraordinary refractive indices across the entire transparency range of the crystal. The results are consistent with previously reported data below 10 μm and demonstrate the suitability of AgGaS\n                    <jats:sub>2</jats:sub>\n                    for frequency‐conversion processes over an extended wavelength range.\n                  </jats:p>",
-        "journal": "Advanced Photonics Research",
-        "title_cn": "硫代没食子酸银在宽中红外范围内的色散分析",
-        "abstract_cn": "<贾茨：p>\n                    专为中红外应用而设计的非线性光学材料在光子学和量子光学研究中引起了越来越多的兴趣。然而，由于合适设备的可用性有限，许多这些材料在广泛的中红外范围内仍未得到探索。硫代镓酸银 (AgGaS\n                    <贾茨：子>2</贾茨：子>\n                    ）是用于中红外频率转换应用的广为人知的非线性晶体之一。虽然其透射率和折射率在 10.6μm 以内的波长范围内得到了很好的表征，但超过该波长的色散特性仍未有报道。在这项工作中，采用量子光学方法来确定 AgGaS 的折射率\n                    <贾茨：子>2</贾茨：子>\n                    跨越扩展的中红外波长范围。晶体中会产生相关的光子对，其中一对光子中的一个光子在近红外波长下产生，另一个在中红外波长下产生。由于相关性，检测近红外光子的光谱可以推断晶体在高达 21μm 的中红外区域的色散特性，而不需要红外光源或探测器。进一步提出了 Sellmeier 方程，可以准确地描述晶体整个透明度范围内的寻常折射率和非常折射率。结果与之前报道的 10μm 以下数据一致，证明了 AgGaS 的适用性\n                    <贾茨：子>2</贾茨：子>\n                    用于扩展波长范围内的频率转换过程。\n                  </贾茨：p>"
-    },
-    {
-        "id": "https://doi.org/10.1038/s41377-025-02132-1",
-        "title": "III-Nitrides empower miniaturized spectral imager in ultraviolet",
-        "link": "https://doi.org/10.1038/s41377-025-02132-1",
-        "published": "2026-01-23",
-        "author": "Yuji Zhao, Tao Li, Boon Ooi",
-        "summary": "<jats:title>Abstract</jats:title>\n                  <jats:p>A high-performance miniaturized on-chip spectral imager operating in the ultraviolet region is demonstrated based on an AlGaN/GaN cascaded photodiode array. This work extends spectral imaging into the ultraviolet regimes by leveraging the mature III-nitride technologies and establishes a scalable pathway toward massive production of compact, high-resolution spectral imagers.</jats:p>",
-        "journal": "Light: Science & Applications",
-        "title_cn": "III-氮化物赋​​予微型紫外光谱成像仪",
-        "abstract_cn": "<jats:title>摘要</jats:title>\n                  <jats:p>基于 AlGaN/GaN 级联光电二极管阵列演示了在紫外区域运行的高性能小型片上光谱成像仪。这项工作利用成熟的III族氮化物技术将光谱成像扩展到紫外区域，并为大规模生产紧凑型高分辨率光谱成像仪建立了可扩展的途径。</jats:p>"
-    },
-    {
-        "id": "https://doi.org/10.1109/tci.2026.3657473",
-        "title": "Breaking the Resolution Barrier in Microscopic Imaging: An Optics-preserving Super-resolution System Combining Motion Modulation and Deep Learning",
-        "link": "https://doi.org/10.1109/tci.2026.3657473",
-        "published": "2026",
-        "author": "Xinjie Bi, Shuo Kong, Guoliang Lu, Peng Yan",
-        "summary": "With the rapid development of micro/nano technology, the requirements for high-resolution images have become increasingly stringent. However, conventional microscopic imaging suffers from information degradation and irreversible sub-pixel detail loss, which fundamentally limits image quality improvement. To address this issue, this study designs a super resolution reconstruction system based on precision motion modulation and proposes a generative adversarial network (GAN) reconstruction algorithm incorporating variable sequence fusion and attention mechanisms to achieve super-resolution imaging. The proposed system implements a novel computational microscopy framework employing multi-spatial-view sampling, where a sliding-window-inspired acquisition strategy enables the systematic recovery of sub-pixel-scale image information that would otherwise be lost in conventional imaging. Subsequently, the GAN-based algorithm reconstructs high-resolution images. Experimental results demonstrate that the system effectively extends the sub-pixel information of the original image without modifying the existing optical-physical system. It enhances the model's reconstruction capability in terms of texture details and sharpness, significantly improving the overall quality of microscopic reconstructed images, and highlights the advantage of the algorithm in measurement accuracy.",
-        "journal": "IEEE Trans. Comp. Imaging",
-        "title_cn": "打破显微成像的分辨率障碍：结合运动调制和深度学习的光学保持超分辨率系统",
-        "abstract_cn": "随着微纳技术的快速发展，对高分辨率图像的要求越来越严格。然而，传统的显微成像存在信息退化和不可逆的子像素细节损失，这从根本上限制了图像质量的提高。针对这一问题，本研究设计了一种基于精确运动调制的超分辨率重建系统，并提出了一种结合可变序列融合和注意力机制的生成对抗网络（GAN）重建算法来实现超分辨率成像。所提出的系统实现了一种采用多空间视图采样的新型计算显微镜框架，其中滑动窗口启发的采集策略能够系统地恢复子像素级图像信息，否则这些信息将在传统成像中丢失。随后，基于 GAN 的算法重建高分辨率图像。实验结果表明，该系统在不修改现有光学物理系统的情况下，有效扩展了原始图像的亚像素信息。增强了模型在纹理细节和清晰度方面的重建能力，显着提高了显微重建图像的整体质量，凸显了算法在测量精度方面的优势。"
-    },
-    {
-        "id": "https://doi.org/10.1109/tip.2026.3655171",
-        "title": "DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays",
-        "link": "https://doi.org/10.1109/tip.2026.3655171",
-        "published": "2026",
-        "author": "Xing Xie, Jiawei Liu, Huijie Fan, Zhi Han, Yandong Tang, Liangqiong Qu",
-        "summary": "Directly reconstructing 3D CT volume from few-view 2D X-rays using an end-to-end deep learning network is a challenging task, as X-ray images are merely projection views of the 3D CT volume. In this work, we facilitate complex 2D X-ray image to 3D CT mapping by incorporating new view synthesis, and reduce the learning difficulty through view-guided feature alignment. Specifically, we propose a dual-view guided diffusion model (DVG-Diffusion), which couples a real input X-ray view and a synthesized new X-ray view to jointly guide CT reconstruction. First, a novel view parameterguided encoder captures features from X-rays that are spatially aligned with CT. Next, we concatenate the extracted dual-view features as conditions for the latent diffusion model to learn and refine the CT latent representation. Finally, the CT latent representation is decoded into a CT volume in pixel space. By incorporating view parameter guided encoding and dual-view guided CT reconstruction, our DVG-Diffusion can achieve an effective balance between high fidelity and perceptual quality for CT reconstruction. Experimental results demonstrate our method outperforms state-of-the-art methods. Based on experiments, the comprehensive analysis and discussions for views and reconstruction are also presented. The model and code are available at https://github.com/xiexing0916/DVG-Diffusion.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "DVG-Diffusion：用于 X 射线 CT 重建的双视图引导扩散模型",
-        "abstract_cn": "使用端到端深度学习网络从少视图 2D X 射线直接重建 3D CT 体积是一项具有挑战性的任务，因为 X 射线图像仅仅是 3D CT 体积的投影视图。在这项工作中，我们通过结合新的视图合成来促进复杂的 2D X 射线图像到 3D CT 映射，并通过视图引导的特征对齐来降低学习难度。具体来说，我们提出了一种双视图引导扩散模型（DVG-Diffusion），它将真实输入的 X 射线视图和合成的新 X 射线视图耦合起来，共同引导 CT 重建。首先，一种新颖的视图参数引导编码器捕获与 CT 空间对齐的 X 射线特征。接下来，我们将提取的双视图特征连接起来，作为潜在扩散模型的条件，以学习和细化 CT 潜在表示。最后，CT 潜在表示被解码为像素空间中的 CT 体积。通过结合视图参数引导编码和双视图引导 CT 重建，我们的 DVG-Diffusion 可以在 CT 重建的高保真度和感知质量之间实现有效平衡。实验结果表明我们的方法优于最先进的方法。在实验的基础上，对观点和重构进行了综合分析和讨论。模型和代码可在 https://github.com/xiexing0916/DVG-Diffusion 获取。"
-    },
-    {
-        "id": "https://doi.org/10.1109/tip.2026.3654412",
-        "title": "LaCon: Late-Constraint Controllable Visual Generation",
-        "link": "https://doi.org/10.1109/tip.2026.3654412",
-        "published": "2026",
-        "author": "Chang Liu, Rui Li, Kaidong Zhang, Yunwei Lan, Xin Luo, Dong Liu",
-        "summary": "Diffusion models have demonstrated impressive abilities in generating photo-realistic and creative images. To offer more controllability for the generation process, existing studies, termed as early-constraint methods in this paper, leverage extra conditions and incorporate them into pre-trained diffusion models. Particularly, some of them adopt condition-specific modules to handle conditions separately, where they struggle to generalize across other conditions. Although follow-up studies present unified solutions to solve the generalization problem, they also require extra resources to implement, e.g., additional inputs or parameter optimization, where more flexible and efficient solutions are expected to perform steerable guided image synthesis. In this paper, we present an alternative paradigm, namely Late-Constraint Diffusion (LaCon), to simultaneously integrate various conditions into pre-trained diffusion models. Specifically, LaCon establishes an alignment between the external condition and the internal features of diffusion models, and utilizes the alignment to incorporate the target condition, guiding the sampling process to produce tailored results. Experimental results on COCO dataset illustrate the effectiveness and superior generalization capability of LaCon under various conditions and settings. Ablation studies investigate the functionalities of different components in LaCon, and illustrate its great potential to serve as an efficient solution to offer flexible controllability for diffusion models.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "LaCon：后期约束可控视觉生成",
-        "abstract_cn": "扩散模型在生成逼真且富有创意的图像方面表现出了令人印象深刻的能力。为了为生成过程提供更多的可控性，现有的研究（本文中称为早期约束方法）利用额外的条件并将其纳入预先训练的扩散模型中。特别是，其中一些采用特定于条件的模块来单独处理条件，但很难在其他条件下进行泛化。尽管后续研究提出了解决泛化问题的统一解决方案，但它们也需要额外的资源来实现，例如额外的输入或参数优化，其中期望更灵活和高效的解决方案来执行可引导的引导图像合成。在本文中，我们提出了一种替代范例，即后期约束扩散（LaCon），可以将各种条件同时集成到预训练的扩散模型中。具体来说，LaCon 在扩散模型的外部条件和内部特征之间建立了对齐，并利用该对齐来合并目标条件，指导采样过程产生定制的结果。 COCO 数据集上的实验结果说明了 LaCon 在各种条件和设置下的有效性和优越的泛化能力。消融研究调查了 LaCon 中不同组件的功能，并说明了其作为有效解决方案为扩散模型提供灵活可控性的巨大潜力。"
-    },
-    {
-        "id": "https://doi.org/10.1109/tip.2026.3654389",
-        "title": "U-RWKV: Accurate and Efficient Volumetric Medical Image Segmentation via RWKV",
-        "link": "https://doi.org/10.1109/tip.2026.3654389",
-        "published": "2026",
-        "author": "Hongyu Cai, Yifan Wang, Liu Wang, Jian Zhao, Zhejun Kuang",
-        "summary": "Accurate and efficient volumetric medical image segmentation is vital for clinical diagnosis, pre-operative planning, and disease-progression monitoring. Conventional convolutional neural networks (CNNs) struggle to capture long-range contextual information, whereas Transformer-based methods suffer from quadratic computational complexity, making it challenging to couple global modeling with high efficiency. To address these limitations, we explore an effective yet accurate segmentation model for volumetric data. Specifically, we introduce a novel linear-complexity sequence modeling technique, RWKV, and leverage it to design a Tri-directional Spatial Enhancement RWKV (TSE-R) block; this module performs global modeling via RWKV and incorporates two optimizations tailored to three-dimensional data: (1) a spatial-shift strategy that enlarges the local receptive field and facilitates inter-block interaction, thereby alleviating the structural information loss caused by sequence serialization; and (2) a tri-directional scanning mechanism that constructs sequences along three distinct directions, applies global modeling via WKV, and fuses them with learnable weights to preserve the inherent 3D spatial structure. Building upon the TSE-R block, we develop an end-to-end 3D segmentation network, termed U-RWKV, and extensive experiments on three public 3D medical segmentation benchmarks demonstrate that U-RWKV outperforms state-of-the-art CNN-, Transformer-, and Mamba-based counterparts, achieving a Dice score of 87.21% on the Synapse multi-organ abdominal dataset while reducing parameter count by a factor of 16.08 compared with leading methods.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "U-RWKV：通过 RWKV 进行准确高效的体积医学图像分割",
-        "abstract_cn": "准确高效的体积医学图像分割对于临床诊断、术前计划和疾病进展监测至关重要。传统的卷积神经网络 (CNN) 难以捕获远程上下文信息，而基于 Transformer 的方法则面临着二次计算复杂性的问题，这使得高效耦合全局建模具有挑战性。为了解决这些限制，我们探索了一种有效而准确的体积数据分割模型。具体来说，我们引入了一种新颖的线性复杂度序列建模技术 RWKV，并利用它来设计三向空间增强 RWKV（TSE-R）模块；该模块通过RWKV进行全局建模，并结合了针对三维数据的两项优化：（1）空间平移策略，扩大局部感受野并促进块间交互，从而减轻序列序列化造成的结构信息丢失； (2) 三向扫描机制，沿着三个不同的方向构建序列，通过 WKV 应用全局建模，并将它们与可学习的权重融合以保留固有的 3D 空间结构。在 TSE-R 模块的基础上，我们开发了一个端到端 3D 分割网络，称为 U-RWKV，并对三个公共 3D 医学分割基准进行的广泛实验表明，U-RWKV 优于最先进的基于 CNN、Transformer 和 Mamba 的对应网络，在 Synapse 多器官腹部数据集上实现了 87.21% 的 Dice 分数，同时将参数数量减少了 16.08 倍。具有领先的方法。"
-    },
-    {
-        "id": "https://doi.org/10.1109/tip.2026.3654354",
-        "title": "Causally-Aware Unsupervised Feature Selection Learning",
-        "link": "https://doi.org/10.1109/tip.2026.3654354",
-        "published": "2026",
-        "author": "Zongxin Shen, Yanyong Huang, Dongjie Wang, Minbo Ma, Fengmao Lv, Tianrui Li",
-        "summary": "Unsupervised feature selection (UFS) has recently gained attention for its effectiveness in processing unlabeled high-dimensional data. However, existing methods overlook the intrinsic causal mechanisms within the data, resulting in the selection of irrelevant features and poor interpretability. Additionally, previous graph-based methods fail to account for the differing impacts of non-causal and causal features in constructing the similarity graph, which leads to false links in the generated graph. To address these issues, a novel UFS method, called Causally-Aware UnSupErvised Feature Selection learning (CAUSE-FS), is proposed. CAUSE-FS introduces a novel causal regularizer that reweights samples to balance the confounding distribution of each treatment feature. This regularizer is subsequently integrated into a generalized unsupervised spectral regression model to mitigate spurious associations between features and clustering labels, thus achieving causal feature selection. Furthermore, CAUSE-FS employs causality-guided hierarchical clustering to partition features with varying causal contributions into multiple granularities. By integrating similarity graphs learned adaptively at different granularities, CAUSE-FS increases the importance of causal features when constructing the fused similarity graph to capture the reliable local structure of data. Extensive experimental results demonstrate the superiority of CAUSE-FS over state-of-the-art methods, with its interpretability further validated through feature visualization.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "因果感知的无监督特征选择学习",
-        "abstract_cn": "无监督特征选择（UFS）最近因其在处理未标记的高维数据方面的有效性而受到关注。然而，现有的方法忽视了数据内的内在因果机制，导致选择不相关的特征且可解释性差。此外，以前的基于图的方法在构建相似性图时未能考虑非因果特征和因果特征的不同影响，这导致生成的图中出现错误链接。为了解决这些问题，提出了一种新颖的 UFS 方法，称为因果感知无监督特征选择学习（CAUSE-FS）。 CAUSE-FS 引入了一种新颖的因果正则化器，可以重新加权样本以平衡每个治疗特征的混杂分布。该正则化器随后被集成到广义无监督谱回归模型中，以减轻特征和聚类标签之间的虚假关联，从而实现因果特征选择。此外，CAUSE-FS 采用因果引导的层次聚类将具有不同因果贡献的特征划分为多个粒度。通过集成在不同粒度下自适应学习的相似性图，CAUSE-FS 在构建融合相似性图以捕获可靠的数据局部结构时增加了因果特征的重要性。大量的实验结果证明了 CAUSE-FS 相对于最先进方法的优越性，其可解释性通过特征可视化得到了进一步验证。"
-    },
-    {
-        "id": "https://doi.org/10.1109/tip.2026.3654370",
-        "title": "Rethinking Multi-Focus Image Fusion: An Input Space Optimisation View",
-        "link": "https://doi.org/10.1109/tip.2026.3654370",
-        "published": "2026",
-        "author": "Zeyu Wang, Shuang Yu, Haoran Duan, Shidong Wang, Yang Long, Ling Shao",
-        "summary": "Multi-focus image fusion (MFIF) addresses the challenge of partial focus by integrating multiple source images taken at different focal depths. Unlike most existing methods that rely on complex loss functions or large-scale synthetic datasets, this study approaches MFIF from a novel perspective: optimizing the input space. The core idea is to construct a high-quality MFIF input space in a cost-effective manner by using intermediate features from well-trained, non-MFIF networks. To this end, we propose a cascaded framework comprising two feature extractors, a Feature Distillation and Fusion Module (FDFM), and a focus segmentation network YUNet. Based on our observation that discrepancy and edge features are essential for MFIF, we select a image deblurring network and a salient object detection network as feature extractors. To transform these extracted features into an MFIF-suitable input space, we propose FDFM as a training-free feature adapter. To make FDFM compatible with high-dimensional feature maps, we extend the manifold theory from the edge-preserving field and design a novel isometric domain transformation. Extensive experiments on six benchmark datasets show that (i) our model consistently outperforms 13 state-of-the-art methods in both qualitative and quantitative evaluations, and (ii) the constructed input space can directly enhance the performance of many MFIF models without additional requirements.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "重新思考多焦点图像融合：输入空间优化视图",
-        "abstract_cn": "多焦点图像融合（MFIF）通过集成在不同焦深处拍摄的多个源图像来解决部分焦点的挑战。与大多数依赖复杂损失函数或大规模合成数据集的现有方法不同，本研究从一个新颖的角度来处理 MFIF：优化输入空间。核心思想是通过使用训练有素的非 MFIF 网络的中间特征，以经济有效的方式构建高质量的 MFIF 输入空间。为此，我们提出了一个级联框架，包括两个特征提取器、一个特征蒸馏和融合模块（FDFM）和一个焦点分割网络 YUNet。根据我们的观察，差异和边缘特征对于 MFIF 至关重要，我们选择图像去模糊网络和显着目标检测网络作为特征提取器。为了将这些提取的特征转换为适合 MFIF 的输入空间，我们提出 FDFM 作为免训练特征适配器。为了使 FDFM 与高维特征图兼容，我们从边缘保留领域扩展了流形理论，并设计了一种新颖的等距域变换。对六个基准数据集的大量实验表明，(i) 我们的模型在定性和定量评估方面始终优于 13 种最先进的方法，(ii) 构建的输入空间可以直接增强许多 MFIF 模型的性能，而无需额外的要求。"
-    },
-    {
-        "id": "https://doi.org/10.1109/tip.2026.3654422",
-        "title": "Topology-Guided Semantic Face Center Estimation for Rotation-Invariant Face Detection",
-        "link": "https://doi.org/10.1109/tip.2026.3654422",
-        "published": "2026",
-        "author": "Hathai Kaewkorn, Lifang Zhou, Weisheng Li, Chengjiang Long",
-        "summary": "Face detection accuracy significantly decreases under rotational variations, including in-plane (RIP) and out-of-plane (ROP) rotations. ROP is particularly problematic due to its impact on landmark distortion, which leads to inaccurate face center localization. Meanwhile, many existing rotation-invariant models are primarily designed to handle RIP, they often fail under ROP because they lack the ability to capture semantic and topological relationships. Moreover, existing datasets frequently suffer from unreliable landmark annotations caused by imperfect ground truth labeling, the absence of precise center annotations, and imbalanced data across different rotation angles. To address these challenges, we propose a topology-guided semantic face center estimation method that leverages graph-based landmark relationships to preserve structural integrity under both RIP and ROP. Additionally, we construct a rotation-aware face dataset with accurate face center annotations and balanced rotational diversity to support training under extreme pose conditions. Next, we introduce a Hybrid-ViT model that fuses CNN spatial features with transformer-based global context and employ a center-guided module for robust landmark localization under extreme rotations. In order to evaluate center quality, we further design a hybrid metric that combines topological geometry with semantic perception for a more comprehensive evaluation of face center accuracy. Finally, experimental results demonstrate that our method outperforms state-of-the-art models in cross-dataset evaluations. Code: https://github.com/Catster111/TCE_RIFD.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "用于旋转不变人脸检测的拓扑引导语义人脸中心估计",
-        "abstract_cn": "在旋转变化（包括面内 (RIP) 和面外 (ROP) 旋转）下，人脸检测精度会显着降低。 ROP 的问题尤其严重，因为它会影响地标失真，从而导致人脸中心定位不准确。同时，许多现有的旋转不变模型主要是为处理 RIP 而设计的，它们在 ROP 下经常失败，因为它们缺乏捕获语义和拓扑关系的能力。此外，现有数据集经常遭受不可靠的地标注释的困扰，这是由于地面实况标签不完善、缺乏精确的中心注释以及不同旋转角度的数据不平衡造成的。为了解决这些挑战，我们提出了一种拓扑引导的语义人脸中心估计方法，该方法利用基于图的地标关系来在 RIP 和 ROP 下保持结构完整性。此外，我们构建了一个旋转感知的面部数据集，具有准确的面部中心注释和平衡的旋转多样性，以支持极端姿势条件下的训练。接下来，我们介绍一种 Hybrid-ViT 模型，该模型将 CNN 空间特征与基于 Transformer 的全局上下文融合在一起，并采用中心引导模块在极端旋转下实现鲁棒的地标定位。为了评估中心质量，我们进一步设计了一种将拓扑几何与语义感知相结合的混合度量，以更全面地评估人脸中心精度。最后，实验结果表明，我们的方法在跨数据集评估中优于最先进的模型。代码：https://github.com/Catster111/TCE_RIFD。"
-    },
-    {
-        "id": "https://doi.org/10.1109/tip.2026.3655117",
-        "title": "RAM-VQA: Restoration Assisted Multi-modality Video Quality Assessment",
-        "link": "https://doi.org/10.1109/tip.2026.3655117",
-        "published": "2026",
-        "author": "Pengfei Chen, Jiebin Yan, Rajiv Soundararajan, Giuseppe Valenzise, Cai Li, Leida Li",
-        "summary": "Video Quality Assessment (VQA) strives to computationally emulate human perceptual judgments and has garnered significant attention given its widespread applicability. However, existing methodologies face two primary impediments: (1) limited proficiency in evaluating samples at quality extremes (e.g., severely degraded or near-perfect videos), and (2) insufficient sensitivity to nuanced quality variations arising from a misalignment with human perceptual mechanisms. Although vision-language models offer promising semantic understanding, their reliance on visual encoders pre-trained for high-level tasks often compromises their sensitivity to low-level distortions. To surmount these challenges, we propose the Restoration-Assisted Multi-modality VQA (RAM-VQA) framework. Uniquely, our approach leverages video restoration as a proxy to explicitly model distortion-sensitive features. The framework operates through two synergistic stages: a prompt learning stage that constructs a quality-aware textual space using triple-level references (degraded, restored, and pristine) derived from the restoration process, and a dual-branch evaluation stage that integrates semantic cues with technical quality indicators via spatio-temporal differential analysis. Extensive experiments demonstrate that RAM-VQA achieves state-of-the-art performance across diverse benchmarks, exhibiting superior capability in handling extreme-quality content while ensuring robust generalization.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "RAM-VQA：恢复辅助多模态视频质量评估",
-        "abstract_cn": "视频质量评估（VQA）致力于通过计算模拟人类的感知判断，并因其广泛的适用性而引起了广泛的关注。然而，现有的方法面临两个主要障碍：（1）评估极端质量样本（例如严重退化或近乎完美的视频）的能力有限，以及（2）对因与人类感知机制不一致而产生的细微质量变化的敏感性不足。尽管视觉语言模型提供了有希望的语义理解，但它们对针对高级任务​​预先训练的视觉编码器的依赖往往会损害它们对低级失真的敏感性。为了克服这些挑战，我们提出了恢复辅助多模态 VQA (RAM-VQA) 框架。独特的是，我们的方法利用视频恢复作为代理来显式地对失真敏感的特征进行建模。该框架通过两个协同阶段进行运作：一个即时学习阶段，使用从恢复过程中得出的三级参考（降级、恢复和原始）构建质量感知文本空间；以及一个双分支评估阶段，通过时空差异分析将语义线索与技术质量指标相结合。大量实验表明，RAM-VQA 在不同的基准测试中实现了最先进的性能，在处理极端质量内容方面表现出卓越的能力，同时确保了强大的泛化能力。"
-    },
-    {
-        "id": "https://doi.org/10.1109/tip.2026.3654413",
-        "title": "Knowledge-Prompted Trustworthy Disentangled Learning for Thyroid Ultrasound Segmentation with Limited Annotations",
-        "link": "https://doi.org/10.1109/tip.2026.3654413",
-        "published": "2026",
-        "author": "Wenxu Wang, Weizhen Wang, Qianjin Feng, Yu Zhang, Zhenyuan Ning",
-        "summary": "The similar textures, diverse shapes and blurred boundaries of thyroid lesions in ultrasound images pose a significant challenge to accurate segmentation. Although several methods have been proposed to alleviate the aforementioned issues, their generalization is hindered by limited annotation data and insufficient ability to distinguish lesion from its surrounding tissues, especially in the presence of noise and outlier. Additionally, most existing methods lack uncertainty estimation which is essential for providing trustworthy results and identifying potential mispredictions. To this end, we propose knowledge-prompted trustworthy disentangled learning (KPTD) for thyroid ultrasound segmentation with limited annotations. The proposed method consists of three key components: 1) Knowledge-aware prompt learning (KAPL) encodes TI-RADS reports into text features and introduces learnable prompts to extract contextual embeddings, which assist in generating region activation maps (serving as pseudo-labels for unlabeled images). 2) Foreground-background disentangled learning (FBDL) leverages region activation maps to disentangle foreground and background representations, refining their prototype distributions through a contrastive learning strategy to enhance the model’s discrimination and robustness. 3) Foreground-background trustworthy fusion (FBTF) integrates the foreground and background representations and estimates their uncertainty based on evidence theory, providing trustworthy segmentation results. Experimental results show that KPTD achieves superior segmentation performance under limited annotations, significantly outperforming state-of-the-art methods.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "知识提示的、基于有限注释的甲状腺超声分割的可信解缠学习",
-        "abstract_cn": "超声图像中甲状腺病变的相似纹理、不同形状和模糊边界对精确分割提出了重大挑战。尽管已经提出了几种方法来缓解上述问题，但它们的泛化受到有限的注释数据和区分病变与其周围组织的能力不足的阻碍，特别是在存在噪声和异常值的情况下。此外，大多数现有方法缺乏不确定性估计，这对于提供可信的结果和识别潜在的错误预测至关重要。为此，我们提出了知识提示的可信解缠学习（KPTD），用于具有有限注释的甲状腺超声分割。该方法由三个关键组成部分组成：1）知识感知提示学习（KAPL）将 TI-RADS 报告编码为文本特征，并引入可学习的提示来提取上下文嵌入，这有助于生成区域激活图（用作未标记图像的伪标签）。 2）前景-背景解缠学习（FBDL）利用区域激活图来解开前景和背景表示，通过对比学习策略细化其原型分布，以增强模型的辨别力和鲁棒性。 3）前景-背景可信融合（FBTF）集成前景和背景表示，并基于证据理论估计其不确定性，提供可信的分割结果。实验结果表明，KPTD 在有限的注释下实现了卓越的分割性能，显着优于最先进的方法。"
-    },
-    {
-        "id": "https://doi.org/10.1109/tip.2026.3654770",
-        "title": "HR-SemNet: A High-Resolution Network for Enhanced Small Object Detection With Local Contextual Semantics",
-        "link": "https://doi.org/10.1109/tip.2026.3654770",
-        "published": "2026",
-        "author": "Can Peng, Manxin Chao, Ruoyu Li, Zaiqing Chen, Lijun Yun, Yuelong Xia",
-        "summary": "Using higher-resolution feature maps in the network is an effective approach for detecting small objects. However, high-resolution feature maps face the challenge of lacking semantic information. This has led previous methods to rely on downsampling feature maps, applying large-kernel convolution layers, and then upsampling the feature maps to obtain semantic information. However, these methods have certain limitations: first, large kernel convolutions in deeper layers typically provide significant global semantic information, but our experiments reveal that such prominent semantic information introduces background smear, which in turn leads to overfitting. Second, deep features often contain substantial redundant information, and the features of small objects are either minimal or have disappeared, which causes a degradation in detection performance when directly relying on deep features. To address these issues, we propose a high-resolution network based on local contextual semantics (HR-SemNet). The network is built on the proposed high-resolution backbone (HRB), which replaces the traditional backbone-FPN architecture by focusing all computational resources of large kernel convolutions on highresolution feature layers to capture clearer features of small objects. Additionally, a local context semantic module (LCSM) is employed to extract semantic information from the background, confining the semantic extraction to a local window to avoid interference from large-scale backgrounds and objects. HRSemNet decouples small object semantics from contextual semantics, with HRB and LCSM independently extracting these features. Extensive experiments and comprehensive evaluations on the VisDrone, AI-TOD, and TinyPerson datasets validate the effectiveness of the method. On the VisDrone dataset, which contains a large number of small objects, HR-SemNet improves the mean average precision (mAP) by 4.6%, reduces the computational cost (GFLOPs) by 49.9%, and decreases the parameter count by 94.9%.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "HR-SemNet：利用局部上下文语义增强小物体检测的高分辨率网络",
-        "abstract_cn": "在网络中使用更高分辨率的特征图是检测小物体的有效方法。然而，高分辨率特征图面临着缺乏语义信息的挑战。这导致之前的方法依赖于对特征图进行下采样，应用大核卷积层，然后对特征图进行上采样来获取语义信息。然而，这些方法有一定的局限性：首先，更深层次的大内核卷积通常提供重要的全局语义信息，但我们的实验表明，这种突出的语义信息引入了背景拖尾，进而导致过度拟合。其次，深层特征往往包含大量冗余信息，而小物体的特征要么极少，要么已经消失，这导致直接依赖深层特征时检测性能下降。为了解决这些问题，我们提出了一种基于局部上下文语义的高分辨率网络（HR-SemNet）。该网络建立在所提出的高分辨率主干（HRB）之上，通过将大内核卷积的所有计算资源集中在高分辨率特征层上来取代传统的主干-FPN架构，以捕获小物体的更清晰特征。此外，采用局部上下文语义模块（LCSM）从背景中提取语义信息，将语义提取限制在局部窗口内，以避免大规模背景和物体的干扰。 HRSemNet 将小对象语义与上下文语义解耦，HRB 和 LCSM 独立提取这些特征。对VisDrone、AI-TOD和TinyPerson数据集的大量实验和综合评估验证了该方法的有效性。在包含大量小物体的 VisDrone 数据集上，HR-SemNet 将平均精度（mAP）提高了 4.6%，计算成本（GFLOPs）降低了 49.9%，参数数量减少了 94.9%。"
-    },
-    {
-        "id": "https://doi.org/10.1109/tip.2026.3653212",
-        "title": "Post-Processing Geometry Enhancement for G-PCC Compressed LiDAR via Cylindrical Densification",
-        "link": "https://doi.org/10.1109/tip.2026.3653212",
-        "published": "2026",
-        "author": "Wang Liu, Zhuangzi Li, Ge Li, Siwei Ma, Sam Kwong, Wei Gao",
-        "summary": "The geometry-based point cloud compression algorithm achieves efficient compression and transmission for LiDAR point clouds with high sparsity. However, the low-bitrate mode results in severe geometry compression artifacts, which involve both point reduction and coordinate offset. To the best of our knowledge, this is the first attempt to directly enhance the geometry quality for compressed LiDAR point cloud (CLGE) in a post-processing manner. Our proposed method consists of two branches: cylindrical densification and adaptive refinement. The former adopts a multi-scale sparse convolution framework to effectively extract spatial features in the cylindrical coordinate system and generate dense candidate points quickly. Large asymmetric sparse convolution kernels are also designed to capture the shapes of different regions and objects. The latter branch refines the candidate points through several MLP layers, which takes the neighborhood features between the candidate points and the input points into account. Finally, the designed ring-based farthest point resampling serves as an effective alternative for achieving the target number while maintaining the geometry distribution. Extensive experiments conducted on several datasets verify the effectiveness of our approach under different compression artifact levels. Furthermore, our method is easily extended to upsampling and is robust to noise. In addition to the geometry signal quality improvement, the point cloud enhanced by our proposed method alleviates the performance degradation in object detection task due to compression distortion.",
-        "journal": "IEEE Trans. Image Processing",
-        "title_cn": "通过圆柱致密化对 G-PCC 压缩 LiDAR 进行后处理几何增强",
-        "abstract_cn": "基于几何的点云压缩算法实现了高稀疏度激光雷达点云的高效压缩和传输。然而，低比特率模式会导致严重的几何压缩伪影，其中涉及点减少和坐标偏移。据我们所知，这是首次尝试以后处理方式直接增强压缩激光雷达点云（CLGE）的几何质量。我们提出的方法由两个分支组成：圆柱致密化和自适应细化。前者采用多尺度稀疏卷积框架，有效提取柱坐标系下的空间特征，快速生成密集候选点。大型非对称稀疏卷积核也被设计用于捕获不同区域和物体的形状。后一个分支通过几个 MLP 层细化候选点，其中考虑了候选点和输入点之间的邻域特征。最后，设计的基于环的最远点重采样是在保持几何分布的同时实现目标数量的有效替代方案。在多个数据集上进行的广泛实验验证了我们的方法在不同压缩工件级别下的有效性。此外，我们的方法很容易扩展到上采样，并且对噪声具有鲁棒性。除了几何信号质量的提高之外，我们提出的方法增强的点云还减轻了由于压缩失真而导致的目标检测任务的性能下降。"
-    },
-    {
-        "id": "https://doi.org/10.1038/s41377-025-02173-6",
-        "title": "Deterministic entanglement-assisted quantum communication over 20 km fiber channel",
-        "link": "https://doi.org/10.1038/s41377-025-02173-6",
-        "published": "2026-01-23",
-        "author": "Siyu Ren, Yanru Yan, Yalin Li, Chao Li, Dongmei Han, Xuezhi Zhu, Meihong Wang, Xiaolong Su",
-        "summary": "<jats:title>Abstract</jats:title>\n                  <jats:p>Entanglement-assisted quantum communication has substantial advantages in surpassing the power of classical communication by utilizing the entangled state. Up to now, most of entanglement-assisted quantum communications with dense coding are limited to the proof-of-principle experiments. Here, we experimentally demonstrate the deterministic entanglement-assisted quantum communication based on the continuous-variable (CV) entangled state over 20 km commercial fiber channels. We propose a new CV dense coding scheme with improved classical signals and show that the transmission distance of CV entanglement-assisted quantum communication can be extended compared with that using fixed classical signals. By applying the frequency division multiplexing technique, we simultaneously decode 10 classical signals submerged in the shot noise of coherent state with the help of CV entangled state after the transmission through a 20.121 km fiber channel. The results show that around 3 times of channel capacity in classical communication with coherent state are achieved in the CV entanglement-assisted communication with the frequency division multiplexing technique. Our result takes a crucial step towards realizing the deterministic metropolitan entanglement-assisted quantum communication in practical quantum channels.</jats:p>",
-        "journal": "Light: Science & Applications",
-        "title_cn": "20 公里光纤通道上的确定性纠缠辅助量子通信",
-        "abstract_cn": "<jats:title>摘要</jats:title>\n                  <jats:p>纠缠辅助量子通信在利用纠缠态超越经典通信能力方面具有显着优势。到目前为止，大多数具有密集编码的纠缠辅助量子通信仅限于原理验证实验。在这里，我们通过实验证明了基于 20 km 商业光纤通道的连续变量 (CV) 纠缠态的确定性纠缠辅助量子通信。我们提出了一种改进经典信号的新 CV 密集编码方案，并表明与使用固定经典信号相比，CV 纠缠辅助量子通信的传输距离可以延长。通过应用频分复用技术，我们在20.121 km光纤通道传输后，借助CV纠缠态同时解码淹没在相干态散粒噪声中的10个经典信号。结果表明，采用频分复用技术的CV纠缠辅助通信可以实现约3倍于经典相干态通信的信道容量。我们的成果朝着在实际量子信道中实现确定性城域纠缠辅助量子通信迈出了关键一步。</jats:p>"
-    },
-    {
-        "id": "https://doi.org/10.1038/s41377-025-02164-7",
-        "title": "Robust ultrahigh-Q resonances in tetramer metasurfaces through centroid symmetry protection and area conservation",
-        "link": "https://doi.org/10.1038/s41377-025-02164-7",
-        "published": "2026-01-23",
-        "author": "Chaobiao Zhou, Rong Jin, Haoxuan He, Jing Huang, Guanhai Li, Lujun Huang",
-        "summary": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Ultrahigh-Q optical resonances are the cornerstone of next-generation nanophotonic technologies, but their simultaneous realization of robustness and on-chip practicality remains a significant challenge. In this work, we present tetramer composite metasurfaces capable of supporting two distinct classes of ultrahigh-Q resonances: centroid symmetry-protected bound states in the continuum (SP-BICs) and area-conserved guided-mode resonances (GMRs). By employing a four-hole supercell design, we demonstrate that centering each hole within its subcell preserves C\n                    <jats:sub>4v</jats:sub>\n                    symmetry, thereby enabling SP-BICs. Controlled lateral displacement transforms them into quasi-BICs with Q &gt; 10⁶. Independently, enforcing diagonal-hole area conservation within the super unit cell generates degenerate GMRs with Q &gt; 10⁸, which exhibit remarkable stability across a broad wave vector range. Breaking this area conservation splits the GMRs into paired ultrahigh-Q resonances, while adjusting the center-to-center distance of air holes lifts their degeneracy. Experimentally, we validate both resonance types using silicon photonic crystal slabs, achieving measured Q-factors exceeding 10,000, with a maximum value of 43,700. Such ultrahigh-Q composite-metasurfaces provide a versatile platform of enhancing light-matter interactions.\n                  </jats:p>",
-        "journal": "Light: Science & Applications",
-        "title_cn": "通过质心对称保护和面积守恒在四聚体超表面中实现鲁棒超高 Q 共振",
-        "abstract_cn": "<jats:title>摘要</jats:title>\n                  <贾茨：p>\n                    超高Q光学谐振是下一代纳米光子技术的基石，但同时实现鲁棒性和片上实用性仍然是一个重大挑战。在这项工作中，我们提出了四聚体复合超表面，能够支持两种不同类型的超高Q共振：连续体中质心对称保护的束缚态（SP-BIC）和面积守恒导模共振（GMR）。通过采用四孔超晶胞设计，我们证明将每个孔置于其子晶胞内可以保留 C\n                    <jats:sub>4v</jats:sub>\n                    对称性，从而实现 SP-BIC。受控的横向位移将它们转化为 Q > 的准 BIC。 10⁶。独立地，在超级晶胞内强制对角孔面积守恒会产生简并 GMR，其 Q > 为 1。 10⁸，在广泛的波矢量范围内表现出显着的稳定性。打破这一面积守恒会将 GMR 分裂成成对的超高 Q 共振，同时调整气孔的中心距可提升其简并性。在实验上，我们使用硅光子晶体板验证了两种谐振类型，测量的 Q 因子超过 10,000，最大值为 43,700。这种超高Q复合超表面提供了增强光与物质相互作用的通用平台。\n                  </贾茨：p>"
-    },
-    {
-        "id": "https://doi.org/10.1038/s41377-025-02180-7",
-        "title": "Spectral-acoustic-coordinated astigmatic metalens for wide field-of-view and high spatiotemporal resolution 3D imaging",
-        "link": "https://doi.org/10.1038/s41377-025-02180-7",
-        "published": "2026-01-23",
-        "author": "Shujian Gong, Yinghui Guo, Xiaoyin Li, Mingbo Pu, Peng Tian, Qi Zhang, Lianwei Chen, Wenyi Ye, Heping Liu, Fei Zhang, Mingfeng Xu, Xiangang Luo",
-        "summary": "<jats:title>Abstract</jats:title>\n                  <jats:p>Metasurface-based light detection and ranging (LiDAR) is essential for high spatiotemporal resolution three-dimensional (3D) imaging in robotic and autonomous systems. Recent advances in inertia-free scanning techniques—such as acousto-optic and spectral scanning—have propelled the field forward. Nevertheless, key spatiotemporal metrics, including point acquisition rate (PAR), field-of-view (FOV), and imaging resolution, remain fundamentally constrained. These challenges are particularly acute in dual-axis LiDARs, where inter-axis rate mismatch and beam astigmatism degrade temporal and spatial resolution, respectively. Here, we present a wide-FOV, high spatiotemporal resolution LiDAR architecture with astigmatic metalens (AML) coordinated spectral-acousto-optic scanning. Consequently, a frame-wise point acquisition rate (FPAR) of 36.6 MHz (∼5-fold improvement over existing reports) and a wide FOV of 102° are simultaneously achieved. This breakthrough redefines LiDAR’s potential for ultra-high-speed, high-precision perception, enhancing applications such as autonomous driving with improved obstacle detection and safety at high speeds.</jats:p>",
-        "journal": "Light: Science & Applications",
-        "title_cn": "用于宽视场和高时空分辨率 3D 成像的光谱声协调像散超透镜",
-        "abstract_cn": "<jats:title>摘要</jats:title>\n                  <jats:p>基于超表面的光探测和测距 (LiDAR) 对于机器人和自主系统中的高时空分辨率三维 (3D) 成像至关重要。无惯性扫描技术（例如声光和光谱扫描）的最新进展推动了该领域的发展。然而，关键时空指标，包括点采集率 (PAR)、视场 (FOV) 和成像分辨率，仍然受到根本限制。这些挑战在双轴激光雷达中尤其严重，其中轴间速率失配和光束像散分别降低了时间和空间分辨率。在这里，我们提出了一种宽视场、高时空分辨率的激光雷达架构，具有像散超透镜 (AML) 协调光谱声光扫描。因此，同时实现了 36.6MHz 的逐帧点采集率 (FPAR)（比现有报告提高了约 5 倍）和 102° 的宽 FOV。这一突破重新定义了激光雷达在超高速、高精度感知方面的潜力，通过改进高速障碍物检测和安全性增强了自动驾驶等应用。</jats:p>"
-    },
-    {
-        "id": "https://doi.org/10.1364/oe.587981",
-        "title": "Terahertz chiral biochemical metasensor based on analysis of linearly polarized waves",
-        "link": "https://doi.org/10.1364/oe.587981",
+        "id": "https://doi.org/10.1364/oe.587040",
+        "title": "Femtosecond laser-induced concentric ring damage patterns on fused silica surfaces",
+        "link": "https://doi.org/10.1364/oe.587040",
         "published": "2026-01-22",
-        "author": "Jialuo Ding, Tao Zhang, Li Luo, Jie Li, Jun Zuo, Menghan Chen, Lin Liang, Wanxia Huang, Jitao Li, Yuanyuan Lv, Lin Liu, Qiang Guo, Jin He, Jian-Quan Yao",
+        "author": "Keyi Xu, Yubo Zhang, Yifan Wang, Huihui Zhu, li minghui, Runhui Wang, Jiawei Wang, Xuemei Jin, Tao Lü",
         "summary": "Abstract not available.",
         "journal": "Optics Express",
-        "title_cn": "基于线偏振波分析的太赫兹手性生化元传感器",
+        "title_cn": "飞秒激光在熔融石英表面引起的同心环损伤图案",
         "abstract_cn": "（摘要暂缺，等待官方补全）"
     },
     {
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202501983?af=R"
-            }
-        ],
-        "link": "https://doi.org/10.1002/lpor.202501983",
-        "published": "Sat, 24 Jan 2026 00:35:44 -0800",
-        "published_parsed": [
-            2026,
-            1,
-            24,
-            8,
-            35,
-            44,
-            5,
-            24,
-            0
-        ],
-        "updated": "2026-01-24T12:35:44-08:00",
-        "updated_parsed": [
-            2026,
-            1,
-            24,
-            20,
-            35,
-            44,
-            5,
-            24,
-            0
-        ],
-        "source": {
-            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
-            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
-        },
-        "prism_coverdate": "",
-        "prism_coverdisplaydate": "",
-        "id": "https://doi.org/10.1002/lpor.202501983",
-        "guidislink": false,
-        "title": "Generation of Femtosecond Optical Vortices Entanglement",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "",
-            "value": "Generation of Femtosecond Optical Vortices Entanglement"
-        },
-        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "",
-            "value": "Laser &amp;Photonics Reviews, EarlyView."
-        },
-        "content": [
-            {
-                "type": "text/plain",
-                "language": null,
-                "base": "",
-                "value": "This work demonstrates femtosecond optical vortices entanglement generated via a nonplanar synchronously pumped optical parametric oscillator. The resulting spatiotemporally entangled light field exhibits a femtosecond‐pulse temporal multimode structure in the form of supermodes, alongside a spatial multimode structure carrying orbital angular momentum. Such hybrid‐mode entanglement paves the way for advanced quantum information processing and multiparameter quantum metrology.\n\n\n\n\n\n\n\n\nABSTRACT\nFemtosecond optical vortices feature helical phase fronts within their transverse modes and also display a fixed phase difference among the longitudinal modes. This multi‐dimensional manipulation of femtosecond laser pulses forms a fundamental basis for various applications. While multiple techniques exist for generating traditional femtosecond optical vortices, a notable void persists in the domain of continuous‐variable entanglement. This letter introduces the demonstration of femtosecond optical vortices entanglement accomplished through the synchronously pumped optical parametric oscillator, which is designed with a nonplanar ring cavity to compensate for astigmatism without introducing additional dispersion. The generated light field exhibits both temporal multimode structures, manifested as supermodes in the femtosecond optical frequency comb, and spatial multimode structures carrying orbital angular momentum. Orbital angular momentum entanglement is clearly observed in the first three‐order supermodes. The femtosecond optical vortices entanglement, serving as a precursor of potential, holds the crucial key to unlocking enhanced capabilities in advanced information processing, securing quantum communication, and even paving the way for the realization of multi‐parameter quantum metrology."
-            },
-            {
-                "type": "text/html",
-                "language": null,
-                "base": "",
-                "value": "<img alt=\"Generation of Femtosecond Optical Vortices Entanglement\" src=\"https://onlinelibrary.wiley.com/cms/asset/2a7ca959-4da7-4853-973a-01b947831e8c/lpor70860-gra-0001-m.png\" />\n<p>This work demonstrates femtosecond optical vortices entanglement generated via a nonplanar synchronously pumped optical parametric oscillator. The resulting spatiotemporally entangled light field exhibits a femtosecond-pulse temporal multimode structure in the form of supermodes, alongside a spatial multimode structure carrying orbital angular momentum. Such hybrid-mode entanglement paves the way for advanced quantum information processing and multiparameter quantum metrology.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>Femtosecond optical vortices feature helical phase fronts within their transverse modes and also display a fixed phase difference among the longitudinal modes. This multi-dimensional manipulation of femtosecond laser pulses forms a fundamental basis for various applications. While multiple techniques exist for generating traditional femtosecond optical vortices, a notable void persists in the domain of continuous-variable entanglement. This letter introduces the demonstration of femtosecond optical vortices entanglement accomplished through the synchronously pumped optical parametric oscillator, which is designed with a nonplanar ring cavity to compensate for astigmatism without introducing additional dispersion. The generated light field exhibits both temporal multimode structures, manifested as supermodes in the femtosecond optical frequency comb, and spatial multimode structures carrying orbital angular momentum. Orbital angular momentum entanglement is clearly observed in the first three-order supermodes. The femtosecond optical vortices entanglement, serving as a precursor of potential, holds the crucial key to unlocking enhanced capabilities in advanced information processing, securing quantum communication, and even paving the way for the realization of multi-parameter quantum metrology.</p>"
-            }
-        ],
-        "authors": [
-            {
-                "name": "Hongbo Liu, \nYanxiang Xie, \nJiaming Li, \nYunhao Zhang, \nRongguo Yang, \nKui Liu, \nJiangrui Gao"
-            }
-        ],
-        "author": "Hongbo Liu, \nYanxiang Xie, \nJiaming Li, \nYunhao Zhang, \nRongguo Yang, \nKui Liu, \nJiangrui Gao",
-        "author_detail": {
-            "name": "Hongbo Liu, \nYanxiang Xie, \nJiaming Li, \nYunhao Zhang, \nRongguo Yang, \nKui Liu, \nJiangrui Gao"
-        },
-        "tags": [
-            {
-                "term": "RESEARCH ARTICLE",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "dc_identifier": "10.1002/lpor.202501983",
-        "prism_publicationname": "Laser & Photonics Reviews",
-        "prism_doi": "10.1002/lpor.202501983",
-        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202501983?af=R",
-        "prism_section": "RESEARCH ARTICLE",
-        "journal": "Laser & Photonics Reviews",
-        "title_cn": "飞秒光学涡旋纠缠的产生",
-        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+        "id": "https://doi.org/10.1364/oe.585451",
+        "title": "Nonreciprocal magnon blockade via combining Barnett and Sagnac effects in a nonlinear system",
+        "link": "https://doi.org/10.1364/oe.585451",
+        "published": "2026-01-22",
+        "author": "Shangyong Feng, Yulu Du, Guangling Cheng, Wenxue Zhong, Aixi Chen",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "通过在非线性系统中结合 Barnett 和 Sagnac 效应实现不可逆磁振子封锁",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
     },
     {
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502419?af=R"
-            }
-        ],
-        "link": "https://doi.org/10.1002/lpor.202502419",
-        "published": "Sat, 24 Jan 2026 00:37:36 -0800",
-        "published_parsed": [
-            2026,
-            1,
-            24,
-            8,
-            37,
-            36,
-            5,
-            24,
-            0
-        ],
-        "updated": "2026-01-24T12:37:36-08:00",
-        "updated_parsed": [
-            2026,
-            1,
-            24,
-            20,
-            37,
-            36,
-            5,
-            24,
-            0
-        ],
-        "source": {
-            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
-            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
-        },
-        "prism_coverdate": "",
-        "prism_coverdisplaydate": "",
-        "id": "https://doi.org/10.1002/lpor.202502419",
-        "guidislink": false,
-        "title": "Polarization‐Controlled Tunable Beam Shift via Pancharatnam‐Berry Phase Gradients in Photonic Crystal Slabs",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "",
-            "value": "Polarization‐Controlled Tunable Beam Shift via Pancharatnam‐Berry Phase Gradients in Photonic Crystal Slabs"
-        },
-        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "",
-            "value": "Laser &amp;Photonics Reviews, EarlyView."
-        },
-        "content": [
-            {
-                "type": "text/plain",
-                "language": null,
-                "base": "",
-                "value": "Wavelength‐scale Imbert‐Fedorov shifts are achieved under normal incidence by manipulating momentum‐space polarization singularities in photonic crystal slabs. Through symmetry breaking, linear Pancharatnam‐Berry phase gradients are engineered to drive lateral beam displacements. This polarization‐controlled mechanism offers continuous tunability, paving the way for compact, reconfigurable optical switches and high‐sensitivity sensors without mechanical parts.\n\n\n\n\n\n\n\n\nABSTRACT\nWhen a light beam hits the interface between different media, the positions of the refracted and reflected beams deviate from those predicted by traditional geometric optics, resulting in beam shifts phenomenon. Beam shifts and manipulation technologies play an indispensable role in precision measurement, biochemical sensing, optical switching, and photodetection. Traditional beam shift phenomena, such as Goos‐Hänchen shifts and Imbert‐Fedorov shifts, typically require oblique incidence conditions, with the shift magnitudes often limited to the nanoscale, significantly constraining integration and reconfigurability. Moreover, these minute shifts are susceptible to environmental noise, making it challenging to meet the demands for large‐range, high‐sensitivity beam shifts. Photonic crystals offer strong light field manipulation capabilities and support a variety of polarization singularity configurations, including bound states in the continuum and circularly polarized singularities, providing a novel platform for the generation and control of beam shifts. This study leverages the geometric phase configuration to develop a multidimensional control framework for Imbert‐Fedorov shifts based on photonic crystal slabs, achieving continuous tuning of beam shifts on the order of four wavelengths for a normal incident beam. This approach establishes a new paradigm for high‐sensitivity optical sensing, beam manipulation, and reconfigurable photonic switching applications."
-            },
-            {
-                "type": "text/html",
-                "language": null,
-                "base": "",
-                "value": "<img alt=\"Polarization-Controlled Tunable Beam Shift via Pancharatnam-Berry Phase Gradients in Photonic Crystal Slabs\" src=\"https://onlinelibrary.wiley.com/cms/asset/b8998f11-f63e-4727-969a-cc190fd0d396/lpor70921-gra-0001-m.png\" />\n<p>Wavelength-scale Imbert-Fedorov shifts are achieved under normal incidence by manipulating momentum-space polarization singularities in photonic crystal slabs. Through symmetry breaking, linear Pancharatnam-Berry phase gradients are engineered to drive lateral beam displacements. This polarization-controlled mechanism offers continuous tunability, paving the way for compact, reconfigurable optical switches and high-sensitivity sensors without mechanical parts.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>When a light beam hits the interface between different media, the positions of the refracted and reflected beams deviate from those predicted by traditional geometric optics, resulting in beam shifts phenomenon. Beam shifts and manipulation technologies play an indispensable role in precision measurement, biochemical sensing, optical switching, and photodetection. Traditional beam shift phenomena, such as Goos-Hänchen shifts and Imbert-Fedorov shifts, typically require oblique incidence conditions, with the shift magnitudes often limited to the nanoscale, significantly constraining integration and reconfigurability. Moreover, these minute shifts are susceptible to environmental noise, making it challenging to meet the demands for large-range, high-sensitivity beam shifts. Photonic crystals offer strong light field manipulation capabilities and support a variety of polarization singularity configurations, including bound states in the continuum and circularly polarized singularities, providing a novel platform for the generation and control of beam shifts. This study leverages the geometric phase configuration to develop a multidimensional control framework for Imbert-Fedorov shifts based on photonic crystal slabs, achieving continuous tuning of beam shifts on the order of four wavelengths for a normal incident beam. This approach establishes a new paradigm for high-sensitivity optical sensing, beam manipulation, and reconfigurable photonic switching applications.</p>"
-            }
-        ],
-        "authors": [
-            {
-                "name": "Riwa Hao, \nJiale Chen, \nZi‐xin Zhou, \nYan‐qing Lu, \nJun‐long Kou"
-            }
-        ],
-        "author": "Riwa Hao, \nJiale Chen, \nZi‐xin Zhou, \nYan‐qing Lu, \nJun‐long Kou",
-        "author_detail": {
-            "name": "Riwa Hao, \nJiale Chen, \nZi‐xin Zhou, \nYan‐qing Lu, \nJun‐long Kou"
-        },
-        "tags": [
-            {
-                "term": "RESEARCH ARTICLE",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "dc_identifier": "10.1002/lpor.202502419",
-        "prism_publicationname": "Laser & Photonics Reviews",
-        "prism_doi": "10.1002/lpor.202502419",
-        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502419?af=R",
-        "prism_section": "RESEARCH ARTICLE",
-        "journal": "Laser & Photonics Reviews",
-        "title_cn": "通过光子晶体板中的 Pancharatnam-Berry 相位梯度进行偏振控制的可调谐光束偏移",
-        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+        "id": "https://doi.org/10.1364/oe.587041",
+        "title": "Ultrashort-Pulse Optical Manipulation of Anisotropic Nanoparticles via Photonic Nanojets and Hooks in Aqueous Environments",
+        "link": "https://doi.org/10.1364/oe.587041",
+        "published": "2026-01-22",
+        "author": "Maya Shor, Alina Karabchevsky",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "在水环境中通过光子纳米喷射和钩子对各向异性纳米颗粒进行超短脉冲光学操纵",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
     },
     {
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502667?af=R"
-            }
-        ],
-        "link": "https://doi.org/10.1002/lpor.202502667",
-        "published": "Sat, 24 Jan 2026 00:50:34 -0800",
-        "published_parsed": [
-            2026,
-            1,
-            24,
-            8,
-            50,
-            34,
-            5,
-            24,
-            0
-        ],
-        "updated": "2026-01-24T12:50:34-08:00",
-        "updated_parsed": [
-            2026,
-            1,
-            24,
-            20,
-            50,
-            34,
-            5,
-            24,
-            0
-        ],
-        "source": {
-            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
-            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
-        },
-        "prism_coverdate": "",
-        "prism_coverdisplaydate": "",
-        "id": "https://doi.org/10.1002/lpor.202502667",
-        "guidislink": false,
-        "title": "Quasi‐Bound States in the Continuum Calibrated Broadband Metasurface Enhanced Mid‐Infrared Absorption Spectroscopy",
+        "id": "https://doi.org/10.1364/oe.583048",
+        "title": "Prior-Guided Infrared Spatiotemporal Noise Modeling Based on Hybrid Neural Representation",
+        "link": "https://doi.org/10.1364/oe.583048",
+        "published": "2026-01-22",
+        "author": "Chao Qu, Jing Han, Haotian Yu, Xiaoyu Chen",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "基于混合神经表示的先验引导红外时空噪声建模",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.586958",
+        "title": "Design of ultra-low loss multi-nested hollow-core antiresonant fibers",
+        "link": "https://doi.org/10.1364/oe.586958",
+        "published": "2026-01-22",
+        "author": "Limin Tian, Yunhao Zhu, Chuanfei Yao, Shu Liu, Ying Ma, Xuan Zhang, pingxue Li",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "超低损耗多嵌套空心抗谐振光纤的设计",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.583671",
+        "title": "A FFT and Deep Learning Denoising Method for Resonant Integrated Optical Gyroscope",
+        "link": "https://doi.org/10.1364/oe.583671",
+        "published": "2026-01-22",
+        "author": "Chenxi Sun, Yan Qi, Boxia Yan, Yu Wang",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "一种用于谐振集成光学陀螺仪的FFT和深度学习去噪方法",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.587175",
+        "title": "Three-Robot System for Efficient Large-Aperture Mirror Lapping",
+        "link": "https://doi.org/10.1364/oe.587175",
+        "published": "2026-01-22",
+        "author": "Hao Chen, Longxiang Li, Qiang Cheng, Xingchang Li, Ling Xiong, Qianlong Feng, Xuejun Zhang",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "用于高效大孔径镜面研磨的三机器人系统",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.587963",
+        "title": "Research on the Influence of Micro-vibration on the Dynamic Imaging Quality of Off-Axis Catadioptric Star Camera",
+        "link": "https://doi.org/10.1364/oe.587963",
+        "published": "2026-01-22",
+        "author": "youhan peng, Zongxuan Li, Qiang Yong, Lin Li, Qin Zhao, Shuping Tao, Tiancong Wang",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "微振动对离轴折反射星相机动态成像质量的影响研究",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.587245",
+        "title": "Generations of Dirac cones with fractal quantum frequencies in the two-dimensional optical waveguide networks",
+        "link": "https://doi.org/10.1364/oe.587245",
+        "published": "2026-01-22",
+        "author": "Xu Xiaohui, Xiangbo Yang, Yan Zhi",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "二维光波导网络中具有分形量子频率的狄拉克锥的生成",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.583200",
+        "title": "Accurate modelling of structural distortions in hollow-core photonic bandgap fibers based on feature points location",
+        "link": "https://doi.org/10.1364/oe.583200",
+        "published": "2026-01-22",
+        "author": "Yunhao Zhu, Shu Liu, Limin Tian, Ying Ma, Chuanfei Yao, pingxue Li",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "基于特征点定位的空心光子带隙光纤结构畸变精确建模",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.588046",
+        "title": "Observation of topological Phenomena in a Weyl Exceptional Ring with Single Photons",
+        "link": "https://doi.org/10.1364/oe.588046",
+        "published": "2026-01-22",
+        "author": "Zhong-Sheng Chen, WeiXin Chen, fan wu, Zhongwei Xu, Jing Ma, Yun-Kun Jiang, Huai-Zhi Wu, Shi-Biao Zheng",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "单光子外尔异常环拓扑现象的观察",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.581506",
+        "title": "Controlled directionality of photon emission without nonreciprocal components",
+        "link": "https://doi.org/10.1364/oe.581506",
+        "published": "2026-01-23",
+        "author": "Zi Ying Sun, Shuang Xu",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "无不可逆分量的受控光子发射方向性",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "title": "Ctp2Fic: From coarse-grained token pruning to fine-grained token clustering for LVLM inference acceleration",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "",
-            "value": "Quasi‐Bound States in the Continuum Calibrated Broadband Metasurface Enhanced Mid‐Infrared Absorption Spectroscopy"
+            "value": "Ctp2Fic: From coarse-grained token pruning to fine-grained token clustering for LVLM inference acceleration"
         },
         "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "",
-            "value": "Laser &amp;Photonics Reviews, EarlyView."
+            "value": "<p>Publication date: April 2026</p><p><b>Source:</b> Displays, Volume 92</p><p>Author(s): Yulong Lei, Zishuo Wang, Jinglin Xu, Yuxin Peng</p>"
         },
-        "content": [
+        "links": [
             {
-                "type": "text/plain",
-                "language": null,
-                "base": "",
-                "value": "A metasurface with modular design enables BIC and dual OC resonance for high‐Q trace detection and broadband SEIRAS sensing. The qBIC and dual OC resonances outperforms prior work in sensitivity, Q‐factor, and broadband vibration amplification (1800–1000 cm−1), offering a practical platform for identifying microplastics and biomarkers.\n\n\n\n\n\n\n\n\nABSTRACT\nInfrared metasurfaces featuring artificially designed structures provide a versatile platform for tailoring sensor properties, holding great promise for next‐generation broadband surface‐enhanced mid‐infrared absorption spectroscopy. In particular, the over‐coupled metasurfaces provide broader sensing bandwidths with a simpler fabrication compared to under‐coupled pixelated metasurfaces. However, over‐coupled metasurfaces has encountered several technical bottlenecks, particularly in the numerical simulation of electromagnetically induced absorption mechanisms and in the extraction of broadband signal. Herein, we propose a metasurface design based on extinction property analysis that modularly controls quasi‐bound states in the continuum and dual over‐coupled resonances to enable trace detection and spectral fingerprinting identification, respectively. The quasi‐bound states in the continuum with surface sensitivity of 0.79 nm/nm serves as an intrinsic calibration reference, delivering a sharp spectral marker for high‐fidelity signal retrieval. The calibrated framework allows accurate retrieval of broadband vibrational signatures, while the over‐coupled resonances collectively amplify molecular absorption from 1800 to 1000 cm−1. Our results demonstrate that extinction‐based analysis offers superior frequency resolution for visualizing the coupling between resonators and molecules. It underscores the potential of dual over‐coupled metasurfaces for identifying complex analytes such as microplastics and biomarkers, paving the way for advanced mid‐infrared sensing platforms."
-            },
-            {
+                "rel": "alternate",
                 "type": "text/html",
-                "language": null,
-                "base": "",
-                "value": "<img alt=\"Quasi-Bound States in the Continuum Calibrated Broadband Metasurface Enhanced Mid-Infrared Absorption Spectroscopy\" src=\"https://onlinelibrary.wiley.com/cms/asset/4f36a643-57cb-4fc1-bd64-c6c12e8e1622/lpor70934-gra-0001-m.png\" />\n<p>A metasurface with modular design enables BIC and dual OC resonance for high-Q trace detection and broadband SEIRAS sensing. The qBIC and dual OC resonances outperforms prior work in sensitivity, Q-factor, and broadband vibration amplification (1800–1000 cm<sup>−</sup>\n<sup>1</sup>), offering a practical platform for identifying microplastics and biomarkers.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>Infrared metasurfaces featuring artificially designed structures provide a versatile platform for tailoring sensor properties, holding great promise for next-generation broadband surface-enhanced mid-infrared absorption spectroscopy. In particular, the over-coupled metasurfaces provide broader sensing bandwidths with a simpler fabrication compared to under-coupled pixelated metasurfaces. However, over-coupled metasurfaces has encountered several technical bottlenecks, particularly in the numerical simulation of electromagnetically induced absorption mechanisms and in the extraction of broadband signal. Herein, we propose a metasurface design based on extinction property analysis that modularly controls quasi-bound states in the continuum and dual over-coupled resonances to enable trace detection and spectral fingerprinting identification, respectively. The quasi-bound states in the continuum with surface sensitivity of 0.79 nm/nm serves as an intrinsic calibration reference, delivering a sharp spectral marker for high-fidelity signal retrieval. The calibrated framework allows accurate retrieval of broadband vibrational signatures, while the over-coupled resonances collectively amplify molecular absorption from 1800 to 1000 cm<sup>−1</sup>. Our results demonstrate that extinction-based analysis offers superior frequency resolution for visualizing the coupling between resonators and molecules. It underscores the potential of dual over-coupled metasurfaces for identifying complex analytes such as microplastics and biomarkers, paving the way for advanced mid-infrared sensing platforms.</p>"
+                "href": "https://www.sciencedirect.com/science/article/pii/S0141938226000235?dgcid=rss_sd_all"
             }
         ],
-        "authors": [
-            {
-                "name": "Shiqing Dong, \nQian Wang, \nDan Yang, \nWenbo Duan, \nYanan He, \nHongchao Liu, \nKesheng Shen, \nChao Dong, \nZunlue Zhu, \nHai Lu"
-            }
-        ],
-        "author": "Shiqing Dong, \nQian Wang, \nDan Yang, \nWenbo Duan, \nYanan He, \nHongchao Liu, \nKesheng Shen, \nChao Dong, \nZunlue Zhu, \nHai Lu",
-        "author_detail": {
-            "name": "Shiqing Dong, \nQian Wang, \nDan Yang, \nWenbo Duan, \nYanan He, \nHongchao Liu, \nKesheng Shen, \nChao Dong, \nZunlue Zhu, \nHai Lu"
-        },
-        "tags": [
-            {
-                "term": "RESEARCH ARTICLE",
-                "scheme": null,
-                "label": null
-            }
-        ],
-        "dc_identifier": "10.1002/lpor.202502667",
-        "prism_publicationname": "Laser & Photonics Reviews",
-        "prism_doi": "10.1002/lpor.202502667",
-        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502667?af=R",
-        "prism_section": "RESEARCH ARTICLE",
-        "journal": "Laser & Photonics Reviews",
-        "title_cn": "连续校准宽带超表面增强中红外吸收光谱中的准束缚态",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0141938226000235",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0141938226000235",
+        "guidislink": false,
+        "journal": "Displays",
+        "title_cn": "Ctp2Fic：从粗粒度令牌剪枝到细粒度令牌聚类以实现 LVLM 推理加速",
         "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
     }
 ]

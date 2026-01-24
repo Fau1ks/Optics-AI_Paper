@@ -422,5 +422,38 @@
         "journal": "IEEE Trans. Image Processing",
         "title_cn": "通过圆柱致密化对 G-PCC 压缩 LiDAR 进行后处理几何增强",
         "abstract_cn": "基于几何的点云压缩算法实现了高稀疏度激光雷达点云的高效压缩和传输。然而，低比特率模式会导致严重的几何压缩伪影，其中涉及点减少和坐标偏移。据我们所知，这是首次尝试以后处理方式直接增强压缩激光雷达点云（CLGE）的几何质量。我们提出的方法由两个分支组成：圆柱致密化和自适应细化。前者采用多尺度稀疏卷积框架，有效提取柱坐标系下的空间特征，快速生成密集候选点。大型非对称稀疏卷积核也被设计用于捕获不同区域和物体的形状。后一个分支通过几个 MLP 层细化候选点，其中考虑了候选点和输入点之间的邻域特征。最后，设计的基于环的最远点重采样是在保持几何分布的同时实现目标数量的有效替代方案。在多个数据集上进行的广泛实验验证了我们的方法在不同压缩工件级别下的有效性。此外，我们的方法很容易扩展到上采样，并且对噪声具有鲁棒性。除了几何信号质量的提高之外，我们提出的方法增强的点云还减轻了由于压缩失真而导致的目标检测任务的性能下降。"
+    },
+    {
+        "id": "https://doi.org/10.1038/s41377-025-02173-6",
+        "title": "Deterministic entanglement-assisted quantum communication over 20 km fiber channel",
+        "link": "https://doi.org/10.1038/s41377-025-02173-6",
+        "published": "2026-01-23",
+        "author": "Siyu Ren, Yanru Yan, Yalin Li, Chao Li, Dongmei Han, Xuezhi Zhu, Meihong Wang, Xiaolong Su",
+        "summary": "<jats:title>Abstract</jats:title>\n                  <jats:p>Entanglement-assisted quantum communication has substantial advantages in surpassing the power of classical communication by utilizing the entangled state. Up to now, most of entanglement-assisted quantum communications with dense coding are limited to the proof-of-principle experiments. Here, we experimentally demonstrate the deterministic entanglement-assisted quantum communication based on the continuous-variable (CV) entangled state over 20 km commercial fiber channels. We propose a new CV dense coding scheme with improved classical signals and show that the transmission distance of CV entanglement-assisted quantum communication can be extended compared with that using fixed classical signals. By applying the frequency division multiplexing technique, we simultaneously decode 10 classical signals submerged in the shot noise of coherent state with the help of CV entangled state after the transmission through a 20.121 km fiber channel. The results show that around 3 times of channel capacity in classical communication with coherent state are achieved in the CV entanglement-assisted communication with the frequency division multiplexing technique. Our result takes a crucial step towards realizing the deterministic metropolitan entanglement-assisted quantum communication in practical quantum channels.</jats:p>",
+        "journal": "Light: Science & Applications",
+        "title_cn": "20 公里光纤通道上的确定性纠缠辅助量子通信",
+        "abstract_cn": "<jats:title>摘要</jats:title>\n                  <jats:p>纠缠辅助量子通信在利用纠缠态超越经典通信能力方面具有显着优势。到目前为止，大多数具有密集编码的纠缠辅助量子通信仅限于原理验证实验。在这里，我们通过实验证明了基于 20 km 商业光纤通道的连续变量 (CV) 纠缠态的确定性纠缠辅助量子通信。我们提出了一种改进经典信号的新 CV 密集编码方案，并表明与使用固定经典信号相比，CV 纠缠辅助量子通信的传输距离可以延长。通过应用频分复用技术，我们在20.121 km光纤通道传输后，借助CV纠缠态同时解码淹没在相干态散粒噪声中的10个经典信号。结果表明，采用频分复用技术的CV纠缠辅助通信可以实现约3倍于经典相干态通信的信道容量。我们的成果朝着在实际量子信道中实现确定性城域纠缠辅助量子通信迈出了关键一步。</jats:p>"
+    },
+    {
+        "id": "https://doi.org/10.1038/s41377-025-02164-7",
+        "title": "Robust ultrahigh-Q resonances in tetramer metasurfaces through centroid symmetry protection and area conservation",
+        "link": "https://doi.org/10.1038/s41377-025-02164-7",
+        "published": "2026-01-23",
+        "author": "Chaobiao Zhou, Rong Jin, Haoxuan He, Jing Huang, Guanhai Li, Lujun Huang",
+        "summary": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Ultrahigh-Q optical resonances are the cornerstone of next-generation nanophotonic technologies, but their simultaneous realization of robustness and on-chip practicality remains a significant challenge. In this work, we present tetramer composite metasurfaces capable of supporting two distinct classes of ultrahigh-Q resonances: centroid symmetry-protected bound states in the continuum (SP-BICs) and area-conserved guided-mode resonances (GMRs). By employing a four-hole supercell design, we demonstrate that centering each hole within its subcell preserves C\n                    <jats:sub>4v</jats:sub>\n                    symmetry, thereby enabling SP-BICs. Controlled lateral displacement transforms them into quasi-BICs with Q &gt; 10⁶. Independently, enforcing diagonal-hole area conservation within the super unit cell generates degenerate GMRs with Q &gt; 10⁸, which exhibit remarkable stability across a broad wave vector range. Breaking this area conservation splits the GMRs into paired ultrahigh-Q resonances, while adjusting the center-to-center distance of air holes lifts their degeneracy. Experimentally, we validate both resonance types using silicon photonic crystal slabs, achieving measured Q-factors exceeding 10,000, with a maximum value of 43,700. Such ultrahigh-Q composite-metasurfaces provide a versatile platform of enhancing light-matter interactions.\n                  </jats:p>",
+        "journal": "Light: Science & Applications",
+        "title_cn": "通过质心对称保护和面积守恒在四聚体超表面中实现鲁棒超高 Q 共振",
+        "abstract_cn": "<jats:title>摘要</jats:title>\n                  <贾茨：p>\n                    超高Q光学谐振是下一代纳米光子技术的基石，但同时实现鲁棒性和片上实用性仍然是一个重大挑战。在这项工作中，我们提出了四聚体复合超表面，能够支持两种不同类型的超高Q共振：连续体中质心对称保护的束缚态（SP-BIC）和面积守恒导模共振（GMR）。通过采用四孔超晶胞设计，我们证明将每个孔置于其子晶胞内可以保留 C\n                    <jats:sub>4v</jats:sub>\n                    对称性，从而实现 SP-BIC。受控的横向位移将它们转化为 Q > 的准 BIC。 10⁶。独立地，在超级晶胞内强制对角孔面积守恒会产生简并 GMR，其 Q > 为 1。 10⁸，在广泛的波矢量范围内表现出显着的稳定性。打破这一面积守恒会将 GMR 分裂成成对的超高 Q 共振，同时调整气孔的中心距可提升其简并性。在实验上，我们使用硅光子晶体板验证了两种谐振类型，测量的 Q 因子超过 10,000，最大值为 43,700。这种超高Q复合超表面提供了增强光与物质相互作用的通用平台。\n                  </贾茨：p>"
+    },
+    {
+        "id": "https://doi.org/10.1038/s41377-025-02180-7",
+        "title": "Spectral-acoustic-coordinated astigmatic metalens for wide field-of-view and high spatiotemporal resolution 3D imaging",
+        "link": "https://doi.org/10.1038/s41377-025-02180-7",
+        "published": "2026-01-23",
+        "author": "Shujian Gong, Yinghui Guo, Xiaoyin Li, Mingbo Pu, Peng Tian, Qi Zhang, Lianwei Chen, Wenyi Ye, Heping Liu, Fei Zhang, Mingfeng Xu, Xiangang Luo",
+        "summary": "<jats:title>Abstract</jats:title>\n                  <jats:p>Metasurface-based light detection and ranging (LiDAR) is essential for high spatiotemporal resolution three-dimensional (3D) imaging in robotic and autonomous systems. Recent advances in inertia-free scanning techniques—such as acousto-optic and spectral scanning—have propelled the field forward. Nevertheless, key spatiotemporal metrics, including point acquisition rate (PAR), field-of-view (FOV), and imaging resolution, remain fundamentally constrained. These challenges are particularly acute in dual-axis LiDARs, where inter-axis rate mismatch and beam astigmatism degrade temporal and spatial resolution, respectively. Here, we present a wide-FOV, high spatiotemporal resolution LiDAR architecture with astigmatic metalens (AML) coordinated spectral-acousto-optic scanning. Consequently, a frame-wise point acquisition rate (FPAR) of 36.6 MHz (∼5-fold improvement over existing reports) and a wide FOV of 102° are simultaneously achieved. This breakthrough redefines LiDAR’s potential for ultra-high-speed, high-precision perception, enhancing applications such as autonomous driving with improved obstacle detection and safety at high speeds.</jats:p>",
+        "journal": "Light: Science & Applications",
+        "title_cn": "用于宽视场和高时空分辨率 3D 成像的光谱声协调像散超透镜",
+        "abstract_cn": "<jats:title>摘要</jats:title>\n                  <jats:p>基于超表面的光探测和测距 (LiDAR) 对于机器人和自主系统中的高时空分辨率三维 (3D) 成像至关重要。无惯性扫描技术（例如声光和光谱扫描）的最新进展推动了该领域的发展。然而，关键时空指标，包括点采集率 (PAR)、视场 (FOV) 和成像分辨率，仍然受到根本限制。这些挑战在双轴激光雷达中尤其严重，其中轴间速率失配和光束像散分别降低了时间和空间分辨率。在这里，我们提出了一种宽视场、高时空分辨率的激光雷达架构，具有像散超透镜 (AML) 协调光谱声光扫描。因此，同时实现了 36.6MHz 的逐帧点采集率 (FPAR)（比现有报告提高了约 5 倍）和 102° 的宽 FOV。这一突破重新定义了激光雷达在超高速、高精度感知方面的潜力，通过改进高速障碍物检测和安全性增强了自动驾驶等应用。</jats:p>"
     }
 ]

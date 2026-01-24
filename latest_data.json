@@ -279,5 +279,27 @@
         "journal": "Nature Photonics",
         "title_cn": "出版商更正：钙钛矿太阳能电池埋入界面处自发形成的二维钙钛矿增强了结晶均匀性和缺陷钝化",
         "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "id": "https://doi.org/10.1002/adpr.202500267",
+        "title": "Dispersion Analysis of Silver Thiogallate in a Broad Mid‐Infrared Range",
+        "link": "https://doi.org/10.1002/adpr.202500267",
+        "published": "2026-01-23",
+        "author": "Evgeniy S. Zatsepin, Artem S. Sabanin, Dmitriy V. Badikov, Sergei P. Kulik, Anna V. Paterova",
+        "summary": "<jats:p>\n                    Nonlinear optical materials designed for mid‐infrared applications gain increasing interest in photonics and quantum‐optical research. However, many of these materials remain unexplored in the broad mid‐infrared range due to the limited availability of suitable equipment. Silver thiogallate (AgGaS\n                    <jats:sub>2</jats:sub>\n                    ) is one of the widely known nonlinear crystals used in mid‐infrared frequency‐conversion applications. While its transmission and refractive indices are well characterized up to 10.6 μm, dispersion properties beyond this wavelength remain unreported. In this work, a quantum‐optical approach is employed to determine the refractive indices of AgGaS\n                    <jats:sub>2</jats:sub>\n                    across an extended mid‐infrared wavelength range. Correlated photon pairs are generated in the crystal, where one photon in a pair is generated at a near‐infrared wavelength and the other in the mid‐infrared. Due to the correlations, detecting the spectrum of the near‐infrared photons allows inferring the crystal's dispersion properties in the mid‐infrared region up to 21 μm, without the need for infrared light sources or detectors. Sellmeier equations are further proposed that accurately describe both ordinary and extraordinary refractive indices across the entire transparency range of the crystal. The results are consistent with previously reported data below 10 μm and demonstrate the suitability of AgGaS\n                    <jats:sub>2</jats:sub>\n                    for frequency‐conversion processes over an extended wavelength range.\n                  </jats:p>",
+        "journal": "Advanced Photonics Research",
+        "title_cn": "硫代没食子酸银在宽中红外范围内的色散分析",
+        "abstract_cn": "<贾茨：p>\n                    专为中红外应用而设计的非线性光学材料在光子学和量子光学研究中引起了越来越多的兴趣。然而，由于合适设备的可用性有限，许多这些材料在广泛的中红外范围内仍未得到探索。硫代镓酸银 (AgGaS\n                    <贾茨：子>2</贾茨：子>\n                    ）是用于中红外频率转换应用的广为人知的非线性晶体之一。虽然其透射率和折射率在 10.6μm 以内的波长范围内得到了很好的表征，但超过该波长的色散特性仍未有报道。在这项工作中，采用量子光学方法来确定 AgGaS 的折射率\n                    <贾茨：子>2</贾茨：子>\n                    跨越扩展的中红外波长范围。晶体中会产生相关的光子对，其中一对光子中的一个光子在近红外波长下产生，另一个在中红外波长下产生。由于相关性，检测近红外光子的光谱可以推断晶体在高达 21μm 的中红外区域的色散特性，而不需要红外光源或探测器。进一步提出了 Sellmeier 方程，可以准确地描述晶体整个透明度范围内的寻常折射率和非常折射率。结果与之前报道的 10μm 以下数据一致，证明了 AgGaS 的适用性\n                    <贾茨：子>2</贾茨：子>\n                    用于扩展波长范围内的频率转换过程。\n                  </贾茨：p>"
+    },
+    {
+        "id": "https://doi.org/10.1038/s41377-025-02132-1",
+        "title": "III-Nitrides empower miniaturized spectral imager in ultraviolet",
+        "link": "https://doi.org/10.1038/s41377-025-02132-1",
+        "published": "2026-01-23",
+        "author": "Yuji Zhao, Tao Li, Boon Ooi",
+        "summary": "<jats:title>Abstract</jats:title>\n                  <jats:p>A high-performance miniaturized on-chip spectral imager operating in the ultraviolet region is demonstrated based on an AlGaN/GaN cascaded photodiode array. This work extends spectral imaging into the ultraviolet regimes by leveraging the mature III-nitride technologies and establishes a scalable pathway toward massive production of compact, high-resolution spectral imagers.</jats:p>",
+        "journal": "Light: Science & Applications",
+        "title_cn": "III-氮化物赋​​予微型紫外光谱成像仪",
+        "abstract_cn": "<jats:title>摘要</jats:title>\n                  <jats:p>基于 AlGaN/GaN 级联光电二极管阵列演示了在紫外区域运行的高性能小型片上光谱成像仪。这项工作利用成熟的III族氮化物技术将光谱成像扩展到紫外区域，并为大规模生产紧凑型高分辨率光谱成像仪建立了可扩展的途径。</jats:p>"
     }
 ]

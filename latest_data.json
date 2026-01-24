@@ -455,5 +455,298 @@
         "journal": "Light: Science & Applications",
         "title_cn": "用于宽视场和高时空分辨率 3D 成像的光谱声协调像散超透镜",
         "abstract_cn": "<jats:title>摘要</jats:title>\n                  <jats:p>基于超表面的光探测和测距 (LiDAR) 对于机器人和自主系统中的高时空分辨率三维 (3D) 成像至关重要。无惯性扫描技术（例如声光和光谱扫描）的最新进展推动了该领域的发展。然而，关键时空指标，包括点采集率 (PAR)、视场 (FOV) 和成像分辨率，仍然受到根本限制。这些挑战在双轴激光雷达中尤其严重，其中轴间速率失配和光束像散分别降低了时间和空间分辨率。在这里，我们提出了一种宽视场、高时空分辨率的激光雷达架构，具有像散超透镜 (AML) 协调光谱声光扫描。因此，同时实现了 36.6MHz 的逐帧点采集率 (FPAR)（比现有报告提高了约 5 倍）和 102° 的宽 FOV。这一突破重新定义了激光雷达在超高速、高精度感知方面的潜力，通过改进高速障碍物检测和安全性增强了自动驾驶等应用。</jats:p>"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.587981",
+        "title": "Terahertz chiral biochemical metasensor based on analysis of linearly polarized waves",
+        "link": "https://doi.org/10.1364/oe.587981",
+        "published": "2026-01-22",
+        "author": "Jialuo Ding, Tao Zhang, Li Luo, Jie Li, Jun Zuo, Menghan Chen, Lin Liang, Wanxia Huang, Jitao Li, Yuanyuan Lv, Lin Liu, Qiang Guo, Jin He, Jian-Quan Yao",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "基于线偏振波分析的太赫兹手性生化元传感器",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202501983?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/lpor.202501983",
+        "published": "Sat, 24 Jan 2026 00:35:44 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            24,
+            8,
+            35,
+            44,
+            5,
+            24,
+            0
+        ],
+        "updated": "2026-01-24T12:35:44-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            24,
+            20,
+            35,
+            44,
+            5,
+            24,
+            0
+        ],
+        "source": {
+            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
+            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
+        },
+        "prism_coverdate": "",
+        "prism_coverdisplaydate": "",
+        "id": "https://doi.org/10.1002/lpor.202501983",
+        "guidislink": false,
+        "title": "Generation of Femtosecond Optical Vortices Entanglement",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Generation of Femtosecond Optical Vortices Entanglement"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Laser &amp;Photonics Reviews, EarlyView."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "This work demonstrates femtosecond optical vortices entanglement generated via a nonplanar synchronously pumped optical parametric oscillator. The resulting spatiotemporally entangled light field exhibits a femtosecond‐pulse temporal multimode structure in the form of supermodes, alongside a spatial multimode structure carrying orbital angular momentum. Such hybrid‐mode entanglement paves the way for advanced quantum information processing and multiparameter quantum metrology.\n\n\n\n\n\n\n\n\nABSTRACT\nFemtosecond optical vortices feature helical phase fronts within their transverse modes and also display a fixed phase difference among the longitudinal modes. This multi‐dimensional manipulation of femtosecond laser pulses forms a fundamental basis for various applications. While multiple techniques exist for generating traditional femtosecond optical vortices, a notable void persists in the domain of continuous‐variable entanglement. This letter introduces the demonstration of femtosecond optical vortices entanglement accomplished through the synchronously pumped optical parametric oscillator, which is designed with a nonplanar ring cavity to compensate for astigmatism without introducing additional dispersion. The generated light field exhibits both temporal multimode structures, manifested as supermodes in the femtosecond optical frequency comb, and spatial multimode structures carrying orbital angular momentum. Orbital angular momentum entanglement is clearly observed in the first three‐order supermodes. The femtosecond optical vortices entanglement, serving as a precursor of potential, holds the crucial key to unlocking enhanced capabilities in advanced information processing, securing quantum communication, and even paving the way for the realization of multi‐parameter quantum metrology."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"Generation of Femtosecond Optical Vortices Entanglement\" src=\"https://onlinelibrary.wiley.com/cms/asset/2a7ca959-4da7-4853-973a-01b947831e8c/lpor70860-gra-0001-m.png\" />\n<p>This work demonstrates femtosecond optical vortices entanglement generated via a nonplanar synchronously pumped optical parametric oscillator. The resulting spatiotemporally entangled light field exhibits a femtosecond-pulse temporal multimode structure in the form of supermodes, alongside a spatial multimode structure carrying orbital angular momentum. Such hybrid-mode entanglement paves the way for advanced quantum information processing and multiparameter quantum metrology.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>Femtosecond optical vortices feature helical phase fronts within their transverse modes and also display a fixed phase difference among the longitudinal modes. This multi-dimensional manipulation of femtosecond laser pulses forms a fundamental basis for various applications. While multiple techniques exist for generating traditional femtosecond optical vortices, a notable void persists in the domain of continuous-variable entanglement. This letter introduces the demonstration of femtosecond optical vortices entanglement accomplished through the synchronously pumped optical parametric oscillator, which is designed with a nonplanar ring cavity to compensate for astigmatism without introducing additional dispersion. The generated light field exhibits both temporal multimode structures, manifested as supermodes in the femtosecond optical frequency comb, and spatial multimode structures carrying orbital angular momentum. Orbital angular momentum entanglement is clearly observed in the first three-order supermodes. The femtosecond optical vortices entanglement, serving as a precursor of potential, holds the crucial key to unlocking enhanced capabilities in advanced information processing, securing quantum communication, and even paving the way for the realization of multi-parameter quantum metrology.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Hongbo Liu, \nYanxiang Xie, \nJiaming Li, \nYunhao Zhang, \nRongguo Yang, \nKui Liu, \nJiangrui Gao"
+            }
+        ],
+        "author": "Hongbo Liu, \nYanxiang Xie, \nJiaming Li, \nYunhao Zhang, \nRongguo Yang, \nKui Liu, \nJiangrui Gao",
+        "author_detail": {
+            "name": "Hongbo Liu, \nYanxiang Xie, \nJiaming Li, \nYunhao Zhang, \nRongguo Yang, \nKui Liu, \nJiangrui Gao"
+        },
+        "tags": [
+            {
+                "term": "RESEARCH ARTICLE",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/lpor.202501983",
+        "prism_publicationname": "Laser & Photonics Reviews",
+        "prism_doi": "10.1002/lpor.202501983",
+        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202501983?af=R",
+        "prism_section": "RESEARCH ARTICLE",
+        "journal": "Laser & Photonics Reviews",
+        "title_cn": "飞秒光学涡旋纠缠的产生",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502419?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/lpor.202502419",
+        "published": "Sat, 24 Jan 2026 00:37:36 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            24,
+            8,
+            37,
+            36,
+            5,
+            24,
+            0
+        ],
+        "updated": "2026-01-24T12:37:36-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            24,
+            20,
+            37,
+            36,
+            5,
+            24,
+            0
+        ],
+        "source": {
+            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
+            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
+        },
+        "prism_coverdate": "",
+        "prism_coverdisplaydate": "",
+        "id": "https://doi.org/10.1002/lpor.202502419",
+        "guidislink": false,
+        "title": "Polarization‐Controlled Tunable Beam Shift via Pancharatnam‐Berry Phase Gradients in Photonic Crystal Slabs",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Polarization‐Controlled Tunable Beam Shift via Pancharatnam‐Berry Phase Gradients in Photonic Crystal Slabs"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Laser &amp;Photonics Reviews, EarlyView."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "Wavelength‐scale Imbert‐Fedorov shifts are achieved under normal incidence by manipulating momentum‐space polarization singularities in photonic crystal slabs. Through symmetry breaking, linear Pancharatnam‐Berry phase gradients are engineered to drive lateral beam displacements. This polarization‐controlled mechanism offers continuous tunability, paving the way for compact, reconfigurable optical switches and high‐sensitivity sensors without mechanical parts.\n\n\n\n\n\n\n\n\nABSTRACT\nWhen a light beam hits the interface between different media, the positions of the refracted and reflected beams deviate from those predicted by traditional geometric optics, resulting in beam shifts phenomenon. Beam shifts and manipulation technologies play an indispensable role in precision measurement, biochemical sensing, optical switching, and photodetection. Traditional beam shift phenomena, such as Goos‐Hänchen shifts and Imbert‐Fedorov shifts, typically require oblique incidence conditions, with the shift magnitudes often limited to the nanoscale, significantly constraining integration and reconfigurability. Moreover, these minute shifts are susceptible to environmental noise, making it challenging to meet the demands for large‐range, high‐sensitivity beam shifts. Photonic crystals offer strong light field manipulation capabilities and support a variety of polarization singularity configurations, including bound states in the continuum and circularly polarized singularities, providing a novel platform for the generation and control of beam shifts. This study leverages the geometric phase configuration to develop a multidimensional control framework for Imbert‐Fedorov shifts based on photonic crystal slabs, achieving continuous tuning of beam shifts on the order of four wavelengths for a normal incident beam. This approach establishes a new paradigm for high‐sensitivity optical sensing, beam manipulation, and reconfigurable photonic switching applications."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"Polarization-Controlled Tunable Beam Shift via Pancharatnam-Berry Phase Gradients in Photonic Crystal Slabs\" src=\"https://onlinelibrary.wiley.com/cms/asset/b8998f11-f63e-4727-969a-cc190fd0d396/lpor70921-gra-0001-m.png\" />\n<p>Wavelength-scale Imbert-Fedorov shifts are achieved under normal incidence by manipulating momentum-space polarization singularities in photonic crystal slabs. Through symmetry breaking, linear Pancharatnam-Berry phase gradients are engineered to drive lateral beam displacements. This polarization-controlled mechanism offers continuous tunability, paving the way for compact, reconfigurable optical switches and high-sensitivity sensors without mechanical parts.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>When a light beam hits the interface between different media, the positions of the refracted and reflected beams deviate from those predicted by traditional geometric optics, resulting in beam shifts phenomenon. Beam shifts and manipulation technologies play an indispensable role in precision measurement, biochemical sensing, optical switching, and photodetection. Traditional beam shift phenomena, such as Goos-Hänchen shifts and Imbert-Fedorov shifts, typically require oblique incidence conditions, with the shift magnitudes often limited to the nanoscale, significantly constraining integration and reconfigurability. Moreover, these minute shifts are susceptible to environmental noise, making it challenging to meet the demands for large-range, high-sensitivity beam shifts. Photonic crystals offer strong light field manipulation capabilities and support a variety of polarization singularity configurations, including bound states in the continuum and circularly polarized singularities, providing a novel platform for the generation and control of beam shifts. This study leverages the geometric phase configuration to develop a multidimensional control framework for Imbert-Fedorov shifts based on photonic crystal slabs, achieving continuous tuning of beam shifts on the order of four wavelengths for a normal incident beam. This approach establishes a new paradigm for high-sensitivity optical sensing, beam manipulation, and reconfigurable photonic switching applications.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Riwa Hao, \nJiale Chen, \nZi‐xin Zhou, \nYan‐qing Lu, \nJun‐long Kou"
+            }
+        ],
+        "author": "Riwa Hao, \nJiale Chen, \nZi‐xin Zhou, \nYan‐qing Lu, \nJun‐long Kou",
+        "author_detail": {
+            "name": "Riwa Hao, \nJiale Chen, \nZi‐xin Zhou, \nYan‐qing Lu, \nJun‐long Kou"
+        },
+        "tags": [
+            {
+                "term": "RESEARCH ARTICLE",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/lpor.202502419",
+        "prism_publicationname": "Laser & Photonics Reviews",
+        "prism_doi": "10.1002/lpor.202502419",
+        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502419?af=R",
+        "prism_section": "RESEARCH ARTICLE",
+        "journal": "Laser & Photonics Reviews",
+        "title_cn": "通过光子晶体板中的 Pancharatnam-Berry 相位梯度进行偏振控制的可调谐光束偏移",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502667?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/lpor.202502667",
+        "published": "Sat, 24 Jan 2026 00:50:34 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            24,
+            8,
+            50,
+            34,
+            5,
+            24,
+            0
+        ],
+        "updated": "2026-01-24T12:50:34-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            24,
+            20,
+            50,
+            34,
+            5,
+            24,
+            0
+        ],
+        "source": {
+            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
+            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
+        },
+        "prism_coverdate": "",
+        "prism_coverdisplaydate": "",
+        "id": "https://doi.org/10.1002/lpor.202502667",
+        "guidislink": false,
+        "title": "Quasi‐Bound States in the Continuum Calibrated Broadband Metasurface Enhanced Mid‐Infrared Absorption Spectroscopy",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Quasi‐Bound States in the Continuum Calibrated Broadband Metasurface Enhanced Mid‐Infrared Absorption Spectroscopy"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Laser &amp;Photonics Reviews, EarlyView."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "A metasurface with modular design enables BIC and dual OC resonance for high‐Q trace detection and broadband SEIRAS sensing. The qBIC and dual OC resonances outperforms prior work in sensitivity, Q‐factor, and broadband vibration amplification (1800–1000 cm−1), offering a practical platform for identifying microplastics and biomarkers.\n\n\n\n\n\n\n\n\nABSTRACT\nInfrared metasurfaces featuring artificially designed structures provide a versatile platform for tailoring sensor properties, holding great promise for next‐generation broadband surface‐enhanced mid‐infrared absorption spectroscopy. In particular, the over‐coupled metasurfaces provide broader sensing bandwidths with a simpler fabrication compared to under‐coupled pixelated metasurfaces. However, over‐coupled metasurfaces has encountered several technical bottlenecks, particularly in the numerical simulation of electromagnetically induced absorption mechanisms and in the extraction of broadband signal. Herein, we propose a metasurface design based on extinction property analysis that modularly controls quasi‐bound states in the continuum and dual over‐coupled resonances to enable trace detection and spectral fingerprinting identification, respectively. The quasi‐bound states in the continuum with surface sensitivity of 0.79 nm/nm serves as an intrinsic calibration reference, delivering a sharp spectral marker for high‐fidelity signal retrieval. The calibrated framework allows accurate retrieval of broadband vibrational signatures, while the over‐coupled resonances collectively amplify molecular absorption from 1800 to 1000 cm−1. Our results demonstrate that extinction‐based analysis offers superior frequency resolution for visualizing the coupling between resonators and molecules. It underscores the potential of dual over‐coupled metasurfaces for identifying complex analytes such as microplastics and biomarkers, paving the way for advanced mid‐infrared sensing platforms."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"Quasi-Bound States in the Continuum Calibrated Broadband Metasurface Enhanced Mid-Infrared Absorption Spectroscopy\" src=\"https://onlinelibrary.wiley.com/cms/asset/4f36a643-57cb-4fc1-bd64-c6c12e8e1622/lpor70934-gra-0001-m.png\" />\n<p>A metasurface with modular design enables BIC and dual OC resonance for high-Q trace detection and broadband SEIRAS sensing. The qBIC and dual OC resonances outperforms prior work in sensitivity, Q-factor, and broadband vibration amplification (1800–1000 cm<sup>−</sup>\n<sup>1</sup>), offering a practical platform for identifying microplastics and biomarkers.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>Infrared metasurfaces featuring artificially designed structures provide a versatile platform for tailoring sensor properties, holding great promise for next-generation broadband surface-enhanced mid-infrared absorption spectroscopy. In particular, the over-coupled metasurfaces provide broader sensing bandwidths with a simpler fabrication compared to under-coupled pixelated metasurfaces. However, over-coupled metasurfaces has encountered several technical bottlenecks, particularly in the numerical simulation of electromagnetically induced absorption mechanisms and in the extraction of broadband signal. Herein, we propose a metasurface design based on extinction property analysis that modularly controls quasi-bound states in the continuum and dual over-coupled resonances to enable trace detection and spectral fingerprinting identification, respectively. The quasi-bound states in the continuum with surface sensitivity of 0.79 nm/nm serves as an intrinsic calibration reference, delivering a sharp spectral marker for high-fidelity signal retrieval. The calibrated framework allows accurate retrieval of broadband vibrational signatures, while the over-coupled resonances collectively amplify molecular absorption from 1800 to 1000 cm<sup>−1</sup>. Our results demonstrate that extinction-based analysis offers superior frequency resolution for visualizing the coupling between resonators and molecules. It underscores the potential of dual over-coupled metasurfaces for identifying complex analytes such as microplastics and biomarkers, paving the way for advanced mid-infrared sensing platforms.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Shiqing Dong, \nQian Wang, \nDan Yang, \nWenbo Duan, \nYanan He, \nHongchao Liu, \nKesheng Shen, \nChao Dong, \nZunlue Zhu, \nHai Lu"
+            }
+        ],
+        "author": "Shiqing Dong, \nQian Wang, \nDan Yang, \nWenbo Duan, \nYanan He, \nHongchao Liu, \nKesheng Shen, \nChao Dong, \nZunlue Zhu, \nHai Lu",
+        "author_detail": {
+            "name": "Shiqing Dong, \nQian Wang, \nDan Yang, \nWenbo Duan, \nYanan He, \nHongchao Liu, \nKesheng Shen, \nChao Dong, \nZunlue Zhu, \nHai Lu"
+        },
+        "tags": [
+            {
+                "term": "RESEARCH ARTICLE",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/lpor.202502667",
+        "prism_publicationname": "Laser & Photonics Reviews",
+        "prism_doi": "10.1002/lpor.202502667",
+        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502667?af=R",
+        "prism_section": "RESEARCH ARTICLE",
+        "journal": "Laser & Photonics Reviews",
+        "title_cn": "连续校准宽带超表面增强中红外吸收光谱中的准束缚态",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
     }
 ]

@@ -301,5 +301,381 @@
         "journal": "Optics and Lasers in Engineering",
         "title_cn": "大孔径非近轴 Alvarez 镜头可实现具有宽视场的变焦增强现实平视显示器",
         "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202501998?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/lpor.202501998",
+        "published": "Sat, 24 Jan 2026 00:55:43 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            24,
+            8,
+            55,
+            43,
+            5,
+            24,
+            0
+        ],
+        "updated": "2026-01-24T12:55:43-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            24,
+            20,
+            55,
+            43,
+            5,
+            24,
+            0
+        ],
+        "source": {
+            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
+            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
+        },
+        "prism_coverdate": "",
+        "prism_coverdisplaydate": "",
+        "id": "https://doi.org/10.1002/lpor.202501998",
+        "guidislink": false,
+        "title": "Lithography Alignment Technologies: A Comprehensive Review of Advances and Challenges",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Lithography Alignment Technologies: A Comprehensive Review of Advances and Challenges"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Laser &amp;Photonics Reviews, EarlyView."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "This review chronicles the evolution of lithography alignment technologies from the micron to sub‐nanometer scales. It systematically compares strategies employed by industry leaders such as ASML, evaluating advancements in mark optimization and signal enhancement. Furthermore, it analyzes core methods—including interferometric, image‐processing, and grating‐modulated alignments—and discusses the requirements for advanced lithography, ultimately identifying key challenges and future trends.\n\n\n\n\n\n\n\n\nABSTRACT\nLithography alignment, a core process in micro–nano fabrication, has evolved from the micron scale to the nanometer and even sub‐nanometer domain. However, this advancement has introduced unprecedented challenges related to precision, speed, and reliability. During multilayer pattern exposure, lithography alignment is crucial for achieving high‐resolution and accurate pattern transfer, which directly influences device performance and yield, ultimately determining the overall effectiveness and efficiency of the lithography process. This review provides a comprehensive overview of the development and key technological advancements in lithography alignment. First, recent breakthroughs in alignment mark optimization, signal enhancement, and compensation for asymmetric deformation of the mark are discussed. Next, the evolution of pre‐alignment, coarse alignment, and fine alignment technologies is outlined, including a systematic comparison of the alignment strategies adopted by major lithography machine manufacturers, such as ASML, Nikon, and Canon. Subsequently, the principles, implementations, advantages, and challenges of core technologies, including interferometric alignment, image‐processing‐based alignment, and grating‐modulated alignment, are reviewed. Additionally, the alignment requirements for advanced lithography technologies are discussed. Lastly, the open challenges associated with lithography alignment are highlighted, along with potential future trends and research directions. This review contributes to the literature by consolidating recent advancements and critically comparing current methodologies for lithography alignment."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"Lithography Alignment Technologies: A Comprehensive Review of Advances and Challenges\" src=\"https://onlinelibrary.wiley.com/cms/asset/9c33b3e8-cb13-43a4-9ff2-01809f7dfb18/lpor70904-gra-0001-m.png\" />\n<p>This review chronicles the evolution of lithography alignment technologies from the micron to sub-nanometer scales. It systematically compares strategies employed by industry leaders such as ASML, evaluating advancements in mark optimization and signal enhancement. Furthermore, it analyzes core methods—including interferometric, image-processing, and grating-modulated alignments—and discusses the requirements for advanced lithography, ultimately identifying key challenges and future trends.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>Lithography alignment, a core process in micro–nano fabrication, has evolved from the micron scale to the nanometer and even sub-nanometer domain. However, this advancement has introduced unprecedented challenges related to precision, speed, and reliability. During multilayer pattern exposure, lithography alignment is crucial for achieving high-resolution and accurate pattern transfer, which directly influences device performance and yield, ultimately determining the overall effectiveness and efficiency of the lithography process. This review provides a comprehensive overview of the development and key technological advancements in lithography alignment. First, recent breakthroughs in alignment mark optimization, signal enhancement, and compensation for asymmetric deformation of the mark are discussed. Next, the evolution of pre-alignment, coarse alignment, and fine alignment technologies is outlined, including a systematic comparison of the alignment strategies adopted by major lithography machine manufacturers, such as ASML, Nikon, and Canon. Subsequently, the principles, implementations, advantages, and challenges of core technologies, including interferometric alignment, image-processing-based alignment, and grating-modulated alignment, are reviewed. Additionally, the alignment requirements for advanced lithography technologies are discussed. Lastly, the open challenges associated with lithography alignment are highlighted, along with potential future trends and research directions. This review contributes to the literature by consolidating recent advancements and critically comparing current methodologies for lithography alignment.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Feifan Xu, \nJin Zhang, \nWeishi Li, \nChengliang Pan, \nHaojie Xia"
+            }
+        ],
+        "author": "Feifan Xu, \nJin Zhang, \nWeishi Li, \nChengliang Pan, \nHaojie Xia",
+        "author_detail": {
+            "name": "Feifan Xu, \nJin Zhang, \nWeishi Li, \nChengliang Pan, \nHaojie Xia"
+        },
+        "tags": [
+            {
+                "term": "REVIEW",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/lpor.202501998",
+        "prism_publicationname": "Laser & Photonics Reviews",
+        "prism_doi": "10.1002/lpor.202501998",
+        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202501998?af=R",
+        "prism_section": "REVIEW",
+        "journal": "Laser & Photonics Reviews",
+        "title_cn": "光刻对准技术：进展与挑战的全面回顾",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502733?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/lpor.202502733",
+        "published": "Sat, 24 Jan 2026 00:57:05 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            24,
+            8,
+            57,
+            5,
+            5,
+            24,
+            0
+        ],
+        "updated": "2026-01-24T12:57:05-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            24,
+            20,
+            57,
+            5,
+            5,
+            24,
+            0
+        ],
+        "source": {
+            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
+            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
+        },
+        "prism_coverdate": "",
+        "prism_coverdisplaydate": "",
+        "id": "https://doi.org/10.1002/lpor.202502733",
+        "guidislink": false,
+        "title": "Beam Splitter With Arbitrary Splitting Ratio by Valley Edge Mode",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Beam Splitter With Arbitrary Splitting Ratio by Valley Edge Mode"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Laser &amp;Photonics Reviews, EarlyView."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "A heterostructure‐coupled topological Y‐junction achieves tunable beam splitting through mass‐controlled reshaping of topological interface modes. By varying the symmetry‐breaking parameter, the modal localization inside the transition region is shifted, continuously tuning the evanescent coupling between intersecting topological channels. This mechanism enables broadband operation and fully controllable beam‐splitting ratios for wave‐based signal routing.\n\n\n\n\n\n\n\n\nABSTRACT\nPhotonic crystal beam splitters based on coupled topological interface states (TISs) circumvent the long coupling distances of conventional waveguides. However, their splitting ratio is quantized, limited by the discrete coupling lengths imposed by the lattice period, and their operation bandwidth is narrow due to the phase‐matching requirement. To overcome these limitations, we propose and experimentally demonstrate a topological beam splitter composed of three intersecting interface channels coupled through a heterostructure. By engineering the symmetry‐breaking parameters of the heterostructure, we achieve continuous control over the TIS mode profiles and the inter‐channel coupling strength. This enables continuous tuning of the beam‐splitting ratio, defined as the normalized field distribution between the two output ports, from 0:100 to 100:0. Crucially, the device bandwidth is determined by the intrinsic bandwidth of the TISs, which is significantly broader than that of phase‐matched coupled waveguides. Our design provides a versatile platform for broadband, arbitrarily tunable beam splitting, promising advancements in wavelength‐division multiplexing, on‐chip optical communications, and topological lasers."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"Beam Splitter With Arbitrary Splitting Ratio by Valley Edge Mode\" src=\"https://onlinelibrary.wiley.com/cms/asset/04d44d40-a393-4fa5-a782-267884604882/lpor70928-gra-0001-m.png\" />\n<p>A heterostructure-coupled topological Y-junction achieves tunable beam splitting through mass-controlled reshaping of topological interface modes. By varying the symmetry-breaking parameter, the modal localization inside the transition region is shifted, continuously tuning the evanescent coupling between intersecting topological channels. This mechanism enables broadband operation and fully controllable beam-splitting ratios for wave-based signal routing.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>Photonic crystal beam splitters based on coupled topological interface states (TISs) circumvent the long coupling distances of conventional waveguides. However, their splitting ratio is quantized, limited by the discrete coupling lengths imposed by the lattice period, and their operation bandwidth is narrow due to the phase-matching requirement. To overcome these limitations, we propose and experimentally demonstrate a topological beam splitter composed of three intersecting interface channels coupled through a heterostructure. By engineering the symmetry-breaking parameters of the heterostructure, we achieve continuous control over the TIS mode profiles and the inter-channel coupling strength. This enables continuous tuning of the beam-splitting ratio, defined as the normalized field distribution between the two output ports, from 0:100 to 100:0. Crucially, the device bandwidth is determined by the intrinsic bandwidth of the TISs, which is significantly broader than that of phase-matched coupled waveguides. Our design provides a versatile platform for broadband, arbitrarily tunable beam splitting, promising advancements in wavelength-division multiplexing, on-chip optical communications, and topological lasers.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Guochao Wei, \nJin Li, \nBeibei Wang, \nZhenzhen Liu, \nWei Zhu, \nKang Du, \nXiaoxi Zhou, \nJunjun Xiao, \nShengxiang Wang"
+            }
+        ],
+        "author": "Guochao Wei, \nJin Li, \nBeibei Wang, \nZhenzhen Liu, \nWei Zhu, \nKang Du, \nXiaoxi Zhou, \nJunjun Xiao, \nShengxiang Wang",
+        "author_detail": {
+            "name": "Guochao Wei, \nJin Li, \nBeibei Wang, \nZhenzhen Liu, \nWei Zhu, \nKang Du, \nXiaoxi Zhou, \nJunjun Xiao, \nShengxiang Wang"
+        },
+        "tags": [
+            {
+                "term": "RESEARCH ARTICLE",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/lpor.202502733",
+        "prism_publicationname": "Laser & Photonics Reviews",
+        "prism_doi": "10.1002/lpor.202502733",
+        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502733?af=R",
+        "prism_section": "RESEARCH ARTICLE",
+        "journal": "Laser & Photonics Reviews",
+        "title_cn": "谷边模式任意分束比的分束器",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502566?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/lpor.202502566",
+        "published": "Sat, 24 Jan 2026 01:07:20 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            24,
+            9,
+            7,
+            20,
+            5,
+            24,
+            0
+        ],
+        "updated": "2026-01-24T01:07:20-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            24,
+            9,
+            7,
+            20,
+            5,
+            24,
+            0
+        ],
+        "source": {
+            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
+            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
+        },
+        "prism_coverdate": "",
+        "prism_coverdisplaydate": "",
+        "id": "https://doi.org/10.1002/lpor.202502566",
+        "guidislink": false,
+        "title": "6G Single‐Pixel Meta‐Encryption with Ultra‐Robustness",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "6G Single‐Pixel Meta‐Encryption with Ultra‐Robustness"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Laser &amp;Photonics Reviews, EarlyView."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "To meet the requirement of confidential 6G wireless links, we propose a single‐pixel meta‐encryption scheme based on Hadamard metasurfaces, which can achieve strong security (a key space size of 1090), 31% key tolerance, and ultra‐robustness (97% obstacle). Our approach paves the way for secure, robust, and efficient encryption frameworks applicable to terahertz communication networks.\n\n\n\n\n\n\n\n\nABSTRACT\nAs a promising carrier for 6G communication, terahertz waves are particularly susceptible to eavesdropping and transmission sabotage during wireless propagation. However, the existing terahertz encryption schemes are challenging to intrinsically protect the wireless transmission, whose encryption systems are also bulky and hard to integrate. Here, to meet the requirement of confidential 6G wireless links, we propose a single‐pixel meta‐encryption scheme based on statistical optics empowered Hadamard metasurfaces, which can achieve strong security, key tolerance, and ultra‐robustness. The metasurfaces are prepared by 3D printing technology for simple, rapid, and low‐cost fabrication. By modulating terahertz waves with Hadamard metasurfaces and combining single‐pixel imaging, the scheme achieves a key space size of 1090 and 31% key tolerance. Experimental results show that even if 97% of the optical path is severely blocked or there are 30% errors in the key, the transmitted images can be reconstructed. Our approach combines single‐pixel imaging with terahertz metasurfaces to address security challenges in future wireless communication, paving the way for secure, robust, and efficient encryption frameworks applicable to communication networks from 6G to XG."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"6G Single-Pixel Meta-Encryption with Ultra-Robustness\" src=\"https://onlinelibrary.wiley.com/cms/asset/bc309b74-e0ff-44f7-8f07-23d5238bc8f5/lpor70920-gra-0001-m.png\" />\n<p>To meet the requirement of confidential 6G wireless links, we propose a single-pixel meta-encryption scheme based on Hadamard metasurfaces, which can achieve strong security (a key space size of 10<sup>90</sup>), 31% key tolerance, and ultra-robustness (97% obstacle). Our approach paves the way for secure, robust, and efficient encryption frameworks applicable to terahertz communication networks.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>As a promising carrier for 6G communication, terahertz waves are particularly susceptible to eavesdropping and transmission sabotage during wireless propagation. However, the existing terahertz encryption schemes are challenging to intrinsically protect the wireless transmission, whose encryption systems are also bulky and hard to integrate. Here, to meet the requirement of confidential 6G wireless links, we propose a single-pixel meta-encryption scheme based on statistical optics empowered Hadamard metasurfaces, which can achieve strong security, key tolerance, and ultra-robustness. The metasurfaces are prepared by 3D printing technology for simple, rapid, and low-cost fabrication. By modulating terahertz waves with Hadamard metasurfaces and combining single-pixel imaging, the scheme achieves a key space size of 10<sup>90</sup> and 31% key tolerance. Experimental results show that even if 97% of the optical path is severely blocked or there are 30% errors in the key, the transmitted images can be reconstructed. Our approach combines single-pixel imaging with terahertz metasurfaces to address security challenges in future wireless communication, paving the way for secure, robust, and efficient encryption frameworks applicable to communication networks from 6G to XG.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Bo Yu, \nYifei Xu, \nWenwei Liu, \nZhancheng Li, \nYongliang Liu, \nYuanshuo Liu, \nQi Liu, \nHua Cheng, \nShuqi Chen"
+            }
+        ],
+        "author": "Bo Yu, \nYifei Xu, \nWenwei Liu, \nZhancheng Li, \nYongliang Liu, \nYuanshuo Liu, \nQi Liu, \nHua Cheng, \nShuqi Chen",
+        "author_detail": {
+            "name": "Bo Yu, \nYifei Xu, \nWenwei Liu, \nZhancheng Li, \nYongliang Liu, \nYuanshuo Liu, \nQi Liu, \nHua Cheng, \nShuqi Chen"
+        },
+        "tags": [
+            {
+                "term": "RESEARCH ARTICLE",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/lpor.202502566",
+        "prism_publicationname": "Laser & Photonics Reviews",
+        "prism_doi": "10.1002/lpor.202502566",
+        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502566?af=R",
+        "prism_section": "RESEARCH ARTICLE",
+        "journal": "Laser & Photonics Reviews",
+        "title_cn": "具有超鲁棒性的 6G 单像素元加密",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502715?af=R"
+            }
+        ],
+        "link": "https://doi.org/10.1002/lpor.202502715",
+        "published": "Sat, 24 Jan 2026 09:26:02 -0800",
+        "published_parsed": [
+            2026,
+            1,
+            24,
+            17,
+            26,
+            2,
+            5,
+            24,
+            0
+        ],
+        "updated": "2026-01-24T09:26:02-08:00",
+        "updated_parsed": [
+            2026,
+            1,
+            24,
+            17,
+            26,
+            2,
+            5,
+            24,
+            0
+        ],
+        "source": {
+            "href": "https://onlinelibrary.wiley.com/journal/18638899?af=R",
+            "title": "Wiley: Laser & Photonics Reviews: Table of Contents"
+        },
+        "prism_coverdate": "",
+        "prism_coverdisplaydate": "",
+        "id": "https://doi.org/10.1002/lpor.202502715",
+        "guidislink": false,
+        "title": "Laser‐Scanning Infrared‐Raman‐Fluorescence Microscopy for Metabolic Flux Imaging in Living Organisms",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "Laser‐Scanning Infrared‐Raman‐Fluorescence Microscopy for Metabolic Flux Imaging in Living Organisms"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "Laser &amp;Photonics Reviews, EarlyView."
+        },
+        "content": [
+            {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "LS‐INSPIRE microscopy simultaneously captures mid‐infrared photothermal, stimulated Raman, and two‐photon fluorescence signals in a single scan. This chromatic‐aberration‐free platform delivers pixel‐registered chemical maps across large fields of view, eliminating traditional trade‐offs between molecular specificity and imaging speed. Applications span real‐time metabolic tracking in living organisms to chemical characterization of complex materials.\n\n\n\n\n\n\n\n\nABSTRACT\nComprehensive observation of chemical dynamics in living systems is crucial for deciphering metabolic processes, yet current techniques force a compromise between molecular specificity and imaging throughput. This work presents laser‐scanning in situ pump‐probe infrared (IR) and Raman excitation (LS‐INSPIRE) microscopy, a real‐time multimodal imaging platform that simultaneously captures mid‐IR photothermal (MIP), stimulated Raman scattering (SRS), and two‐photon excited fluorescence (TPEF) signals within a single scan. A custom catoptric relay paired with a reverse‐Cassegrain objective yields chromatic‐aberration‐free imaging from UV to mid‐IR, delivering pixel‐registered, multichannel data across a large field of view. The capabilities are demonstrated by tracking deuterium incorporation into lipids in live cells, quantitatively mapping molecular markers during embryogenesis, and uncovering neural development and lipid metabolism mechanisms in Caenorhabditis elegans. LS‐INSPIRE transcends the longstanding trade‐off between molecular breadth and dynamic acquisition, establishing a versatile paradigm for chemical imaging in biology, medicine, and materials science."
+            },
+            {
+                "type": "text/html",
+                "language": null,
+                "base": "",
+                "value": "<img alt=\"Laser-Scanning Infrared-Raman-Fluorescence Microscopy for Metabolic Flux Imaging in Living Organisms\" src=\"https://onlinelibrary.wiley.com/cms/asset/06c4ff9a-1083-4083-8b89-a4a0127cb7e6/lpor70923-gra-0001-m.png\" />\n<p>LS-INSPIRE microscopy simultaneously captures mid-infrared photothermal, stimulated Raman, and two-photon fluorescence signals in a single scan. This chromatic-aberration-free platform delivers pixel-registered chemical maps across large fields of view, eliminating traditional trade-offs between molecular specificity and imaging speed. Applications span real-time metabolic tracking in living organisms to chemical characterization of complex materials.\n\n</p>\n<br />\n<h2>ABSTRACT</h2>\n<p>Comprehensive observation of chemical dynamics in living systems is crucial for deciphering metabolic processes, yet current techniques force a compromise between molecular specificity and imaging throughput. This work presents laser-scanning in situ pump-probe infrared (IR) and Raman excitation (LS-INSPIRE) microscopy, a real-time multimodal imaging platform that simultaneously captures mid-IR photothermal (MIP), stimulated Raman scattering (SRS), and two-photon excited fluorescence (TPEF) signals within a single scan. A custom catoptric relay paired with a reverse-Cassegrain objective yields chromatic-aberration-free imaging from UV to mid-IR, delivering pixel-registered, multichannel data across a large field of view. The capabilities are demonstrated by tracking deuterium incorporation into lipids in live cells, quantitatively mapping molecular markers during embryogenesis, and uncovering neural development and lipid metabolism mechanisms in <i>Caenorhabditis elegans</i>. LS-INSPIRE transcends the longstanding trade-off between molecular breadth and dynamic acquisition, establishing a versatile paradigm for chemical imaging in biology, medicine, and materials science.</p>"
+            }
+        ],
+        "authors": [
+            {
+                "name": "Siming Wang, \nPengcheng Fu, \nHyeon Jeong Lee, \nDelong Zhang"
+            }
+        ],
+        "author": "Siming Wang, \nPengcheng Fu, \nHyeon Jeong Lee, \nDelong Zhang",
+        "author_detail": {
+            "name": "Siming Wang, \nPengcheng Fu, \nHyeon Jeong Lee, \nDelong Zhang"
+        },
+        "tags": [
+            {
+                "term": "RESEARCH ARTICLE",
+                "scheme": null,
+                "label": null
+            }
+        ],
+        "dc_identifier": "10.1002/lpor.202502715",
+        "prism_publicationname": "Laser & Photonics Reviews",
+        "prism_doi": "10.1002/lpor.202502715",
+        "prism_url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202502715?af=R",
+        "prism_section": "RESEARCH ARTICLE",
+        "journal": "Laser & Photonics Reviews",
+        "title_cn": "用于活体代谢通量成像的激光扫描红外拉曼荧光显微镜",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
     }
 ]

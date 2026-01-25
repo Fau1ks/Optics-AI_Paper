@@ -27,5 +27,34 @@
         "journal": "Displays",
         "title_cn": "基于自注意力的专家混合框架，利用多模态 MRI 无创预测胶质母细胞瘤 MGMT 启动子甲基化",
         "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+    },
+    {
+        "title": "S3CRAD: Superpixel-guided background inpainting and spatial-spectral constrained representation for hyperspectral anomaly detection",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "S3CRAD: Superpixel-guided background inpainting and spatial-spectral constrained representation for hyperspectral anomaly detection"
+        },
+        "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "",
+            "value": "<p>Publication date: June 2026</p><p><b>Source:</b> Optics and Lasers in Engineering, Volume 201</p><p>Author(s): Mingtao You, Yiming Yao, Dong Zhao, Zhe Zhao, Pattathal V. Arun, Yian Wang, Huixin Zhou, Ronghua Chi</p>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/science/article/pii/S014381662600062X?dgcid=rss_sd_all"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/science/article/pii/S014381662600062X",
+        "id": "https://www.sciencedirect.com/science/article/pii/S014381662600062X",
+        "guidislink": false,
+        "journal": "Optics and Lasers in Engineering",
+        "title_cn": "S3CRAD：用于高光谱异常检测的超像素引导背景修复和空间光谱约束表示",
+        "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
     }
 ]

@@ -75,5 +75,93 @@
         "journal": "Light: Science & Applications",
         "title_cn": "通过玻璃晶体工程实现同步上转换和倍频激光的单片微腔激光器",
         "abstract_cn": "<jats:title>摘要</jats:title>\n                  <贾茨：p>\n                    这项工作展示了一种用于集成光子学中多功能微纳光源的新型玻璃晶体复合结构。基于Er\n                    <贾茨：sup>3+</贾茨：sup>\n                    /镱\n                    <贾茨：sup>3+</贾茨：sup>\n                    - 掺有 Ba 的共掺杂玻璃陶瓷 (GC) 回音壁模式 (WGM) 微腔\n                    <贾茨：子>2</贾茨：子>\n                    钛锗\n                    <贾茨：子>2</贾茨：子>\n                    氧\n                    <贾茨：子>8</贾茨：子>\n                    (BTG) 晶体，这种微腔可实现结合上转换 (UC) 和倍频激光的双模响应。由掺铒的低声子能锗酸盐玻璃基体制成\n                    <贾茨：sup>3+</贾茨：sup>\n                    /镱\n                    <贾茨：sup>3+</贾茨：sup>\n                    为了获得 UC 增益，微腔被结晶以形成用于二次谐波产生 (SHG) 的 BTG 微晶体。通过利用高品质因数 (Q ≈ 5.7 × 10\n                    <贾茨：sup>4</贾茨：sup>\n                    ）和小模式体积，我们在直径 30 μm 的微腔中实现了绿色（550 nm）和红色（660 nm）UC 激光，阈值分别为 13.31 μW 和 12.97 μW。受益于 BTG GC 中的随机准相位匹配 (RQPM) 机制，微腔还表现出 900 至 1200 nm 的超宽带倍频响应。通过将锥形光纤近场耦合和飞秒自由空间泵浦相结合，我们在单个微腔内实现了绿/红UC激光和倍频激光的同时输出。我们相信这项工作为可调谐激光器和片上非线性光子系统的混合材料设计和协同光场操纵提供了见解。\n                  </贾茨：p>"
+    },
+    {
+        "id": "https://doi.org/10.1364/optica.586220",
+        "title": "Terahertz Fourier Ptychographic Imaging",
+        "link": "https://doi.org/10.1364/optica.586220",
+        "published": "2026-01-23",
+        "author": "Pitambar Mukherjee, Vivek Kumar, Frederic Fauquet, Amaury Badon, Damien Bigourd, Kedar Khare, Sylvain Gigan, Patrick Mounaix",
+        "summary": "High-resolution imaging in the terahertz (THz) spectral range remains fundamentally constrained by the limited numerical apertures of currently existing state-of-the-art imagers, which restricts its applicability across many fields, such as imaging in complex media or nondestructive testing. To address this challenge, we introduce a proof-of-concept implementation of THz Fourier Ptychographic imaging to enhance spatial resolution without requiring extensive hardware modifications. Our method employs a motorized kinematic mirror to generate a sequence of controlled, multi-angle plane-wave illuminations, with each resulting oblique-illumination intensity image encoding a limited portion of the spatial-frequency content of the target imaging sample. These measurements are combined in the Fourier domain using an aberration-corrected iterative phase-retrieval algorithm integrated with an efficient illumination calibration scheme, which enables the reconstruction of resolution-enhanced amplitude and phase images through the synthetic expansion of the effective numerical aperture. Our work establishes a robust framework for high-resolution THz imaging and paves the way for a wide array of applications in materials characterization, spectroscopy, and non-destructive evaluation.",
+        "journal": "Optica",
+        "title_cn": "太赫兹傅里叶叠层成像",
+        "abstract_cn": "太赫兹（THz）光谱范围内的高分辨率成像仍然从根本上受到当前最先进成像仪有限数值孔径的限制，这限制了其在许多领域的适用性，例如复杂介质中的成像或无损检测。为了应对这一挑战，我们引入了太赫兹傅里叶叠层成像的概念验证实现，以增强空间分辨率，而无需进行大量的硬件修改。我们的方法采用电动运动镜来生成一系列受控的多角度平面波照明，每个产生的倾斜照明强度图像对目标成像样本的空间频率内容的有限部分进行编码。使用像差校正迭代相位检索算法与高效照明校准方案相结合，将这些测量结果在傅立叶域中组合起来，从而能够通过有效数值孔径的综合扩展来重建分辨率增强的幅度和相位图像。我们的工作为高分辨率太赫兹成像建立了一个强大的框架，并为材料表征、光谱学和无损评估方面的广泛应用铺平了道路。"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.586734",
+        "title": "Beyond-line-of-sight physical-layer chaos communication based on troposcatter",
+        "link": "https://doi.org/10.1364/oe.586734",
+        "published": "2026-01-26",
+        "author": "Longsheng Wang, Siqi Zhang, Siyan Wu, Zhiwei Jia, Pengfa Chang, Yuanyuan Guo, Anbang Wang, Anni Liu, Yu Liang, Yuncai Wang",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "基于对流层散射的超视距物理层混沌通信",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.584740",
+        "title": "Image-free few-target tracking via single-pixel sensing",
+        "link": "https://doi.org/10.1364/oe.584740",
+        "published": "2026-01-26",
+        "author": "Xuan Zhang, Jiahao Xiong, Ai Fu, Chit Hun Mok, Zhiyuan Ye, Hongchao LIU",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "通过单像素传感进行无图像少目标跟踪",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.583262",
+        "title": "Quantitative model and experimental validation of speckle decorrelation in digital speckle pattern interferometry",
+        "link": "https://doi.org/10.1364/oe.583262",
+        "published": "2026-01-26",
+        "author": "Peizheng Yan, Xiangwei Liu, Yonghong Wang, Taozhang Ren, hongzhen jiang, jie li",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "数字散斑干涉测量中散斑去相关的定量模型和实验验证",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.573156",
+        "title": "Snapshot thickness profile cross-sectioning for a warped substrate with non-uniform sub-100nm ultra-thin film",
+        "link": "https://doi.org/10.1364/oe.573156",
+        "published": "2026-01-26",
+        "author": "Saeid Kheiryzadehkhanghah, GUKHYEON HWANG, Inho Choi, CHEONGSONG KIM, JinHwan An, Yatana Adolphe Gbogbo, Chih-Jen Yu, Robert Magnusson, Daesuk Kim",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "具有非均匀亚 100nm 超薄膜的翘曲基板的快照厚度剖面横截面",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/oe.580902",
+        "title": "Kerr Soliton Dynamics and Deterministic Generation in Microresonators: Joint Effects of Chirped Pulse Parameters, Higher-Order Dispersion and Desynchronization",
+        "link": "https://doi.org/10.1364/oe.580902",
+        "published": "2026-01-26",
+        "author": "Elham Barati, Seyed Masoud Jazayeri, Mahdi Shayganmanesh, Maryam Jandaghi",
+        "summary": "Abstract not available.",
+        "journal": "Optics Express",
+        "title_cn": "微谐振器中的克尔孤子动力学和确定性生成：啁啾脉冲参数、高阶色散和去同步的联合效应",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1038/s41377-025-02152-x",
+        "title": "Highly luminescent organic-inorganic hybrid antimony halide scintillators for real-time dynamic and 3D X-ray imaging",
+        "link": "https://doi.org/10.1038/s41377-025-02152-x",
+        "published": "2026-01-26",
+        "author": "Haixia Cui, Wanjiao Li, Qianxi Li, Shaolong Wang, Mingye Zhu, Yongjing Deng, Shujuan Liu, Qiang Zhao",
+        "summary": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Real-time dynamic and three-dimensional (3D) X-ray imaging are the most challenging types of X-ray imaging technology, placing more rigorous standards on scintillators. Lead-based (Pb\n                    <jats:sup>2+</jats:sup>\n                    ) organic-inorganic hybrid halide (OIHH) scintillators with high X-ray absorption coefficients have been demonstrated to exhibit excellent scintillation performance. However, their toxicity and instability hindered further development, and it is necessary to explore novel low-toxic metal-based OIHHs possessing excellent scintillation performance. Antimony-based (Sb\n                    <jats:sup>3+</jats:sup>\n                    ) OIHHs are not only environmentally friendly, but also show good stability compared to Pb\n                    <jats:sup>2+</jats:sup>\n                    -based OIHHs, which make them promising candidates as excellent scintillators. Currently, the understanding of Sb\n                    <jats:sup>3+</jats:sup>\n                    -based OIHH scintillators for X-ray detection and imaging is still in infancy and requires further exploration. Herein, we designed two Sb\n                    <jats:sup>3+</jats:sup>\n                    -based OIHH crystals of (BPP)\n                    <jats:sub>2</jats:sub>\n                    SbCl\n                    <jats:sub>5</jats:sub>\n                    (CP1) and (BPP)\n                    <jats:sub>2</jats:sub>\n                    SbCl\n                    <jats:sub>5</jats:sub>\n                    0.5 H\n                    <jats:sub>2</jats:sub>\n                    O (CP2), which have very similar crystal structures except the introduction of water molecules in CP2. Experimental and theoretical results reveal that CP2 has larger lattice distortion and smaller freedom of motion, which can promote the self-trapped excitons emissions. A flexible scintillator screen based on CP2 crystals was prepared and applied for real-time dynamic and 3D X-ray imaging, which is the first time for Sb\n                    <jats:sup>3+</jats:sup>\n                    -based OIHH scintillators and significantly broadens the potential of Sb\n                    <jats:sup>3+</jats:sup>\n                    -based OIHH scintillators.\n                  </jats:p>",
+        "journal": "Light: Science & Applications",
+        "title_cn": "用于实时动态和 3D X 射线成像的高发光有机-无机混合卤化锑闪烁体",
+        "abstract_cn": "<jats:title>摘要</jats:title>\n                  <贾茨：p>\n                    实时动态和三维 (3D) X 射线成像是 X 射线成像技术中最具挑战性的类型，对闪烁体提出了更严格的标准。铅基（Pb\n                    <贾茨：sup>2+</贾茨：sup>\n                    ）具有高X射线吸收系数的有机-无机杂化卤化物（OIHH）闪烁体已被证明具有优异的闪烁性能。然而，它们的毒性和不稳定性阻碍了进一步的发展，有必要探索具有优异闪烁性能的新型低毒金属基OIHH。锑基（Sb\n                    <贾茨：sup>3+</贾茨：sup>\n                    ）OIHHs不仅环保，而且与Pb相比表现出良好的稳定性\n                    <贾茨：sup>2+</贾茨：sup>\n                    基于 OIHH，这使它们成为优秀闪烁体的有希望的候选者。目前，对Sb的认识\n                    <贾茨：sup>3+</贾茨：sup>\n                    用于 X 射线探测和成像的基于 OIHH 闪烁体仍处于起步阶段，需要进一步探索。在此，我们设计了两个Sb\n                    <贾茨：sup>3+</贾茨：sup>\n                    基于 (BPP) 的 OIHH 晶体\n                    <贾茨：子>2</贾茨：子>\n                    氯化锑\n                    <贾茨：子>5</贾茨：子>\n                    (CP1) 和 (BPP)\n                    <贾茨：子>2</贾茨：子>\n                    氯化锑\n                    <贾茨：子>5</贾茨：子>\n                    0.5小时\n                    <贾茨：子>2</贾茨：子>\n                    O(CP2)，除了CP2中引入了水分子之外，它们具有非常相似的晶体结构。实验和理论结果表明，CP2具有较大的晶格畸变和较小的运动自由度，可以促进自陷激子发射。制备了基于CP2晶体的柔性闪烁体屏并应用于实时动态和3D X射线成像，这在Sb领域尚属首次\n                    <贾茨：sup>3+</贾茨：sup>\n                    基于 OIHH 闪烁体并显着拓宽了 Sb 的潜力\n                    <贾茨：sup>3+</贾茨：sup>\n                    基于 OIHH 闪烁体。\n                  </贾茨：p>"
+    },
+    {
+        "id": "https://doi.org/10.1038/s41377-025-02159-4",
+        "title": "Sensitizing effect of lanthanide luminescence by Mo4+/Ag+ in double perovskites: great enhancement of near-infrared emission via wide range of excitation (250–850 nm)",
+        "link": "https://doi.org/10.1038/s41377-025-02159-4",
+        "published": "2026-01-26",
+        "author": "Yingsheng Wang, Peipei Dang, Zixun Zeng, Dongjie Liu, Guodong Zhang, Long Tian, Kai Li, Ping’an Ma, Yi Wei, Hongzhou Lian, Zhiyao Hou, Guogang Li, Jun Lin",
+        "summary": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Lead-free halide double perovskites (LFHDPs) have gained prominence as eco-friendly optoelectronic materials due to their structural stability and flexible tunability. Lanthanide (Ln\n                    <jats:sup>3+</jats:sup>\n                    ) ions have rich energy levels, which can endow LFHDP materials with emissions ranging from visible to near-infrared (NIR) region through the ion doping strategy. However, their NIR applications remain limited by narrowband emission and low photoluminescence quantum yield (PLQY) due to weak absorption cross-section. Herein, Cs\n                    <jats:sub>2</jats:sub>\n                    NaInCl\n                    <jats:sub>6</jats:sub>\n                    :Ln\n                    <jats:sup>3+</jats:sup>\n                    were successfully synthesized, and the problem of low absorption of Ln\n                    <jats:sup>3+</jats:sup>\n                    ions is effectively solved. Incorporating Mo\n                    <jats:sup>4+</jats:sup>\n                    /Ag\n                    <jats:sup>+</jats:sup>\n                    ions achieves a near-unity PLQY and expands the excitation spectrum across the full visible range and a small part of NIR region (250–850 nm). Mechanism analysis revealed synergistic energy transfer pathways involving self-trapping excitons and intermediate energy states of Mo\n                    <jats:sup>4+</jats:sup>\n                    ion, enhancing both photon absorption and PLQY. The universal applicability of this approach has been validated across Bi-based and multiple lanthanide ions (Ln: Ho, Er, Tm, Yb). These optimized materials demonstrate exceptional broadband emission characteristics suitable for multi-scenario NIR applications, including light-emitting-diodes (LEDs), night vision, imaging, anti-counterfeiting technologies. This co-doping methodology establishes a versatile framework for overcoming inherent limitations in Ln\n                    <jats:sup>3+</jats:sup>\n                    -activated materials, offering new possibilities for efficient NIR optoelectronic devices.\n                  </jats:p>",
+        "journal": "Light: Science & Applications",
+        "title_cn": "双钙钛矿中Mo4+/Ag+对镧系元素发光的敏化效应：通过宽激发范围（250–850 nm）极大增强近红外发射",
+        "abstract_cn": "<jats:title>摘要</jats:title>\n                  <贾茨：p>\n                    无铅卤化物双钙钛矿（LFHDP）由于其结构稳定性和灵活的可调性而作为环保光电材料而受到关注。镧系元素（Ln\n                    <贾茨：sup>3+</贾茨：sup>\n                    ）离子具有丰富的能级，通过离子掺杂策略可以赋予LFHDP材料从可见光到近红外（NIR）区域的发射范围。然而，由于吸收截面较弱，它们的近红外应用仍然受到窄带发射和低光致发光量子产率（PLQY）的限制。在此，Cs\n                    <贾茨：子>2</贾茨：子>\n                    氯化钠\n                    <贾茨：子>6</贾茨：子>\n                    :Ln\n                    <贾茨：sup>3+</贾茨：sup>\n                    成功合成，解决了Ln吸收率低的问题\n                    <贾茨：sup>3+</贾茨：sup>\n                    离子得到有效解决。掺入钼\n                    <贾茨：sup>4+</贾茨：sup>\n                    /银\n                    <贾茨：sup>+</贾茨：sup>\n                    离子实现了接近一致的 PLQY 并将激发光谱扩展到整个可见光范围和一小部分 NIR 区域 (250–850nm)。机理分析揭示了涉及自俘获激子和Mo中间能态的协同能量转移途径\n                    <贾茨：sup>4+</贾茨：sup>\n                    离子，增强光子吸收和 PLQY。该方法的普遍适用性已在 Bi 基和多种镧系离子（Ln：Ho、Er、Tm、Yb）中得到验证。这些优化的材料表现出卓越的宽带发射特性，适用于多场景近红外应用，包括发光二极管 (LED)、夜视、成像、防伪技术。这种共掺杂方法建立了一个通用框架，用于克服 Ln 的固有局限性\n                    <贾茨：sup>3+</贾茨：sup>\n                    -活性材料，为高效近红外光电器件提供了新的可能性。\n                  </贾茨：p>"
     }
 ]

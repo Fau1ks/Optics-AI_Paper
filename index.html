@@ -137,7 +137,7 @@
         const timeDiv = document.getElementById('fileTime');
 
         // ==========================================
-        // 1. 工具函数：HTML字符转义 (防乱码/防布局崩坏)
+        // 1. 工具函数
         // ==========================================
         function escapeHtml(text) {
             if (!text) return "";
@@ -188,7 +188,7 @@
             });
 
         // ==========================================
-        // 3. 核心逻辑：获取 JSON 数据并渲染
+        // 3. 核心逻辑：获取数据
         // ==========================================
         
         let allPapersData = []; 
@@ -200,13 +200,18 @@
                 allPapersData = data;
                 document.getElementById('readingArea').style.display = 'block';
                 document.getElementById('searchArea').style.display = 'block'; 
-                renderPapers(allPapersData);
+                
+                // ★★★ 初始加载：传入 false，表示默认不展开 ★★★
+                renderPapers(allPapersData, false);
             })
             .catch(err => {
                 console.log("今日暂无数据或读取失败", err);
             });
 
-        function renderPapers(papersToRender) {
+        // ==========================================
+        // 4. 渲染函数 (增加了 expandAll 参数)
+        // ==========================================
+        function renderPapers(papersToRender, expandAll = false) {
             const container = document.getElementById('accordionContent');
             
             if (!papersToRender || papersToRender.length === 0) {
@@ -221,15 +226,25 @@
                 papersByJournal[j].push(paper);
             });
 
+            // 根据 expandAll 参数决定样式
+            // 如果 expandAll 为 true，则添加 active 类，箭头旋转 180度，display 为 block
+            // 如果 expandAll 为 false，则无 active 类，箭头不旋转，display 为 none (CSS默认)
+            const activeClass = expandAll ? 'active' : '';
+            const arrowStyle = expandAll ? 'transform: rotate(180deg);' : '';
+            const listStyle = expandAll ? 'display: block;' : 'display: none;';
+
             let html = '';
             for (const [journal, papers] of Object.entries(papersByJournal)) {
                 html += `
                 <div class="journal-group">
-                    <button class="journal-btn active" onclick="toggleAccordion(this)">
+                    <button class="journal-btn ${activeClass}" onclick="toggleAccordion(this)">
                         <span>${journal}</span>
-                        <div><span class="count-badge">${papers.length}</span><span class="arrow" style="transform: rotate(180deg);">▼</span></div>
+                        <div>
+                            <span class="count-badge">${papers.length}</span>
+                            <span class="arrow" style="${arrowStyle}">▼</span>
+                        </div>
                     </button>
-                    <div class="article-list" style="display: block;">
+                    <div class="article-list" style="${listStyle}">
                 `;
                 
                 papers.forEach(paper => {
@@ -262,7 +277,7 @@
         }
 
         // ==========================================
-        // 4. 搜索功能
+        // 5. 搜索功能
         // ==========================================
         function searchPapers() {
             const input = document.getElementById('searchInput');
@@ -270,7 +285,8 @@
             const query = input.value.toLowerCase().trim();
 
             if (!query) {
-                renderPapers(allPapersData);
+                // 如果清空搜索，恢复默认状态（全部折叠）
+                renderPapers(allPapersData, false);
                 return;
             }
 
@@ -288,11 +304,12 @@
                        abstractCn.includes(query);
             });
 
-            renderPapers(filteredData);
+            // ★★★ 搜索时：传入 true，自动展开所有结果，方便查看 ★★★
+            renderPapers(filteredData, true);
         }
 
         // ==========================================
-        // 5. 交互动画
+        // 6. 交互动画
         // ==========================================
         function toggleAccordion(element) {
             if (!element) return;

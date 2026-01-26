@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>光学+AI最新文献推送</title>
     <style>
-        /* 全局及基础样式保持不变 */
+        
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #f6f8fa; color: #24292e; display: flex; flex-direction: column; align-items: center; padding: 40px 20px; text-align: center; }
         h1 { color: #0366d6; margin-bottom: 30px; }
         .social-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 40px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
@@ -27,12 +27,12 @@
         .img-row .tip-img { width: calc(50% - 10px); min-width: 280px; }
         @media (max-width: 600px) { h1 { font-size: 22px; } }
 
-        /* 阅读区样式 */
+       
         .reading-container { width: 100%; max-width: 800px; text-align: left; margin-top: 40px; margin-bottom: 20px; }
         .reading-title { text-align: center; color: #333; font-size: 22px; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
         .journal-group { margin-bottom: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); overflow: hidden; border-left: 5px solid #0366d6; }
         
-        /* ★★★ 修改处：期刊按钮样式优化 ★★★ */
+       
         .journal-btn { 
             width: 100%; 
             text-align: left; 
@@ -42,7 +42,7 @@
             cursor: pointer; 
             display: flex; 
             justify-content: space-between; 
-            align-items: center; /* 垂直居中 */
+            align-items: center;
             font-size: 1.1rem; 
             font-weight: bold; 
             color: #24292e; 
@@ -51,14 +51,13 @@
         }
         .journal-btn:hover { background-color: #f1f8ff; }
         
-        /* ★★★ 新增处：右侧信息（数字+箭头）的容器样式 ★★★ */
-        /* 这个样式保证了右侧内容永远不会换行，也不会被挤压 */
+
         .journal-meta {
             display: flex;
             align-items: center;
-            flex-shrink: 0;      /* 禁止被左侧文字挤压 */
-            white-space: nowrap; /* 禁止内部换行 */
-            margin-left: 10px;   /* 和左侧文字保持距离 */
+            flex-shrink: 0;      
+            white-space: nowrap; 
+            margin-left: 10px;   
         }
 
         .count-badge { background: #0366d6; color: white; padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; margin-right: 10px; }
@@ -74,7 +73,7 @@
         .link-box { display: block; background: #e6f6ff; color: #0366d6; padding: 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; word-break: break-all; border: 1px solid #bfe3ff; text-align: center; font-weight: 500; }
         .link-box:hover { background: #cceeff; }
         
-        /* 搜索框样式 */
+        
         .search-container { width: 100%; max-width: 800px; margin: 20px auto 10px; }
         #searchInput { 
             width: 100%; 
@@ -166,9 +165,7 @@
         const btn = document.getElementById('downloadBtn');
         const timeDiv = document.getElementById('fileTime');
 
-        // ==========================================
-        // 1. 工具函数
-        // ==========================================
+
         function escapeHtml(text) {
             if (!text) return "";
             return text
@@ -179,9 +176,7 @@
                 .replace(/'/g, "&#039;");
         }
 
-        // ==========================================
-        // 2. 顶部下载按钮逻辑
-        // ==========================================
+
         fetch(contentApiUrl)
             .then(response => response.json())
             .then(data => {
@@ -217,9 +212,7 @@
                 btn.style.backgroundColor = "#d73a49";
             });
 
-        // ==========================================
-        // 3. 核心逻辑：获取数据
-        // ==========================================
+
         
         let allPapersData = []; 
 
@@ -238,9 +231,7 @@
                 console.log("今日暂无数据或读取失败", err);
             });
 
-        // ==========================================
-        // 4. 渲染函数 (包含 journal-meta 类名的添加)
-        // ==========================================
+
         function renderPapers(papersToRender, expandAll = false) {
             const container = document.getElementById('accordionContent');
             
@@ -303,9 +294,7 @@
             container.innerHTML = html;
         }
 
-        // ==========================================
-        // 5. 搜索功能
-        // ==========================================
+
         function searchPapers() {
             const input = document.getElementById('searchInput');
             if(!input) return;
@@ -333,9 +322,7 @@
             renderPapers(filteredData, true);
         }
 
-        // ==========================================
-        // 6. 交互动画
-        // ==========================================
+
         function toggleAccordion(element) {
             if (!element) return;
             element.classList.toggle("active");

@@ -137,7 +137,7 @@
         const timeDiv = document.getElementById('fileTime');
 
         // ==========================================
-        // 1. 防乱码工具函数
+        // 1. 工具函数：HTML字符转义 (防乱码/防布局崩坏)
         // ==========================================
         function escapeHtml(text) {
             if (!text) return "";
@@ -150,7 +150,7 @@
         }
 
         // ==========================================
-        // 2. 下载按钮逻辑 (保持不变)
+        // 2. 顶部下载按钮逻辑
         // ==========================================
         fetch(contentApiUrl)
             .then(response => response.json())
@@ -188,7 +188,7 @@
             });
 
         // ==========================================
-        // 3. 核心逻辑：数据获取与渲染
+        // 3. 核心逻辑：获取 JSON 数据并渲染
         // ==========================================
         
         let allPapersData = []; 
@@ -235,7 +235,7 @@
                 papers.forEach(paper => {
                     const titleCn = escapeHtml(paper.title_cn || paper.title);
                     const titleEn = escapeHtml(paper.title);
-                    const author = escapeHtml(paper.author || 'Unknown Author'); // ★ 获取并转义作者名
+                    const author = escapeHtml(paper.author || 'Unknown Author');
                     const idLink = paper.id || paper.link || '#';
                     
                     html += `
@@ -251,7 +251,7 @@
                                     <strong>👤 Authors:</strong> ${author}
                                 </div>
                                 
-                                <a href="${idLink}" target="_blank" class="link-box">🔗 Link: 这里的链接不转义以免破坏跳转</a>
+                                <a href="${idLink}" target="_blank" class="link-box">🔗 ${idLink}</a>
                             </div>
                         </div>
                     `;
@@ -262,7 +262,7 @@
         }
 
         // ==========================================
-        // 4. 搜索功能 (保持搜索摘要的能力，但不显示)
+        // 4. 搜索功能
         // ==========================================
         function searchPapers() {
             const input = document.getElementById('searchInput');
@@ -277,11 +277,10 @@
             const filteredData = allPapersData.filter(paper => {
                 const titleEn = (paper.title || '').toLowerCase();
                 const titleCn = (paper.title_cn || '').toLowerCase();
-                const author = (paper.author || '').toLowerCase(); // ★ 确保可以搜作者
+                const author = (paper.author || '').toLowerCase();
                 const abstractEn = (paper.summary || '').toLowerCase();
                 const abstractCn = (paper.abstract_cn || '').toLowerCase();
 
-                // 只要满足任意一项就返回（即使摘要不显示，搜摘要里的词也能出结果）
                 return titleEn.includes(query) || 
                        titleCn.includes(query) || 
                        author.includes(query) || 
@@ -293,7 +292,7 @@
         }
 
         // ==========================================
-        // 5. 手风琴交互
+        // 5. 交互动画
         // ==========================================
         function toggleAccordion(element) {
             if (!element) return;

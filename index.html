@@ -132,11 +132,26 @@
         const GITHUB_USERNAME = 'Fau1ks'; 
         const REPO_NAME = 'Optics-AI_Paper';        
 
-        
         const contentApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
         const btn = document.getElementById('downloadBtn');
         const timeDiv = document.getElementById('fileTime');
 
+        // ==========================================
+        // 1. 防乱码工具函数
+        // ==========================================
+        function escapeHtml(text) {
+            if (!text) return "";
+            return text
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        // ==========================================
+        // 2. 下载按钮逻辑 (保持不变)
+        // ==========================================
         fetch(contentApiUrl)
             .then(response => response.json())
             .then(data => {
@@ -156,7 +171,6 @@
                 btn.classList.remove('loading'); 
                 btn.setAttribute("target", "_blank");
 
-                
                 const commitApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/commits?path=${latestFile.name}&page=1&per_page=1`;
                 fetch(commitApiUrl)
                     .then(res => res.json())
@@ -173,50 +187,42 @@
                 btn.style.backgroundColor = "#d73a49";
             });
 
+        // ==========================================
+        // 3. 核心逻辑：数据获取与渲染
+        // ==========================================
         
-        
-        let allPapersData = [];
+        let allPapersData = []; 
 
         fetch('latest_data.json')
             .then(response => response.json())
             .then(data => {
                 if (!data || data.length === 0) return;
-
-                // 1. 保存原始数据到全局变量
                 allPapersData = data;
-
-                // 2. 显示阅读区和搜索区
                 document.getElementById('readingArea').style.display = 'block';
-                document.getElementById('searchArea').style.display = 'block';
-
-                // 3. 初始渲染所有数据
+                document.getElementById('searchArea').style.display = 'block'; 
                 renderPapers(allPapersData);
             })
             .catch(err => {
                 console.log("今日暂无数据或读取失败", err);
             });
 
-        // 核心渲染函数：负责把数据转为 HTML
         function renderPapers(papersToRender) {
             const container = document.getElementById('accordionContent');
             
-            if (papersToRender.length === 0) {
-                container.innerHTML = '<div class="no-result">😕 没有找到相关文献，换个关键词试试？</div>';
+            if (!papersToRender || papersToRender.length === 0) {
+                container.innerHTML = '<div class="no-result" style="text-align:center; color:#666; padding:20px;">😕 没有找到相关文献，换个关键词试试？</div>';
                 return;
             }
 
-            // 按期刊分组逻辑
             const papersByJournal = {};
             papersToRender.forEach(paper => {
-                const j = paper.journal || 'Unknown Journal';
+                const j = escapeHtml(paper.journal || 'Unknown Journal');
                 if (!papersByJournal[j]) papersByJournal[j] = [];
                 papersByJournal[j].push(paper);
             });
 
-            // 生成 HTML
             let html = '';
             for (const [journal, papers] of Object.entries(papersByJournal)) {
-                // 默认展开所有搜索结果，如果数据量大可以去掉 .style.display = 'block'
                 html += `
                 <div class="journal-group">
                     <button class="journal-btn active" onclick="toggleAccordion(this)">
@@ -227,20 +233,25 @@
                 `;
                 
                 papers.forEach(paper => {
-                    const titleCn = paper.title_cn || paper.title;
-                    const titleEn = paper.title;
-                    // 处理可能不存在的字段，防止报错
+                    const titleCn = escapeHtml(paper.title_cn || paper.title);
+                    const titleEn = escapeHtml(paper.title);
+                    const author = escapeHtml(paper.author || 'Unknown Author'); // ★ 获取并转义作者名
                     const idLink = paper.id || paper.link || '#';
                     
                     html += `
                         <div class="article-item">
                             <button class="article-btn" onclick="toggleAccordion(this)">${titleCn}</button>
                             <div class="article-detail">
-                                <div class="title-box-en"><span style="background:#eee;padding:2px 6px;border-radius:4px;font-size:0.75em;color:#666;margin-right:5px;">English</span>${titleEn}</div>
+                                <div class="title-box-en">
+                                    <span style="background:#eee;padding:2px 6px;border-radius:4px;font-size:0.75em;color:#666;margin-right:5px;">English</span>
+                                    ${titleEn}
+                                </div>
                                 
-                                ${ paper.abstract_cn ? `<div style="font-size:14px; color:#666; margin:10px 0;">${paper.abstract_cn.substring(0, 100)}...</div>` : '' }
+                                <div style="font-size:13px; color:#555; margin:10px 0; line-height:1.4;">
+                                    <strong>👤 Authors:</strong> ${author}
+                                </div>
                                 
-                                <a href="${idLink}" target="_blank" class="link-box">🔗 Link: ${idLink}</a>
+                                <a href="${idLink}" target="_blank" class="link-box">🔗 Link: 这里的链接不转义以免破坏跳转</a>
                             </div>
                         </div>
                     `;
@@ -250,28 +261,27 @@
             container.innerHTML = html;
         }
 
-        // 搜索功能函数
+        // ==========================================
+        // 4. 搜索功能 (保持搜索摘要的能力，但不显示)
+        // ==========================================
         function searchPapers() {
             const input = document.getElementById('searchInput');
+            if(!input) return;
             const query = input.value.toLowerCase().trim();
 
             if (!query) {
-                // 如果输入为空，显示所有数据
                 renderPapers(allPapersData);
                 return;
             }
 
-            // 过滤数据
             const filteredData = allPapersData.filter(paper => {
-                // 提取需要搜索的字段，并转为小写
                 const titleEn = (paper.title || '').toLowerCase();
                 const titleCn = (paper.title_cn || '').toLowerCase();
-                const author = (paper.author || '').toLowerCase();
+                const author = (paper.author || '').toLowerCase(); // ★ 确保可以搜作者
                 const abstractEn = (paper.summary || '').toLowerCase();
                 const abstractCn = (paper.abstract_cn || '').toLowerCase();
 
-                // 核心判断：检查关键词是否出现在上述字段中
-                // 注意：这里完全没有检查 paper.journal，所以不会匹配期刊名
+                // 只要满足任意一项就返回（即使摘要不显示，搜摘要里的词也能出结果）
                 return titleEn.includes(query) || 
                        titleCn.includes(query) || 
                        author.includes(query) || 
@@ -282,23 +292,22 @@
             renderPapers(filteredData);
         }
 
-        // 你的手风琴切换代码保持不变
+        // ==========================================
+        // 5. 手风琴交互
+        // ==========================================
         function toggleAccordion(element) {
+            if (!element) return;
             element.classList.toggle("active");
-            // 修正：寻找 .article-list 或 .article-detail
-            // 注意：原有逻辑中 .journal-btn 下一个是 .article-list
-            // .article-btn 下一个是 .article-detail
             const content = element.nextElementSibling;
-            
-            // 为了更好的交互，添加旋转箭头的逻辑
-            const arrow = element.querySelector('.arrow');
-            
-            if (content.style.display === "block") {
-                content.style.display = "none";
-                if(arrow) arrow.style.transform = "rotate(0deg)";
-            } else {
-                content.style.display = "block";
-                if(arrow) arrow.style.transform = "rotate(180deg)";
+            if (content) {
+                const arrow = element.querySelector('.arrow');
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                    if(arrow) arrow.style.transform = "rotate(0deg)";
+                } else {
+                    content.style.display = "block";
+                    if(arrow) arrow.style.transform = "rotate(180deg)";
+                }
             }
         }
     </script>

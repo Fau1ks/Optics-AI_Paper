@@ -44,6 +44,25 @@
         .title-box-en { color: #555; margin-bottom: 10px; font-size: 0.95rem; font-family: sans-serif; font-weight: bold; line-height: 1.4; }
         .link-box { display: block; background: #e6f6ff; color: #0366d6; padding: 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; word-break: break-all; border: 1px solid #bfe3ff; text-align: center; font-weight: 500; }
         .link-box:hover { background: #cceeff; }
+       
+        .search-container { width: 100%; max-width: 800px; margin: 20px auto 10px; }
+        #searchInput { 
+            width: 100%; 
+            padding: 12px 20px; 
+            border: 1px solid #e1e4e8; 
+            border-radius: 25px; 
+            font-size: 16px; 
+            outline: none; 
+            transition: all 0.3s; 
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            box-sizing: border-box; /* 确保padding不会撑大宽度 */
+        }
+        #searchInput:focus { 
+            border-color: #0366d6; 
+            box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.3); 
+        }
+        .no-result { color: #666; margin-top: 20px; font-size: 14px; }
     </style>
 </head>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -70,6 +89,10 @@
     <a id="downloadBtn" href="#" class="download-btn loading">正在查找最新推送...</a>
     <div id="fileTime" class="update-time">正在获取更新时间...</div>
     <div class="tips">点击上方按钮直接下载最新 Word 文档</div>
+    
+    <div class="search-container" id="searchArea" style="display:none;">
+        <input type="text" id="searchInput" placeholder="🔍 搜索标题、作者或摘要（支持中英文）..." oninput="searchPapers()">
+    </div>
 
     <div class="reading-container" id="readingArea" style="display:none;">
         <div class="reading-title">📖 在线速览</div>
@@ -152,63 +175,130 @@
 
         
         
+        let allPapersData = [];
+
         fetch('latest_data.json')
             .then(response => response.json())
             .then(data => {
                 if (!data || data.length === 0) return;
 
-                const container = document.getElementById('accordionContent');
+                // 1. 保存原始数据到全局变量
+                allPapersData = data;
+
+                // 2. 显示阅读区和搜索区
                 document.getElementById('readingArea').style.display = 'block';
+                document.getElementById('searchArea').style.display = 'block';
 
-                
-                const papersByJournal = {};
-                data.forEach(paper => {
-                    const j = paper.journal || 'Unknown Journal';
-                    if (!papersByJournal[j]) papersByJournal[j] = [];
-                    papersByJournal[j].push(paper);
-                });
-
-                
-                let html = '';
-                for (const [journal, papers] of Object.entries(papersByJournal)) {
-                    html += `
-                    <div class="journal-group">
-                        <button class="journal-btn" onclick="toggleAccordion(this)">
-                            <span>${journal}</span>
-                            <div><span class="count-badge">${papers.length}</span><span class="arrow">▼</span></div>
-                        </button>
-                        <div class="article-list">
-                    `;
-                    
-                    papers.forEach(paper => {
-                        const titleCn = paper.title_cn || paper.title;
-                        const titleEn = paper.title;
-                        html += `
-                            <div class="article-item">
-                                <button class="article-btn" onclick="toggleAccordion(this)">${titleCn}</button>
-                                <div class="article-detail">
-                                    <div class="title-box-en"><span style="background:#eee;padding:2px 6px;border-radius:4px;font-size:0.75em;color:#666;margin-right:5px;">English</span>${titleEn}</div>
-                                    <a href="${paper.id}" target="_blank" class="link-box">🔗 DOI Link: ${paper.id}</a>
-                                </div>
-                            </div>
-                        `;
-                    });
-                    html += `</div></div>`;
-                }
-                container.innerHTML = html;
+                // 3. 初始渲染所有数据
+                renderPapers(allPapersData);
             })
             .catch(err => {
                 console.log("今日暂无数据或读取失败", err);
             });
 
-        
+        // 核心渲染函数：负责把数据转为 HTML
+        function renderPapers(papersToRender) {
+            const container = document.getElementById('accordionContent');
+            
+            if (papersToRender.length === 0) {
+                container.innerHTML = '<div class="no-result">😕 没有找到相关文献，换个关键词试试？</div>';
+                return;
+            }
+
+            // 按期刊分组逻辑
+            const papersByJournal = {};
+            papersToRender.forEach(paper => {
+                const j = paper.journal || 'Unknown Journal';
+                if (!papersByJournal[j]) papersByJournal[j] = [];
+                papersByJournal[j].push(paper);
+            });
+
+            // 生成 HTML
+            let html = '';
+            for (const [journal, papers] of Object.entries(papersByJournal)) {
+                // 默认展开所有搜索结果，如果数据量大可以去掉 .style.display = 'block'
+                html += `
+                <div class="journal-group">
+                    <button class="journal-btn active" onclick="toggleAccordion(this)">
+                        <span>${journal}</span>
+                        <div><span class="count-badge">${papers.length}</span><span class="arrow" style="transform: rotate(180deg);">▼</span></div>
+                    </button>
+                    <div class="article-list" style="display: block;">
+                `;
+                
+                papers.forEach(paper => {
+                    const titleCn = paper.title_cn || paper.title;
+                    const titleEn = paper.title;
+                    // 处理可能不存在的字段，防止报错
+                    const idLink = paper.id || paper.link || '#';
+                    
+                    html += `
+                        <div class="article-item">
+                            <button class="article-btn" onclick="toggleAccordion(this)">${titleCn}</button>
+                            <div class="article-detail">
+                                <div class="title-box-en"><span style="background:#eee;padding:2px 6px;border-radius:4px;font-size:0.75em;color:#666;margin-right:5px;">English</span>${titleEn}</div>
+                                
+                                ${ paper.abstract_cn ? `<div style="font-size:14px; color:#666; margin:10px 0;">${paper.abstract_cn.substring(0, 100)}...</div>` : '' }
+                                
+                                <a href="${idLink}" target="_blank" class="link-box">🔗 Link: ${idLink}</a>
+                            </div>
+                        </div>
+                    `;
+                });
+                html += `</div></div>`;
+            }
+            container.innerHTML = html;
+        }
+
+        // 搜索功能函数
+        function searchPapers() {
+            const input = document.getElementById('searchInput');
+            const query = input.value.toLowerCase().trim();
+
+            if (!query) {
+                // 如果输入为空，显示所有数据
+                renderPapers(allPapersData);
+                return;
+            }
+
+            // 过滤数据
+            const filteredData = allPapersData.filter(paper => {
+                // 提取需要搜索的字段，并转为小写
+                const titleEn = (paper.title || '').toLowerCase();
+                const titleCn = (paper.title_cn || '').toLowerCase();
+                const author = (paper.author || '').toLowerCase();
+                const abstractEn = (paper.summary || '').toLowerCase();
+                const abstractCn = (paper.abstract_cn || '').toLowerCase();
+
+                // 核心判断：检查关键词是否出现在上述字段中
+                // 注意：这里完全没有检查 paper.journal，所以不会匹配期刊名
+                return titleEn.includes(query) || 
+                       titleCn.includes(query) || 
+                       author.includes(query) || 
+                       abstractEn.includes(query) || 
+                       abstractCn.includes(query);
+            });
+
+            renderPapers(filteredData);
+        }
+
+        // 你的手风琴切换代码保持不变
         function toggleAccordion(element) {
             element.classList.toggle("active");
+            // 修正：寻找 .article-list 或 .article-detail
+            // 注意：原有逻辑中 .journal-btn 下一个是 .article-list
+            // .article-btn 下一个是 .article-detail
             const content = element.nextElementSibling;
+            
+            // 为了更好的交互，添加旋转箭头的逻辑
+            const arrow = element.querySelector('.arrow');
+            
             if (content.style.display === "block") {
                 content.style.display = "none";
+                if(arrow) arrow.style.transform = "rotate(0deg)";
             } else {
                 content.style.display = "block";
+                if(arrow) arrow.style.transform = "rotate(180deg)";
             }
         }
     </script>

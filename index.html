@@ -226,7 +226,7 @@
             }
         }
 
-        /* ================= 新增：左右切换开关样式 ================= */
+        /* ================= 新增：左右切换开关样式（修复对齐问题） ================= */
         .lang-switch-container {
             position: absolute;
             top: 20px;
@@ -244,7 +244,11 @@
             background: white;
             color: #0366d6;
             border: none;
-            padding: 6px 15px;
+            /* ★★★ 修改处：设定固定宽度并居中 ★★★ */
+            width: 75px; 
+            padding: 6px 0; /* 上下padding保留，左右去掉，靠width撑开 */
+            text-align: center;
+            /* ==================================== */
             font-size: 14px;
             font-weight: bold;
             cursor: pointer;
@@ -270,7 +274,9 @@
             }
             .lang-option {
                 font-size: 12px;
-                padding: 4px 10px;
+                /* 手机端稍微缩小一点宽度 */
+                width: 60px;
+                padding: 4px 0;
             }
         }
     </style>
@@ -404,7 +410,7 @@
                 noResult: '😕 No papers found. Try a different keyword?',
                 // 动态生成的标签
                 detailLabelTag: '中文标题',
-                authorLabel: '👤 作者:'
+                authorLabel: '👤 Authors:'
             }
         };
 
@@ -423,9 +429,9 @@
                 .replace(/'/g, "&#039;");
         }
 
-        // ================= 语言切换逻辑 (新) =================
+        // ================= 语言切换逻辑 =================
         function setLanguage(lang) {
-            if (currentLang === lang) return; // 如果已经是当前语言，不做操作
+            if (currentLang === lang) return; 
             currentLang = lang;
             
             // 更新按钮高亮状态

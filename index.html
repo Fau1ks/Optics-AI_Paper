@@ -76,6 +76,7 @@
         .journal-group:hover {
             transform: translateY(-2px); 
             box-shadow: 0 10px 25px rgba(0,0,0,0.15); 
+            /* 保留您指定的颜色 */
             border-left: 5px solid rgb(233, 163, 117); 
         }
         
@@ -102,7 +103,7 @@
         .journal-meta {
             display: flex;
             align-items: center;
-            flex-shrink: 0;      
+            flex-shrink: 0;       
             white-space: nowrap; 
             margin-left: 10px;
         }
@@ -174,28 +175,26 @@
         }
         .no-result { color: #666; margin-top: 20px; font-size: 14px; }
 
-        /* ★★★ 修改：悬浮按钮容器 (定位在右侧内容旁) ★★★ */
+        /* 悬浮按钮容器 */
         .float-btn-container {
             position: fixed;
-            /* 垂直居中稍微偏下，或者固定底部 */
             bottom: 100px; 
-            /* 关键定位：屏幕中间 + 420px (800的一半+20间距) */
             left: 50%;
             margin-left: 420px; 
             display: flex;
             flex-direction: column;
-            gap: 15px; /* 两个按钮的间距 */
+            gap: 15px;
             z-index: 1000;
         }
 
-        /* 按钮本体样式 (图标+文字胶囊形) */
+        /* 按钮本体样式 */
         .float-btn {
             background-color: #0366d6;
             color: white;
             padding: 10px 20px;
-            border-radius: 30px; /* 胶囊圆角 */
+            border-radius: 30px;
             box-shadow: 0 4px 12px rgba(3, 102, 214, 0.4);
-            display: none; /* 默认隐藏 */
+            display: none; 
             align-items: center;
             justify-content: center;
             cursor: pointer;
@@ -204,7 +203,7 @@
             outline: none;
             font-size: 14px;
             font-weight: 500;
-            white-space: nowrap; /* 文字不换行 */
+            white-space: nowrap; 
         }
         .float-btn:hover {
             background-color: #024ea2;
@@ -214,17 +213,46 @@
             width: 18px;
             height: 18px;
             fill: white;
-            margin-right: 8px; /* 图标和文字间距 */
+            margin-right: 8px; 
         }
 
-        /* 屏幕较窄时的适配 (小于1100px时，回到右下角，防止挡住内容或超出屏幕) */
+        /* 屏幕较窄时的适配 */
         @media (max-width: 1100px) {
             .float-btn-container {
                 left: auto;
                 right: 20px;
                 bottom: 30px;
                 margin-left: 0;
-                align-items: flex-end; /* 右对齐 */
+                align-items: flex-end; 
+            }
+        }
+
+        /* ================= 新增：语言切换按钮样式 ================= */
+        .lang-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background-color: transparent;
+            border: 1px solid #0366d6;
+            color: #0366d6;
+            padding: 5px 15px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            transition: all 0.2s;
+            z-index: 1001;
+        }
+        .lang-btn:hover {
+            background-color: #0366d6;
+            color: white;
+        }
+        @media (max-width: 600px) {
+            .lang-btn {
+                top: 10px;
+                right: 10px;
+                font-size: 12px;
+                padding: 4px 10px;
             }
         }
     </style>
@@ -232,34 +260,36 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <body>
 
-    <h1>光学+AI 最新文献推送</h1>
+    <button id="langSwitchBtn" class="lang-btn" onclick="toggleLanguage()">English</button>
 
-    <p style="color: #666; font-size: 15px; margin-top: -15px; margin-bottom: 25px; line-height: 1.6;">
+    <h1 id="pageTitle">光学+AI 最新文献推送</h1>
+
+    <p id="pageIntro" style="color: #666; font-size: 15px; margin-top: -15px; margin-bottom: 25px; line-height: 1.6;">
         如需往期文献，可关注以下账号<br>
         也欢迎学术交流以及提出您的建议
     </p>
 
     <div class="social-container">
         <div class="social-item">
-            <div class="social-title">小红书：计算光学最新文献推送</div>
+            <div id="xhsTitle" class="social-title">小红书：计算光学最新文献推送</div>
             <img src="xhs.jpg" alt="小红书二维码" class="qr-code">
         </div>
         <div class="social-item">
-            <div class="social-title">公众号：计算光学最新文献推送</div>
+            <div id="wxTitle" class="social-title">公众号：计算光学最新文献推送</div>
             <img src="wx.jpg" alt="公众号二维码" class="qr-code">
         </div>
     </div>
 
     <a id="downloadBtn" href="#" class="download-btn loading">正在查找最新推送...</a>
     <div id="fileTime" class="update-time">正在获取更新时间...</div>
-    <div class="tips">点击上方按钮直接下载最新 Word 文档</div>
+    <div id="downloadTip" class="tips">点击上方按钮直接下载最新 Word 文档</div>
     
     <div class="search-container" id="searchArea" style="display:none;">
         <input type="text" id="searchInput" placeholder="🔍 搜索标题、作者或摘要（支持中英文）..." oninput="searchPapers()">
     </div>
 
     <div class="reading-container" id="readingArea" style="display:none;">
-        <div class="reading-title">📖 在线速览</div>
+        <div id="readingTitle" class="reading-title">📖 在线速览</div>
         <div id="accordionContent"></div>
     </div>
 
@@ -268,7 +298,7 @@
             <svg viewBox="0 0 24 24">
                 <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"/> 
             </svg>
-            <span>收起文献</span>
+            <span id="btnCollapseArticles">收起文献</span>
         </button>
 
         <button id="collapseJournalsBtn" class="float-btn" onclick="collapseAllJournals()">
@@ -276,7 +306,7 @@
                 <path d="M6 17.59L7.41 19 12 14.42 16.59 19 18 17.59l-6-6z"/>
                 <path d="M6 11l1.41 1.41L12 7.83l4.59 4.58L18 11l-6-6z"/>
             </svg>
-            <span>收起期刊</span>
+            <span id="btnCollapseJournals">收起期刊</span>
         </button>
     </div>
 
@@ -291,10 +321,10 @@
     </div>      
     
     <div class="tips-container">
-        <h2>💡 使用注意事项</h2>
+        <h2 id="tipsTitle">💡 使用注意事项</h2>
         <div class="tip-item">
-            <span class="tip-title">提高阅读效率：建议开启导航窗格</span>
-            <p class="tip-text">为了更方便地浏览长文档，建议在 Word 顶部菜单栏选择 <strong>“视图”</strong>，并勾选 <strong>“导航窗格”</strong>。</p>
+            <span id="navTipTitle" class="tip-title">提高阅读效率：建议开启导航窗格</span>
+            <p id="navTipText" class="tip-text">为了更方便地浏览长文档，建议在 Word 顶部菜单栏选择 <strong>“视图”</strong>，并勾选 <strong>“导航窗格”</strong>。</p>
             <img src="remind1.jpg" alt="开启导航窗格演示" class="tip-img">
         </div>
     </div>
@@ -302,8 +332,63 @@
     <script>
         const GITHUB_USERNAME = 'Fau1ks'; 
         const REPO_NAME = 'Optics-AI_Paper';        
-
         const contentApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
+        
+        // ================= 语言配置 =================
+        let currentLang = 'zh'; // 默认中文
+        let globalLatestDateCode = ''; // 存储日期，用于切换语言时重组字符串
+
+        const langData = {
+            'zh': {
+                toggleBtn: 'English',
+                pageTitle: '光学+AI 最新文献推送',
+                pageIntro: '如需往期文献，可关注以下账号<br>也欢迎学术交流以及提出您的建议',
+                xhsTitle: '小红书：计算光学最新文献推送',
+                wxTitle: '公众号：计算光学最新文献推送',
+                downloadLoading: '正在查找最新推送...',
+                downloadPrefix: '📄 下载最新推送：',
+                downloadFail: '获取列表失败',
+                noData: '今日暂无推送',
+                timePrefix: '最后更新时间：',
+                downloadTip: '点击上方按钮直接下载最新 Word 文档',
+                searchPlaceholder: '🔍 搜索标题、作者或摘要（支持中英文）...',
+                readingTitle: '📖 在线速览',
+                btnCollapseArticles: '收起文献',
+                btnCollapseJournals: '收起期刊',
+                tipsTitle: '💡 使用注意事项',
+                navTipTitle: '提高阅读效率：建议开启导航窗格',
+                navTipText: '为了更方便地浏览长文档，建议在 Word 顶部菜单栏选择 <strong>“视图”</strong>，并勾选 <strong>“导航窗格”</strong>。',
+                noResult: '😕 没有找到相关文献，换个关键词试试？',
+                // 动态生成的标签
+                detailLabelTag: 'English', 
+                authorLabel: '👤 Authors:' 
+            },
+            'en': {
+                toggleBtn: '中文模式',
+                pageTitle: 'Latest Optics + AI Paper Feed',
+                pageIntro: 'Follow our accounts for past archives.<br>Academic exchanges and suggestions are welcome.',
+                xhsTitle: 'Xiaohongshu: Computational Optics Feed',
+                wxTitle: 'WeChat: Computational Optics Feed',
+                downloadLoading: 'Searching for latest feed...',
+                downloadPrefix: '📄 Download Latest Feed: ',
+                downloadFail: 'Failed to fetch list',
+                noData: 'No updates today',
+                timePrefix: 'Last Updated: ',
+                downloadTip: 'Click above to download the latest Word document',
+                searchPlaceholder: '🔍 Search title, author or abstract...',
+                readingTitle: '📖 Quick Preview',
+                btnCollapseArticles: 'Collapse Articles',
+                btnCollapseJournals: 'Collapse Journals',
+                tipsTitle: '💡 Usage Tips',
+                navTipTitle: 'Efficiency Tip: Enable Navigation Pane',
+                navTipText: 'For better navigation, go to <strong>"View"</strong> tab in Word and check <strong>"Navigation Pane"</strong>.',
+                noResult: '😕 No papers found. Try a different keyword?',
+                // 动态生成的标签
+                detailLabelTag: '中文标题',
+                authorLabel: '👤 作者:'
+            }
+        };
+
         const btn = document.getElementById('downloadBtn');
         const timeDiv = document.getElementById('fileTime');
         const articleBtn = document.getElementById('collapseArticlesBtn');
@@ -320,22 +405,80 @@
                 .replace(/'/g, "&#039;");
         }
 
+        // ================= 语言切换逻辑 =================
+        function toggleLanguage() {
+            currentLang = currentLang === 'zh' ? 'en' : 'zh';
+            updateStaticUI();
+            
+            // 如果数据已经加载，重新渲染列表
+            if (allPapersData.length > 0) {
+                // 保持当前的搜索状态
+                const searchInput = document.getElementById('searchInput');
+                if (searchInput && searchInput.value.trim() !== "") {
+                    searchPapers();
+                } else {
+                    renderPapers(allPapersData, false); // 默认不展开
+                }
+            }
+        }
+
+        function updateStaticUI() {
+            const t = langData[currentLang];
+            
+            // 更新按钮文字
+            document.getElementById('langSwitchBtn').innerText = t.toggleBtn;
+            
+            // 更新页面静态文本
+            document.getElementById('pageTitle').innerText = t.pageTitle;
+            document.getElementById('pageIntro').innerHTML = t.pageIntro;
+            document.getElementById('xhsTitle').innerText = t.xhsTitle;
+            document.getElementById('wxTitle').innerText = t.wxTitle;
+            document.getElementById('downloadTip').innerText = t.downloadTip;
+            document.getElementById('searchInput').placeholder = t.searchPlaceholder;
+            document.getElementById('readingTitle').innerText = t.readingTitle;
+            document.getElementById('btnCollapseArticles').innerText = t.btnCollapseArticles;
+            document.getElementById('btnCollapseJournals').innerText = t.btnCollapseJournals;
+            document.getElementById('tipsTitle').innerText = t.tipsTitle;
+            document.getElementById('navTipTitle').innerText = t.navTipTitle;
+            document.getElementById('navTipText').innerHTML = t.navTipText;
+
+            // 更新下载按钮文本（保留日期）
+            if (globalLatestDateCode) {
+                btn.innerText = t.downloadPrefix + globalLatestDateCode;
+            } else if (btn.classList.contains('loading')) {
+                btn.innerText = t.downloadLoading;
+            } else if (btn.innerText.includes('暂无') || btn.innerText.includes('No updates')) {
+                btn.innerText = t.noData;
+            }
+            
+            // 更新时间文本（保留时间）
+            if (timeDiv.dataset.timeStr) {
+                 timeDiv.innerText = t.timePrefix + timeDiv.dataset.timeStr;
+            }
+        }
+
         // 2. 下载按钮逻辑
+        updateStaticUI(); // 初始化 UI 文字
+
         fetch(contentApiUrl)
             .then(response => response.json())
             .then(data => {
                 const wordFiles = data.filter(item => item.name.startsWith('Optical_Papers_') && item.name.endsWith('.docx'));
+                const t = langData[currentLang];
+
                 if (wordFiles.length === 0) {
-                    btn.innerText = "今日暂无推送";
+                    btn.innerText = t.noData;
                     btn.style.backgroundColor = "#666"; 
                     timeDiv.style.display = 'none';
                     return;
                 }
                 wordFiles.sort((a, b) => a.name.localeCompare(b.name));
                 const latestFile = wordFiles[wordFiles.length - 1];
-                const dateCode = latestFile.name.replace('Optical_Papers_', '').replace('.docx', '');
                 
-                btn.innerText = "📄 下载最新推送：" + dateCode; 
+                // 保存日期以便切换语言使用
+                globalLatestDateCode = latestFile.name.replace('Optical_Papers_', '').replace('.docx', '');
+                
+                btn.innerText = t.downloadPrefix + globalLatestDateCode; 
                 btn.href = latestFile.download_url; 
                 btn.classList.remove('loading'); 
                 btn.setAttribute("target", "_blank");
@@ -346,13 +489,16 @@
                     .then(commits => {
                         if (commits && commits.length > 0) {
                             const dateObj = new Date(commits[0].commit.committer.date);
-                            timeDiv.innerText = "最后更新时间：" + dateObj.toLocaleString('zh-CN', { hour12: false });
+                            const timeStr = dateObj.toLocaleString('zh-CN', { hour12: false });
+                            // 保存时间字符串到 dataset
+                            timeDiv.dataset.timeStr = timeStr;
+                            timeDiv.innerText = langData[currentLang].timePrefix + timeStr;
                         }
                     }).catch(() => timeDiv.innerText = "");
             })
             .catch(error => {
                 console.error('Error:', error);
-                btn.innerText = "获取列表失败";
+                btn.innerText = langData[currentLang].downloadFail;
                 btn.style.backgroundColor = "#d73a49";
             });
 
@@ -367,7 +513,6 @@
                 document.getElementById('readingArea').style.display = 'block';
                 document.getElementById('searchArea').style.display = 'block'; 
                 
-                // 默认折叠
                 renderPapers(allPapersData, false);
             })
             .catch(err => {
@@ -376,9 +521,10 @@
 
         function renderPapers(papersToRender, expandAll = false) {
             const container = document.getElementById('accordionContent');
+            const t = langData[currentLang];
             
             if (!papersToRender || papersToRender.length === 0) {
-                container.innerHTML = '<div class="no-result" style="text-align:center; color:#666; padding:20px;">😕 没有找到相关文献，换个关键词试试？</div>';
+                container.innerHTML = `<div class="no-result" style="text-align:center; color:#666; padding:20px;">${t.noResult}</div>`;
                 return;
             }
 
@@ -408,22 +554,35 @@
                 `;
                 
                 papers.forEach(paper => {
-                    const titleCn = escapeHtml(paper.title_cn || paper.title);
-                    const titleEn = escapeHtml(paper.title);
+                    // ★★★ 核心修改逻辑：中英文对调 ★★★
+                    let mainTitle, subTitle;
+                    
+                    if (currentLang === 'zh') {
+                        // 中文模式：按钮是中文，详情里是英文
+                        mainTitle = escapeHtml(paper.title_cn || paper.title);
+                        subTitle = escapeHtml(paper.title);
+                    } else {
+                        // 英文模式：按钮是英文，详情里是中文
+                        mainTitle = escapeHtml(paper.title);
+                        subTitle = escapeHtml(paper.title_cn || "Chinese translation not available");
+                    }
+                    
                     const author = escapeHtml(paper.author || 'Unknown Author');
                     const idLink = paper.id || paper.link || '#';
                     
                     html += `
                         <div class="article-item">
-                            <button class="article-btn" onclick="toggleAccordion(this)">${titleCn}</button>
+                            <button class="article-btn" onclick="toggleAccordion(this)">${mainTitle}</button>
                             <div class="article-detail">
                                 <div class="title-box-en">
-                                    <span style="background:#eee;padding:2px 6px;border-radius:4px;font-size:0.75em;color:#666;margin-right:5px;">English</span>
-                                    ${titleEn}
+                                    <span style="background:#eee;padding:2px 6px;border-radius:4px;font-size:0.75em;color:#666;margin-right:5px;">
+                                        ${t.detailLabelTag}
+                                    </span>
+                                    ${subTitle}
                                 </div>
                                 
                                 <div style="font-size:13px; color:#555; margin:10px 0; line-height:1.4;">
-                                    <strong>👤 Authors:</strong> ${author}
+                                    <strong>${t.authorLabel}</strong> ${author}
                                 </div>
                                 
                                 <a href="${idLink}" target="_blank" class="link-box">🔗 ${idLink}</a>
@@ -435,7 +594,6 @@
             }
             container.innerHTML = html;
             
-            // 每次渲染后检查按钮状态
             checkButtonsVisibility();
         }
 
@@ -471,7 +629,6 @@
         function toggleAccordion(element) {
             if (!element) return;
             
-            // 如果点击的是文章标题 (article-btn)
             if (element.classList.contains('article-btn')) {
                 element.classList.toggle("active");
                 const content = element.nextElementSibling;
@@ -481,7 +638,6 @@
                     content.style.display = "block";
                 }
             } 
-            // 如果点击的是期刊标题 (journal-btn)
             else {
                 element.classList.toggle("active");
                 const content = element.nextElementSibling;
@@ -494,14 +650,10 @@
                     if(arrow) arrow.style.transform = "rotate(180deg)";
                 }
             }
-
-            // 检查按钮显示状态
             checkButtonsVisibility();
         }
 
-        // 检查两个按钮是否需要显示
         function checkButtonsVisibility() {
-            // 1. 检查是否有展开的文章
             const anyArticleOpen = document.querySelectorAll('.article-detail[style*="block"]').length > 0;
             if (anyArticleOpen) {
                 articleBtn.style.display = 'flex';
@@ -509,7 +661,6 @@
                 articleBtn.style.display = 'none';
             }
 
-            // 2. 检查是否有展开的期刊
             const anyJournalOpen = document.querySelectorAll('.journal-btn.active').length > 0;
             if (anyJournalOpen) {
                 journalBtn.style.display = 'flex';
@@ -518,7 +669,6 @@
             }
         }
 
-        // 功能 1：收起所有文章详情
         function collapseAllArticles() {
             const openDetails = document.querySelectorAll('.article-detail[style*="block"]');
             openDetails.forEach(detail => detail.style.display = 'none');
@@ -529,16 +679,11 @@
             checkButtonsVisibility();
         }
 
-        // 功能 2：收起所有期刊
         function collapseAllJournals() {
-            // 先收起所有文章
             collapseAllArticles();
-
-            // 收起所有期刊列表
             const openLists = document.querySelectorAll('.article-list[style*="block"]');
             openLists.forEach(list => list.style.display = 'none');
 
-            // 移除期刊按钮激活状态
             const activeJournals = document.querySelectorAll('.journal-btn.active');
             activeJournals.forEach(btn => {
                 btn.classList.remove('active');
@@ -548,7 +693,6 @@
 
             checkButtonsVisibility();
         }
-
     </script>
 </body>
 </html>

@@ -18,8 +18,8 @@
             background-clip: text;
             color: transparent; 
             animation: shine 4s linear infinite;
-            cursor: pointer; /* ★★★ 修改：增加手型鼠标，提示可点击 */
-            user-select: none; /* 防止连点时选中文字 */
+            cursor: pointer; 
+            user-select: none; 
         }
         @keyframes shine {
             to { background-position: -200% center; }
@@ -46,7 +46,7 @@
         .download-btn:hover { background-color: #2c974b; }
         .loading { background-color: #94d3a2; cursor: wait; }
         
-        /* ★★★ 新增：Scholar 专用下载按钮样式 (紫色系) ★★★ */
+        /* Scholar 专用下载按钮样式 (紫色系) */
         .scholar-download-btn {
             background-color: #8a2be2;
             color: white;
@@ -98,7 +98,7 @@
             border-left: 5px solid rgb(233, 163, 117); 
         }
 
-        /* ★★★ 新增：Scholar 分组的特殊样式 ★★★ */
+        /* Scholar 分组的特殊样式 */
         .journal-group.scholar-group {
             border-left: 5px solid #8a2be2; /* 紫色边框 */
         }
@@ -422,7 +422,7 @@
                 // 动态生成的标签
                 detailLabelTag: 'English', 
                 authorLabel: '👤 Authors:',
-                // ★★★ Scholar 新增翻译
+                // Scholar 翻译
                 scholarTitle: '🎓 Google Scholar 实时监控',
                 scholarBtnPrefix: '📄 下载 Scholar 汇总：'
             },
@@ -448,7 +448,7 @@
                 // 动态生成的标签
                 detailLabelTag: '中文标题',
                 authorLabel: '👤 Authors:',
-                // ★★★ Scholar 新增翻译
+                // Scholar 翻译
                 scholarTitle: '🎓 Google Scholar Monitor',
                 scholarBtnPrefix: '📄 Download Scholar Summary: '
             }
@@ -498,11 +498,11 @@
                 }
             }
 
-            // ★★★ 如果 Scholar 区域是可见的，重新渲染它以更新语言
+            // 如果 Scholar 区域是可见的，重新渲染它以更新语言
             if (document.getElementById('scholarArea').style.display === 'block') {
-                updateScholarUI(); // 更新标题
+                updateScholarUI(); 
                 if(window.scholarDataCache) {
-                    renderScholarList(window.scholarDataCache); // 重新渲染列表（如果有缓存数据）
+                    renderScholarList(window.scholarDataCache); 
                 }
             }
         }
@@ -817,7 +817,7 @@
         }
 
         // ======================================================================
-        // ★★★ 新增：秘密入口与 Scholar 处理逻辑
+        // 秘密入口与 Scholar 处理逻辑
         // ======================================================================
         
         let clickCount = 0;
@@ -825,17 +825,18 @@
         let isSecretActive = false;
 
         function triggerSecret() {
-            if (isSecretActive) return; // 已经激活过了
+            if (isSecretActive) return; 
 
             clickCount++;
             
-            // 如果 2秒内没有继续点击，重置计数器
+            // 2秒内没有继续点击，重置计数器
             clearTimeout(clickTimer);
             clickTimer = setTimeout(() => {
                 clickCount = 0;
             }, 2000);
 
-            if (clickCount >= 5) {
+            // ★★★ 修改：点击次数增加到 12
+            if (clickCount >= 12) {
                 activateScholarMode();
             }
         }
@@ -846,8 +847,7 @@
             const scholarArea = document.getElementById('scholarArea');
             scholarArea.style.display = 'block';
             
-            // 简单提示
-            alert("🔓 Secret Mode: Google Scholar Monitor Activated!");
+            // ★★★ 修改：不再弹窗 (alert 已移除)
             
             // 1. 获取 Scholar JSON 数据
             fetchScholarData();
@@ -855,14 +855,13 @@
             // 2. 获取最新 Scholar Word 文档
             fetchScholarSummaryDoc();
             
-            // 3. 滚动到底部
+            // 3. 滚动到底部 (这就是反馈)
             scholarArea.scrollIntoView({behavior: "smooth"});
         }
 
         function updateScholarUI() {
              const t = langData[currentLang];
              document.getElementById('scholarTitle').innerText = t.scholarTitle;
-             // 如果按钮已经有文件名，更新前缀
              const sBtn = document.getElementById('scholarDownloadBtn');
              if(sBtn.dataset.filename) {
                  sBtn.innerText = t.scholarBtnPrefix + sBtn.dataset.filename;
@@ -874,7 +873,7 @@
             fetch('Scholar_Data_latest.json?t=' + ts)
                 .then(res => res.json())
                 .then(data => {
-                    window.scholarDataCache = data; // 缓存以便切换语言时使用
+                    window.scholarDataCache = data; 
                     renderScholarList(data);
                 })
                 .catch(err => {
@@ -892,8 +891,6 @@
                 return;
             }
 
-            // Scholar 数据不分期刊，统一放在一个大组里
-            // 构造一个 fake group
             const groupTitle = "Google Scholar Daily Push";
             const papers = data;
 
@@ -931,7 +928,8 @@
                                 ${subTitle}
                             </div>
                             <div style="margin-top:10px;"></div>
-                            <a href="${link}" target="_blank" class="link-box">🔗 Link</a>
+                            
+                            <a href="${link}" target="_blank" class="link-box">🔗 ${link}</a>
                         </div>
                     </div>
                 `;
@@ -948,7 +946,6 @@
             fetch(contentApiUrl)
                 .then(response => response.json())
                 .then(data => {
-                    // 筛选 Scholar_Summary_ 开头的 docx
                     const scholarFiles = data.filter(item => item.name.startsWith('Scholar_Summary_') && item.name.endsWith('.docx'));
                     
                     if (scholarFiles.length === 0) {
@@ -957,14 +954,13 @@
                         return;
                     }
 
-                    // 排序找到最新的
                     scholarFiles.sort((a, b) => a.name.localeCompare(b.name));
                     const latest = scholarFiles[scholarFiles.length - 1];
                     const dateCode = latest.name.replace('Scholar_Summary_', '').replace('.docx', '');
 
-                    sBtn.dataset.filename = dateCode; // 存一下，方便切换语言时读取
+                    sBtn.dataset.filename = dateCode; 
                     sBtn.innerText = t.scholarBtnPrefix + dateCode;
-                    sBtn.href = latest.download_url; // 使用 raw url
+                    sBtn.href = latest.download_url; 
                     sBtn.setAttribute("target", "_blank");
                 })
                 .catch(err => {

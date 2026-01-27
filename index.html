@@ -488,66 +488,133 @@
             }
         }
 
-        // 2. 下载按钮逻辑
+        // ======================================================================
+        // 新的逻辑：优先读取新版 JSON 中的文件名和时间，旧版作为 fallback
+        // ======================================================================
         updateStaticUI(); 
 
-        fetch(contentApiUrl)
-            .then(response => response.json())
-            .then(data => {
-                const wordFiles = data.filter(item => item.name.startsWith('Optical_Papers_') && item.name.endsWith('.docx'));
-                const t = langData[currentLang];
-
-                if (wordFiles.length === 0) {
-                    btn.innerText = t.noData;
-                    btn.style.backgroundColor = "#666"; 
-                    timeDiv.style.display = 'none';
-                    return;
-                }
-                wordFiles.sort((a, b) => a.name.localeCompare(b.name));
-                const latestFile = wordFiles[wordFiles.length - 1];
-                
-                globalLatestDateCode = latestFile.name.replace('Optical_Papers_', '').replace('.docx', '');
-                
-                btn.innerText = t.downloadPrefix + globalLatestDateCode; 
-                btn.href = latestFile.download_url; 
-                btn.classList.remove('loading'); 
-                btn.setAttribute("target", "_blank");
-
-                const commitApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/commits?path=${latestFile.name}&page=1&per_page=1`;
-                fetch(commitApiUrl)
-                    .then(res => res.json())
-                    .then(commits => {
-                        if (commits && commits.length > 0) {
-                            const dateObj = new Date(commits[0].commit.committer.date);
-                            const timeStr = dateObj.toLocaleString('zh-CN', { hour12: false });
-                            timeDiv.dataset.timeStr = timeStr;
-                            timeDiv.innerText = langData[currentLang].timePrefix + timeStr;
-                        }
-                    }).catch(() => timeDiv.innerText = "");
-            })
-            .catch(error => {
-                console.error('Error:', error);
-                btn.innerText = langData[currentLang].downloadFail;
-                btn.style.backgroundColor = "#d73a49";
-            });
-
-        // 3. 数据获取与渲染
         let allPapersData = []; 
 
-        fetch('latest_data.json')
+        // 加上时间戳防止 GitHub Pages 缓存
+        const timestamp = new Date().getTime();
+        
+        fetch('latest_data.json?t=' + timestamp)
             .then(response => response.json())
             .then(data => {
-                if (!data || data.length === 0) return;
-                allPapersData = data;
+                let papers = [];
+                let metaTime = null;
+                let metaFile = null;
+
+                // 判断 JSON 格式
+                if (Array.isArray(data)) {
+                    // === 旧格式 (数组) ===
+                    // 兼容旧逻辑，防止报错
+                    console.log("Detected legacy JSON array format. Falling back to API.");
+                    papers = data;
+                    // 如果是旧数组格式，需要调用 GitHub API 去找文件名和时间 (保留你原来的功能)
+                    fallbackToGithubApi();
+                } else {
+                    // === 新格式 (对象) ===
+                    // 格式: { update_time: "...", word_filename: "...", data: [...] }
+                    console.log("Detected new JSON object format.");
+                    papers = data.data || [];
+                    
+                    // 1. 获取北京时间字符串 (Python直接生成的，无需转换)
+                    if (data.update_time) {
+                        metaTime = data.update_time;
+                        // 更新时间显示
+                        timeDiv.dataset.timeStr = metaTime + " (北京时间)";
+                        timeDiv.innerText = langData[currentLang].timePrefix + timeDiv.dataset.timeStr;
+                    }
+
+                    // 2. 获取文件名并更新下载按钮
+                    if (data.word_filename) {
+                        metaFile = data.word_filename;
+                        const t = langData[currentLang];
+                        globalLatestDateCode = metaFile.replace('Optical_Papers_', '').replace('.docx', '');
+                        
+                        btn.innerText = t.downloadPrefix + globalLatestDateCode;
+                        // 使用 raw 链接确保直接下载/访问，不经过 API
+                        btn.href = `https://github.com/${GITHUB_USERNAME}/${REPO_NAME}/raw/main/${metaFile}`;
+                        btn.classList.remove('loading');
+                        btn.setAttribute("target", "_blank");
+                    } else {
+                        // 如果新格式里居然没有文件名，也尝试 fallback
+                        fallbackToGithubApi();
+                    }
+                }
+
+                // 3. 渲染数据
+                if (!papers || papers.length === 0) {
+                     const t = langData[currentLang];
+                     btn.innerText = t.noData;
+                     btn.style.backgroundColor = "#666"; 
+                     timeDiv.style.display = 'none';
+                     return;
+                }
+
+                allPapersData = papers;
                 document.getElementById('readingArea').style.display = 'block';
                 document.getElementById('searchArea').style.display = 'block'; 
-                
                 renderPapers(allPapersData, false);
             })
             .catch(err => {
-                console.log("今日暂无数据或读取失败", err);
+                console.error("Main data fetch failed:", err);
+                const t = langData[currentLang];
+                btn.innerText = t.downloadFail;
+                btn.style.backgroundColor = "#d73a49";
+                // 作为最后的保险，如果 json 读取彻底失败，尝试直接跑一遍 API 逻辑看能不能救回来
+                fallbackToGithubApi();
             });
 
+        // ======================================================================
+        // 保留原功能的 Fallback 函数：当 JSON 是旧格式或缺失元数据时调用
+        // 严格遵守“不允许省略、删除、精简”原则
+        // ======================================================================
+        function fallbackToGithubApi() {
+            // 如果按钮已经设置好了，就不跑这个了
+            if (!btn.classList.contains('loading')) return;
+
+            fetch(contentApiUrl)
+                .then(response => response.json())
+                .then(data => {
+                    const wordFiles = data.filter(item => item.name.startsWith('Optical_Papers_') && item.name.endsWith('.docx'));
+                    const t = langData[currentLang];
+
+                    if (wordFiles.length === 0) {
+                        btn.innerText = t.noData;
+                        btn.style.backgroundColor = "#666"; 
+                        timeDiv.style.display = 'none';
+                        return;
+                    }
+                    wordFiles.sort((a, b) => a.name.localeCompare(b.name));
+                    const latestFile = wordFiles[wordFiles.length - 1];
+                    
+                    globalLatestDateCode = latestFile.name.replace('Optical_Papers_', '').replace('.docx', '');
+                    
+                    btn.innerText = t.downloadPrefix + globalLatestDateCode; 
+                    btn.href = latestFile.download_url; 
+                    btn.classList.remove('loading'); 
+                    btn.setAttribute("target", "_blank");
+
+                    const commitApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/commits?path=${latestFile.name}&page=1&per_page=1`;
+                    fetch(commitApiUrl)
+                        .then(res => res.json())
+                        .then(commits => {
+                            if (commits && commits.length > 0) {
+                                const dateObj = new Date(commits[0].commit.committer.date);
+                                const timeStr = dateObj.toLocaleString('zh-CN', { hour12: false });
+                                timeDiv.dataset.timeStr = timeStr;
+                                timeDiv.innerText = langData[currentLang].timePrefix + timeStr;
+                            }
+                        }).catch(() => timeDiv.innerText = "");
+                })
+                .catch(error => {
+                    console.error('API Error:', error);
+                });
+        }
+
+        // ================= 渲染与交互逻辑 (保持不变) =================
         function renderPapers(papersToRender, expandAll = false) {
             const container = document.getElementById('accordionContent');
             const t = langData[currentLang];

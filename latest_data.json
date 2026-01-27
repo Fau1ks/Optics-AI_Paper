@@ -163,5 +163,16 @@
         "journal": "Light: Science & Applications",
         "title_cn": "双钙钛矿中Mo4+/Ag+对镧系元素发光的敏化效应：通过宽激发范围（250–850 nm）极大增强近红外发射",
         "abstract_cn": "<jats:title>摘要</jats:title>\n                  <贾茨：p>\n                    无铅卤化物双钙钛矿（LFHDP）由于其结构稳定性和灵活的可调性而作为环保光电材料而受到关注。镧系元素（Ln\n                    <贾茨：sup>3+</贾茨：sup>\n                    ）离子具有丰富的能级，通过离子掺杂策略可以赋予LFHDP材料从可见光到近红外（NIR）区域的发射范围。然而，由于吸收截面较弱，它们的近红外应用仍然受到窄带发射和低光致发光量子产率（PLQY）的限制。在此，Cs\n                    <贾茨：子>2</贾茨：子>\n                    氯化钠\n                    <贾茨：子>6</贾茨：子>\n                    :Ln\n                    <贾茨：sup>3+</贾茨：sup>\n                    成功合成，解决了Ln吸收率低的问题\n                    <贾茨：sup>3+</贾茨：sup>\n                    离子得到有效解决。掺入钼\n                    <贾茨：sup>4+</贾茨：sup>\n                    /银\n                    <贾茨：sup>+</贾茨：sup>\n                    离子实现了接近一致的 PLQY 并将激发光谱扩展到整个可见光范围和一小部分 NIR 区域 (250–850nm)。机理分析揭示了涉及自俘获激子和Mo中间能态的协同能量转移途径\n                    <贾茨：sup>4+</贾茨：sup>\n                    离子，增强光子吸收和 PLQY。该方法的普遍适用性已在 Bi 基和多种镧系离子（Ln：Ho、Er、Tm、Yb）中得到验证。这些优化的材料表现出卓越的宽带发射特性，适用于多场景近红外应用，包括发光二极管 (LED)、夜视、成像、防伪技术。这种共掺杂方法建立了一个通用框架，用于克服 Ln 的固有局限性\n                    <贾茨：sup>3+</贾茨：sup>\n                    -活性材料，为高效近红外光电器件提供了新的可能性。\n                  </贾茨：p>"
+    },
+    {
+        "id": "https://doi.org/10.1364/optica.586100",
+        "title": "Quantum Geometric Limit for Directional Nonreciprocity in Thin-Film Thermal Emitters",
+        "link": "https://doi.org/10.1364/optica.586100",
+        "published": "2026-01-26",
+        "author": "Satoru Konabe",
+        "summary": "Abstract not available.",
+        "journal": "Optica",
+        "title_cn": "薄膜热发射体中方向非互易性的量子几何极限",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
     }
 ]

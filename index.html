@@ -176,10 +176,9 @@
         }
         .no-result { color: #666; margin-top: 20px; font-size: 14px; }
 
-        /* 7. 悬浮折叠按钮样式 */
-        .collapse-all-btn {
+        /* 7. 悬浮按钮通用样式 */
+        .float-btn {
             position: fixed;
-            bottom: 30px;
             right: 30px;
             width: 50px;
             height: 50px;
@@ -196,15 +195,20 @@
             border: none;
             outline: none;
         }
-        .collapse-all-btn:hover {
+        .float-btn:hover {
             background-color: #024ea2;
             transform: scale(1.1);
         }
-        .collapse-all-btn svg {
+        .float-btn svg {
             width: 24px;
             height: 24px;
             fill: white;
         }
+
+        /* 两个按钮的位置 */
+        #collapseJournalsBtn { bottom: 30px; }  /* 收起期刊在最下面 */
+        #collapseArticlesBtn { bottom: 90px; }  /* 收起文献在上面一点 */
+
     </style>
 </head>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -241,9 +245,16 @@
         <div id="accordionContent"></div>
     </div>
 
-    <button id="collapseAllBtn" class="collapse-all-btn" onclick="collapseAllArticles()" title="收起所有文章详情">
+    <button id="collapseArticlesBtn" class="float-btn" onclick="collapseAllArticles()" title="收起展开的文献详情">
         <svg viewBox="0 0 24 24">
             <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"/> 
+        </svg>
+    </button>
+
+    <button id="collapseJournalsBtn" class="float-btn" onclick="collapseAllJournals()" title="收起所有展开的期刊">
+        <svg viewBox="0 0 24 24">
+            <path d="M6 17.59L7.41 19 12 14.42 16.59 19 18 17.59l-6-6z"/>
+            <path d="M6 11l1.41 1.41L12 7.83l4.59 4.58L18 11l-6-6z"/>
         </svg>
     </button>
 
@@ -282,7 +293,8 @@
         const contentApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
         const btn = document.getElementById('downloadBtn');
         const timeDiv = document.getElementById('fileTime');
-        const collapseBtn = document.getElementById('collapseAllBtn');
+        const articleBtn = document.getElementById('collapseArticlesBtn');
+        const journalBtn = document.getElementById('collapseJournalsBtn');
 
         // 1. 防乱码工具函数
         function escapeHtml(text) {
@@ -409,6 +421,9 @@
                 html += `</div></div>`;
             }
             container.innerHTML = html;
+            
+            // 每次渲染后检查按钮状态（主要是针对搜索自动展开的情况）
+            checkButtonsVisibility();
         }
 
         // 4. 搜索功能
@@ -419,7 +434,6 @@
 
             if (!query) {
                 renderPapers(allPapersData, false);
-                collapseBtn.style.display = 'none';
                 return;
             }
 
@@ -440,12 +454,24 @@
             renderPapers(filteredData, true);
         }
 
-        // 5. 交互动画
+        // 5. 交互动画与逻辑
         function toggleAccordion(element) {
             if (!element) return;
-            element.classList.toggle("active");
-            const content = element.nextElementSibling;
-            if (content) {
+            
+            // 如果点击的是文章标题 (article-btn)
+            if (element.classList.contains('article-btn')) {
+                element.classList.toggle("active");
+                const content = element.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                } else {
+                    content.style.display = "block";
+                }
+            } 
+            // 如果点击的是期刊标题 (journal-btn)
+            else {
+                element.classList.toggle("active");
+                const content = element.nextElementSibling;
                 const arrow = element.querySelector('.arrow');
                 if (content.style.display === "block") {
                     content.style.display = "none";
@@ -455,37 +481,59 @@
                     if(arrow) arrow.style.transform = "rotate(180deg)";
                 }
             }
-            // 每次点击都检查是否显示悬浮按钮
-            checkCollapseBtnVisibility();
+
+            // 检查按钮显示状态
+            checkButtonsVisibility();
         }
 
-        // 6. 检查按钮显示状态
-        function checkCollapseBtnVisibility() {
-            // 只要有任何一个 article-detail 是显示的，就显示按钮
-            const anyDetailOpen = document.querySelectorAll('.article-detail[style*="block"]').length > 0;
-            if (anyDetailOpen) {
-                collapseBtn.style.display = 'flex';
+        // ★★★ 核心：检查两个按钮是否需要显示 ★★★
+        function checkButtonsVisibility() {
+            // 1. 检查是否有展开的文章
+            const anyArticleOpen = document.querySelectorAll('.article-detail[style*="block"]').length > 0;
+            if (anyArticleOpen) {
+                articleBtn.style.display = 'flex';
             } else {
-                collapseBtn.style.display = 'none';
+                articleBtn.style.display = 'none';
+            }
+
+            // 2. 检查是否有展开的期刊
+            const anyJournalOpen = document.querySelectorAll('.journal-btn.active').length > 0;
+            if (anyJournalOpen) {
+                journalBtn.style.display = 'flex';
+            } else {
+                journalBtn.style.display = 'none';
             }
         }
 
-        // 7. 一键折叠逻辑
+        // ★★★ 功能 1：收起所有文章详情 (不收期刊) ★★★
         function collapseAllArticles() {
-            // 找到所有展开的文章详情
             const openDetails = document.querySelectorAll('.article-detail[style*="block"]');
-            openDetails.forEach(detail => {
-                detail.style.display = 'none';
-            });
+            openDetails.forEach(detail => detail.style.display = 'none');
             
-            // 移除按钮的高亮状态
             const activeBtns = document.querySelectorAll('.article-btn.active');
-            activeBtns.forEach(btn => {
+            activeBtns.forEach(btn => btn.classList.remove('active'));
+
+            checkButtonsVisibility();
+        }
+
+        // ★★★ 功能 2：收起所有期刊 (回归初始状态) ★★★
+        function collapseAllJournals() {
+            // 先收起所有文章，保证状态整洁
+            collapseAllArticles();
+
+            // 收起所有期刊列表
+            const openLists = document.querySelectorAll('.article-list[style*="block"]');
+            openLists.forEach(list => list.style.display = 'none');
+
+            // 移除期刊按钮激活状态和箭头旋转
+            const activeJournals = document.querySelectorAll('.journal-btn.active');
+            activeJournals.forEach(btn => {
                 btn.classList.remove('active');
+                const arrow = btn.querySelector('.arrow');
+                if(arrow) arrow.style.transform = 'rotate(0deg)';
             });
 
-            // 隐藏自己
-            collapseBtn.style.display = 'none';
+            checkButtonsVisibility();
         }
 
     </script>

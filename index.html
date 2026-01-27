@@ -176,6 +176,35 @@
             box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.3); 
         }
         .no-result { color: #666; margin-top: 20px; font-size: 14px; }
+        
+        .collapse-all-btn {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 50px;
+            height: 50px;
+            background-color: #0366d6;
+            color: white;
+            border-radius: 50%;
+            box-shadow: 0 4px 12px rgba(3, 102, 214, 0.4);
+            display: none; /* 默认隐藏，只有展开了文章才显示 */
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            z-index: 1000;
+            transition: transform 0.2s, background-color 0.2s;
+            border: none;
+            outline: none;
+        }
+        .collapse-all-btn:hover {
+            background-color: #024ea2;
+            transform: scale(1.1);
+        }
+        .collapse-all-btn svg {
+            width: 24px;
+            height: 24px;
+            fill: white;
+        }
     </style>
 </head>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>

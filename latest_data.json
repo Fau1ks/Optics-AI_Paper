@@ -13763,5 +13763,49 @@
         "journal": "arXiv: Nerf",
         "title_cn": "具有分层时间神经表示的视频压缩",
         "abstract_cn": "视频压缩最近受益于隐式神经表示（INR），它将视频建模为连续函数。 INR 提供紧凑的存储和灵活的重建，为传统编解码器提供了一种有前景的替代方案。然而，大多数现有的基于 INR 的方法将时间维度视为独立输入，限制了它们捕获复杂时间依赖性的能力。为了解决这个问题，我们提出了视频的分层时间神经表示 TeNeRV。 TeNeRV 通过两个关键组件集成了短期和长期依赖关系。首先，帧间特征融合 (IFF) 模块聚合相邻帧的特征，增强局部时间一致性并捕获细粒度运动。其次，GoP 自适应调制 (GAM) 机制将视频划分为图片组并学习特定于组的先验。该机制调节网络参数，从而实现跨不同 GoP 的自适应表示。大量实验表明，TeNeRV 在率失真性能方面始终优于现有的基于 INR 的方法，验证了我们提出的方法的有效性。"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.586794",
+        "title": "Low RCS Circularly Polarized Antenna with Integrated Absorption and Polarization Conversion Metasurface",
+        "link": "https://doi.org/10.1364/ol.586794",
+        "published": "2026-01-26",
+        "author": "Xin Wang, shuai han, Junlin Wang, yunsheng guo, hongzhi xu, Yaning Liu, Qiwei Wang, linlian Fang, ning ma, zhiqiong yang, lizhi zhao, xinyu chen, ping li",
+        "summary": "Abstract not available.",
+        "journal": "Optics Letters",
+        "title_cn": "具有集成吸收和偏振转换超表面的低 RCS 圆偏振天线",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.580817",
+        "title": "Programmable spectrum customization of pulse illumination via multi-dimensional wavefront shaping",
+        "link": "https://doi.org/10.1364/ol.580817",
+        "published": "2026-01-26",
+        "author": "Rong Zeng, Zhongzheng Zhu, Daixuan Wu, Zexian Zhang, Jiaming Liang, Haitao Ye, Yiyi Liu, Ti-Jian Li, Meng Liu, Yuecheng Shen, Zhi-Chao Luo",
+        "summary": "Abstract not available.",
+        "journal": "Optics Letters",
+        "title_cn": "通过多维波前整形实现脉冲照明的可编程光谱定制",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.588411",
+        "title": "A general analytical framework for guide-star arrangement optimization in ground-layer adaptive optics",
+        "link": "https://doi.org/10.1364/ol.588411",
+        "published": "2026-01-26",
+        "author": "Yuhe Liu, Qianhan Zhou, Ziming Li, Lanqiang Zhang, Changhui Rao",
+        "summary": "Abstract not available.",
+        "journal": "Optics Letters",
+        "title_cn": "底层自适应光学中引导星排列优化的通用分析框架",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
+    },
+    {
+        "id": "https://doi.org/10.1364/ol.582025",
+        "title": "Overcoming the Matched-Illumination Challenge in Fourier Ptychography Microscopy with Phase-Contrast Modulation",
+        "link": "https://doi.org/10.1364/ol.582025",
+        "published": "2026-01-26",
+        "author": "Ying Ma, Taiqiang Dai, Hongyan Ma, Liang Kong, Qilong Tan, Ying Zhang, Huiya Ma, zhanqiang Li, Lan Ma, Peng Gao",
+        "summary": "Abstract not available.",
+        "journal": "Optics Letters",
+        "title_cn": "通过相衬调制克服傅里叶叠层成像显微镜中的匹配照明挑战",
+        "abstract_cn": "（摘要暂缺，等待官方补全）"
     }
 ]

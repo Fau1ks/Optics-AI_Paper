@@ -8,11 +8,10 @@
         /* =================全局样式================= */
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #f6f8fa; color: #24292e; display: flex; flex-direction: column; align-items: center; padding: 40px 20px; text-align: center; }
         
-        /* 1. 标题样式 (流光特效：从左向右) */
+        /* 标题样式 (流光特效) */
         h1 {
             font-size: 2.2rem; 
             margin-bottom: 30px;
-            /* 渐变色首尾一致以保证无缝循环 */
             background: linear-gradient(to right, #0366d6, #d939cd, #9d00ff, #0366d6);
             background-size: 200% auto; 
             -webkit-background-clip: text;
@@ -29,7 +28,7 @@
         .social-title { font-weight: bold; margin-bottom: 10px; font-size: 16px; }
         .qr-code { width: 150px; height: 150px; object-fit: cover; border-radius: 8px; border: 1px solid #e1e4e8; }
         
-        /* 2. 下载按钮样式 (稳重版) */
+        /* 下载按钮样式 */
         .download-btn { 
             background-color: #2ea44f; 
             color: white; 
@@ -63,9 +62,9 @@
         .reading-container { width: 100%; max-width: 800px; text-align: left; margin-top: 40px; margin-bottom: 20px; }
         .reading-title { text-align: center; color: #333; font-size: 22px; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
         
-        /* 3. 期刊大分组样式 (3D悬浮+暖色边框) */
+        /* 期刊大分组样式 */
         .journal-group { 
-            margin-bottom: 8px; /* 紧凑间距 */
+            margin-bottom: 8px; 
             background: white; 
             border-radius: 8px; 
             box-shadow: 0 2px 5px rgba(0,0,0,0.05); 
@@ -75,9 +74,9 @@
         }
 
         .journal-group:hover {
-            transform: translateY(-2px); /* 微浮动 */
+            transform: translateY(-2px); 
             box-shadow: 0 10px 25px rgba(0,0,0,0.15); 
-            border-left: 5px solid rgb(233, 163, 117); /* 暖橙色 */
+            border-left: 5px solid rgb(233, 163, 117); 
         }
         
         /* 期刊按钮布局 */
@@ -99,7 +98,7 @@
         }
         .journal-btn:hover { background-color: #f1f8ff; }
         
-        /* 4. 手机端防挤压 */
+        /* 手机端防挤压 */
         .journal-meta {
             display: flex;
             align-items: center;
@@ -114,7 +113,7 @@
         
         .article-list { display: none; border-top: 1px solid #eee; }
         
-        /* 5. 文章标题按钮样式 */
+        /* 文章标题按钮样式 */
         .article-btn { 
             width: 100%; 
             text-align: left; 
@@ -129,7 +128,6 @@
             transition: background-color 0.2s, padding-left 0.2s, color 0.2s;
         }
         
-        /* 悬停微动效 */
         .article-btn:hover { 
             color: #0366d6; 
             background: #f8faff;
@@ -138,7 +136,7 @@
         
         .article-btn.active { color: #0366d6; font-weight: bold; background: #fafafa; }
         
-        /* 6. 文章详情区域 (同步微动效) */
+        /* 详情区域样式 */
         .article-detail { 
             display: none; 
             padding: 15px 25px; 
@@ -176,39 +174,59 @@
         }
         .no-result { color: #666; margin-top: 20px; font-size: 14px; }
 
-        /* 7. 悬浮按钮通用样式 */
-        .float-btn {
+        /* ★★★ 修改：悬浮按钮容器 (定位在右侧内容旁) ★★★ */
+        .float-btn-container {
             position: fixed;
-            right: 30px;
-            width: 50px;
-            height: 50px;
+            /* 垂直居中稍微偏下，或者固定底部 */
+            bottom: 100px; 
+            /* 关键定位：屏幕中间 + 420px (800的一半+20间距) */
+            left: 50%;
+            margin-left: 420px; 
+            display: flex;
+            flex-direction: column;
+            gap: 15px; /* 两个按钮的间距 */
+            z-index: 1000;
+        }
+
+        /* 按钮本体样式 (图标+文字胶囊形) */
+        .float-btn {
             background-color: #0366d6;
             color: white;
-            border-radius: 50%;
+            padding: 10px 20px;
+            border-radius: 30px; /* 胶囊圆角 */
             box-shadow: 0 4px 12px rgba(3, 102, 214, 0.4);
             display: none; /* 默认隐藏 */
-            justify-content: center;
             align-items: center;
+            justify-content: center;
             cursor: pointer;
-            z-index: 1000;
             transition: transform 0.2s, background-color 0.2s;
             border: none;
             outline: none;
+            font-size: 14px;
+            font-weight: 500;
+            white-space: nowrap; /* 文字不换行 */
         }
         .float-btn:hover {
             background-color: #024ea2;
-            transform: scale(1.1);
+            transform: scale(1.05);
         }
         .float-btn svg {
-            width: 24px;
-            height: 24px;
+            width: 18px;
+            height: 18px;
             fill: white;
+            margin-right: 8px; /* 图标和文字间距 */
         }
 
-        /* 两个按钮的位置 */
-        #collapseJournalsBtn { bottom: 30px; }  /* 收起期刊在最下面 */
-        #collapseArticlesBtn { bottom: 90px; }  /* 收起文献在上面一点 */
-
+        /* 屏幕较窄时的适配 (小于1100px时，回到右下角，防止挡住内容或超出屏幕) */
+        @media (max-width: 1100px) {
+            .float-btn-container {
+                left: auto;
+                right: 20px;
+                bottom: 30px;
+                margin-left: 0;
+                align-items: flex-end; /* 右对齐 */
+            }
+        }
     </style>
 </head>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -245,18 +263,22 @@
         <div id="accordionContent"></div>
     </div>
 
-    <button id="collapseArticlesBtn" class="float-btn" onclick="collapseAllArticles()" title="收起展开的文献详情">
-        <svg viewBox="0 0 24 24">
-            <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"/> 
-        </svg>
-    </button>
+    <div class="float-btn-container">
+        <button id="collapseArticlesBtn" class="float-btn" onclick="collapseAllArticles()">
+            <svg viewBox="0 0 24 24">
+                <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"/> 
+            </svg>
+            <span>收起文献</span>
+        </button>
 
-    <button id="collapseJournalsBtn" class="float-btn" onclick="collapseAllJournals()" title="收起所有展开的期刊">
-        <svg viewBox="0 0 24 24">
-            <path d="M6 17.59L7.41 19 12 14.42 16.59 19 18 17.59l-6-6z"/>
-            <path d="M6 11l1.41 1.41L12 7.83l4.59 4.58L18 11l-6-6z"/>
-        </svg>
-    </button>
+        <button id="collapseJournalsBtn" class="float-btn" onclick="collapseAllJournals()">
+            <svg viewBox="0 0 24 24">
+                <path d="M6 17.59L7.41 19 12 14.42 16.59 19 18 17.59l-6-6z"/>
+                <path d="M6 11l1.41 1.41L12 7.83l4.59 4.58L18 11l-6-6z"/>
+            </svg>
+            <span>收起期刊</span>
+        </button>
+    </div>
 
     <div style="width: 100%; max-width: 800px; margin: 30px auto; text-align: center; font-size: 13px; color: #888;">
         <span id="busuanzi_container_site_pv" style="display:none">
@@ -422,7 +444,7 @@
             }
             container.innerHTML = html;
             
-            // 每次渲染后检查按钮状态（主要是针对搜索自动展开的情况）
+            // 每次渲染后检查按钮状态
             checkButtonsVisibility();
         }
 
@@ -486,7 +508,7 @@
             checkButtonsVisibility();
         }
 
-        // ★★★ 核心：检查两个按钮是否需要显示 ★★★
+        // 检查两个按钮是否需要显示
         function checkButtonsVisibility() {
             // 1. 检查是否有展开的文章
             const anyArticleOpen = document.querySelectorAll('.article-detail[style*="block"]').length > 0;
@@ -505,7 +527,7 @@
             }
         }
 
-        // ★★★ 功能 1：收起所有文章详情 (不收期刊) ★★★
+        // 功能 1：收起所有文章详情
         function collapseAllArticles() {
             const openDetails = document.querySelectorAll('.article-detail[style*="block"]');
             openDetails.forEach(detail => detail.style.display = 'none');
@@ -516,16 +538,16 @@
             checkButtonsVisibility();
         }
 
-        // ★★★ 功能 2：收起所有期刊 (回归初始状态) ★★★
+        // 功能 2：收起所有期刊
         function collapseAllJournals() {
-            // 先收起所有文章，保证状态整洁
+            // 先收起所有文章
             collapseAllArticles();
 
             // 收起所有期刊列表
             const openLists = document.querySelectorAll('.article-list[style*="block"]');
             openLists.forEach(list => list.style.display = 'none');
 
-            // 移除期刊按钮激活状态和箭头旋转
+            // 移除期刊按钮激活状态
             const activeJournals = document.querySelectorAll('.journal-btn.active');
             activeJournals.forEach(btn => {
                 btn.classList.remove('active');

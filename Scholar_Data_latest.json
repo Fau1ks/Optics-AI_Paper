@@ -1,0 +1,194 @@
+[
+    {
+        "title": "A Comprehensive Benchmark for Spatiotemporal Tensor-Based Infrared Small Target Detection",
+        "title_cn": "基于时空张量的红外小目标检测的综合基准",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11333368/",
+        "time": "00:26:32"
+    },
+    {
+        "title": "FSFNet: Frequency–Spatial-Domain Fusion Network for Infrared Small Target Detection",
+        "title_cn": "FSFNet：用于红外小目标检测的频空域融合网络",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11322558/",
+        "time": "00:26:33"
+    },
+    {
+        "title": "Local Low-Rankness and Double Autoregression: A Tensor Completion Framework for Space-Based Radio Environment Mapping",
+        "title_cn": "局部低秩和双重自回归：天基无线电环境测绘的张量完成框架",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11352829/",
+        "time": "00:26:33"
+    },
+    {
+        "title": "Self-Supervised Denoising of Seismic Data Using a True 3D Global Attention Convolutional Network",
+        "title_cn": "使用真正的 3D 全局注意力卷积网络对地震数据进行自监督去噪",
+        "link": "https://link.springer.com/article/10.1007/s13369-025-10974-5",
+        "time": "00:26:34"
+    },
+    {
+        "title": "OT-AD: Optimal Transport-Guided Transformer for Hyperspectral Anomaly Detection",
+        "title_cn": "OT-AD：用于高光谱异常检测的最佳传输引导变压器",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11358434/",
+        "time": "00:26:35"
+    },
+    {
+        "title": "Infrared Small Target Detection with Frequency Guidance and Aliasing Rectification",
+        "title_cn": "带频率引导和混叠校正的红外小目标检测",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11361204/",
+        "time": "00:26:35"
+    },
+    {
+        "title": "PQGNet: Perceptual Query Guided Network for Infrared Small Target Detection",
+        "title_cn": "PQGNet：用于红外小目标检测的感知查询引导网络",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11352975/",
+        "time": "00:26:36"
+    },
+    {
+        "title": "Hyperspectral Image Target Detection Based on Graph Structure Sampling and Aggregation",
+        "title_cn": "基于图结构采样和聚合的高光谱图像目标检测",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11352724/",
+        "time": "00:26:37"
+    },
+    {
+        "title": "MEETNet: Morphology-Edge Enhanced Triple-Stage Network for Infrared Small Target Detection",
+        "title_cn": "MEETNet：用于红外小目标检测的形态学边缘增强三级网络",
+        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11340625.pdf",
+        "time": "00:26:38"
+    },
+    {
+        "title": "Local-Motion Mamba With Frequency-Guided for Moving Infrared Small Target Detection",
+        "title_cn": "带有频率引导的本地运动 Mamba 用于移动红外小目标检测",
+        "link": "https://ieeexplore.ieee.org/iel8/8859/4357975/11352796.pdf",
+        "time": "00:26:38"
+    },
+    {
+        "title": "Deep learning-based high-resolution Radon transform and its application to multiple elimination",
+        "title_cn": "基于深度学习的高分辨率Radon变换及其在多重消除中的应用",
+        "link": "https://academic.oup.com/jge/advance-article-pdf/doi/10.1093/jge/gxag020/66557040/gxag020.pdf",
+        "time": "00:26:40"
+    },
+    {
+        "title": "Multi-Indicator Latent Factorization of Tensors for Spatio-Temporal Signal Recovery",
+        "title_cn": "用于时空信号恢复的张量多指标潜在因式分解",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11322899/",
+        "time": "00:26:41"
+    },
+    {
+        "title": "DELTA: Deep Low-Rank Tensor Representation for Multi-Dimensional Data Recovery",
+        "title_cn": "DELTA：用于多维数据恢复的深度低秩张量表示",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11231348/",
+        "time": "00:26:41"
+    },
+    {
+        "title": "Robust Deep Recovery Model with Spatial-Spectral Total Generalized Variation Prior for Hyperspectral Image Denoising",
+        "title_cn": "用于高光谱图像去噪的具有空间光谱总广义变分先验的鲁棒深度恢复模型",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11269695/",
+        "time": "00:26:42"
+    },
+    {
+        "title": "IRPNet: Infrared Small Target Detection via RGB Prior Guidance and Physics Feature Fusion",
+        "title_cn": "IRPNet：通过 RGB 先验引导和物理特征融合进行红外小目标检测",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11348967/",
+        "time": "00:26:43"
+    },
+    {
+        "title": "Refining False Detections: An Efficient Network Focused on Error-Prone Regions in Infrared Small Target Detection",
+        "title_cn": "改进错误检测：专注于红外小目标检测中容易出错区域的高效网络",
+        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11347587.pdf",
+        "time": "00:26:44"
+    },
+    {
+        "title": "IE-TV: Structural Information Enhanced 3-D Weighted Correlated Total Variation for Hyperspectral Image Denoising",
+        "title_cn": "IE-TV：用于高光谱图像去噪的结构信息增强型 3D 加权相关总变分",
+        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11320271.pdf",
+        "time": "00:26:44"
+    },
+    {
+        "title": "A general two-stage framework of tensor low-rank representation for enhanced image denoising and clustering",
+        "title_cn": "用于增强图像去噪和聚类的张量低秩表示的通用两阶段框架",
+        "link": "https://link.springer.com/article/10.1007/s00138-025-01785-7",
+        "time": "00:26:45"
+    },
+    {
+        "title": "Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers",
+        "title_cn": "使用轻量级分离光谱变压器进行高效高光谱图像重建",
+        "link": "https://arxiv.org/pdf/2601.01064",
+        "time": "00:26:47"
+    },
+    {
+        "title": "MSIA: A Multiscale Interactive Attention Network Assisted by Self-Supervised Contrastive Learning for Hyperspectral Image Classification",
+        "title_cn": "MSIA：用于高光谱图像分类的自监督对比学习辅助的多尺度交互式注意力网络",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11320908/",
+        "time": "00:26:48"
+    },
+    {
+        "title": "Low-Rank Gradient Guidance With Mutual-Guided Mamba for Hyperspectral Pansharpening",
+        "title_cn": "用于高光谱全色锐化的低阶梯度引导与相互引导 Mamba",
+        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11359004.pdf",
+        "time": "00:26:49"
+    },
+    {
+        "title": "SAR-W-MixMAE: Polarization-Aware Self-Supervised Pretraining for Masked Autoencoders on SAR Data",
+        "title_cn": "SAR-W-MixMAE：SAR 数据上屏蔽自动编码器的偏振感知自监督预训练",
+        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11344788.pdf",
+        "time": "00:26:49"
+    },
+    {
+        "title": "NLSDR-Net: A Lightweight Nonlocal Spatial Disparity Refinement Network for Robust and Real-Time Stereo Matching",
+        "title_cn": "NLSDR-Net：用于鲁棒实时立体匹配的轻量级非局部空间视差细化网络",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11319345/",
+        "time": "00:26:50"
+    },
+    {
+        "title": "Generalized Subspace Coupling Approach for Robust Low-Tubal-Rank Tensor Completion",
+        "title_cn": "鲁棒低管阶张量补全的广义子空间耦合方法",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11223220/",
+        "time": "00:26:51"
+    },
+    {
+        "title": "Methods, Datasets, and Prospects for Hyperspectral Image Denoising: A Comprehensive Survey",
+        "title_cn": "高光谱图像去噪的方法、数据集和前景：综合调查",
+        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11345127.pdf",
+        "time": "00:26:52"
+    },
+    {
+        "title": "SHARE: A Fully Unsupervised Framework for Single Hyperspectral Image Restoration",
+        "title_cn": "分享：单张高光谱图像恢复的完全无监督框架",
+        "link": "https://arxiv.org/pdf/2601.13987",
+        "time": "00:26:53"
+    },
+    {
+        "title": "Principal Component Analysis-Based Terahertz Self-Supervised Denoising and Deblurring Deep Neural Networks",
+        "title_cn": "基于主成分分析的太赫兹自监督去噪和去模糊深度神经网络",
+        "link": "https://arxiv.org/pdf/2601.12149",
+        "time": "00:26:53"
+    },
+    {
+        "title": "Coupled Diffusion Posterior Sampling for Unsupervised Hyperspectral and Multispectral Images Fusion",
+        "title_cn": "用于无监督高光谱和多光谱图像融合的耦合扩散后采样",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41477791/",
+        "time": "00:26:54"
+    },
+    {
+        "title": "Anisotropic Tensor Deconvolution of Hyperspectral Images",
+        "title_cn": "高光谱图像的各向异性张量反卷积",
+        "link": "https://arxiv.org/pdf/2601.11694",
+        "time": "00:26:55"
+    },
+    {
+        "title": "FeedbackSTS-Det: Sparse Frames-Based Spatio-Temporal Semantic Feedback Network for Infrared Small Target Detection",
+        "title_cn": "FeedbackSTS-Det：基于稀疏帧的时空语义反馈网络，用于红外小目标检测",
+        "link": "https://arxiv.org/abs/2601.14690",
+        "time": "00:26:55"
+    },
+    {
+        "title": "Infrared small UAV target detection via depthwise separable residual dense attention network",
+        "title_cn": "基于深度可分离残差密集注意力网络的红外小型无人机目标检测",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1047320325003177",
+        "time": "00:26:56"
+    },
+    {
+        "title": "Research on infrared small/weak target detection algorithm based on deep learning",
+        "title_cn": "基于深度学习的红外小/弱目标检测算法研究",
+        "link": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14005/140050M/Research-on-infrared-small-weak-target-detection-algorithm-based-on/10.1117/12.3093063.short",
+        "time": "00:26:57"
+    }
+]

@@ -76,7 +76,6 @@
         .journal-group:hover {
             transform: translateY(-2px); 
             box-shadow: 0 10px 25px rgba(0,0,0,0.15); 
-            /* 保留您指定的颜色 */
             border-left: 5px solid rgb(233, 163, 117); 
         }
         
@@ -227,30 +226,49 @@
             }
         }
 
-        /* ================= 新增：语言切换按钮样式 ================= */
-        .lang-btn {
+        /* ================= 新增：左右切换开关样式 ================= */
+        .lang-switch-container {
             position: absolute;
             top: 20px;
             right: 20px;
-            background-color: transparent;
+            display: flex;
             border: 1px solid #0366d6;
+            border-radius: 20px; /* 胶囊圆角 */
+            overflow: hidden;
+            z-index: 1001;
+            background: white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        
+        .lang-option {
+            background: white;
             color: #0366d6;
-            padding: 5px 15px;
-            border-radius: 20px;
-            cursor: pointer;
+            border: none;
+            padding: 6px 15px;
             font-size: 14px;
             font-weight: bold;
+            cursor: pointer;
+            outline: none;
             transition: all 0.2s;
-            z-index: 1001;
         }
-        .lang-btn:hover {
-            background-color: #0366d6;
+
+        /* 选中状态：高亮背景 */
+        .lang-option.active {
+            background: #0366d6;
             color: white;
         }
+
+        /* 鼠标悬停但未选中时 */
+        .lang-option:hover:not(.active) {
+            background-color: #f0f6fc;
+        }
+
         @media (max-width: 600px) {
-            .lang-btn {
+            .lang-switch-container {
                 top: 10px;
                 right: 10px;
+            }
+            .lang-option {
                 font-size: 12px;
                 padding: 4px 10px;
             }
@@ -260,7 +278,10 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <body>
 
-    <button id="langSwitchBtn" class="lang-btn" onclick="toggleLanguage()">English</button>
+    <div class="lang-switch-container">
+        <button id="btn-zh" class="lang-option active" onclick="setLanguage('zh')">中文</button>
+        <button id="btn-en" class="lang-option" onclick="setLanguage('en')">English</button>
+    </div>
 
     <h1 id="pageTitle">光学+AI 最新文献推送</h1>
 
@@ -336,11 +357,10 @@
         
         // ================= 语言配置 =================
         let currentLang = 'zh'; // 默认中文
-        let globalLatestDateCode = ''; // 存储日期，用于切换语言时重组字符串
+        let globalLatestDateCode = ''; 
 
         const langData = {
             'zh': {
-                toggleBtn: 'English',
                 pageTitle: '光学+AI 最新文献推送',
                 pageIntro: '如需往期文献，可关注以下账号<br>也欢迎学术交流以及提出您的建议',
                 xhsTitle: '小红书：计算光学最新文献推送',
@@ -364,7 +384,6 @@
                 authorLabel: '👤 Authors:' 
             },
             'en': {
-                toggleBtn: '中文模式',
                 pageTitle: 'Latest Optics + AI Paper Feed',
                 pageIntro: 'Follow our accounts for past archives.<br>Academic exchanges and suggestions are welcome.',
                 xhsTitle: 'Xiaohongshu: Computational Optics Feed',
@@ -385,7 +404,7 @@
                 noResult: '😕 No papers found. Try a different keyword?',
                 // 动态生成的标签
                 detailLabelTag: '中文标题',
-                authorLabel: '👤 Authors:'
+                authorLabel: '👤 作者:'
             }
         };
 
@@ -394,7 +413,6 @@
         const articleBtn = document.getElementById('collapseArticlesBtn');
         const journalBtn = document.getElementById('collapseJournalsBtn');
 
-        // 1. 防乱码工具函数
         function escapeHtml(text) {
             if (!text) return "";
             return text
@@ -405,19 +423,32 @@
                 .replace(/'/g, "&#039;");
         }
 
-        // ================= 语言切换逻辑 =================
-        function toggleLanguage() {
-            currentLang = currentLang === 'zh' ? 'en' : 'zh';
+        // ================= 语言切换逻辑 (新) =================
+        function setLanguage(lang) {
+            if (currentLang === lang) return; // 如果已经是当前语言，不做操作
+            currentLang = lang;
+            
+            // 更新按钮高亮状态
+            const btnZh = document.getElementById('btn-zh');
+            const btnEn = document.getElementById('btn-en');
+            
+            if (lang === 'zh') {
+                btnZh.classList.add('active');
+                btnEn.classList.remove('active');
+            } else {
+                btnZh.classList.remove('active');
+                btnEn.classList.add('active');
+            }
+
             updateStaticUI();
             
-            // 如果数据已经加载，重新渲染列表
+            // 重新渲染列表
             if (allPapersData.length > 0) {
-                // 保持当前的搜索状态
                 const searchInput = document.getElementById('searchInput');
                 if (searchInput && searchInput.value.trim() !== "") {
                     searchPapers();
                 } else {
-                    renderPapers(allPapersData, false); // 默认不展开
+                    renderPapers(allPapersData, false); 
                 }
             }
         }
@@ -425,10 +456,6 @@
         function updateStaticUI() {
             const t = langData[currentLang];
             
-            // 更新按钮文字
-            document.getElementById('langSwitchBtn').innerText = t.toggleBtn;
-            
-            // 更新页面静态文本
             document.getElementById('pageTitle').innerText = t.pageTitle;
             document.getElementById('pageIntro').innerHTML = t.pageIntro;
             document.getElementById('xhsTitle').innerText = t.xhsTitle;
@@ -442,7 +469,6 @@
             document.getElementById('navTipTitle').innerText = t.navTipTitle;
             document.getElementById('navTipText').innerHTML = t.navTipText;
 
-            // 更新下载按钮文本（保留日期）
             if (globalLatestDateCode) {
                 btn.innerText = t.downloadPrefix + globalLatestDateCode;
             } else if (btn.classList.contains('loading')) {
@@ -451,14 +477,13 @@
                 btn.innerText = t.noData;
             }
             
-            // 更新时间文本（保留时间）
             if (timeDiv.dataset.timeStr) {
                  timeDiv.innerText = t.timePrefix + timeDiv.dataset.timeStr;
             }
         }
 
         // 2. 下载按钮逻辑
-        updateStaticUI(); // 初始化 UI 文字
+        updateStaticUI(); 
 
         fetch(contentApiUrl)
             .then(response => response.json())
@@ -475,7 +500,6 @@
                 wordFiles.sort((a, b) => a.name.localeCompare(b.name));
                 const latestFile = wordFiles[wordFiles.length - 1];
                 
-                // 保存日期以便切换语言使用
                 globalLatestDateCode = latestFile.name.replace('Optical_Papers_', '').replace('.docx', '');
                 
                 btn.innerText = t.downloadPrefix + globalLatestDateCode; 
@@ -490,7 +514,6 @@
                         if (commits && commits.length > 0) {
                             const dateObj = new Date(commits[0].commit.committer.date);
                             const timeStr = dateObj.toLocaleString('zh-CN', { hour12: false });
-                            // 保存时间字符串到 dataset
                             timeDiv.dataset.timeStr = timeStr;
                             timeDiv.innerText = langData[currentLang].timePrefix + timeStr;
                         }
@@ -554,15 +577,14 @@
                 `;
                 
                 papers.forEach(paper => {
-                    // ★★★ 核心修改逻辑：中英文对调 ★★★
                     let mainTitle, subTitle;
                     
                     if (currentLang === 'zh') {
-                        // 中文模式：按钮是中文，详情里是英文
+                        // 中文模式
                         mainTitle = escapeHtml(paper.title_cn || paper.title);
                         subTitle = escapeHtml(paper.title);
                     } else {
-                        // 英文模式：按钮是英文，详情里是中文
+                        // 英文模式
                         mainTitle = escapeHtml(paper.title);
                         subTitle = escapeHtml(paper.title_cn || "Chinese translation not available");
                     }

@@ -17,7 +17,9 @@
             -webkit-background-clip: text;
             background-clip: text;
             color: transparent; 
-            animation: shine 4s linear infinite; 
+            animation: shine 4s linear infinite;
+            cursor: pointer; /* ★★★ 修改：增加手型鼠标，提示可点击 */
+            user-select: none; /* 防止连点时选中文字 */
         }
         @keyframes shine {
             to { background-position: -200% center; }
@@ -44,6 +46,23 @@
         .download-btn:hover { background-color: #2c974b; }
         .loading { background-color: #94d3a2; cursor: wait; }
         
+        /* ★★★ 新增：Scholar 专用下载按钮样式 (紫色系) ★★★ */
+        .scholar-download-btn {
+            background-color: #8a2be2;
+            color: white;
+            padding: 12px 30px;
+            font-size: 16px;
+            border-radius: 6px;
+            text-decoration: none;
+            transition: background-color 0.2s;
+            box-shadow: 0 4px 6px rgba(138, 43, 226, 0.2);
+            max-width: 90%;
+            word-break: break-all;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .scholar-download-btn:hover { background-color: #7a1cd1; }
+
         .update-time { margin-top: 15px; font-size: 14px; color: #0366d6; font-weight: 500; }
         .tips { margin-top: 5px; font-size: 12px; color: #586069; }
         
@@ -78,6 +97,14 @@
             box-shadow: 0 10px 25px rgba(0,0,0,0.15); 
             border-left: 5px solid rgb(233, 163, 117); 
         }
+
+        /* ★★★ 新增：Scholar 分组的特殊样式 ★★★ */
+        .journal-group.scholar-group {
+            border-left: 5px solid #8a2be2; /* 紫色边框 */
+        }
+        .journal-group.scholar-group:hover {
+            border-left: 5px solid #d939cd; /* 悬浮变亮紫 */
+        }
         
         /* 期刊按钮布局 */
         .journal-btn { 
@@ -102,12 +129,15 @@
         .journal-meta {
             display: flex;
             align-items: center;
-            flex-shrink: 0;       
+            flex-shrink: 0;        
             white-space: nowrap; 
             margin-left: 10px;
         }
 
         .count-badge { background: #0366d6; color: white; padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; margin-right: 10px; }
+        /* Scholar 的计数徽章颜色 */
+        .scholar-group .count-badge { background: #8a2be2; }
+
         .arrow { transition: transform 0.3s; font-size: 0.8rem; color: #aaa; }
         .journal-btn.active .arrow { transform: rotate(180deg); }
         
@@ -226,14 +256,14 @@
             }
         }
 
-        /* ================= 新增：左右切换开关样式（修复对齐问题） ================= */
+        /* 左右切换开关样式 */
         .lang-switch-container {
             position: absolute;
             top: 20px;
             right: 20px;
             display: flex;
             border: 1px solid #0366d6;
-            border-radius: 20px; /* 胶囊圆角 */
+            border-radius: 20px;
             overflow: hidden;
             z-index: 1001;
             background: white;
@@ -244,11 +274,9 @@
             background: white;
             color: #0366d6;
             border: none;
-            /* ★★★ 修改处：设定固定宽度并居中 ★★★ */
             width: 75px; 
-            padding: 6px 0; /* 上下padding保留，左右去掉，靠width撑开 */
+            padding: 6px 0;
             text-align: center;
-            /* ==================================== */
             font-size: 14px;
             font-weight: bold;
             cursor: pointer;
@@ -256,13 +284,11 @@
             transition: all 0.2s;
         }
 
-        /* 选中状态：高亮背景 */
         .lang-option.active {
             background: #0366d6;
             color: white;
         }
 
-        /* 鼠标悬停但未选中时 */
         .lang-option:hover:not(.active) {
             background-color: #f0f6fc;
         }
@@ -274,7 +300,6 @@
             }
             .lang-option {
                 font-size: 12px;
-                /* 手机端稍微缩小一点宽度 */
                 width: 60px;
                 padding: 4px 0;
             }
@@ -289,7 +314,7 @@
         <button id="btn-en" class="lang-option" onclick="setLanguage('en')">English</button>
     </div>
 
-    <h1 id="pageTitle">光学+AI 最新文献推送</h1>
+    <h1 id="pageTitle" onclick="triggerSecret()">光学+AI 最新文献推送</h1>
 
     <p id="pageIntro" style="color: #666; font-size: 15px; margin-top: -15px; margin-bottom: 25px; line-height: 1.6;">
         如需往期文献，可关注以下账号<br>
@@ -318,6 +343,15 @@
     <div class="reading-container" id="readingArea" style="display:none;">
         <div id="readingTitle" class="reading-title">📖 在线速览</div>
         <div id="accordionContent"></div>
+    </div>
+
+    <div class="reading-container" id="scholarArea" style="display:none; margin-top: 50px; border-top: 2px dashed #ccc; padding-top: 30px;">
+        <div id="scholarTitle" class="reading-title" style="color: #8a2be2;">🎓 Google Scholar Monitor</div>
+        <div style="text-align: center; margin-bottom: 20px;">
+            <a id="scholarDownloadBtn" href="#" class="scholar-download-btn">🔍 Searching Scholar Summary...</a>
+            <div id="scholarUpdateStatus" class="tips">Secret Mode Activated</div>
+        </div>
+        <div id="scholarContent"></div>
     </div>
 
     <div class="float-btn-container">
@@ -387,7 +421,10 @@
                 noResult: '😕 没有找到相关文献，换个关键词试试？',
                 // 动态生成的标签
                 detailLabelTag: 'English', 
-                authorLabel: '👤 Authors:' 
+                authorLabel: '👤 Authors:',
+                // ★★★ Scholar 新增翻译
+                scholarTitle: '🎓 Google Scholar 实时监控',
+                scholarBtnPrefix: '📄 下载 Scholar 汇总：'
             },
             'en': {
                 pageTitle: 'Latest Optics + AI Paper Feed',
@@ -410,7 +447,10 @@
                 noResult: '😕 No papers found. Try a different keyword?',
                 // 动态生成的标签
                 detailLabelTag: '中文标题',
-                authorLabel: '👤 Authors:'
+                authorLabel: '👤 Authors:',
+                // ★★★ Scholar 新增翻译
+                scholarTitle: '🎓 Google Scholar Monitor',
+                scholarBtnPrefix: '📄 Download Scholar Summary: '
             }
         };
 
@@ -457,6 +497,14 @@
                     renderPapers(allPapersData, false); 
                 }
             }
+
+            // ★★★ 如果 Scholar 区域是可见的，重新渲染它以更新语言
+            if (document.getElementById('scholarArea').style.display === 'block') {
+                updateScholarUI(); // 更新标题
+                if(window.scholarDataCache) {
+                    renderScholarList(window.scholarDataCache); // 重新渲染列表（如果有缓存数据）
+                }
+            }
         }
 
         function updateStaticUI() {
@@ -489,13 +537,12 @@
         }
 
         // ======================================================================
-        // 新的逻辑：优先读取新版 JSON 中的文件名和时间，旧版作为 fallback
+        // 主逻辑：读取最新 JSON
         // ======================================================================
         updateStaticUI(); 
 
         let allPapersData = []; 
 
-        // 加上时间戳防止 GitHub Pages 缓存
         const timestamp = new Date().getTime();
         
         fetch('latest_data.json?t=' + timestamp)
@@ -505,46 +552,34 @@
                 let metaTime = null;
                 let metaFile = null;
 
-                // 判断 JSON 格式
                 if (Array.isArray(data)) {
-                    // === 旧格式 (数组) ===
-                    // 兼容旧逻辑，防止报错
                     console.log("Detected legacy JSON array format. Falling back to API.");
                     papers = data;
-                    // 如果是旧数组格式，需要调用 GitHub API 去找文件名和时间 (保留你原来的功能)
                     fallbackToGithubApi();
                 } else {
-                    // === 新格式 (对象) ===
-                    // 格式: { update_time: "...", word_filename: "...", data: [...] }
                     console.log("Detected new JSON object format.");
                     papers = data.data || [];
                     
-                    // 1. 获取北京时间字符串 (Python直接生成的，无需转换)
                     if (data.update_time) {
                         metaTime = data.update_time;
-                        // 更新时间显示
                         timeDiv.dataset.timeStr = metaTime + " (北京时间)";
                         timeDiv.innerText = langData[currentLang].timePrefix + timeDiv.dataset.timeStr;
                     }
 
-                    // 2. 获取文件名并更新下载按钮
                     if (data.word_filename) {
                         metaFile = data.word_filename;
                         const t = langData[currentLang];
                         globalLatestDateCode = metaFile.replace('Optical_Papers_', '').replace('.docx', '');
                         
                         btn.innerText = t.downloadPrefix + globalLatestDateCode;
-                        // 使用 raw 链接确保直接下载/访问，不经过 API
                         btn.href = `https://github.com/${GITHUB_USERNAME}/${REPO_NAME}/raw/main/${metaFile}`;
                         btn.classList.remove('loading');
                         btn.setAttribute("target", "_blank");
                     } else {
-                        // 如果新格式里居然没有文件名，也尝试 fallback
                         fallbackToGithubApi();
                     }
                 }
 
-                // 3. 渲染数据
                 if (!papers || papers.length === 0) {
                      const t = langData[currentLang];
                      btn.innerText = t.noData;
@@ -563,16 +598,10 @@
                 const t = langData[currentLang];
                 btn.innerText = t.downloadFail;
                 btn.style.backgroundColor = "#d73a49";
-                // 作为最后的保险，如果 json 读取彻底失败，尝试直接跑一遍 API 逻辑看能不能救回来
                 fallbackToGithubApi();
             });
 
-        // ======================================================================
-        // 保留原功能的 Fallback 函数：当 JSON 是旧格式或缺失元数据时调用
-        // 严格遵守“不允许省略、删除、精简”原则
-        // ======================================================================
         function fallbackToGithubApi() {
-            // 如果按钮已经设置好了，就不跑这个了
             if (!btn.classList.contains('loading')) return;
 
             fetch(contentApiUrl)
@@ -653,11 +682,9 @@
                     let mainTitle, subTitle;
                     
                     if (currentLang === 'zh') {
-                        // 中文模式
                         mainTitle = escapeHtml(paper.title_cn || paper.title);
                         subTitle = escapeHtml(paper.title);
                     } else {
-                        // 英文模式
                         mainTitle = escapeHtml(paper.title);
                         subTitle = escapeHtml(paper.title_cn || "Chinese translation not available");
                     }
@@ -788,6 +815,164 @@
 
             checkButtonsVisibility();
         }
+
+        // ======================================================================
+        // ★★★ 新增：秘密入口与 Scholar 处理逻辑
+        // ======================================================================
+        
+        let clickCount = 0;
+        let clickTimer = null;
+        let isSecretActive = false;
+
+        function triggerSecret() {
+            if (isSecretActive) return; // 已经激活过了
+
+            clickCount++;
+            
+            // 如果 2秒内没有继续点击，重置计数器
+            clearTimeout(clickTimer);
+            clickTimer = setTimeout(() => {
+                clickCount = 0;
+            }, 2000);
+
+            if (clickCount >= 5) {
+                activateScholarMode();
+            }
+        }
+
+        function activateScholarMode() {
+            isSecretActive = true;
+            clickCount = 0;
+            const scholarArea = document.getElementById('scholarArea');
+            scholarArea.style.display = 'block';
+            
+            // 简单提示
+            alert("🔓 Secret Mode: Google Scholar Monitor Activated!");
+            
+            // 1. 获取 Scholar JSON 数据
+            fetchScholarData();
+
+            // 2. 获取最新 Scholar Word 文档
+            fetchScholarSummaryDoc();
+            
+            // 3. 滚动到底部
+            scholarArea.scrollIntoView({behavior: "smooth"});
+        }
+
+        function updateScholarUI() {
+             const t = langData[currentLang];
+             document.getElementById('scholarTitle').innerText = t.scholarTitle;
+             // 如果按钮已经有文件名，更新前缀
+             const sBtn = document.getElementById('scholarDownloadBtn');
+             if(sBtn.dataset.filename) {
+                 sBtn.innerText = t.scholarBtnPrefix + sBtn.dataset.filename;
+             }
+        }
+
+        function fetchScholarData() {
+            const ts = new Date().getTime();
+            fetch('Scholar_Data_latest.json?t=' + ts)
+                .then(res => res.json())
+                .then(data => {
+                    window.scholarDataCache = data; // 缓存以便切换语言时使用
+                    renderScholarList(data);
+                })
+                .catch(err => {
+                    console.error("Scholar Data Error", err);
+                    document.getElementById('scholarContent').innerHTML = "<div class='no-result'>Load Failed.</div>";
+                });
+        }
+
+        function renderScholarList(data) {
+            const container = document.getElementById('scholarContent');
+            const t = langData[currentLang];
+
+            if (!data || data.length === 0) {
+                container.innerHTML = "<div class='no-result'>No Scholar Data.</div>";
+                return;
+            }
+
+            // Scholar 数据不分期刊，统一放在一个大组里
+            // 构造一个 fake group
+            const groupTitle = "Google Scholar Daily Push";
+            const papers = data;
+
+            let html = `
+                <div class="journal-group scholar-group">
+                    <button class="journal-btn active" onclick="toggleAccordion(this)">
+                        <span>${groupTitle}</span>
+                        <div class="journal-meta">
+                            <span class="count-badge">${papers.length}</span>
+                            <span class="arrow" style="transform: rotate(180deg);">▼</span>
+                        </div>
+                    </button>
+                    <div class="article-list" style="display: block;">
+            `;
+
+            papers.forEach(paper => {
+                let mainTitle, subTitle;
+                if (currentLang === 'zh') {
+                    mainTitle = escapeHtml(paper.title_cn || paper.title);
+                    subTitle = escapeHtml(paper.title);
+                } else {
+                    mainTitle = escapeHtml(paper.title);
+                    subTitle = escapeHtml(paper.title_cn || "Translation N/A");
+                }
+                const link = paper.link || '#';
+
+                html += `
+                    <div class="article-item">
+                        <button class="article-btn" onclick="toggleAccordion(this)">${mainTitle}</button>
+                        <div class="article-detail">
+                            <div class="title-box-en">
+                                <span style="background:#eee;padding:2px 6px;border-radius:4px;font-size:0.75em;color:#666;margin-right:5px;">
+                                    ${t.detailLabelTag}
+                                </span>
+                                ${subTitle}
+                            </div>
+                            <div style="margin-top:10px;"></div>
+                            <a href="${link}" target="_blank" class="link-box">🔗 Link</a>
+                        </div>
+                    </div>
+                `;
+            });
+
+            html += `</div></div>`;
+            container.innerHTML = html;
+        }
+
+        function fetchScholarSummaryDoc() {
+            const sBtn = document.getElementById('scholarDownloadBtn');
+            const t = langData[currentLang];
+
+            fetch(contentApiUrl)
+                .then(response => response.json())
+                .then(data => {
+                    // 筛选 Scholar_Summary_ 开头的 docx
+                    const scholarFiles = data.filter(item => item.name.startsWith('Scholar_Summary_') && item.name.endsWith('.docx'));
+                    
+                    if (scholarFiles.length === 0) {
+                        sBtn.innerText = "No Summary Found";
+                        sBtn.style.backgroundColor = "#666";
+                        return;
+                    }
+
+                    // 排序找到最新的
+                    scholarFiles.sort((a, b) => a.name.localeCompare(b.name));
+                    const latest = scholarFiles[scholarFiles.length - 1];
+                    const dateCode = latest.name.replace('Scholar_Summary_', '').replace('.docx', '');
+
+                    sBtn.dataset.filename = dateCode; // 存一下，方便切换语言时读取
+                    sBtn.innerText = t.scholarBtnPrefix + dateCode;
+                    sBtn.href = latest.download_url; // 使用 raw url
+                    sBtn.setAttribute("target", "_blank");
+                })
+                .catch(err => {
+                    console.error(err);
+                    sBtn.innerText = "Summary Fetch Error";
+                });
+        }
+
     </script>
 </body>
 </html>

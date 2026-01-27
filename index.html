@@ -14,14 +14,14 @@
             margin-bottom: 30px;
             /* 关键点：首尾颜色必须相同 (#0366d6)，这样循环才不会卡顿 */
             background: linear-gradient(to right, #0366d6, #d939cd, #9d00ff, #0366d6);
-            background-size: -200% auto; /* 放大背景以实现流动 */
+            background-size: 200% auto; /* 放大背景以实现流动 */
             -webkit-background-clip: text;
             background-clip: text;
             color: transparent; 
             animation: shine 4s linear infinite; /* 匀速动画 */
         }
         @keyframes shine {
-            to { background-position: 200% center; }
+            to { background-position: -200% center; }
         }
 
         .social-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 40px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }

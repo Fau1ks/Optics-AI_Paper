@@ -26,7 +26,30 @@
         .social-item { display: flex; flex-direction: column; align-items: center; width: 280px; line-height: 1.5; }
         .social-title { font-weight: bold; margin-bottom: 10px; font-size: 16px; }
         .qr-code { width: 150px; height: 150px; object-fit: cover; border-radius: 8px; border: 1px solid #e1e4e8; }
-        .download-btn { background-color: #2ea44f; color: white; padding: 15px 40px; font-size: 18px; border-radius: 6px; text-decoration: none; transition: background-color 0.2s; box-shadow: 0 4px 6px rgba(46, 164, 79, 0.2); max-width: 90%; word-break: break-all; }
+        .download-btn {
+            /* ...保留你原有的颜色、字体等设置... */
+            background-color: #2ea44f; 
+            color: white; 
+            padding: 15px 40px;        
+            transition: all 0.3s ease; 
+        }
+        
+        
+        .download-btn:hover {
+            background-color: #2c974b;
+            animation: jelly 0.5s;
+            box-shadow: 0 10px 20px rgba(46, 164, 79, 0.4); 
+            transform: translateY(-2px); 
+        }
+        @keyframes jelly {
+            0% { transform: scale(1, 1); }
+            30% { transform: scale(1.15, 0.85); } 
+            40% { transform: scale(0.9, 1.1); }   
+            50% { transform: scale(1.05, 0.95); } 
+            65% { transform: scale(0.98, 1.02); } 
+            75% { transform: scale(1.02, 0.98); } 
+            100% { transform: scale(1, 1); }      
+        }
         .download-btn:hover { background-color: #2c974b; }
         .loading { background-color: #94d3a2; cursor: wait; }
         .update-time { margin-top: 15px; font-size: 14px; color: #0366d6; font-weight: 500; }

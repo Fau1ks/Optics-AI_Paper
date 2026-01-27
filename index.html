@@ -46,22 +46,22 @@
         .download-btn:hover { background-color: #2c974b; }
         .loading { background-color: #94d3a2; cursor: wait; }
         
-        /* Scholar 专用下载按钮样式 (紫色系) */
+        /* Scholar 专用下载按钮样式 (已修改配色: #C8595D) */
         .scholar-download-btn {
-            background-color: #8a2be2;
+            background-color: #C8595D; /* R200 G089 B093 */
             color: white;
             padding: 12px 30px;
             font-size: 16px;
             border-radius: 6px;
             text-decoration: none;
             transition: background-color 0.2s;
-            box-shadow: 0 4px 6px rgba(138, 43, 226, 0.2);
+            box-shadow: 0 4px 6px rgba(200, 89, 93, 0.2);
             max-width: 90%;
             word-break: break-all;
             display: inline-block;
             margin-top: 10px;
         }
-        .scholar-download-btn:hover { background-color: #7a1cd1; }
+        .scholar-download-btn:hover { background-color: #a84549; /* 稍微深一点的颜色用于悬浮 */ }
 
         .update-time { margin-top: 15px; font-size: 14px; color: #0366d6; font-weight: 500; }
         .tips { margin-top: 5px; font-size: 12px; color: #586069; }
@@ -98,12 +98,12 @@
             border-left: 5px solid rgb(233, 163, 117); 
         }
 
-        /* Scholar 分组的特殊样式 */
+        /* Scholar 分组的特殊样式 (已修改配色: #C8595D) */
         .journal-group.scholar-group {
-            border-left: 5px solid #8a2be2; /* 紫色边框 */
+            border-left: 5px solid #C8595D; 
         }
         .journal-group.scholar-group:hover {
-            border-left: 5px solid #d939cd; /* 悬浮变亮紫 */
+            border-left: 5px solid #e07074; /* 稍微亮一点的颜色用于悬浮 */
         }
         
         /* 期刊按钮布局 */
@@ -135,8 +135,9 @@
         }
 
         .count-badge { background: #0366d6; color: white; padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; margin-right: 10px; }
-        /* Scholar 的计数徽章颜色 */
-        .scholar-group .count-badge { background: #8a2be2; }
+        
+        /* Scholar 的计数徽章颜色 (已修改配色: #C8595D) */
+        .scholar-group .count-badge { background: #C8595D; }
 
         .arrow { transition: transform 0.3s; font-size: 0.8rem; color: #aaa; }
         .journal-btn.active .arrow { transform: rotate(180deg); }
@@ -346,7 +347,7 @@
     </div>
 
     <div class="reading-container" id="scholarArea" style="display:none; margin-top: 50px; border-top: 2px dashed #ccc; padding-top: 30px;">
-        <div id="scholarTitle" class="reading-title" style="color: #8a2be2;">🎓 Google Scholar Monitor</div>
+        <div id="scholarTitle" class="reading-title" style="color: #C8595D;">🎓 Google Scholar Monitor</div>
         <div style="text-align: center; margin-bottom: 20px;">
             <a id="scholarDownloadBtn" href="#" class="scholar-download-btn">🔍 Searching Scholar Summary...</a>
             <div id="scholarUpdateStatus" class="tips">Secret Mode Activated</div>
@@ -430,7 +431,7 @@
                 // Scholar 翻译
                 scholarTitle: '🎓 Google Scholar 实时监控',
                 scholarBtnPrefix: '📄 下载 Scholar 汇总：',
-                scholarSearchPlaceholder: '🔍 搜索 Google Scholar 标题或链接...' // ★★★ 新增翻译
+                scholarSearchPlaceholder: '🔍 搜索 Google Scholar 标题或链接...' 
             },
             'en': {
                 pageTitle: 'Latest Optics + AI Paper Feed',
@@ -457,7 +458,7 @@
                 // Scholar 翻译
                 scholarTitle: '🎓 Google Scholar Monitor',
                 scholarBtnPrefix: '📄 Download Scholar Summary: ',
-                scholarSearchPlaceholder: '🔍 Search Google Scholar titles or links...' // ★★★ 新增翻译
+                scholarSearchPlaceholder: '🔍 Search Google Scholar titles or links...' 
             }
         };
 
@@ -754,7 +755,7 @@
             renderPapers(filteredData, true);
         }
 
-        // ★★★ 新增：搜索功能 (Scholar 列表) ★★★
+        // 搜索功能 (Scholar 列表)
         function searchScholarPapers() {
             const input = document.getElementById('scholarSearchInput');
             if(!input) return;
@@ -896,7 +897,6 @@
              if(sBtn.dataset.filename) {
                  sBtn.innerText = t.scholarBtnPrefix + sBtn.dataset.filename;
              }
-             // ★★★ 新增：更新 Scholar 搜索框 placeholder
              document.getElementById('scholarSearchInput').placeholder = t.scholarSearchPlaceholder;
         }
 

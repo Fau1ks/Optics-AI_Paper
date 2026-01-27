@@ -30,8 +30,21 @@
        
         .reading-container { width: 100%; max-width: 800px; text-align: left; margin-top: 40px; margin-bottom: 20px; }
         .reading-title { text-align: center; color: #333; font-size: 22px; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
-        .journal-group { margin-bottom: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); overflow: hidden; border-left: 5px solid #0366d6; }
+        .journal-group { margin-bottom: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); overflow: hidden; border-left: 5px solid #0366d6;transition: transform 0.3s ease, box-shadow 0.3s ease; }
+        .journal-group:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15); 
+            border-left: 5px solid #d939cd; 
+        }
+
+        .article-item {
+            transition: background-color 0.2s, padding-left 0.2s; 
+        }
         
+        .article-item:hover {
+            background-color: #f8faff;
+            padding-left: 10px; 
+        }
        
         .journal-btn { 
             width: 100%; 
@@ -97,7 +110,7 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <body>
 
-    <h1>🔭 光学+AI 最新文献推送</h1>
+    <h1>光学+AI 最新文献推送</h1>
 
     <p style="color: #666; font-size: 15px; margin-top: -15px; margin-bottom: 25px; line-height: 1.6;">
         如需往期文献，可关注以下账号<br>

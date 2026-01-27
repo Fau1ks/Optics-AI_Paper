@@ -5,18 +5,50 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>光学+AI最新文献推送</title>
     <style>
-        
+
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #f6f8fa; color: #24292e; display: flex; flex-direction: column; align-items: center; padding: 40px 20px; text-align: center; }
-        h1 { color: #0366d6; margin-bottom: 30px; }
+        
+
+        h1 {
+            font-size: 2.2rem; 
+            margin-bottom: 30px;
+            background: linear-gradient(120deg, #0366d6, #d939cd, #9d00ff, #0366d6);
+            background-size: 300% 100%;
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent; 
+            animation: shine 5s linear infinite;
+        }
+        @keyframes shine {
+            0% { background-position: 100% 0; }
+            100% { background-position: 0 0; }
+        }
+
         .social-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 40px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
         .social-item { display: flex; flex-direction: column; align-items: center; width: 280px; line-height: 1.5; }
         .social-title { font-weight: bold; margin-bottom: 10px; font-size: 16px; }
         .qr-code { width: 150px; height: 150px; object-fit: cover; border-radius: 8px; border: 1px solid #e1e4e8; }
-        .download-btn { background-color: #2ea44f; color: white; padding: 15px 40px; font-size: 18px; border-radius: 6px; text-decoration: none; transition: background-color 0.2s; box-shadow: 0 4px 6px rgba(46, 164, 79, 0.2); max-width: 90%; word-break: break-all; }
+        
+
+        .download-btn { 
+            background-color: #2ea44f; 
+            color: white; 
+            padding: 15px 40px; 
+            font-size: 18px; 
+            border-radius: 6px; 
+            text-decoration: none; 
+            transition: background-color 0.2s;
+            box-shadow: 0 4px 6px rgba(46, 164, 79, 0.2); 
+            max-width: 90%; 
+            word-break: break-all; 
+        }
         .download-btn:hover { background-color: #2c974b; }
         .loading { background-color: #94d3a2; cursor: wait; }
+        
         .update-time { margin-top: 15px; font-size: 14px; color: #0366d6; font-weight: 500; }
         .tips { margin-top: 5px; font-size: 12px; color: #586069; }
+        
+
         .tips-container { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 800px; width: 90%; margin-top: 50px; text-align: left; }
         .tips-container h2 { color: #333; font-size: 22px; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px; text-align: center; }
         .tip-item { margin-bottom: 30px; }
@@ -27,26 +59,12 @@
         .img-row .tip-img { width: calc(50% - 10px); min-width: 280px; }
         @media (max-width: 600px) { h1 { font-size: 22px; } }
 
-       
+
         .reading-container { width: 100%; max-width: 800px; text-align: left; margin-top: 40px; margin-bottom: 20px; }
         .reading-title { text-align: center; color: #333; font-size: 22px; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
-        .journal-group { margin-bottom: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); overflow: hidden; border-left: 5px solid #0366d6;transition: transform 0.3s ease, box-shadow 0.3s ease; }
-        .journal-group:hover {
-            transform: translateY(-5px); /* 整体上浮 */
-            box-shadow: 0 10px 25px rgba(0,0,0,0.15); /* 投影变深 */
-            border-left: 5px solid #d939cd; /* 鼠标悬停时，左边的蓝条变紫色 */
-        }
+        .journal-group { margin-bottom: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); overflow: hidden; border-left: 5px solid #0366d6; }
         
-        /* 每一篇小文章的微动效 */
-        .article-item {
-            transition: background-color 0.2s, padding-left 0.2s; /* 增加 padding 的过渡 */
-        }
-        
-        .article-item:hover {
-            background-color: #f8faff;
-            padding-left: 10px; /* 鼠标悬停时，文章稍微向右缩进一点点 */
-        }
-       
+
         .journal-btn { 
             width: 100%; 
             text-align: left; 
@@ -56,7 +74,7 @@
             cursor: pointer; 
             display: flex; 
             justify-content: space-between; 
-            align-items: center;
+            align-items: center; 
             font-size: 1.1rem; 
             font-weight: bold; 
             color: #24292e; 
@@ -69,9 +87,9 @@
         .journal-meta {
             display: flex;
             align-items: center;
-            flex-shrink: 0;      
+            flex-shrink: 0;     
             white-space: nowrap; 
-            margin-left: 10px;   
+            margin-left: 10px;
         }
 
         .count-badge { background: #0366d6; color: white; padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; margin-right: 10px; }
@@ -86,7 +104,6 @@
         .title-box-en { color: #555; margin-bottom: 10px; font-size: 0.95rem; font-family: sans-serif; font-weight: bold; line-height: 1.4; }
         .link-box { display: block; background: #e6f6ff; color: #0366d6; padding: 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; word-break: break-all; border: 1px solid #bfe3ff; text-align: center; font-weight: 500; }
         .link-box:hover { background: #cceeff; }
-        
         
         .search-container { width: 100%; max-width: 800px; margin: 20px auto 10px; }
         #searchInput { 
@@ -111,7 +128,7 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <body>
 
-    <h1>🔭 光学+AI 最新文献推送</h1>
+    <h1>光学+AI 最新文献推送</h1>
 
     <p style="color: #666; font-size: 15px; margin-top: -15px; margin-bottom: 25px; line-height: 1.6;">
         如需往期文献，可关注以下账号<br>
@@ -151,7 +168,7 @@
         <span id="busuanzi_container_site_uv" style="display:none">
             👤 访客数 <span id="busuanzi_value_site_uv" style="font-weight:bold; color:#0366d6;"></span> 人
         </span>
-    </div>    
+    </div>      
     
     <div class="tips-container">
         <h2>💡 使用注意事项</h2>
@@ -238,13 +255,11 @@
                 document.getElementById('readingArea').style.display = 'block';
                 document.getElementById('searchArea').style.display = 'block'; 
                 
-                // 初始加载：默认折叠
                 renderPapers(allPapersData, false);
             })
             .catch(err => {
                 console.log("今日暂无数据或读取失败", err);
             });
-
 
         function renderPapers(papersToRender, expandAll = false) {
             const container = document.getElementById('accordionContent');
@@ -307,14 +322,14 @@
             }
             container.innerHTML = html;
         }
-
-
+        
         function searchPapers() {
             const input = document.getElementById('searchInput');
             if(!input) return;
             const query = input.value.toLowerCase().trim();
 
             if (!query) {
+
                 renderPapers(allPapersData, false);
                 return;
             }
@@ -332,6 +347,7 @@
                        abstractEn.includes(query) || 
                        abstractCn.includes(query);
             });
+
 
             renderPapers(filteredData, true);
         }

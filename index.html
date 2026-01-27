@@ -184,9 +184,9 @@
         .link-box { display: block; background: #e6f6ff; color: #0366d6; padding: 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; word-break: break-all; border: 1px solid #bfe3ff; text-align: center; font-weight: 500; }
         .link-box:hover { background: #cceeff; }
         
-        /* 搜索框样式 */
+        /* 搜索框样式 (复用给 Scholar) */
         .search-container { width: 100%; max-width: 800px; margin: 20px auto 10px; }
-        #searchInput { 
+        #searchInput, #scholarSearchInput { 
             width: 100%; 
             padding: 12px 20px; 
             border: 1px solid #e1e4e8; 
@@ -198,7 +198,7 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.05);
             box-sizing: border-box; 
         }
-        #searchInput:focus { 
+        #searchInput:focus, #scholarSearchInput:focus { 
             border-color: #0366d6; 
             box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.3); 
         }
@@ -351,6 +351,11 @@
             <a id="scholarDownloadBtn" href="#" class="scholar-download-btn">🔍 Searching Scholar Summary...</a>
             <div id="scholarUpdateStatus" class="tips">Secret Mode Activated</div>
         </div>
+        
+        <div class="search-container" style="margin: 10px auto 20px; max-width: 600px;">
+            <input type="text" id="scholarSearchInput" placeholder="🔍 搜索 Google Scholar 标题或链接..." oninput="searchScholarPapers()">
+        </div>
+
         <div id="scholarContent"></div>
     </div>
 
@@ -424,7 +429,8 @@
                 authorLabel: '👤 Authors:',
                 // Scholar 翻译
                 scholarTitle: '🎓 Google Scholar 实时监控',
-                scholarBtnPrefix: '📄 下载 Scholar 汇总：'
+                scholarBtnPrefix: '📄 下载 Scholar 汇总：',
+                scholarSearchPlaceholder: '🔍 搜索 Google Scholar 标题或链接...' // ★★★ 新增翻译
             },
             'en': {
                 pageTitle: 'Latest Optics + AI Paper Feed',
@@ -450,7 +456,8 @@
                 authorLabel: '👤 Authors:',
                 // Scholar 翻译
                 scholarTitle: '🎓 Google Scholar Monitor',
-                scholarBtnPrefix: '📄 Download Scholar Summary: '
+                scholarBtnPrefix: '📄 Download Scholar Summary: ',
+                scholarSearchPlaceholder: '🔍 Search Google Scholar titles or links...' // ★★★ 新增翻译
             }
         };
 
@@ -719,7 +726,7 @@
             checkButtonsVisibility();
         }
 
-        // 4. 搜索功能
+        // 4. 搜索功能 (主列表)
         function searchPapers() {
             const input = document.getElementById('searchInput');
             if(!input) return;
@@ -745,6 +752,32 @@
             });
 
             renderPapers(filteredData, true);
+        }
+
+        // ★★★ 新增：搜索功能 (Scholar 列表) ★★★
+        function searchScholarPapers() {
+            const input = document.getElementById('scholarSearchInput');
+            if(!input) return;
+            const query = input.value.toLowerCase().trim();
+            const sourceData = window.scholarDataCache || []; // 确保有数据
+
+            if (!query) {
+                renderScholarList(sourceData); // 如果为空，显示全部
+                return;
+            }
+
+            const filteredData = sourceData.filter(paper => {
+                const titleEn = (paper.title || '').toLowerCase();
+                const titleCn = (paper.title_cn || '').toLowerCase();
+                const linkStr = (paper.link || '').toLowerCase();
+
+                // 搜索标题（中英）和链接字符串
+                return titleEn.includes(query) || 
+                       titleCn.includes(query) || 
+                       linkStr.includes(query);
+            });
+
+            renderScholarList(filteredData);
         }
 
         // 5. 交互动画与逻辑
@@ -835,7 +868,6 @@
                 clickCount = 0;
             }, 2000);
 
-            // ★★★ 修改：点击次数增加到 12
             if (clickCount >= 12) {
                 activateScholarMode();
             }
@@ -846,8 +878,6 @@
             clickCount = 0;
             const scholarArea = document.getElementById('scholarArea');
             scholarArea.style.display = 'block';
-            
-            // ★★★ 修改：不再弹窗 (alert 已移除)
             
             // 1. 获取 Scholar JSON 数据
             fetchScholarData();
@@ -866,6 +896,8 @@
              if(sBtn.dataset.filename) {
                  sBtn.innerText = t.scholarBtnPrefix + sBtn.dataset.filename;
              }
+             // ★★★ 新增：更新 Scholar 搜索框 placeholder
+             document.getElementById('scholarSearchInput').placeholder = t.scholarSearchPlaceholder;
         }
 
         function fetchScholarData() {
@@ -928,7 +960,6 @@
                                 ${subTitle}
                             </div>
                             <div style="margin-top:10px;"></div>
-                            
                             <a href="${link}" target="_blank" class="link-box">🔗 ${link}</a>
                         </div>
                     </div>

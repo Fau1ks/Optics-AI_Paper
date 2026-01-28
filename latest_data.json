@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-28 06:29:09",
+    "update_time": "2026-01-28 08:28:15",
     "word_filename": "Optical_Papers_260128.docx",
-    "total_count": 32,
+    "total_count": 55,
     "data": [
         {
             "id": "https://doi.org/10.1364/oe.587678",
@@ -354,6 +354,259 @@
             "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
             "title_cn": "面向目标的多目标导航动态权重优化",
             "abstract_cn": "多目标导航（MON）任务涉及在未知环境中顺序定位多个目标，需要在不完整信息下进行全局长期规划。这需要代理动态平衡即时行动和长期奖励，同时考虑局部适应性和全局远见。然而，当前的方法过度关注局部路径优化，这导致稀疏奖励设置中收敛速度变慢，并增加了死锁或陷阱状态的风险。 MON 的核心挑战在于共享决策空间的变形，其中独立优化导致冗余和重叠的路径。因此，路径规划需要动态的跨任务优化，而不是简单的子任务聚合。为了最小化总体工作量，优化过程应通过权重调整自适应地平衡任务贡献。因此，我们提出了面向目标的动态权重优化（GDWO）算法。 GDWO将特定于目标的价值损失函数集成到统一的优化框架中，并通过基于梯度的更新动态调整权重。为了防止过度优化，在训练期间根据导航成功率对权重进行标准化，优先考虑更具挑战性的目标。这种自适应机制有效地解决了稀疏奖励的挑战并提高了收敛效率。通过利用这一机制，GDWO将多个目标统一在统一的决策空间内，实现高效优化并平衡短期收益与长期目标。此外，我们引入了两个辅助模块：基于先验知识的导航和前沿感知探索，以进一步增强 GDWO 的性能。 Gibson 和 Matterport3D 数据集上的实验结果表明，GDWO 在 MON 任务的关键指标上取得了改进。它优化路径规划，降低探索成本，提高导航效率，使智能体能够在复杂环境中更有效地执行任务。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114781",
+            "title": "A high performance deep learning based single-pixel image reconstruction framework integrating the U-Net structure with improved Mamba modules",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114781",
+            "published": "2026-05-01",
+            "author": "Shaowei Feng, Lieshan Zhang, Yang Yang, Qinhao Xu, Yuanchao Hu",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "基于高性能深度学习的单像素图​​像重建框架，将 U-Net 结构与改进的 Mamba 模块相结合",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114810",
+            "title": "Multi-parameter optical fiber sensor based on the combination of double SPR and MZl for magnetic field, temperature, and salinity",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114810",
+            "published": "2026-05-01",
+            "author": "Yu Wang, Yong Zhao, Riqing Lv, Lufeng Wang, Pengqi Gong, Zhenye Guo, Hongkun Zheng",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "基于双SPR和MZl组合的磁场、温度、盐度多参数光纤传感器",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114795",
+            "title": "Real-UDPM: real-time underwater image enhancement based on fast conditional denoising diffusion probabilistic model",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114795",
+            "published": "2026-05-01",
+            "author": "Baizhong Chen, Chonglei Wang, Chunyu Guo, Yumin Su",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "Real-UDPM：基于快速条件去噪扩散概率模型的实时水下图像增强",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114776",
+            "title": "Photonic biointerfaces: A new paradigm for seamless integration with living systems based on flexible optical fibers",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114776",
+            "published": "2026-05-01",
+            "author": "Kun Xiao, Shihao Zhou, Heng Wang, Xiaoli Li, Rui Min, Zhuo Wang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "光子生物界面：基于柔性光纤与生命系统无缝集成的新范例",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109641",
+            "title": "CerDef-Detector: automated detection of surface defects in buzzer ceramic discs based on deep learning and machine vision",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109641",
+            "published": "2026-06-01",
+            "author": "Fan Zhang, Xiangfeng Zhang, Hong Jiang, Zhiyi Fan, Kaige Sun, Hongxia Shi, Yefeng Li",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "CerDef-Detector：基于深度学习和机器视觉自动检测蜂鸣器陶瓷盘表面缺陷",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2025.132779",
+            "title": "Corrigendum to “Coherent fading suppression method in the COTDR system based on multi-band filtering” [Opt. Commun. 583 (2025) 131696]",
+            "link": "https://doi.org/10.1016/j.optcom.2025.132779",
+            "published": "2026-06-01",
+            "author": "Xiang Sui, Ying Shang, Sheng Huang, Wenan Zhao, Xiaohan Qiao, Guangqiang Liu, Chunmei Yao, Shouling Liu, Na Wan, Xianggui Kong, Hong Zhao, Fengming Mou, Zhengying Li, Weitao Wang, Chen Wang, Gangding Peng",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "“基于多频带滤波的COTDR系统相干衰落抑制方法”的勘误[选项2]交流。 [583(2025)131696]",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582380",
+            "title": "Telescope-based scanning LiDAR system for eye-safe long-range UAV localization and tracking",
+            "link": "https://doi.org/10.1364/oe.582380",
+            "published": "2026-01-26",
+            "author": "Christopher Naverschnigg, Andreas Sinn, Daniil Zelinskyi, Denis Ojdanić, Georg Schitter",
+            "summary": "<jats:p>This paper presents the design and experimental evaluation of a telescope-based scanning light detection and ranging (LiDAR) system for eye-safe long-range localization and tracking of small uncrewed aerial vehicles (UAVs). A prototype with an eye-safe custom-built laser transmitter module, a one-dimensional APD detector array, a telescope, and a telescope mount is implemented to verify the system design. Experiments from a laboratory environment demonstrate robust static and dynamic localization of a DJI Phantom 3 UAV at a range of 300 m. Field tests confirm the system’s capabilities, successfully demonstrating distance measurements to a DJI Matrice 30 at ranges up to 50 m, and the feasibility of hybrid target tracking at velocities up to 15 m/s at distances of 300 m, where horizontal tracking is achieved using LiDAR data and applying a spatio-temporal filter with a DBSCAN-based algorithm. In contrast, vertical tracking is performed based on image-based processing.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "基于望远镜的扫描激光雷达系统，用于人眼安全的远程无人机定位和跟踪",
+            "abstract_cn": "<jats:p>本文介绍了基于望远镜的扫描光探测和测距 (LiDAR) 系统的设计和实验评估，该系统用于小型无人飞行器 (UAV) 的人眼安全远程定位和跟踪。采用具有人眼安全定制激光发射器模块、一维 APD 探测器阵列、望远镜和望远镜支架的原型来验证系统设计。实验室环境中的实验证明了 DJI Phantom 3 无人机在 300 米范围内具有强大的静态和动态定位功能。现场测试证实了该系统的功能，成功展示了 DJI Matrice 30 在 50 m 范围内的距离测量，以及在 300 m 距离上以高达 15 m/s 的速度进行混合目标跟踪的可行性，其中水平跟踪是使用 LiDAR 数据并应用基于 DBSCAN 算法的时空滤波器来实现的。相比之下，垂直跟踪是基于基于图像的处理来执行的。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.587572",
+            "title": "Growth, spectral, and efficient multiple wavelength laser operation of Nd:LuScO\n                    <sub>3</sub>\n                    crystal",
+            "link": "https://doi.org/10.1364/oe.587572",
+            "published": "2026-01-09",
+            "author": "Fangyan Wang, Huichen Si, Dazhi Lu, Fei Liang",
+            "summary": "<jats:p>\n                    A high-quality Nd:LuScO\n                    <jats:sub>3</jats:sub>\n                    crystal was grown using the optical floating zone (OFZ) method. The fundamental spectroscopic properties, including the absorption and emission cross sections, fluorescence lifetimes, and Judd-Ofelt intensity parameters, were systematically analyzed. Under the laser diode pumping, five distinct laser emissions were achieved. For the\n                    <jats:sup>4</jats:sup>\n                    F\n                    <jats:sub>3/2</jats:sub>\n                    →\n                    <jats:sup>4</jats:sup>\n                    I\n                    <jats:sub>11/2</jats:sub>\n                    transition channel, a maximum output power of 1.37 W with a slope efficiency of 24.9% was obtained, alongside simultaneous emissions at 1079 nm and 1086 nm. Additionally, output powers of 1.28 W and 0.40 W were achieved at 1116 nm and 1144 nm, respectively. Notably, emission at 1144 nm represents, to the best of our knowledge, the longest wavelength reported for the\n                    <jats:sup>4</jats:sup>\n                    F\n                    <jats:sub>3/2</jats:sub>\n                    →\n                    <jats:sup>4</jats:sup>\n                    I\n                    <jats:sub>11/2</jats:sub>\n                    transition in Nd\n                    <jats:sup>3+</jats:sup>\n                    -doped materials. For the\n                    <jats:sup>4</jats:sup>\n                    F\n                    <jats:sub>3/2</jats:sub>\n                    →\n                    <jats:sup>4</jats:sup>\n                    I\n                    <jats:sub>13/2</jats:sub>\n                    channel, continuous-wave output at 1465.6 nm reached 395 mW with 10.1% slope efficiency. These results demonstrate the significant potential of Nd:LuScO\n                    <jats:sub>3</jats:sub>\n                    for multi-wavelength laser applications.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "Nd:LuScO <sub>3</sub> 晶体的生长、光谱和高效多波长激光操作",
+            "abstract_cn": "<贾茨：p>\n                    高品质 Nd:LuScO\n                    <贾茨：子>3</贾茨：子>\n                    使用光学浮区（OFZ）方法生长晶体。系统地分析了基本光谱特性，包括吸收和发射截面、荧光寿命和贾德-奥菲尔特强度参数。在激光二极管泵浦下，实现了五种不同的激光发射。对于\n                    <贾茨：sup>4</贾茨：sup>\n                    F\n                    <贾茨：子>3/2</贾茨：子>\n                    →\n                    <贾茨：sup>4</贾茨：sup>\n                    我\n                    <贾茨：子>11/2</贾茨：子>\n                    过渡通道的最大输出功率为 1.37 W，斜率效率为 24.9%，同时在 1079 nm 和 1086 nm 处发射。此外，在 1116nm 和 1144nm 处分别实现了 1.28W 和 0.40W 的输出功率。值得注意的是，据我们所知，1144nm 处的发射代表了报道的最长波长。\n                    <贾茨：sup>4</贾茨：sup>\n                    F\n                    <贾茨：子>3/2</贾茨：子>\n                    →\n                    <贾茨：sup>4</贾茨：sup>\n                    我\n                    <贾茨：子>11/2</贾茨：子>\n                    Nd 跃迁\n                    <贾茨：sup>3+</贾茨：sup>\n                    -掺杂材料。对于\n                    <贾茨：sup>4</贾茨：sup>\n                    F\n                    <贾茨：子>3/2</贾茨：子>\n                    →\n                    <贾茨：sup>4</贾茨：sup>\n                    我\n                    <贾茨：子>13/2</贾茨：子>\n                    通道中，1465.6 nm 处的连续波输出达到 395 mW，斜率效率为 10.1%。这些结果证明了 Nd:LuScO 的巨大潜力\n                    <贾茨：子>3</贾茨：子>\n                    适用于多波长激光应用。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.585479",
+            "title": "Rational design of Yb-doped fluorophosphate fiber for narrow-linewidth single-frequency fiber laser at 1013 nm",
+            "link": "https://doi.org/10.1364/oe.585479",
+            "published": "2026-01-12",
+            "author": "Taiyu Duan, Yuhang Deng, Xin Zhang, Yao Ji, Qinyuan Zhang",
+            "summary": "<jats:p>\n                    The development of Yb\n                    <jats:sup>3+</jats:sup>\n                    -doped fiber lasers operating at short wavelength (&lt;1030 nm) is crucial for applications in quantum science and precision metrology, but is hindered by the low gain and severe reabsorption of conventional host materials in this spectral region. Exploring high-gain fibers tailored for this band offers a material-based solution. Here, we propose a rational design strategy for developing a multi-component fluorophosphate (FP) glass fiber, aiming at addressing the challenges of devitrification and spectral property modulation. The methodology begins with selecting a highly stable host matrix from the glass-forming region, followed by engineering the rare-earth local environment using modifier cations, guided by molecular dynamics simulations and Raman spectroscopy. The custom-designed Yb\n                    <jats:sup>3+</jats:sup>\n                    -doped FP glass exhibits a blueshifted emission peak at 1013 nm, a broad effective linewidth of 86.1 nm, a prolonged fluorescence lifetime of 2.38 ms, and a large Stark splitting of 812 cm\n                    <jats:sup>-1</jats:sup>\n                    , which results in high gain (6.56 dB/cm at 1064 nm and 9.09 dB/cm at 1013 nm). To validate its performance, a single-frequency fiber laser (SFFL) was constructed using only a 9 mm segment of this active fiber, achieving single-longitudinal-mode operation at 1013.4 nm with a narrow linewidth of 4.5 kHz, a low pump threshold of 8.3 mW, and exceptional stability (RMS instability&lt;0.8% over 1.5 hours). This work presents a high-gain medium for narrow-linewidth, short-wavelength SFFLs and demonstrates a generalizable design-to-device pipeline for other high-gain fibers targeting specific operational wavelengths.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "1013 nm窄线宽单频光纤激光器掺镱氟磷酸盐光纤的合理设计",
+            "abstract_cn": "<贾茨：p>\n                    镱的发展\n                    <贾茨：sup>3+</贾茨：sup>\n                    在短波长（<1030 nm）下工作的掺杂光纤激光器对于量子科学和精密计量学的应用至关重要，但受到该光谱区域传统主体材料的低增益和严重重吸收的阻碍。探索专为该频段定制的高增益光纤提供了一种基于材料的解决方案。在这里，我们提出了开发多组分氟磷酸盐（FP）玻璃纤维的合理设计策略，旨在解决失透和光谱特性调制的挑战。该方法首先从玻璃形成区域选择高度稳定的主体基质，然后在分子动力学模拟和拉曼光谱的指导下，使用改性剂阳离子设计稀土局部环境。定制设计的 Yb\n                    <贾茨：sup>3+</贾茨：sup>\n                    掺杂 FP 玻璃在 1013 nm 处呈现蓝移发射峰、86.1 nm 的宽有效线宽、2.38 ms 的长荧光寿命以及 812 cm 的大斯塔克分裂\n                    <贾茨：sup>-1</贾茨：sup>\n                    ，从而产生高增益（1064 nm 处为 6.56 dB/cm，1013 nm 处为 9.09 dB/cm）。为了验证其性能，仅使用该有源光纤的 9 mm 段构建了单频光纤激光器 (SFFL)，实现了 1013.4 nm 的单纵模操作，具有 4.5 kHz 的窄线宽、8.3 mW 的低泵浦阈值和出色的稳定性（1.5 小时内 RMS 不稳定性 <0.8%）。这项工作提出了一种用于窄线宽、短波长 SFFL 的高增益介质，并展示了针对特定工作波长的其他高增益光纤的通用设计到器件管道。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.586230",
+            "title": "Indirect detection of hydrogen based on light-induced thermoelastic spectroscopy",
+            "link": "https://doi.org/10.1364/oe.586230",
+            "published": "2026-01-14",
+            "author": "Chuanning Li, Ying He, Shunda Qiao, Yufei Ma",
+            "summary": "<jats:p>\n                    Hydrogen (H\n                    <jats:sub>2</jats:sub>\n                    ), as a low-density and high-efficiency clean energy source, is widely used in the H\n                    <jats:sub>2</jats:sub>\n                    energy sector. However, its colorless, odorless nature and wide explosive concentration range (4–75%) demand rapid and accurate detection techniques. Conventional H\n                    <jats:sub>2</jats:sub>\n                    detection methods based on quartz tuning forks (QTFs) suffer from time-consuming full-frequency scanning, complex data processing, and frequency errors caused by parasitic capacitance. In this study, an indirect H\n                    <jats:sub>2</jats:sub>\n                    detection method based on light-induced thermoelastic spectroscopy (LITES) is proposed for the first time. A universal pump gas is innovatively employed, allowing H\n                    <jats:sub>2</jats:sub>\n                    concentration information to be obtained solely through the excitation of a LITES signal. Two demodulation schemes are developed: a frequency-tracking demodulation that establishes a linear relationship between QTF resonant frequency and H\n                    <jats:sub>2</jats:sub>\n                    concentration, and a fixed-frequency demodulation that divides the demodulation frequency into three characteristic blocks, enabling H\n                    <jats:sub>2</jats:sub>\n                    concentration retrieval without full-frequency scanning. Experimental results demonstrate that the LITES system exhibits excellent linearity with respect to the pump gas concentration. The QTF resonant frequency shows a linear response to H\n                    <jats:sub>2</jats:sub>\n                    concentration with a sensitivity of 6.8845 mHz/% and a minimum detection limit of 0.36%. The proposed method effectively eliminates frequency errors caused by parasitic capacitance and features high sensitivity, fast response, and simplified data processing, offering a reliable approach for H\n                    <jats:sub>2</jats:sub>\n                    safety monitoring.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "基于光致热弹性光谱的氢间接检测",
+            "abstract_cn": "<贾茨：p>\n                    氢气（H\n                    <贾茨：子>2</贾茨：子>\n                    ）作为一种低密度、高效的清洁能源，广泛应用于H\n                    <贾茨：子>2</贾茨：子>\n                    能源部门。然而，其无色、无味的性质和广泛的爆炸浓度范围（4-75%）需要快速、准确的检测技术。常规H\n                    <贾茨：子>2</贾茨：子>\n                    基于石英音叉（QTF）的检测方法存在全频扫描耗时、数据处理复杂以及寄生电容引起的频率误差等问题。在本研究中，间接 H\n                    <贾茨：子>2</贾茨：子>\n                    首次提出了基于光诱导热弹性光谱（LITES）的检测方法。创新性地采用了通用泵气体，使 H\n                    <贾茨：子>2</贾茨：子>\n                    仅通过 LITES 信号的激发即可获得浓度信息。开发了两种解调方案：频率跟踪解调，在 QTF 谐振频率和 H 之间建立线性关系。\n                    <贾茨：子>2</贾茨：子>\n                    集中，以及将解调频率分为三个特征块的固定频率解调，使 H\n                    <贾茨：子>2</贾茨：子>\n                    无需全频扫描即可进行浓度检索。实验结果表明，LITES 系统对于泵气浓度表现出出色的线性度。 QTF 谐振频率显示出对 H 的线性响应\n                    <贾茨：子>2</贾茨：子>\n                    浓度的灵敏度为 6.8845 mHz/%，最低检测限为 0.36%。该方法有效消除了寄生电容引起的频率误差，具有灵敏度高、响应速度快、简化数据处理等特点，为H\n                    <贾茨：子>2</贾茨：子>\n                    安全监控。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.580837",
+            "title": "Multi-pass optical delay configuration using a retroreflector pair for Fourier transform interferometers",
+            "link": "https://doi.org/10.1364/oe.580837",
+            "published": "2026-01-07",
+            "author": "Muqian Wen",
+            "summary": "<jats:p>Corner cube retroreflectors can be used in Fourier transform interferometers to create multi-pass optical delay configurations to increase the resolution of the interferometer. This paper will present a multi-pass optical delay design using two identical retroreflectors and it will prove that this design will be the theoretically most efficient design to achieve as many passes as possible using two identical retroreflectors. A formula will be derived to calculate the relation between beam diameter, retroreflector position and the number of passes. An experiment was conducted to demonstrate this design which achieves 24 passes and the resulting interferometer has a scanning range of about 7.2 m.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "使用傅立叶变换干涉仪的后向反射器对的多通道光学延迟配置",
+            "abstract_cn": "<jats:p>角立方体后向反射器可用于傅里叶变换干涉仪，以创建多通道光学延迟配置，以提高干涉仪的分辨率。本文将提出使用两个相同的后向反射器的多通道光学延迟设计，并将证明该设计将是理论上最有效的设计，可以使用两个相同的后向反射器实现尽可能多的通道。将推导出一个公式来计算光束直径、后向反射器位置和通过次数之间的关系。通过实验验证了这种设计，可实现 24 次通过，所得干涉仪的扫描范围约为 7.2 m。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.576117",
+            "title": "Joint millimeter-wave communication and optical multipath interference localization for RoF mobile fronthaul",
+            "link": "https://doi.org/10.1364/oe.576117",
+            "published": "2026-01-12",
+            "author": "Chuanming Huang, Rui Xue, Mengfan Cheng, Qi Yang, Deming Liu, Lei Deng",
+            "summary": "<jats:p>Millimeter-wave (mm-wave) radio-over-fiber (RoF) technology is a promising solution for next-generation mobile networks. However, its practical implementation faces two critical challenges: the high cost and bandwidth requirements of optoelectronic components for mm-wave signal generation, and vulnerability to optical multipath interference (MPI) caused by reflections at dirty fiber connectors in large-scale mobile fronthaul networks. To address these challenges, we propose and demonstrate a joint mm-wave communication and MPI localization scheme for high-capacity mm-wave RoF links based on a novel linear frequency modulation single sideband (LFM-SSB) waveform, which is generated by combining a virtual-carrier-aided SSB signal with a digital LFM carrier. In the LFM-SSB waveform, the virtual-carrier-aided SSB signal enables photonic-aided mm-wave up-conversion, while the LFM carrier achieves MPI localization. The LFM carrier in the LFM-SSB waveform is eliminated after self-heterodyne detection in the absence of MPI, resulting in a negligible impact on transmission performance. Simulation results demonstrate that the proposed scheme achieves sub-decimeter (5 cm) MPI localization accuracy while maintaining robustness against large linewidth lasers. With lasers having linewidths below 2 MHz, both high-precision MPI localization and robust communication performance are achieved. It indicates that the proposed scheme offers the advantage of low-cost, large-linewidth lasers without compromising on high accuracy and large capacity. Experimental validation demonstrates the transmission of a 2 Gbaud 16QAM mm-wave signal at 30 GHz, with successful localization of a single MPI reflection path at 107.46 m. Additionally, an MPI localization resolution of 9.78 cm is achieved at a chirp rate of 200 THz/s. The experimental system supports a maximum of 6 Gbaud 16QAM mm-wave signals and successfully locates two MPI reflection paths.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "RoF移动前传的联合毫米波通信和光多径干扰定位",
+            "abstract_cn": "<jats:p>毫米波 (mm-wave) 光纤无线电 (RoF) 技术是下一代移动网络的一种有前途的解决方案。然而，其实际实施面临两个关键挑战：产生毫米波信号的光电元件的高成本和带宽要求，以及大规模移动前传网络中脏光纤连接器反射引起的光多径干扰（MPI）的脆弱性。为了应对这些挑战，我们提出并演示了一种用于高容量毫米波 RoF 链路的毫米波通信和 MPI 联合定位方案，该方案基于新型线性调频单边带 (LFM-SSB) 波形，该波形是通过将虚拟载波辅助的 SSB 信号与数字 LFM 载波相结合而生成的。在LFM-SSB波形中，虚拟载波辅助的SSB信号实现光子辅助毫米波上变频，而LFM载波实现MPI定位。在没有MPI的情况下，LFM-SSB波形中的LFM载波经过自外差检测后被消除，对传输性能的影响可以忽略不计。仿真结果表明，所提出的方案实现了亚分米 (5 cm) MPI 定位精度，同时保持了对大线宽激光的鲁棒性。使用线宽低于 2 MHz 的激光器，可以实现高精度 MPI 定位和强大的通信性能。这表明所提出的方案提供了低成本、大线宽激光器的优势，同时又不影响高精度和大容量。实验验证表明可以在 30 GHz 传输 2 Gbaud 16QAM 毫米波信号，并成功定位 107.46 m 处的单个 MPI 反射路径。此外，在 200 THz/s 的啁啾速率下实现了 9.78 cm 的 MPI 定位分辨率。实验系统最大支持6 Gbaud 16QAM毫米波信号，并成功定位两条MPI反射路径。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584007",
+            "title": "Time-multiplexed method for expanding the view window of head-mounted light field displays",
+            "link": "https://doi.org/10.1364/oe.584007",
+            "published": "2026-01-13",
+            "author": "Cheng-Ting Huang, Hong Hua",
+            "summary": "<jats:p>Integral imaging-based head-mounted light field display (InI-LF-HMD) systems offer the ability to render a 3D scene with accommodation cues to alleviate vergence-accommodation conflicts. Conventional methods for designing InI-LF-HMD systems, however, are subject to several key challenges, one of which is the limited size and location of the view window where the eye of an observer can be placed to view crosstalk-free light field rendering. In this work, we characterized the analytical relationships between the size and location of the view window and the optical parameters of the system design. Based on the analytical tradeoffs, we proposed a time-multiplexed method for view window expansion by utilizing a digitally programmable shutter array. A time-multiplexed InI-based display prototype was built, through which we experimentally demonstrated that a four-phase time multiplexing enabled the expansion of the view window four times compared to a conventional rendering without compromising optical resolution and view density.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "扩展头戴式光场显示器视窗的时分复用方法",
+            "abstract_cn": "<jats:p>基于集成成像的头戴式光场显示 (InI-LF-HMD) 系统能够渲染具有调节提示的 3D 场景，以缓解聚散调节冲突。然而，设计 InI-LF-HMD 系统的传统方法面临几个关键挑战，其中之一是观察者的眼睛可以放置以查看无串扰光场渲染的观察窗的尺寸和位置有限。在这项工作中，我们描述了观察窗的尺寸和位置与系统设计的光学参数之间的分析关系。基于分析权衡，我们提出了一种利用数字可编程快门阵列来扩展视图窗口的时分复用方法。构建了基于 InI 的时分复用显示原型，通过该原型，我们通过实验证明，与传统渲染相比，四相时分复用能够将视图窗口扩展四倍，而不会影响光学分辨率和视图密度。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.585727",
+            "title": "Geometry-aware multimodal fusion for large-scale 3D scene understanding",
+            "link": "https://doi.org/10.1364/oe.585727",
+            "published": "2026-01-23",
+            "author": "Yuhao Wang, Yong Zuo, Yi Tang, Xiaobin Hong, Jian Wu, Ziyu Bian",
+            "summary": "<jats:p>Multimodal 3D semantic segmentation plays a crucial role in engineering applications such as autonomous driving, robotics, and 3D image acquisition and display systems. However, the complex geometry of real scenes, varying object scales, and the inherent sparsity and non-uniform sampling of LiDAR-based acquisition still present significant challenges. To address these issues, we propose an adaptive geometry fusion method for robust and efficient multimodal 3D understanding. The method adopts a dual-path 3D feature extractor: one path captures spatial structural relationships through position-based encoding, while the other integrates a geometry-aware adaptive aggregation module that models local structures using learnable kernel positions and hybrid distance–appearance weighting. Complementary image features from passive optical imaging are fused with LiDAR features to enhance semantic discrimination in regions with sparse or ambiguous 3D measurements. The overall framework remains lightweight, containing only 5.2M parameters, and achieves real-time inference at 25 ms per sample, enabling deployment in resource-constrained sensing and visualization platforms. Experiments on Semantic3D, SemanticKITTI (71.2% mIoU, surpassing the lightweight baseline RandLA-Net by 15.3%), and nuScenes demonstrate competitive performance and strong generalization. Furthermore, evaluations on real-world colored point clouds acquired from a LiDAR–camera system validate the effectiveness of the proposed method in outdoor environments, providing semantically structured 3D representations suitable for downstream 3D display and visualization applications.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "用于大规模 3D 场景理解的几何感知多模态融合",
+            "abstract_cn": "<jats:p>多模态 3D 语义分割在自动驾驶、机器人、3D 图像采集和显示系统等工程应用中发挥着至关重要的作用。然而，真实场景的复杂几何形状、不同的物体尺度以及基于激光雷达的采集固有的稀疏性和不均匀采样仍然提出了重大挑战。为了解决这些问题，我们提出了一种自适应几何融合方法，以实现稳健且高效的多模态 3D 理解。该方法采用双路径 3D 特征提取器：一条路径通过基于位置的编码捕获空间结构关系，而另一条路径集成几何感知自适应聚合模块，该模块使用可学习的内核位置和混合距离-外观加权对局部结构进行建模。来自被动光学成像的补充图像特征与 LiDAR 特征融合，以增强 3D 测量稀疏或模糊区域的语义辨别能力。整体框架保持轻量级，仅包含 520 万个参数，并实现每个样本 25 毫秒的实时推理，从而能够部署在资源受限的传感和可视化平台中。在 Semantic3D、SemanticKITTI（71.2% mIoU，超过轻量级基线 RandLA-Net 15.3%）和 nuScenes 上的实验展示了具有竞争力的性能和强大的泛化能力。此外，对从 LiDAR 相机系统获取的真实世界彩色点云的评估验证了所提出的方法在室外环境中的有效性，提供适合下游 3D 显示和可视化应用的语义结构化 3D 表示。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.583765",
+            "title": "Fading-suppressed Φ-OTDR with high spatial-resolution based on a chirped electro-optic frequency comb",
+            "link": "https://doi.org/10.1364/oe.583765",
+            "published": "2026-01-12",
+            "author": "Desheng Li, Zhiyong Zhao, Xun Guan, Xiang Li, Tianye Huang, Faisal Nadeem Khan",
+            "summary": "<jats:p>We propose a fading-suppressed phase-sensitive optical time-domain reflectometer (φ-OTDR) sensing system based on a chirped electro-optic frequency comb (CEOFC), which achieves high spatial resolution and simultaneously enhances the potential for long-distance sensing. A dual-parallel Mach–Zehnder modulator and a phase modulator are employed to generate multiple parallel chirped probe channels from a single carrier electrical waveform, enabling simultaneous wideband interrogation. After matched filtering, each comb line preserves the full spatial resolution determined solely by the electrical chirp bandwidth, while the combination of multi-channel Rayleigh traces effectively suppresses the fading. In a 10.84-km sensing experiment, the proposed system achieves a 50-cm spatial resolution, improving the average normalized intensity signal-to-noise ratio (SNR) by 12.92 dB, reducing the fading rate by 54%, and enhancing the phase SNR by 22.36 dB compared with the conventional chirped-pulse φ-OTDR. Two remote vibration events are accurately recovered with high fidelity. The results prove that the CEOFC-based φ-OTDR offers high spatial resolution, strong fading robustness, and a great potential for long-distance distributed acoustic sensing applications.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "基于啁啾电光频率梳的高空间分辨率衰落抑制 Φ-OTDR",
+            "abstract_cn": "<jats:p>我们提出了一种基于啁啾电光频率梳 (CEOFC) 的衰落抑制相敏光时域反射计 (φ-OTDR) 传感系统，该系统实现了高空间分辨率，同时增强了长距离传感的潜力。采用双并行马赫-曾德调制器和相位调制器从单载波电波形生成多个并行啁啾探测通道，从而实现同时宽带询问。经过匹配滤波后，每条梳状线保留了仅由电线性调频带宽决定的完整空间分辨率，而多通道瑞利迹线的组合有效地抑制了衰落。在10.84公里的传感实验中，该系统实现了50厘米的空间分辨率，与传统的啁啾脉冲φ-OTDR相比，平均归一化强度信噪比（SNR）提高了12.92 dB，衰落率降低了54%，相位SNR提高了22.36 dB。以高保真度准确恢复两个远程振动事件。结果证明，基于CEOFC的φ-OTDR具有高空间分辨率、强衰落鲁棒性，在长距离分布式声学传感应用中具有巨大潜力。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.578359",
+            "title": "Extended depth-of-field stereo imaging system based on high-speed dual cameras embedded with variable focus lenses",
+            "link": "https://doi.org/10.1364/oe.578359",
+            "published": "2026-01-16",
+            "author": "Shuangjiang Huang, Lihui Wang, Yan Hu, Satoshi Tabata, Yutao Huang, Xu Gui, Shi Bai, Yuan He, Tao Chen, Sandy To, Junyi Wang, Masatoshi Ishikawa",
+            "summary": "<jats:p>Extended depth-of-field (DoF) technology is widely used in three-dimensional (3D) depth measurement. However, it is hard to achieve extended DoF imaging for conventional stereoscopic vision systems in dynamic scenes. Here, we propose an extended DoF vision system based on variable-focus lenses for target motion scenes. This system operates at two synergistic levels: optical-level focal sweeping and computational-level all-in-focus synthesis dynamically. Specifically, we introduce a temporally adaptive focal calibration model that precisely predicts curvature variations of varifocal lenses under non-linear electromechanical responses, ensuring sub-millisecond focal accuracy across a depth range of 0.45∼1.2 m. In addition, an adaptive homography-based multi-plane remapping mechanism is designed to compensate for disparity drift and distortion artifacts induced by rapid focus change, followed by a sharpness-weighted fusion strategy that synthesizes an all-in-focus image with preserved high-frequency details. The depth measurement performance was improved by approximately 6.2%, the relative depth error rate is optimized to 5.82%, and the RMSE is reduced to 0.0505 compared to conventional stereo vision systems in images obtained. The proposed system has the advantage of a compact form factor and dynamic extended DoF imaging. The potential applications include biomedical imaging, industrial vision inspection, robotic vision with navigation, and AR/VR.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "基于嵌入可变焦镜头的高速双摄像头的扩展景深立体成像系统",
+            "abstract_cn": "<jats:p>扩展景深 (DoF) 技术广泛应用于三维 (3D) 深度测量。然而，传统立体视觉系统很难在动态场景中实现扩展景深成像。在这里，我们提出了一种基于可变焦镜头的扩展景深视觉系统，用于目标运动场景。该系统在两个协同级别上运行：光学级别焦点扫描和计算级别动态全焦点合成。具体来说，我们引入了一种时间自适应焦点校准模型，可以精确预测非线性机电响应下变焦镜头的曲率变化，确保在 0.45∼1.2 m 深度范围内实现亚毫秒级对焦精度。此外，设计了基于自适应单应性的多平面重映射机制，以补偿快速焦点变化引起的视差漂移和失真伪影，然后采用锐度加权融合策略，合成保留高频细节的全焦点图像。与传统立体视觉系统相比，获得的图像深度测量性能提高约6.2%，相对深度误差率优化至5.82%，RMSE降低至0.0505。所提出的系统具有紧凑的外形和动态扩展自由度成像的优点。潜在的应用包括生物医学成像、工业视觉检测、带导航的机器人视觉以及 AR/VR。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584131",
+            "title": "Mosaic-based waveguide lenses designed by the adjoint method based on the finite-element scheme",
+            "link": "https://doi.org/10.1364/oe.584131",
+            "published": "2026-01-15",
+            "author": "Takeshi Fujisawa, Yasuhide Tsuji, Takuya Mitarai, Yusuke Sawada, Takuya Okimoto, Takuo Hiratani, Kento Komatsu, Hideki Yagi, Naoki Fujiwara",
+            "summary": "<jats:p>Waveguide lenses based on mosaic structure are proposed and experimentally demonstrated. The devices are designed by an adjoint method based on the finite-element method (AM-FEM). In AM-FEM, it is easy to calculate the gradient of the objective function with respect to the refractive index distribution, and it is especially useful for multi-port and multi-mode problems. First, to demonstrate the effectiveness of the AM-FEM, simple 1 × 2 power splitters are designed, and the importance of the initial structure is demonstrated together with experimental results. And then, the design of single-mode waveguide lenses is demonstrated. After passing through the mosaic lens, the wavefront of the light is aligned, and the light can traverse a slab region, which has no confinement mechanism in the transverse direction. Also, multimode waveguide lenses are presented for the first time, showing low-loss and almost wavelength-independent characteristics. The designed devices are fabricated, and the measured results are in good agreement with the theory. These devices can be useful for various wavefront controlling devices.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "基于有限元格式的伴随法设计的马赛克波导透镜",
+            "abstract_cn": "<jats:p>提出并通过实验证明了基于镶嵌结构的波导透镜。该装置采用基于有限元法（AM-FEM）的伴随法进行设计。在AM-FEM中，很容易计算目标函数相对于折射率分布的梯度，对于多端口和多模问题特别有用。首先，为了证明AM-FEM的有效性，设计了简单的1 × 2功率分配器，并结合实验结果证明了初始结构的重要性。然后，演示了单模波导透镜的设计。通过马赛克透镜后，光的波前对齐，并且光可以穿过平板区域，该平板区域在横向上没有限制机制。此外，首次推出了多模波导透镜，具有低损耗和几乎与波长无关的特性。所设计的器件已制作完成，测量结果与理论吻合良好。这些设备可用于各种波前控制设备。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582385",
+            "title": "Pd-coated Au core–shell nanorod metamaterial for optical hydrogen sensing",
+            "link": "https://doi.org/10.1364/oe.582385",
+            "published": "2026-01-16",
+            "author": "Yajie Wang, Haibin Ni, Ying Shi, Tianqi Chen, Jiasheng Han, Mingzeng Sheng, Sheng Ye, Zichen Chen, Yixian Ge, Bo Ni, Jianhua Chang",
+            "summary": "<jats:p>\n                    Hydrogen is widely regarded as an ideal clean-energy carrier, and its safe, efficient utilization is critical to the transition of modern energy systems. However, hydrogen’s high diffusivity and flammability make leak monitoring an urgent safety imperative. Here, we propose and fabricate an optical hydrogen sensor consisting of gold core-palladium shell nanorod arrays embedded in porous anodic aluminum oxide (Au@Pd NRAs/AAO). The sensor harnesses near-field coupling between the nanorods’ transverse localized surface plasmon resonance (LSPR) and a vertical Fabry–Pérot (F–P) cavity formed by the array, yielding a hybrid LSPR–F–P resonance that amplifies the response to refractive-index perturbations induced by palladium hydride formation in the shell. By combining simulations and experiments, we systematically investigate how geometric parameters govern performance and elucidate the enhancement mechanism. Experimentally, within 0–2 vol% H\n                    <jats:sub>2</jats:sub>\n                    , the sensor exhibits a sensitivity of 11.33 nm/% with excellent linearity. At 2 vol% H\n                    <jats:sub>2</jats:sub>\n                    , the response and recovery times are &lt;20 s and &lt;50 s, respectively, and the device shows outstanding repeatability and stability with no appreciable hysteresis or baseline drift. Numerical simulations further indicate that integrating silver nanodiscs (AgNDs) on the array surface opens a vertical plasmonic-coupling channel, improving the sensor response by ≈ 20.6% under the same hydrogenation conditions. Leveraging the mechanically robust, process-compatible anodic aluminum oxide (AAO) template, the device is compact and inherently immune to electromagnetic interference, making it promising for industrial safety monitoring and new-energy applications.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "用于光学氢传感的钯涂层金核壳纳米棒超材料",
+            "abstract_cn": "<贾茨：p>\n                    氢被广泛认为是理想的清洁能源载体，其安全、高效利用对于现代能源系统的转型至关重要。然而，氢气的高扩散性和易燃性使得泄漏监测成为迫切的安全需要。在这里，我们提出并制造了一种光学氢传感器，由嵌入多孔阳极氧化铝（Au@Pd NRAs/AAO）中的金核-钯壳纳米棒阵列组成。该传感器利用纳米棒的横向局域表面等离子体共振 (LSPR) 和阵列形成的垂直法布里-珀罗 (F-P) 腔之间的近场耦合，产生混合 LSPR-F-P 共振，放大对壳中氢化钯形成引起的折射率扰动的响应。通过结合模拟和实验，我们系统地研究了几何参数如何控制性能并阐明增强机制。实验上，H 含量在 0–2 vol% 范围内\n                    <贾茨：子>2</贾茨：子>\n                    ，传感器的灵敏度为 11.33 nm/%，具有出色的线性度。 2 vol% H 时\n                    <贾茨：子>2</贾茨：子>\n                    ，响应时间和恢复时间分别小于20秒和小于50秒，并且该器件表现出出色的重复性和稳定性，没有明显的滞后或基线漂移。数值模拟进一步表明，在阵列表面集成银纳米盘（AgND）可打开垂直等离子体耦合通道，在相同的氢化条件下将传感器响应提高约 20.6%。该设备采用机械坚固、工艺兼容的阳极氧化铝 (AAO) 模板，结构紧凑，本质上不受电磁干扰，使其在工业安全监控和新能源应用中具有广阔的前景。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.585302",
+            "title": "Diamond nitrogen-vacancy center quantum sensor with light input and electricity output for ultra-high voltage",
+            "link": "https://doi.org/10.1364/oe.585302",
+            "published": "2026-01-20",
+            "author": "Chaoqiang Dong, Chenggang Guan, Yucheng Yao, Junchang Huang, Linfeng Zhan, Qingtao Guo, Xuelong Fan, Yifeng Chen, Qiang Wan, Chen Xu, Weiqi Wang, Yifan Xiao, Xuan Chen, Junzhu Ye, Heng Luo, Xiang Chen, Jiaoli Gong",
+            "summary": "<jats:p>\n                    Diamond nitrogen-vacancy (NV) center quantum magnetic sensors show great potential for high-precision magnetic field measurement, but their complex, bulky discrete systems limit high-voltage electrical applications. This paper designs a compact “optical input-electrical output” sensing probe (3.12cm\n                    <jats:sup>3</jats:sup>\n                    ) integrating optical excitation, fluorescence collection, and photoelectric conversion. With optimal magnetic sensitivity of 4.92nT/Hz\n                    <jats:sup>1</jats:sup>\n                    /\n                    <jats:sup>2</jats:sup>\n                    , average 6.5nT/Hz\n                    <jats:sup>1</jats:sup>\n                    /\n                    <jats:sup>2</jats:sup>\n                    , and low standard deviation (0.8nT/Hz\n                    <jats:sup>1</jats:sup>\n                    /\n                    <jats:sup>2</jats:sup>\n                    ), it resolves insulation, anti-interference, and power consumption bottlenecks, enabling high-voltage equipment magnetic field monitoring.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "超高压光输入电输出金刚石氮空位中心量子传感器",
+            "abstract_cn": "<贾茨：p>\n                    金刚石氮空位（NV）中心量子磁传感器在高精度磁场测量方面显示出巨大潜力，但其复杂、庞大的分立系统限制了高压电气应用。本文设计了一种紧凑型“光输入-电输出”传感探头（3.12cm\n                    <贾茨：sup>3</贾茨：sup>\n                    ）集光学激发、荧光收集、光电转换于一体。最佳磁灵敏度为 4.92nT/Hz\n                    <贾茨：sup>1</贾茨：sup>\n                    /\n                    <贾茨：sup>2</贾茨：sup>\n                    ，平均 6.5nT/Hz\n                    <贾茨：sup>1</贾茨：sup>\n                    /\n                    <贾茨：sup>2</贾茨：sup>\n                    ，和低标准偏差（0.8nT/Hz\n                    <贾茨：sup>1</贾茨：sup>\n                    /\n                    <贾茨：sup>2</贾茨：sup>\n                    ），解决绝缘、抗干扰、功耗瓶颈，实现高压设备磁场监测。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582413",
+            "title": "Investigating the performance of adaptive optics on different bases of spatial modes in turbulent channels",
+            "link": "https://doi.org/10.1364/oe.582413",
+            "published": "2026-01-26",
+            "author": "Rojan Abolhassani, Lukas Scarfe, Francesco Di Colandrea, Alessio D’Errico, Khabat Heshami, Ebrahim Karimi",
+            "summary": "<jats:p>\n                    Quantum key distribution (QKD) allows secure key exchange based on the principles of quantum mechanics, with higher-dimensional photonic states offering enhanced channel capacity and resilience to noise. Free-space QKD is crucial for global networks where fibres are impractical, but atmospheric turbulence introduces severe states’ distortions, particularly for spatial modes. Adaptive optics (AO) provides a pathway to correct these errors, though its effectiveness depends on the encoding basis. Here, we experimentally evaluate a high-speed AO system for orbital angular momentum (OAM) modes, mutually unbiased bases (MUB), and symmetric, informationally complete, positive operator-valued measures (SIC-POVM) up to dimension\n                    <jats:italic>d</jats:italic>\n                     = 8 in a turbulent free-space channel. While OAM states are strongly distorted, their cylindrical symmetry makes them optimally corrected by AO, yielding error rates below QKD security thresholds. MUB and SIC-POVM exhibit greater intrinsic robustness to turbulence but are less precisely corrected; however their performance remains within protocol tolerances. These results establish AO as a key enabler of secure, high-dimensional QKD and highlight the role of basis choice in optimizing resilience and correction.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "研究湍流通道中不同空间模式下自适应光学的性能",
+            "abstract_cn": "<贾茨：p>\n                    量子密钥分发 (QKD) 允许基于量子力学原理的安全密钥交换，高维光子态可提供增强的通道容量和抗噪声能力。自由空间 QKD 对于光纤不切实际的全球网络至关重要，但大气湍流会引入严重的状态扭曲，特别是对于空间模式。自适应光学 (AO) 提供了纠正这些错误的途径，尽管其有效性取决于编码基础。在这里，我们通过实验评估了轨道角动量 (OAM) 模式、互不偏基 (MUB) 以及对称、信息完整、正算子值测量 (SIC-POVM) 的高速 AO 系统，直至维度\n                    <jats:斜体>d</jats:斜体>\n                     = 8 在湍流自由空间通道中。虽然 OAM 状态严重扭曲，但它们的圆柱对称性使其能够通过 AO 进行最佳校正，从而产生低于 QKD 安全阈值的错误率。 MUB 和 SIC-POVM 对湍流表现出更强的内在鲁棒性，但校正精度较差；然而，它们的性能仍然在协议容差范围内。这些结果使 AO 成为安全、高维 QKD 的关键推动者，并强调了基础选择在优化弹性和校正方面的作用。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.580482",
+            "title": "Enhanced optical superfocusing effect at an all-dielectric nanocone tip",
+            "link": "https://doi.org/10.1364/oe.580482",
+            "published": "2026-01-16",
+            "author": "Weinan Feng, Makoto Tsubokawa",
+            "summary": "<jats:p>\n                    We present a novel method for generating an extremely confined nanoscale light field using an all-dielectric conical nanotip coupled to a microfiber. By launching a radially polarized TM\n                    <jats:sub>01</jats:sub>\n                    mode into the tip, we achieve constructive interference of longitudinal electric field components at the apex, resulting in a highly localized optical hotspot with sub-10 nm dimensions and a mode volume as small as 10\n                    <jats:sup>−7</jats:sup>\n                    λ\n                    <jats:sup>3</jats:sup>\n                    . This approach overcomes the limitations of conventional dielectric tips and rivals plasmonic superfocusing without incurring ohmic losses. Numerical simulations reveal that the focal spot features a high intensity enhancement ratio (&gt; 3500), strong peak-to-background contrast (&gt; 30 dB), and circular symmetry. Furthermore, we demonstrate the ability to shape the light field into arbitrary nanoscale patterns by modifying the tip geometry. These findings open new avenues for low-loss, high-precision light confinement in applications such as optical nano tweezers, nanoscopy, nano lasers, and nanoparticle spectroscopy.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "全电介质纳米锥尖端增强光学超聚焦效果",
+            "abstract_cn": "<贾茨：p>\n                    我们提出了一种利用耦合到微纤维的全电介质锥形纳米尖端产生极其有限的纳米级光场的新方法。通过发射径向极化 TM\n                    <jats:sub>01</jats:sub>\n                    模式进入尖端，我们在顶点实现了纵向电场分量的相长干涉，从而产生了尺寸低于 10 nm 且模式体积小至 10 的高度局部化的光学热点。\n                    <jats:sup>−7</jats:sup>\n                    λ\n                    <贾茨：sup>3</贾茨：sup>\n                    。这种方法克服了传统介电尖端的局限性，可与等离子体超聚焦相媲美，而不会产生欧姆损耗。数值模拟表明，焦点具有高强度增强比（> 3500）、强峰背景对比度（> 30 dB）和圆形对称性。此外，我们展示了通过修改尖端几何形状将光场塑造成任意纳米级图案的能力。这些发现为光学纳米镊子、纳米显微镜、纳米激光器和纳米颗粒光谱等应用中的低损耗、高精度光限制开辟了新途径。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.581278",
+            "title": "Two-level optimizer for large-scale metasurfaces with strong near-field coupling",
+            "link": "https://doi.org/10.1364/oe.581278",
+            "published": "2026-01-13",
+            "author": "Yiwen Fan, Jannick P. Rolland, A. Nick Vamivakas, Daniel K. Nikolov",
+            "summary": "<jats:p>We introduce a two-level window-based optimization architecture that enables the inverse-design of metasurfaces containing hundreds of adjustable parameters while accurately modeling near-field coupling effects. Our method contains two nested iterative optimizers and effectively optimizes a 300 unit-cell metalens (aperture diameter of 108 µm) and yields a 73.2% increase in focusing intensity, addressing the established fabrication-performance tradeoff for low aspect-ratio (&lt;3) metasurfaces.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "具有强近场耦合的大规模超表面的两级优化器",
+            "abstract_cn": "<jats:p>我们引入了一种基于两级窗口的优化架构，该架构能够对包含数百个可调节参数的超表面进行逆向设计，同时精确建模近场耦合效应。我们的方法包含两个嵌套迭代优化器，有效优化了 300 个单元元超透镜（孔径为 108 μm），聚焦强度提高了 73.2%，解决了低纵横比 (<3) 超表面的既定制造性能权衡问题。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.586871",
+            "title": "Submillisecond-response liquid-crystal-on-silicon for augmented reality displays",
+            "link": "https://doi.org/10.1364/oe.586871",
+            "published": "2026-01-16",
+            "author": "Po-Sheng Chiu, Yuge Huang, Hosna Tajvidi Safa, Yongziyan Ma, Zhiyong Yang, Fenglin Peng, Ying Geng, Dan Hu, Shin-Tson Wu",
+            "summary": "<jats:p>\n                    We report a new nematic liquid crystal (LC) mixture with an extremely low rotational viscosity (\n                    <jats:italic>\n                      γ\n                      <jats:sub>1</jats:sub>\n                    </jats:italic>\n                     = 38 mPa·s @ 20.7 °C), relatively high birefringence (\n                    <jats:italic>Δn</jats:italic>\n                     = 0.159 @ 550 nm), and moderate dielectric anisotropy (\n                    <jats:italic>Δε</jats:italic>\n                     = 2.86 @ 25 °C). An average submillisecond response time is achieved at room temperature without overdrive and undershoot voltages when it is employed in a reflective liquid-crystal cell. Such a fast response time enables a 1 kHz field-sequential color (FSC) field rate, which not only triples the optical efficiency and resolution density but also mitigates image blur and color breakup. Furthermore, the required cell gap of 1.34 µm remains manageable for acheiving a good mass-production yield. This LC holds great potential for the emerging artificial intelligence (AI)-powered augmented reality (AR) glasses.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "用于增强现实显示器的亚毫秒响应硅基液晶",
+            "abstract_cn": "<贾茨：p>\n                    我们报告了一种具有极低旋转粘度的新型向列液晶 (LC) 混合物（\n                    <贾茨：斜体>\n                      γ\n                      <jats:sub>1</jats:sub>\n                    </贾茨：斜体>\n                     = 38 mPa·s @ 20.7 °C)，相对较高的双折射（\n                    <jats:斜体>Δn</jats:斜体>\n                     = 0.159 @ 550 nm) 和中等介电各向异性 (\n                    <jats:斜体>Δε</jats:斜体>\n                     = 2.86 @ 25 °C)。当其用于反射液晶单元时，在室温下可实现平均亚毫秒响应时间，而不会出现过驱动和下冲电压。如此快速的响应时间可实现 1 kHz 场序彩色 (FSC) 场速率，这不仅使光学效率和分辨率密度提高了三倍，而且还减轻了图像模糊和色彩破碎的情况。此外，所需的 1.34 μm 单元间隙仍然可以控制，以实现良好的批量生产良率。这种液晶对于新兴的人工智能 (AI) 驱动的增强现实 (AR) 眼镜具有巨大的潜力。\n                  </贾茨：p>"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-28 13:27:35",
+    "update_time": "2026-01-28 15:28:02",
     "word_filename": "Optical_Papers_260128.docx",
-    "total_count": 492,
+    "total_count": 499,
     "data": [
         {
             "id": "https://doi.org/10.1364/oe.587678",
@@ -22444,6 +22444,83 @@
             "summary": "Abstract not available.",
             "journal": "Optics Communications",
             "title_cn": "使用克尔激活的二维硅光子晶体的前馈神经网络",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103363",
+            "title": "Domain Adaptation via Manifold Regularization for Sketch Image Caption",
+            "link": "https://doi.org/10.1016/j.displa.2026.103363",
+            "published": "2026-01-01",
+            "author": "Meng Lyu, Haoran Yu, Weifeng Liu",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "通过流形正则化进行草图图像标题的域适应",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114827",
+            "title": "Detection of tea polyphenols based on a taper-in-taper infrared fiber sensor",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114827",
+            "published": "2026-05-01",
+            "author": "Dinghao Cui, Yami Ling, Yinsheng Xu, Yongkun Zhao, Yantao Xu, Haitao Guo, Minghong Yang, Xianghua Zhang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "基于锥中锥红外光纤传感器的茶多酚检测",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114794",
+            "title": "Few-cycle THz pulse generation in DSTMS driven by an 8.3-MHz amplified Mamyshev oscillator",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114794",
+            "published": "2026-05-01",
+            "author": "Francesco Canella, Dario Giannotti, Sara Pizzurro, Riccardo Gotti, Lorenzo Mosesso, Stefano Lupi, Antonio Agnesi, Federico Pirzio, Gianluca Galzerano",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "由 8.3 MHz 放大 Mamyshev 振荡器驱动的 DSTMS 中的少周期太赫兹脉冲生成",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114808",
+            "title": "Effects of irradiation and thermal treatment on the amplification property and defect structures in Bi/Ge Co-doped silica fiber",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114808",
+            "published": "2026-05-01",
+            "author": "Ciying Chen, Jinmin Tian, Mengting Guo, Xin Li, Yiming Zhu, Chongyun Shao, Meng Wang, Fan Wang, Ning Zhou, Chunlei Yu, Lili Hu",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "辐照和热处理对Bi/Ge共掺石英光纤放大性能和缺陷结构的影响",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114796",
+            "title": "Integration of hybrid Laser-Arc and narrow gap submerged arc welding for cost-effective joining of 80 mm thick S355ML steel plates",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114796",
+            "published": "2026-05-01",
+            "author": "Sergej Gook, Max Biegler, Andrey Gumenyuk, Michael Rethmeier",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "集成激光电弧混合焊和窄间隙埋弧焊，可经济高效地连接 80 毫米厚的 S355ML 钢板",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132966",
+            "title": "Demonstration of 1.5-kW Large-core Step-index Yb-doped Fiber Amplifier near 980 nm",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132966",
+            "published": "2026-01-01",
+            "author": "Maoni Chen, Aimin Liu, Shangde Zhou, Jianqiu Cao, Qi Zhang, Zhihe Huang, Zilun Chen, Zefeng Wang, Jinbao Chen",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "980 nm 附近 1.5 kW 大芯阶跃折射率掺镱光纤放大器演示",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1002/adpr.70152",
+            "title": "Cover Feature: Design and Fabrication of Capacitive Mems Actuator Array on Spoof‐Surface‐Plasmon‐Polariton Waveguide for Active Microwave Modulation (Adv. Photonics Res. 1/2026)",
+            "link": "https://doi.org/10.1002/adpr.70152",
+            "published": "2026-01-27",
+            "author": "Van Minh Nguyen, Yoshiaki Kanamori",
+            "summary": "Abstract not available.",
+            "journal": "Advanced Photonics Research",
+            "title_cn": "封面专题：用于有源微波调制的欺骗表面等离子体激元极化波导上的电容式 Mems 致动器阵列的设计和制造（Adv. Photonics Res. 1/2026）",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

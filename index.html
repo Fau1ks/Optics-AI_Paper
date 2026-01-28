@@ -279,15 +279,15 @@
             }
         }
 
-        /* 顶部设置区域容器 */
+        /* 顶部设置区域容器 - 修改：改为水平排列 */
         .top-settings-container {
             position: absolute;
             top: 20px;
             right: 20px;
             display: flex;
-            flex-direction: column;
-            align-items: flex-end;
-            gap: 10px; 
+            flex-direction: row; /* 修改：由 column 改为 row */
+            align-items: center; /* 修改：垂直居中 */
+            gap: 15px; /* 修改：增加一点间距 */
             z-index: 1001;
         }
 
@@ -355,6 +355,8 @@
             .top-settings-container {
                 top: 10px;
                 right: 10px;
+                /* 手机端保持水平，如果不希望太宽可以把 gap 调小 */
+                gap: 8px;
             }
             .lang-switch-container {
                 /* 手机端保持原样 */
@@ -375,13 +377,14 @@
 <body>
 
     <div class="top-settings-container">
+        <button id="btn-abstract" class="abstract-toggle-btn" onclick="toggleAbstracts()">
+            <span id="abstract-text">显示摘要</span>
+        </button>
+        
         <div class="lang-switch-container">
             <button id="btn-zh" class="lang-option active" onclick="setLanguage('zh')">中文</button>
             <button id="btn-en" class="lang-option" onclick="setLanguage('en')">English</button>
         </div>
-        <button id="btn-abstract" class="abstract-toggle-btn" onclick="toggleAbstracts()">
-            <span id="abstract-text">显示摘要</span>
-        </button>
     </div>
 
     <h1 id="pageTitle" onclick="triggerSecret()">光学+AI 最新文献推送</h1>

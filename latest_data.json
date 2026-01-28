@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-28 11:28:03",
+    "update_time": "2026-01-28 13:27:35",
     "word_filename": "Optical_Papers_260128.docx",
-    "total_count": 488,
+    "total_count": 492,
     "data": [
         {
             "id": "https://doi.org/10.1364/oe.587678",
@@ -22401,6 +22401,50 @@
             "journal": "Laser & Photonics Reviews",
             "title_cn": "基于缺陷抑制策略的掺铈卤化物双钙钛矿闪烁体的高亮度和快速响应高速 X 射线成像",
             "abstract_cn": "<jats:title>摘要</jats:title>\n                  <贾茨：p>\n                    高性能闪烁体在先进医学成像技术的发展中发挥着核心作用，特别是在需要高灵敏度和高时间分辨率的复杂检测场景中。然而，开发一种同时结合出色的辐射发光（RL）效率和快速衰减特性的闪烁体仍然是一项艰巨的挑战。在这里，塞\n                    <贾茨：sup>3+</贾茨：sup>\n                    ‐掺杂铯\n                    <贾茨：子>2</贾茨：子>\n                    氯化钠\n                    <贾茨：子>6</贾茨：子>\n                    (CNGC)双钙钛矿旨在通过引入Br来调节闪烁体的发光效率特征\n                    <jats:sup>−</jats:sup>\n                    抑制Cl空位缺陷的形成。值得注意的是，Br的掺杂\n                    <jats:sup>−</jats:sup>\n                    显着降低 CNGC:Ce 中的缺陷密度\n                    <贾茨：sup>3+</贾茨：sup>\n                    ，减少非辐射复合，并实现高达 90.2% 的光致发光量子产率 (PLQY)。基于其出色的闪烁性能，包括 47637 个光子 MeV 的高光产额 (LY)\n                    <jats:sup>−1</jats:sup>\n                    ，153 ns 的短 RL 衰减时间和 74.95 nGy s 的低检测限\n                    <jats:sup>−1</jats:sup>\n                    , CNGC:15%Ce\n                    <贾茨：sup>3+</贾茨：sup>\n                    ,3%溴\n                    <jats:sup>−</jats:sup>\n                    闪烁体胶片可以在模拟血管造影中捕获流动造影剂的清晰高速 X 射线成像。这项工作开发了一种新型闪烁体材料，它不仅具有作为各种超快辐射探测应用的候选材料的巨大潜力，而且还为设计同时表现出高 LY 和快速 RL 衰减特性的闪烁体奠定了基础。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103368",
+            "title": "Content-adaptive dual feature selection for infrared aerial video compressive sensing reconstruction",
+            "link": "https://doi.org/10.1016/j.displa.2026.103368",
+            "published": "2026-01-01",
+            "author": "Hao Liu, Maoji Qiu, Rong Huang",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "红外航空视频压缩感知重建的内容自适应双特征选择",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132964",
+            "title": "Theoretical and Experimental Investigation of Temporal Dynamics in Quasi‐Continuous‐Wave Thulium‐Doped Fiber Lasers",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132964",
+            "published": "2026-01-01",
+            "author": "Xiangting Du, Zhenxing He, Ting Yu, Xisheng Ye, Xuan Li",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "准连续波掺铥光纤激光器时间动力学的理论与实验研究",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132962",
+            "title": "Fast calibration method of axial distance error in ptychography based on linear model for initial object reconstruction",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132962",
+            "published": "2026-06-01",
+            "author": "Chenlong Dai, Yang Wang, Jiantai Dou",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "基于初始物体重建线性模型的叠印轴向距离误差快速标定方法",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132965",
+            "title": "Forward Feed Neural Network Using the Kerr Activated 2-D Si Photonic Crystal",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132965",
+            "published": "2026-01-01",
+            "author": "Paromita De, Sapana Ranwa, Sourangshu Mukhopadhyay",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "使用克尔激活的二维硅光子晶体的前馈神经网络",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

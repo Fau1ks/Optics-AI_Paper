@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-28 10:36:56",
+    "update_time": "2026-01-28 10:40:29",
     "word_filename": "Optical_Papers_260128.docx",
-    "total_count": 279,
+    "total_count": 294,
     "data": [
         {
             "id": "https://doi.org/10.1364/oe.587678",
@@ -18840,6 +18840,171 @@
             "journal": "Optics Continuum",
             "title_cn": "OCT 图像中脉络膜厚度的三维形状感知测量",
             "abstract_cn": "<jats:p>脉络膜是位于视网膜和巩膜之间的致密血管层。光学相干断层扫描 (OCT) 的最新进展可以实现三维 (3D) 内部结构的非侵入性可视化，揭示了形态变化与眼部疾病之间的关联。其中，脉络膜厚度作为一个特别重要的参数已被广泛研究。脉络膜厚度通常从脉络膜的上边界到下边界垂直测量，但大多数传统测量方法依赖于二维横截面 OCT 图像，并不能充分考虑脉络膜形态或眼睛曲率的 3D 变形，这可能导致与真实解剖结构的差异。在本研究中，我们提出了一种通过 3D OCT 自动测量脉络膜厚度的方法。该方法通过估计脉络膜上边界上任意点的法向矢量来计算厚度，同时使用基于主成分分析的方法考虑周围表面的几何形状。使用光动力治疗前后中心性浆液性脉络膜视网膜病变（CSC）患者的临床数据进行的实验结果表明，所提出的方法提供了解剖学上合理的测量结果，并得到了眼科医生的定性验证。通过整合所有点的测量结果生成的脉络膜厚度图表明，CSC 患者在光动力治疗前后脉络膜厚度减少。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.572946",
+            "title": "Wideband frequency-hopping measurement based on quantum compressed sensing",
+            "link": "https://doi.org/10.1364/oe.572946",
+            "published": "2026-01-12",
+            "author": "Wei Li, Jianyong Hu, Yanhua Zang, Yongchuang Sun, Guosheng Feng, Zhixing Qiao, Changgang Yang, Jianqiang Liu, Ruiyun Chen, Chengbing Qin, Guofeng Zhang, Liantuan Xiao, Suotang Jia",
+            "summary": "<jats:p>\n                    Wideband frequency-hopping measurement is crucial for the stable operation of frequency-hopping communication systems. Traditional digital signal processing methods based on the Nyquist-Shannon sampling theorem are limited by bandwidth. Although compressed sensing reduces the sampling rate for analog-to-digital converters, its reliance on high-speed pseudo-random sequences restricts practical applications. In this paper, we propose a wideband frequency-hopping measurement method based on quantum compressed sensing, which enables dynamic capture of wideband frequency-hopping signals. By utilizing coherent state as quantum resources and mapping frequency-hopping signal onto photonic wave functions via an electro-optical modulator, a compressive measurement system is constructed that leverages the inherent randomness of coherent photon measurement collapse, and successfully achieved measurement and reconstruction of a frequency-hopping signal with 5 GHz bandwidth and a hopping rate of 100 kHop/s. A high data compression ratio of 2.1 × 10\n                    <jats:sup>3</jats:sup>\n                    was attained at a frequency-hopping rate of 1 kHop/s. By integrating time-frequency analysis methods with Bayesian optimization algorithm for frequency-hopping parameter estimation, a time estimation accuracy of 1 μs is achieved. Our research offers what we believe to be a new solution for wideband frequency-hopping measurement and can be extended to various fields such as radar and cognitive radio.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "基于量子压缩感知的宽带跳频测量",
+            "abstract_cn": "<贾茨：p>\n                    宽带跳频测量对于跳频通信系统的稳定运行至关重要。基于奈奎斯特-香农采样定理的传统数字信号处理方法受到带宽的限制。尽管压缩感知降低了模数转换器的采样率，但其对高速伪随机序列的依赖限制了实际应用。在本文中，我们提出了一种基于量子压缩感知的宽带跳频测量方法，该方法能够动态捕获宽带跳频信号。利用相干态作为量子资源，通过电光调制器将跳频信号映射到光子波函数上，构建了利用相干光子测量崩溃固有的随机性的压缩测量系统，成功实现了5 GHz带宽、跳频速率为100 kHz/s的跳频信号的测量和重构。数据压缩比高达2.1 × 10\n                    <贾茨：sup>3</贾茨：sup>\n                    跳频速率为 1 kHz/s。通过将时频分析方法与贝叶斯优化算法相结合进行跳频参数估计，实现了1 μs的时间估计精度。我们的研究为宽带跳频测量提供了一种新的解决方案，并且可以扩展到雷达和认知无线电等各个领域。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584001",
+            "title": "Single plane spatial mode sorter",
+            "link": "https://doi.org/10.1364/oe.584001",
+            "published": "2026-01-13",
+            "author": "Khen Cohen, Yoav Yosif-Or, Yaron Oz, Ady Arie",
+            "summary": "<jats:p>\n                    A mode sorter separates a set of\n                    <jats:italic>M</jats:italic>\n                    orthogonal spatial modes in a shared input channel into\n                    <jats:italic>M</jats:italic>\n                    different output channels. Here we present an analytic derivation and experimental validation of a single plane device for sorting spatial modes from a diverse variety of mode families, including Hermite-Gaussian (HG), Laguerre-Gaussian (LG), and Bessel-Gaussian (BG), with almost no cross-talk. This sorting capability is required for a wide range of applications that employ classical or quantum light. We also show that applying this design in order to sort a set of Orbital Angular Momentum (OAM) modes with zero radial index reproduces the well-known Fork grating configuration. Furthermore, by taking the limit of\n                    <jats:italic>M</jats:italic>\n                     → ∞, we present an analytical expression for sorting all the modes of a given family. By operating this device in reverse, it can be used to generate arbitrary modes by illuminating it with a Gaussian beam. The power transmission coefficient for this sorter goes as\n                    <jats:italic>O</jats:italic>\n                    (\n                    <jats:italic>M</jats:italic>\n                    <jats:sup>−1</jats:sup>\n                    ), and we provide a mathematical proof that this is optimal for any typical arrangement of the detector positions. We further study the sorter's sensitivity to wavelength and random phase noise.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "单平面空间模式分类器",
+            "abstract_cn": "<贾茨：p>\n                    模式排序器将一组\n                    <jats:斜体>M</jats:斜体>\n                    共享输入通道中的正交空间模式\n                    <jats:斜体>M</jats:斜体>\n                    不同的输出通道。在这里，我们提出了单平面设备的分析推导和实验验证，用于对来自各种模式族的空间模式进行排序，包括厄米高斯（HG）、拉盖尔高斯（LG）和贝塞尔高斯（BG），几乎没有串扰。使用经典光或量子光的各种应用都需要这种分选能力。我们还表明，应用这种设计来对一组具有零径向折射率的轨道角动量（OAM）模式进行排序，可以重现众所周知的叉形光栅配置。此外，通过取极限\n                    <jats:斜体>M</jats:斜体>\n                     → ∞，我们提出了一个分析表达式，用于对给定族的所有模式进行排序。通过反向操作该设备，它可以通过用高斯光束照射它来生成任意模式。该分拣机的功率传输系数为\n                    <jats:斜体>O</jats:斜体>\n                    （\n                    <jats:斜体>M</jats:斜体>\n                    <jats:sup>−1</jats:sup>\n                    ），并且我们提供了数学证明，证明这对于探测器位置的任何典型布置都是最佳的。我们进一步研究了分选机对波长和随机相位噪声的敏感性。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582218",
+            "title": "Range precision prediction model for three-dimensional laser gated range-intensity correlation imaging",
+            "link": "https://doi.org/10.1364/oe.582218",
+            "published": "2026-01-05",
+            "author": "Bo Song, Yue Zhang, Xinwei Wang, Liang Sun, Yurun Zhang, Yan Zhou",
+            "summary": "<jats:p>Three-dimensional laser gated range-intensity correlation imaging (GRICI) can obtain long-range 3D images in real time with high resolution by suppressing backscatter and background noise outside the 3D depth of field. Range precision is crucial for evaluating the performance of 3D GRICI. However, traditional range precision models can only estimate it from experimental results, or cannot accurately predict it theoretically due to over-simplified analysis or insufficient theoretical modeling capability. In this paper, we present a range precision prediction model for 3D GRICI based on the law of error propagation and stochastic process analysis. Particularly, we take into account the photo-electronic process and the temporal jitter of a 3D GRICI system. Based on the classic laser range-gated imaging model, the signal-to-noise model, and the compound random distribution, the mean intensity value and the shot noise can be solved. Thus, the range precision within the 3D depth of field can be accurately predicted. We conducted experiments to validate this model. The results demonstrate that its predictions are more consistent with the experimental results compared to the traditional models. The relative error of the traditional models at 13.45 m is 76.9%, while the relative error of the proposed prediction model is only 3.1%. This research can support the design of 3D gated imaging systems.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "三维激光门控距离-强度相关成像距离精度预测模型",
+            "abstract_cn": "<jats:p>三维激光门控距离-强度相关成像（GRICI）可以通过抑制3D景深之外的后向散射和背景噪声，实时获得高分辨率的长距离3D图像。距离精度对于评估 3D GRICI 的性能至关重要。然而，传统的距离精度模型只能根据实验结果进行估计，或者由于分析过于简化或理论建模能力不足而无法从理论上准确预测。在本文中，我们提出了一种基于误差传播定律和随机过程分析的 3D GRICI 距离精度预测模型。特别是，我们考虑了 3D GRICI 系统的光电过程和时间抖动。基于经典的激光测距选通成像模型、信噪比模型以及复合随机分布，可以求解平均强度值和散粒噪声。因此，可以准确预测3D景深内的距离精度。我们进行了实验来验证这个模型。结果表明，与传统模型相比，其预测与实验结果更加一致。传统模型在13.45米处的相对误差为76.9%，而本文提出的预测模型的相对误差仅为3.1%。这项研究可以支持 3D 门控成像系统的设计。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.585026",
+            "title": "Analysis of the impact of timing jitter on dual-comb ranging",
+            "link": "https://doi.org/10.1364/oe.585026",
+            "published": "2026-01-02",
+            "author": "Yuetang Yang, Runkun Zhao, Haochen Tian, Jiayang Chen, Xu Zheng, Guanhao Wu",
+            "summary": "<jats:p>Dual-comb ranging is a typical absolute-distance measurement method. Noise in ranging systems limits improvements in ranging precision. Timing jitter is a primary noise source, and its relationship with ranging precision remains to be explored. In this study, we established a model to describe this relationship from the perspective of the noise power spectral density (PSD). We propose a corresponding simulation method and analyze the coupling between the timing jitter and intensity noise. Furthermore, we validated this model using dual combs with different noise levels, including the measurement of timing jitter PSD and analysis of ranging precision, which confirms the correctness of our model. The proposed model for timing jitter and ranging precision can help comprehend the mechanism and design dual-comb ranging systems for practical applications.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "时序抖动对双梳测距的影响分析",
+            "abstract_cn": "<jats:p>双梳测距是一种典型的绝对距离测量方法。测距系统中的噪声限制了测距精度的提高。定时抖动是主要噪声源，其与测距精度的关系仍有待探索。在本研究中，我们建立了一个模型，从噪声功率谱密度（PSD）的角度来描述这种关系。我们提出了相应的仿真方法并分析了定时抖动和强度噪声之间的耦合。此外，我们使用不同噪声水平的双梳验证了该模型，包括定时抖动PSD的测量和测距精度的分析，这证实了我们模型的正确性。所提出的定时抖动和测距精度模型有助于理解其机制并设计实际应用的双梳测距系统。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582828",
+            "title": "Dual-band dual-circularly polarized and orbital angular momentum multiplexed reflectarray",
+            "link": "https://doi.org/10.1364/oe.582828",
+            "published": "2026-01-07",
+            "author": "Yuhui Ren, Yutian Ma, Kejuan Li, Lehu Wen, Bohang Zhang, Mingyang Gao, Wu Zhao, Handong Wu",
+            "summary": "<jats:p>\n                    In this letter, a dual-band dual-circularly polarized (CP) orbital angular momentum (OAM) multiplexed reflectarray (RA) is proposed, capable of generating vortex electromagnetic beams with distinct polarizations, mode numbers (\n                    <jats:italic>l</jats:italic>\n                    ), and radiation directions across different bands. First, it presents an innovative approach to achieving dual-band dual-CP decoupling. Second, the proposed RA integrates multiple multiplexing techniques, including frequency, polarization, and OAM. Specifically, a low-profile metasurface unit cell is designed, utilizing only a dielectric substrate and a metal patch, achieving a bandwidth ranging from 10.6 GHz to 18.1 GHz (52.2%). Furthermore, an RA constructed from these units fulfills the duplex communication requirements of Ku-band satellite systems. It generates a left-handed CP OAM beam with\n                    <jats:italic>l</jats:italic>\n                    =+1 in the downlink band (10.7-12.75 GHz), and a right-handed CP beam with\n                    <jats:italic>l</jats:italic>\n                     = -2 in the uplink band (12.75-18.1 GHz), with each beam exhibiting a distinct radiation direction.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "双波段双圆偏振和轨道角动量复用反射阵列",
+            "abstract_cn": "<贾茨：p>\n                    在这封信中，提出了一种双频带双圆偏振（CP）轨道角动量（OAM）复用反射阵列（RA），能够产生具有不同偏振、模式数（\n                    <jats:斜体>l</jats:斜体>\n                    ），以及不同频段的辐射方向。首先，它提出了一种实现双频双CP解耦的创新方法。其次，所提出的 RA 集成了多种复用技术，包括频率、极化和 OAM。具体来说，设计了一种薄型超表面单元，仅利用介电基板和金属贴片，实现了 10.6GHz 至 18.1GHz (52.2%) 的带宽。此外，由这些单元构建的RA满足Ku波段卫星系统的双工通信要求。它产生左手 CP OAM 光束\n                    <jats:斜体>l</jats:斜体>\n                    =+1，在下行链路频段（10.7-12.75 GHz），右手CP波束\n                    <jats:斜体>l</jats:斜体>\n                     = -2，在上行链路频段（12.75-18.1 GHz），每个波束表现出不同的辐射方向。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.585339",
+            "title": "Efficient geometric modeling and joint calibration for biaxial MEMS-based fringe projection profilometry",
+            "link": "https://doi.org/10.1364/oe.585339",
+            "published": "2026-01-07",
+            "author": "Yupei Miao, Ziwei Wang, Xiaojie Zhang, Qijian Tang, Xiaoli Liu",
+            "summary": "<jats:p>Fringe projection profilometry (FPP) enables high-precision 3D shape measurement and is increasingly deployed with biaxial micro-electro-mechanical system (MEMS) laser-scanning projectors for large-range projection. However, the fast and slow axes of a biaxial MEMS mirror exhibit coupled and nonlinear motion, causing the actual scanning trajectory to deviate from an ideal separable sweep. Consequently, points sharing the same phase no longer lie on straight lines or planar isophase surfaces, but instead follow curved spatial loci, making accurate calibration challenging. This work introduces a phase-angle-ray model (PARM) that establishes a bivariate polynomial mapping between the phase and MEMS deflection angles, from which projected rays are analytically derived. Two calibration frameworks based on pinhole and ray-based imaging models are developed by integrating geometric constraints from a standard plane and multiple standard spheres. Experiments demonstrate that the proposed method achieves high calibration accuracy, improved metric consistency, and precise 3D reconstruction.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "基于 MEMS 的双轴条纹投影轮廓测量的高效几何建模和联合校准",
+            "abstract_cn": "<jats:p>条纹投影轮廓仪 (FPP) 可实现高精度 3D 形状测量，并且越来越多地与双轴微机电系统 (MEMS) 激光扫描投影仪一起部署以进行大范围投影。然而，双轴MEMS反射镜的快轴和慢轴表现出耦合和非线性运动，导致实际扫描轨迹偏离理想的可分离扫描。因此，共享相同相位的点不再位于直线或平面等相面上，而是遵循弯曲的空间轨迹，这使得精确校准具有挑战性。这项工作引入了相位角射线模型 (PARM)，该模型在相位和 MEMS 偏转角之间建立二元多项式映射，并从中分析导出投影射线。通过集成标准平面和多个标准球的几何约束，开发了两种基于针孔和基于射线的成像模型的校准框架。实验表明，该方法具有较高的标定精度、提高的度量一致性和精确的3D重建。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584794",
+            "title": "Counter-diabatic driving in a bent mode-evolution coupler",
+            "link": "https://doi.org/10.1364/oe.584794",
+            "published": "2026-01-09",
+            "author": "Yu-Kai Lee, Yue Ban, Xi Chen, Shuo-Yen Tseng",
+            "summary": "<jats:p>\n                    We present an implementation of counter-diabatic (CD) driving in mode-evolution couplers through axis bending, enabling compact and robust photonic devices. Using coupled-mode theory, we derive an analytical framework that reveals how geometric deformation introduces an effective Hamiltonian term, allowing the CD protocol to be realized in a physically feasible bent waveguide system. Beam propagation method (BPM) simulations confirm complete light transfer and minimal nonadiabatic transitions in a 500\n                    <jats:italic toggle=\"yes\">μ</jats:italic>\n                    m bent coupler, validating the theoretical predictions. Beyond reducing length, the approach offers deterministic design rules and paves the way for shortcuts to adiabaticity photonic components that maintain robustness to structural perturbations.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "弯曲模式演化耦合器中的反绝热驱动",
+            "abstract_cn": "<贾茨：p>\n                    我们提出了一种通过轴弯曲在模式演化耦合器中实现反绝热（CD）驱动的方法，从而实现紧凑而坚固的光子器件。利用耦合模式理论，我们推导出了一个分析框架，揭示了几何变形如何引入有效的哈密顿项，从而允许 CD 协议在物理上可行的弯曲波导系统中实现。光束传播方法 (BPM) 模拟证实了 500 秒内的完整光传输和最小非绝热跃迁\n                    <jats：斜体切换=“是”>μ</ jats：斜体>\n                    m 弯曲耦合器，验证了理论预测。除了减少长度之外，该方法还提供了确定性设计规则，并为绝热光子组件的捷径铺平了道路，以保持对结构扰动的鲁棒性。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.581941",
+            "title": "High-resolution Dante spectrometer based on quasi-monochromatic multilayer mirror array for soft X-ray spectral measurement in plasma diagnostics",
+            "link": "https://doi.org/10.1364/oe.581941",
+            "published": "2026-01-20",
+            "author": "Hao Xu, Ke Dong, Ermeng Zhang, Huiyao Du, Haoxuan Si, Jun Chen, Yongtang Liu, Zhe Zhang, Zhanshan Wang, Bo Tang, Shengzhen Yi",
+            "summary": "<jats:p>Soft X-ray spectroscopic diagnostics based on Dante spectrometers are essential for evaluating plasma conditions driven by Z-pinch or laser fusion. A Dante spectrometer configuration capable of achieving low spectral measurement uncertainty remains a bottleneck problem at present. This paper develops a quantitative uncertainty-analysis framework for Dante spectrometers employing an array of quasi-monochromatic multilayer mirrors. Accordingly, we further developed a set of practical methods, including the precise synchrotron radiation calibration and optimized spectrometer installation, to effectively suppress these measurement uncertainties. For implementation, we developed a Dante spectrometer covering 100–1000 eV and validated it on a Z-pinch platform. The relative expanded uncertainty of individual channels was maintained within 2%–3%, and the reconstructed spectral-distribution uncertainty was better than 3.2%.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "基于准单色多层镜阵列的高分辨率 Dante 光谱仪，用于等离子体诊断中的软 X 射线光谱测量",
+            "abstract_cn": "<jats:p>基于 Dante 光谱仪的软 X 射线光谱诊断对于评估 Z 箍缩或激光聚变驱动的等离子体条件至关重要。能够实现低光谱测量不确定度的 Dante 光谱仪配置目前仍然是一个瓶颈问题。本文为采用准单色多层镜阵列的 Dante 光谱仪开发了一种定量不确定性分析框架。因此，我们进一步开发了一套实用的方法，包括精确的同步辐射校准和优化光谱仪安装，以有效抑制这些测量不确定性。为了实现这一点，我们开发了覆盖 100–1000 eV 的 Dante 光谱仪，并在 Z 夹点平台上对其进行了验证。各通道相对扩展不确定度保持在2%~3%以内，重建光谱分布不确定度优于3.2%。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.585194",
+            "title": "Multifunctional chip-scale plasmonic optical tweezers enabled by a polarization- and wavelength-dependent metasurface",
+            "link": "https://doi.org/10.1364/oe.585194",
+            "published": "2026-01-12",
+            "author": "Ying Yu, Cheng Chi, Lanqi Lian, Dan Wang, Qiao Jiang",
+            "summary": "<jats:p>The ability of surface plasmons to confine light at a subwavelength scale enables new perspectives and opportunities in the field of nanotechnology. Making use of this unique advantage, plasmonic trapping techniques have been developed to tackle new challenges in a wide range of areas from physics to biology. However, it is still a challenge to achieve multifunctional chip-scale manipulation of small particles in a single plasmonic device. Here, we proposed a polarization- and wavelength-dependent plasmonic metasurface to realize multifunctional plasmonic optical tweezers. By fully utilizing the polarization and wavelength of light, it is shown that different kinds of SPP fields can be generated, which leads to integration of more than four optical manipulation functions, including plasmonic trapping as well as plasmonic spanner that can control both the rotation direction and radius of trapped particles. Furthermore, the metasurface also enables double-well optical trapping under linear polarization incidence. The proposed multifunctional metasurface facilitates diverse manipulation, which may open up new opportunities in biology, photonics, sensing, and related fields.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "由偏振和波长相关的超表面实现的多功能芯片级等离子体光镊",
+            "abstract_cn": "<jats:p>表面等离子体将光限制在亚波长范围内的能力为纳米技术领域带来了新的视角和机遇。利用这一独特优势，等离子体捕获技术已被开发出来，以应对从物理学到生物学等广泛领域的新挑战。然而，在单个等离子体装置中实现小颗粒的多功能芯片级操控仍然是一个挑战。在这里，我们提出了一种偏振和波长相关的等离子体超表面来实现多功能等离子体光镊。通过充分利用光的偏振和波长，可以产生不同类型的SPP场，从而集成四种以上的光学操纵功能，包括等离子体捕获以及可以控制捕获粒子的旋转方向和半径的等离子体扳手。此外，超表面还能够在线性偏振入射下实现双阱光捕获。所提出的多功能超表面有利于多样化的操作，这可能会在生物学、光子学、传感和相关领域开辟新的机遇。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.579024",
+            "title": "Directional Smith-Purcell radiation via coupled high-index gratings",
+            "link": "https://doi.org/10.1364/oe.579024",
+            "published": "2026-01-20",
+            "author": "Thomas Delplace, Ilyes Bouanati, Gilles Rosolen, Bjorn Maes",
+            "summary": "<jats:p>The emission of light when an electron passes by a periodic photonic structure, called Smith–Purcell radiation (SPR), creates new types of adjustable light sources. Here, we investigate directional or asymmetric SPR from a high-index dielectric double-grating structure. By introducing a lateral shift between the two gratings, we break the symmetry and enable directional emission through interference between coupled Bloch modes, thus without the need for a mirror-type structure as in previous designs. Using full-wave simulations and eigenmode analysis, we identify the modes responsible for radiation and describe their coupling properties. A coupled mode theory (CMT) model is developed to capture the transition between symmetric and asymmetric regimes, offering fast and intuitive insight into the emission behavior. This work highlights a compact and efficient approach for controlling SPR directionality in dielectric photonic structures.</jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "通过耦合高折射率光栅的定向史密斯-珀塞尔辐射",
+            "abstract_cn": "<jats:p>当电子通过周期性光子结构时发出的光，称为史密斯-珀塞尔辐射 (SPR)，创造了新型的可调光源。在这里，我们研究了高折射率介电双光栅结构的定向或非对称 SPR。通过在两个光栅之间引入横向位移，我们打破了对称性，并通过耦合布洛赫模式之间的干涉实现定向发射，因此不需要像以前的设计那样使用镜式结构。通过全波模拟和本征模分析，我们确定了导致辐射的模式并描述了它们的耦合特性。开发了耦合模式理论 (CMT) 模型来捕获对称和不对称状态之间的转变，从而提供对发射行为的快速直观的了解。这项工作突出了一种紧凑而有效的方法来控制介电光子结构中的 SPR 方向性。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.581524",
+            "title": "Machine learning assisted authentication using chaotic diversity index modulation for data centers",
+            "link": "https://doi.org/10.1364/oe.581524",
+            "published": "2026-01-13",
+            "author": "Xinshuai Liang, Chongfu Zhang, Wenjun Zeng, Jiebing Xia, Yue Lin, Yanwei Li",
+            "summary": "<jats:p>\n                    We propose a data center secure communication scheme that uses chaotic diversity index modulation for identity authentication, and design a neural network (NN) that balances decryption and detection for the receiver. Chaotic diversity is obtained from a randomly partitioned standard 16QAM constellation. The watermark is subsequently embedded into the symbol index by leveraging this diversity. Finally, the constructed data frames composed of symbols across different time slots and subcarriers is disrupted, and the watermark is concealed within the massive data transmission. The receiver takes the received signal and chaotic diversity as inputs for the NN to obtain the watermark, and achieves identity authentication by comparing it with the locally stored watermark. The 56.37Gb/s transmission verification was conducted on a 10 km standard single-mode fiber (SSMF), and the results showed that the scheme has high security. The total key space can reach 10\n                    <jats:sup>90</jats:sup>\n                    . The watermark is hidden in the index of the symbol, making it difficult for eavesdroppers to detect. The combination of chaotic diversity and NN can cause data pollution to eavesdroppers, making it difficult to steal the correct NN. The accuracy of NN detection exceeds that of the log-likelihood ratio (LLR) detector, and it can reduce the time complexity of detection by 4 orders of magnitude. The recognition accuracy of watermarks can reach 100% under high optical power, and the legitimate and illegitimate parties can be effectively distinguished, making identity disguise attacks difficult to achieve.\n                  </jats:p>",
+            "journal": "Optics Express",
+            "title_cn": "使用混沌多样性指数调制的数据中心机器学习辅助身份验证",
+            "abstract_cn": "<贾茨：p>\n                    我们提出了一种使用混沌分集索引调制进行身份认证的数据中心安全通信方案，并设计了一个平衡接收器解密和检测的神经网络（NN）。混沌分集是从随机划分的标准 16QAM 星座中获得的。随后通过利用这种多样性将水印嵌入到符号索引中。最后，跨不同时隙和子载波的符号构成的数据帧被打乱，水印隐藏在海量数据传输中。接收器将接收到的信号和混沌分集作为神经网络的输入来获取水印，并通过与本地存储的水印进行比较来实现身份认证。在10 km标准单模光纤(SSMF)上进行了56.37Gb/s传输验证，结果表明该方案具有较高的安全性。总的密钥空间可以达到10个\n                    <贾茨：sup>90</贾茨：sup>\n                    。水印隐藏在符号的索引中，使得窃听者难以察觉。混沌多样性与神经网络的结合会对窃听者造成数据污染，使得窃取正确的神经网络变得困难。 NN检测的精度超过了对数似然比（LLR）检测器，并且可以将检测的时间复杂度降低4个数量级。高光功率下水印识别准确率可达100%，可有效区分合法与非法双方，身份伪装攻击难以实现。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.577600",
+            "title": "Interferometric modal splitting enables broadband, dual-polarization on-chip spectroscopy",
+            "link": "https://doi.org/10.1364/optica.577600",
+            "published": "2025-12-22",
+            "author": "Karl Johnson, Vladimir Fedorov, Dmitrii Belogolovskii, Andrew Grieco, Noah A. Rubin, Yeshaiahu Fainman",
+            "summary": "<jats:p>The modal dispersion of waveguides typically limits integrated photonic devices to operation with a single polarization state. In this work, we propose a generic mode separation technique we call “interferometric mode splitting” (IMS), which enables guided modes to be separated over wide bandwidths with a large extinction ratio. To demonstrate the general principle of IMS, we show that an unmodified thermally driven silicon photonic Fourier transform spectrometer exhibits a polarization-separating effect in the frequency domain, even though only one polarization-insensitive detector is used. Using this effect, we experimentally demonstrate a simple on-chip spectrometer capable of extracting two-polarization spectra over a wide 1480–1630 nm bandwidth with a greater than 20 dB polarization extinction ratio. These specifications would be highly challenging to achieve using existing, conventional on-chip polarization-splitting techniques. Though we focus on this specific realization of IMS, we also show that IMS is general to various on-chip spectrometer architectures, other spatial modes, and technologies other than thermally driven Fourier transform spectrometers. Interferometric mode splitting shows promise as a general approach for robust and fundamentally broadband detection of orthogonal modes in guided-wave sensing.</jats:p>",
+            "journal": "Optica",
+            "title_cn": "干涉模态分裂可实现宽带、双偏振片上光谱",
+            "abstract_cn": "<jats:p>波导的模态色散通常限制集成光子器件只能在单一偏振态下运行。在这项工作中，我们提出了一种称为“干涉模式分离”（IMS）的通用模式分离技术，该技术能够在宽带宽上以大消光比分离导模。为了演示 IMS 的一般原理，我们证明未经修改的热驱动硅光子傅里叶变换光谱仪即使只使用一个偏振不敏感探测器，也能在频域中表现出偏振分离效应。利用这种效应，我们通过实验证明了一种简单的片上光谱仪，能够提取 1480-1630 nm 宽带宽内的双偏振光谱，偏振消光比大于 20 dB。使用现有的传统片上偏振分离技术来实现这些规格将极具挑战性。尽管我们重点关注 IMS 的具体实现，但我们也表明 IMS 对于各种片上光谱仪架构、其他空间模式以及热驱动傅里叶变换光谱仪以外的技术是通用的。干涉模式分裂显示出作为导波传感中正交模式的鲁棒且基本宽带检测的通用方法的前景。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.579339",
+            "title": "Dynamic Windkessel autoregulation for optical hemodynamic imaging: quantifying microcirculation, oxygen diffusion, and vascular autoregulation from low-frequency hemodynamic oscillations",
+            "link": "https://doi.org/10.1364/boe.579339",
+            "published": "2026-01-16",
+            "author": "Yansen Hu, Yang Zheng, Kangyuan Yu, Ruobing Zhang, Mengdi Ma, Tinghua Gao, Jianmin Yang, Xin Jin, Weihao Lin, Min Xu",
+            "summary": "<jats:p>\n                    Hemodynamic-based neuroimaging and non-neuroimaging techniques are widely used in neuroscience and functional studies. Probing spontaneous or induced hemodynamic oscillations by light, such as coherent hemodynamics spectroscopy (CHS), has emerged as an effective approach for quantifying cerebral microcirculation and vascular autoregulation. We introduce dynamic Windkessel autoregulation, which enables noninvasive quantification of microcirculation, oxygen diffusion rates, and vascular autoregulation from low-frequency oscillations (LFOs). The model incorporates arteriole vasomotor responses to blood pressure variations and quantifies autoregulatory capacity using a dimensionless autoregulation gain index\n                    <jats:italic>n</jats:italic>\n                    , which decreases with impaired autoregulation. The model accurately reproduced observed microcirculation and arterial blood flow and volume LFO responses, enabling straightforward quantification of vascular autoregulation. Furthermore, we integrate the model into WK-PIPE CHS and demonstrate recovery of key hemodynamic parameters, including the local tissue oxygen diffusion rate (α=0.179 ± 0.049s\n                    <jats:sup>-1</jats:sup>\n                    ) and vascular autoregulation (\n                    <jats:italic>n</jats:italic>\n                     = 4.68 ± 0.59) on five healthy human subjects imaged with visible structured light under paced breathing. Dynamic Windkessel autoregulation, as a mechanistic framework for vascular autoregulation, offers potential applications in monitoring cerebrovascular and cardiovascular health and early detection of their dysfunction using optical hemodynamic imaging.\n                  </jats:p>",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "用于光学血流动力学成像的动态 Windkessel 自动调节：量化低频血流动力学振荡的微循环、氧扩散和血管自动调节",
+            "abstract_cn": "<贾茨：p>\n                    基于血流动力学的神经影像和非神经影像技术广泛应用于神经科学和功能研究。通过光探测自发或诱发的血流动力学振荡，例如相干血流动力学光谱（CHS），已成为量化脑微循环和血管自动调节的有效方法。我们引入了动态 Windkessel 自动调节，它可以对微循环、氧扩散速率和低频振荡 (LFO) 的血管自动调节进行无创量化。该模型结合了小动脉血管舒缩对血压变化的反应，并使用无量纲自动调节增益指数量化自动调节能力\n                    <jats:斜体>n</jats:斜体>\n                    ，随着自动调节受损而减少。该模型准确地再现了观察到的微循环和动脉血流量以及 LFO 容量反应，从而能够直接量化血管自动调节。此外，我们将该模型集成到 WK-PIPE CHS 中，并证明关键血流动力学参数的恢复，包括局部组织氧扩散率 (α=0.179 ± 0.049s\n                    <贾茨：sup>-1</贾茨：sup>\n                    ）和血管自动调节（\n                    <jats:斜体>n</jats:斜体>\n                     = 4.68 ± 0.59）对五名健康人类受试者在有节奏的呼吸下用可见结构光成像。动态 Windkessel 自动调节作为血管自动调节的机械框架，在监测脑血管和心血管健康以及使用光学血流动力学成像早期检测其功能障碍方面提供了潜在的应用。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.582969",
+            "title": "Anisotropic dual-band mid infrared absorber using graphene–black phosphorene nanocrescents",
+            "link": "https://doi.org/10.1364/optcon.582969",
+            "published": "2025-12-15",
+            "author": "Zeinab Zanbouri, Mohammad Sabaeian",
+            "summary": "<jats:p>We propose and numerically investigate an anisotropic dual-band infrared absorber based on a hybrid graphene–black phosphorus nanocrescent architecture. The designed metastructure exhibits two spectrally distinct and polarization-dependent absorption peaks with efficiencies exceeding 85%, arising from strong plasmon–polariton hybridization and anisotropic charge carrier dynamics. Graphene contributes tunable surface plasmon resonances through electrostatic gating, while black phosphorus provides in-plane anisotropy and broadband light–matter interaction. Finite-element method (FEM) simulations reveal that the absorption response can be actively modulated by adjusting the graphene Fermi level and the geometric parameters of the nanocrescent, enabling dynamic control over the resonance wavelengths. The proposed absorber operates in the mid-infrared range, making it highly promising for applications in molecular sensing, photodetection, and tunable optoelectronic devices. Our results highlight the potential of combining two-dimensional materials with engineered plasmonic nanostructures to realize multifunctional, reconfigurable, and polarization-sensitive infrared photonic devices.</jats:p>",
+            "journal": "Optics Continuum",
+            "title_cn": "使用石墨烯-黑磷烯纳米月牙的各向异性双波段中红外吸收体",
+            "abstract_cn": "<jats:p>我们提出并数值研究了一种基于混合石墨烯-黑磷纳米月牙结构的各向异性双波段红外吸收器。设计的元结构表现出两个光谱上不同且与偏振相关的吸收峰，其效率超过 85%，这是由强等离激元-极化子杂化和各向异性电荷载流子动力学产生的。石墨烯通过静电门控提供可调谐的表面等离子体共振，而黑磷则提供面内各向异性和宽带光-物质相互作用。有限元法（FEM）模拟表明，可以通过调整石墨烯费米能级和纳米月牙的几何参数来主动调制吸收响应，从而实现对共振波长的动态控制。所提出的吸收器在中红外范围内工作，使其在分子传感、光电检测和可调谐光电器件中的应用非常有前景。我们的研究结果凸显了将二维材料与工程等离子体纳米结构相结合以实现多功能、可重构和偏振敏感的红外光子器件的潜力。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.576225",
+            "title": "Polarization-insensitive arrayed waveguide grating based on a half-etched polarization beam rotator/splitter",
+            "link": "https://doi.org/10.1364/optcon.576225",
+            "published": "2026-01-15",
+            "author": "Xiheng Ai, Wei-Lun Hsu, Yang Zhang, Sylvain Veilleux, Mario Dagenais",
+            "summary": "<jats:p>\n                    In this paper, we present what we believe to be a new solution to the polarization-insensitive AWG, which utilizes a ridged polarization beam rotator/splitter on the 300 nm\n                    <jats:italic toggle=\"yes\">Si</jats:italic>\n                    <jats:sub>3</jats:sub>\n                    <jats:italic toggle=\"yes\">N</jats:italic>\n                    <jats:sub>4</jats:sub>\n                    platform. For the polarization beam rotator/splitter, we optimize the design and demonstrate an extinction ratio of 18 dB. With our polarization rotator/splitter and the multi-input AWG fabricated on the same chip, we show a good spectrometer performance for both TE and TM polarizations, with a contrast ratio around 18 dB. Our design offers a polarization-insensitive spectrometer that can be fabricated using a simple, fully CMOS-compatible process while maintaining a broad operational wavelength range.\n                  </jats:p>",
+            "journal": "Optics Continuum",
+            "title_cn": "基于半蚀刻偏振光束旋转器/分束器的偏振不敏感阵列波导光栅",
+            "abstract_cn": "<贾茨：p>\n                    在本文中，我们提出了一种我们认为是偏振不敏感 AWG 的新解决方案，该解决方案在 300 nm 波长上利用脊状偏振光束旋转器/分光器\n                    <jats:italictoggle=\"yes\">Si</jats:italic>\n                    <贾茨：子>3</贾茨：子>\n                    <jats：斜体切换=“是”> N</ jats：斜体>\n                    <贾茨：子>4</贾茨：子>\n                    平台。对于偏振光束旋转器/分光器，我们优化了设计并展示了 18 dB 的消光比。通过在同一芯片上制造我们的偏振旋转器/分光器和多输入 AWG，我们在 TE 和 TM 偏振方面表现出良好的光谱仪性能，对比度约为 18 dB。我们的设计提供了一种对偏振不敏感的光谱仪，可以使用简单、完全 CMOS 兼容的工艺来制造，同时保持广泛的工作波长范围。\n                  </贾茨：p>"
         }
     ]
 }

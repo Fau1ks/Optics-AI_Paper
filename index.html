@@ -185,24 +185,24 @@
         .link-box { display: block; background: #e6f6ff; color: #0366d6; padding: 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; word-break: break-all; border: 1px solid #bfe3ff; text-align: center; font-weight: 500; }
         .link-box:hover { background: #cceeff; }
 
-        /* 摘要样式 - 新增 */
+        /* 摘要样式 - 已优化：去除多余空白，强制普通换行 */
         .abstract-box {
             background-color: #f0f3f6;
             color: #24292e;
-            padding: 12px;
+            padding: 10px;
             border-radius: 6px;
-            font-size: 14px;
-            line-height: 1.6;
+            font-size: 13px;
+            line-height: 1.5;
             margin-top: 10px;
             margin-bottom: 10px;
             border: 1px solid #e1e4e8;
-            white-space: pre-line; /* 保留换行符，但合并空白 */
+            white-space: normal; /* 强制不保留源代码中的换行 */
             text-align: justify;
         }
         .abstract-title {
             font-weight: bold;
             display: block;
-            margin-bottom: 5px;
+            margin-bottom: 0px; /* 去除标题下方的空白行 */
             color: #0366d6;
             font-size: 12px;
         }
@@ -279,7 +279,7 @@
             }
         }
 
-        /* 顶部设置区域容器 (整合语言和摘要开关) */
+        /* 顶部设置区域容器 */
         .top-settings-container {
             position: absolute;
             top: 20px;
@@ -287,7 +287,7 @@
             display: flex;
             flex-direction: column;
             align-items: flex-end;
-            gap: 10px; /* 两个控件之间的间距 */
+            gap: 10px; 
             z-index: 1001;
         }
 
@@ -324,7 +324,7 @@
             background-color: #f0f6fc;
         }
 
-        /* 摘要开关样式 */
+        /* 摘要开关样式 - 已修改：激活变蓝 */
         .abstract-toggle-btn {
             background: white;
             color: #555;
@@ -338,11 +338,13 @@
             display: flex;
             align-items: center;
             gap: 5px;
+            font-weight: 500;
         }
+        /* 激活状态：改为蓝色 #0366d6 */
         .abstract-toggle-btn.active {
-            background-color: #2ea44f;
+            background-color: #0366d6;
             color: white;
-            border-color: #2ea44f;
+            border-color: #0366d6;
         }
         .abstract-toggle-btn:hover {
             transform: translateY(-1px);
@@ -378,7 +380,6 @@
             <button id="btn-en" class="lang-option" onclick="setLanguage('en')">English</button>
         </div>
         <button id="btn-abstract" class="abstract-toggle-btn" onclick="toggleAbstracts()">
-            <span id="abstract-icon">👁️</span> 
             <span id="abstract-text">显示摘要</span>
         </button>
     </div>
@@ -560,14 +561,15 @@
                 .replace(/'/g, "&#039;");
         }
 
-        // 清洗摘要文本，去除 <jats:p> 等标签
+        // 清洗摘要文本
         function cleanAbstract(text) {
             if (!text) return "";
-            // 1. 替换 <jats:p> 等标签为空字符串 (仅去除标签保留内容)
+            // 1. 去除 HTML 标签
             let cleaned = text.replace(/<[^>]+>/g, "");
-            // 2. 将 HTML 实体转回，或者直接保留，因为最终会放入 innerHTML 或 textContent
-            // 这里为了安全和格式，我们去除标签后，让 CSS 处理换行
-            // 如果 JSON 中原本就有 \n，保留之
+            // 2. 将换行符等替换为空格，防止单词粘连，或者直接删除看需求。
+            // 这里为了保证是一段话，将换行符替换为空格
+            cleaned = cleaned.replace(/[\r\n]+/g, " ");
+            // 3. 去除首尾空白
             return cleaned.trim();
         }
 
@@ -628,13 +630,8 @@
                 if (searchInput && searchInput.value.trim() !== "") {
                     searchPapers();
                 } else {
-                    renderPapers(allPapersData, document.querySelectorAll('.article-detail[style*="block"]').length > 0); 
-                    // 这里传入第二个参数不完全准确，但主要是为了刷新DOM。
-                    // 理想情况应该记录哪些被展开了，但简化处理，直接重绘即可，虽然会重置展开状态。
-                    // 为了用户体验，我们重绘时默认不全部展开，除非之前搜索过滤中。
-                    // 如果用户只是切换摘要开关，列表会折叠起来。如果希望保持展开，需要更复杂的逻辑。
-                    // 现在的 renderPapers 默认行为是 collapse 的。
-                    // 修正：renderPapers 会重置 HTML，所以所有展开项都会关闭。这在切换设置时是可以接受的。
+                    // 默认不展开详情，只是重新生成HTML结构
+                    renderPapers(allPapersData, false); 
                 }
             }
         }
@@ -820,7 +817,7 @@
                 
                 papers.forEach(paper => {
                     let mainTitle, subTitle;
-                    let abstractContent = ''; // 摘要内容
+                    let abstractContent = ''; 
                     
                     // 1. 处理标题语言
                     if (currentLang === 'zh') {
@@ -834,23 +831,18 @@
                     // 2. 处理摘要逻辑
                     if (isShowAbstract) {
                         let rawAbstract = "";
-                        // 如果当前是中文，且有中文摘要，则显示中文。否则尝试英文摘要。
                         if (currentLang === 'zh') {
                             rawAbstract = paper.abstract_cn || paper.summary || "暂无摘要";
                         } else {
                             rawAbstract = paper.summary || paper.abstract_cn || "No abstract available";
                         }
                         
-                        // 清洗标签，只留纯文本
+                        // 清洗标签 + 去除换行符
                         const cleanText = cleanAbstract(rawAbstract);
                         
                         if (cleanText) {
-                            abstractContent = `
-                                <div class="abstract-box">
-                                    <span class="abstract-title">${t.abstractLabel}</span>
-                                    ${cleanText}
-                                </div>
-                            `;
+                            // 注意：这里的模板字符串去除了多余的换行，防止 HTML 解析出空白行
+                            abstractContent = `<div class="abstract-box"><span class="abstract-title">${t.abstractLabel}</span>${cleanText}</div>`;
                         }
                     }
 
@@ -871,9 +863,7 @@
                                 <div style="font-size:13px; color:#555; margin:10px 0; line-height:1.4;">
                                     <strong>${t.authorLabel}</strong> ${author}
                                 </div>
-
                                 ${abstractContent}
-                                
                                 <a href="${idLink}" target="_blank" class="link-box">🔗 ${idLink}</a>
                             </div>
                         </div>
@@ -901,8 +891,7 @@
                 const titleEn = (paper.title || '').toLowerCase();
                 const titleCn = (paper.title_cn || '').toLowerCase();
                 const author = (paper.author || '').toLowerCase();
-                // 搜索时把原始的带标签的字符串也纳入搜索，防止清洗后丢失信息，
-                // 或者用户想搜特定术语
+                // 搜索时把原始的带标签的字符串也纳入搜索
                 const abstractEn = (paper.summary || '').toLowerCase();
                 const abstractCn = (paper.abstract_cn || '').toLowerCase();
 

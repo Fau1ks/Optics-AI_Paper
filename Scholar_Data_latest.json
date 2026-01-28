@@ -1,618 +1,408 @@
 [
     {
-        "title": "Decentralized Partial Model Personalization with Guaranteed Nonconvex Convergence",
-        "title_cn": "具有保证非凸收敛性的去中心化部分模型个性化",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11359328/",
-        "time": "2026-01-28 15:58:46",
-        "push_time": "2026-01-28 11:15:00"
+        "title": "Low-Rank Spectral-Spatial Super-Resolution of Hyperspectral Images Using KAN-based GAN",
+        "title_cn": "使用基于 KAN 的 GAN 实现高光谱图像的低阶光谱空间超分辨率",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11333346/",
+        "time": "2026-01-29 00:04:51",
+        "push_time": "2026-01-28 18:48:52"
     },
     {
-        "title": "and Congenital Color Deficiencies",
-        "title_cn": "和先天性颜色缺陷",
-        "link": "https://books.google.com/books?hl=zh-CN&lr=&id=0P61EQAAQBAJ&oi=fnd&pg=PA1&ots=ePLCoUgvYH&sig=XT39JK5ewnONPHeFNfeWlX-zxms",
-        "time": "2026-01-28 15:58:47",
-        "push_time": "2026-01-28 11:14:56"
+        "title": "Single‐Pixel Multispectral Imaging With Customized Pixelated Spectral Mask Plate",
+        "title_cn": "使用定制像素化光谱掩模板进行单像素多光谱成像",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202503207",
+        "time": "2026-01-29 00:04:53",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Integrated photonic devices engineered on subwavelength grating waveguides–A review",
-        "title_cn": "基于亚波长光栅波导的集成光子器件——综述",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226000654",
-        "time": "2026-01-28 15:58:48",
-        "push_time": "2026-01-28 11:14:52"
+        "title": "Corrigendum to “Spectrum Analysis for Multirate Sampling of Multiband Signals in the Fractional Fourier Domain”[Digital Signal Processing 171 (2026) 105842/ISSN …",
+        "title_cn": "“分数傅里叶域中多频带信号多速率采样的频谱分析”​​勘误表[数字信号处理 171 (2026) 105842/ISSN …",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1051200426000278",
+        "time": "2026-01-29 00:04:55",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Coherent Mode Decoupling: A Versatile Framework for High-Throughput Partially Coherent Light Transport",
-        "title_cn": "相干模式解耦：高吞吐量部分相干光传输的多功能框架",
-        "link": "https://arxiv.org/pdf/2601.15776",
-        "time": "2026-01-28 15:58:48",
-        "push_time": "2026-01-28 11:14:52"
+        "title": "Optical video encryption using iterative phase retrieval and multimodal chaotic maps",
+        "title_cn": "使用迭代相位检索和多模态混沌图的光学视频加密",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030401826000994",
+        "time": "2026-01-29 00:04:55",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Incoherent Multi-Depth-of-Field Edge Imaging Based on Single Metalens",
-        "title_cn": "基于单超透镜的非相干多景深边缘成像",
-        "link": "https://preprints.opticaopen.org/articles/preprint/Incoherent_Multi-Depth-of-Field_Edge_Imaging_Based_on_Single_Metalens/31072714/1/files/61027756.pdf",
-        "time": "2026-01-28 15:58:49",
-        "push_time": "2026-01-28 11:14:52"
+        "title": "Majorization-Minimization Networks for Inverse Problems: An Application to EEG Imaging",
+        "title_cn": "逆问题的主化-最小化网络：脑电图成像的应用",
+        "link": "https://hal.science/hal-05473673/document",
+        "time": "2026-01-29 00:04:57",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Deep learning-based high-resolution Radon transform and its application to multiple elimination",
-        "title_cn": "基于深度学习的高分辨率Radon变换及其在多重消除中的应用",
-        "link": "https://academic.oup.com/jge/advance-article-pdf/doi/10.1093/jge/gxag020/66557040/gxag020.pdf",
-        "time": "2026-01-28 15:58:50",
-        "push_time": "2026-01-28 11:14:48"
+        "title": "Pixel-to-4D: Camera-Controlled Image-to-Video Generation with Dynamic 3D Gaussians",
+        "title_cn": "像素到 4D：利用动态 3D 高斯函数生成相机控制的图像到视频",
+        "link": "https://arxiv.org/pdf/2601.00678",
+        "time": "2026-01-29 00:05:00",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Multi-Indicator Latent Factorization of Tensors for Spatio-Temporal Signal Recovery",
-        "title_cn": "用于时空信号恢复的张量多指标潜在因式分解",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11322899/",
-        "time": "2026-01-28 15:58:51",
-        "push_time": "2026-01-28 11:14:48"
+        "title": "FlowBlending: Stage-Aware Multi-Model Sampling for Fast and High-Fidelity Video Generation",
+        "title_cn": "FlowBlending：阶段感知多模型采样，用于快速、高保真视频生成",
+        "link": "https://arxiv.org/pdf/2512.24724",
+        "time": "2026-01-29 00:05:01",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "DELTA: Deep Low-Rank Tensor Representation for Multi-Dimensional Data Recovery",
-        "title_cn": "DELTA：用于多维数据恢复的深度低秩张量表示",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11231348/",
-        "time": "2026-01-28 15:58:52",
-        "push_time": "2026-01-28 11:14:48"
+        "title": "It's Never Too Late: Noise Optimization for Collapse Recovery in Trained Diffusion Models",
+        "title_cn": "永远不会太晚：经过训练的扩散模型中崩溃恢复的噪声优化",
+        "link": "https://arxiv.org/pdf/2601.00090",
+        "time": "2026-01-29 00:05:01",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Robust Deep Recovery Model with Spatial-Spectral Total Generalized Variation Prior for Hyperspectral Image Denoising",
-        "title_cn": "用于高光谱图像去噪的具有空间光谱总广义变分先验的鲁棒深度恢复模型",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11269695/",
-        "time": "2026-01-28 15:58:52",
-        "push_time": "2026-01-28 11:14:48"
+        "title": "MonoPrior-Fusion: Monocular-Prior-Guided Multi-Frame Depth Estimation with Multi-Scale Geometric Fusion",
+        "title_cn": "MonoPrior-Fusion：具有多尺度几何融合的单目先验引导多帧深度估计",
+        "link": "https://www.mdpi.com/1424-8220/26/2/712",
+        "time": "2026-01-29 00:05:02",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Neural Network Embedded With Maximum Likelihood Phase Retrieval for Photonics-Aided Wireless Transmission System at 0.33–0.52 THz",
-        "title_cn": "用于 0.33–0.52 THz 光子辅助无线传输系统的嵌入最大似然相位检索的神经网络",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11346493/",
-        "time": "2026-01-28 15:58:53",
-        "push_time": "2026-01-28 11:14:44"
+        "title": "LSTD: Long Short-Term Temporal Diffusion for Video Generation",
+        "title_cn": "LSTD：用于视频生成的长短期时间扩散",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11345153/",
+        "time": "2026-01-29 00:05:03",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Off-axis digital holographic microscope with extended field-of-view",
-        "title_cn": "具有扩展视场的离轴数字全息显微镜",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226001040",
-        "time": "2026-01-28 15:58:53",
-        "push_time": "2026-01-28 11:14:44"
+        "title": "FoodDiff: A Collaborative Relationship Perception Framework for Food Image Synthesis Using Diffusion Models",
+        "title_cn": "FoodDiff：使用扩散模型进行食品图像合成的协作关系感知框架",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11359532/",
+        "time": "2026-01-29 00:05:04",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Design and Experimental Validation of a Line-Laser Autofocusing System with Extended Working Range",
-        "title_cn": "具有扩展工作范围的线激光自动聚焦系统的设计和实验验证",
-        "link": "https://ieeexplore.ieee.org/iel8/4563994/4814557/11359988.pdf",
-        "time": "2026-01-28 15:58:54",
-        "push_time": "2026-01-28 11:14:44"
+        "title": "SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings",
+        "title_cn": "SCE-SLAM：通过场景坐标嵌入实现尺度一致的单目 SLAM",
+        "link": "https://arxiv.org/pdf/2601.09665",
+        "time": "2026-01-29 00:05:05",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Lensless Hypercentric Imaging using Digital Holography",
-        "title_cn": "使用数字全息术的无透镜超中心成像",
-        "link": "https://jeos.edpsciences.org/articles/jeos/pdf/forth/jeos20250094.pdf",
-        "time": "2026-01-28 15:58:54",
-        "push_time": "2026-01-28 11:14:44"
+        "title": "PGgraf: Pose-Guided generative radiance field for novel-views on X-ray",
+        "title_cn": "PGgraf：用于 X 射线新颖视图的姿势引导生成辐射场",
+        "link": "https://www.sciencedirect.com/science/article/pii/S014193822600017X",
+        "time": "2026-01-29 00:05:06",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Wavefront-driven optimization for high-quality hologram generation",
-        "title_cn": "用于高质量全息图生成的波前驱动优化",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0143816626000345",
-        "time": "2026-01-28 15:58:55",
-        "push_time": "2026-01-28 11:14:41"
+        "title": "CASL: Concept-Aligned Sparse Latents for Interpreting Diffusion Models",
+        "title_cn": "CASL：用于解释扩散模型的概念对齐稀疏潜伏",
+        "link": "https://arxiv.org/pdf/2601.15441",
+        "time": "2026-01-29 00:05:08",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Meta-amplified dark-field interferometric scattering microscopy",
-        "title_cn": "元放大暗场干涉散射显微镜",
-        "link": "https://www.nature.com/articles/s41467-026-68697-6_reference.pdf",
-        "time": "2026-01-28 15:58:55",
-        "push_time": "2026-01-28 11:14:41"
+        "title": "A Decoupled 3D Gaussian Splatting Method for Real-Time High-Fidelity Dynamic Scene Reconstruction",
+        "title_cn": "一种用于实时高保真动态场景重建的解耦 3D 高斯分布方法",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0950705126000651",
+        "time": "2026-01-29 00:05:10",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Special-Purpose Computer for Holography HORN-X Enhanced With Separable Convolution Architecture",
-        "title_cn": "采用可分离卷积架构增强的全息专用计算机 HORN-X",
-        "link": "https://ieeexplore.ieee.org/iel8/6287639/6514899/11346469.pdf",
-        "time": "2026-01-28 15:58:56",
-        "push_time": "2026-01-28 11:14:41"
+        "title": "MOSAIC-GS: Monocular Scene Reconstruction via Advanced Initialization for Complex Dynamic Environments",
+        "title_cn": "MOSAIC-GS：通过复杂动态环境的高级初始化进行单目场景重建",
+        "link": "https://arxiv.org/pdf/2601.05368",
+        "time": "2026-01-29 00:05:11",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Hologram design framework: reconstruction area of volumetric beam shaping",
-        "title_cn": "全息图设计框架：体积光束整形重建区域",
-        "link": "https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-5-2-342",
-        "time": "2026-01-28 15:58:56",
-        "push_time": "2026-01-28 11:14:41"
+        "title": "FGTBT: Frequency-guided task-balancing transformer for unified facial landmark detection",
+        "title_cn": "FGTBT：用于统一面部标志检测的频率引导任务平衡变压器",
+        "link": "https://arxiv.org/pdf/2601.12863",
+        "time": "2026-01-29 00:05:12",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "COMPRESSION AND COMPUTATION METHODS FOR COMPUTER-GENERATED HOLOGRAPHY",
-        "title_cn": "计算机全息图的压缩和计算方法",
-        "link": "https://macsphere.mcmaster.ca/bitstreams/7284434d-68f0-4146-b518-cf070608d0df/download",
-        "time": "2026-01-28 15:58:57",
-        "push_time": "2026-01-28 11:14:41"
+        "title": "Time‐Varying 3D Gaussian Splatting Representation for Dynamic Scenes",
+        "title_cn": "动态场景的时变 3D 高斯泼溅表示",
+        "link": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.70280",
+        "time": "2026-01-29 00:05:13",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Compound Meta-Optics for Advanced Optical Engineering",
-        "title_cn": "用于高级光学工程的复合超光学",
-        "link": "https://www.mdpi.com/1424-8220/26/3/792",
-        "time": "2026-01-28 15:58:57",
-        "push_time": "2026-01-28 11:14:37"
+        "title": "StableDPT: Temporal Stable Monocular Video Depth Estimation",
+        "title_cn": "StableDPT：时间稳定单目视频深度估计",
+        "link": "https://arxiv.org/pdf/2601.02793",
+        "time": "2026-01-29 00:05:14",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "High-Speed Image Restoration Based on a Dynamic Vision Sensor",
-        "title_cn": "基于动态视觉传感器的高速图像恢复",
-        "link": "https://www.mdpi.com/1424-8220/26/3/781",
-        "time": "2026-01-28 15:58:58",
-        "push_time": "2026-01-28 11:14:37"
+        "title": "Robust Dynamic SPECT Reconstruction with Scarce Angular and Limited Temporal Sampling",
+        "title_cn": "具有稀缺角度和有限时间采样的鲁棒动态 SPECT 重建",
+        "link": "https://www.researchsquare.com/article/rs-8451652/latest.pdf",
+        "time": "2026-01-29 00:05:16",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "High-capacity and robust information transmission using generalized random structured beams and deep learning-based decoding",
-        "title_cn": "使用广义随机结构波束和基于深度学习的解码进行高容量和鲁棒的信息传输",
-        "link": "https://www.researchsquare.com/article/rs-8482044/latest.pdf",
-        "time": "2026-01-28 15:58:58",
-        "push_time": "2026-01-28 11:14:37"
+        "title": "X2Fashion: temporally consistent fashion video generation guided by image, pose and text",
+        "title_cn": "X2Fashion：由图像、姿势和文本引导的时间一致的时尚视频生成",
+        "link": "https://link.springer.com/article/10.1007/s00530-025-02136-2",
+        "time": "2026-01-29 00:05:16",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Flexible manipulation of longitudinal polarization vortices by superposed cylindrical vector optical field",
-        "title_cn": "叠加柱面矢量光场灵活操控纵向偏振涡旋",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0960077926000937",
-        "time": "2026-01-28 15:58:59",
-        "push_time": "2026-01-28 11:14:37"
+        "title": "GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection",
+        "title_cn": "GVSynergy-Det：用于多视图 3D 对象检测的协同高斯体素表示",
+        "link": "https://arxiv.org/pdf/2512.23176",
+        "time": "2026-01-29 00:05:17",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Deep Lightweight Unrolled Network for High Dynamic Range Modulo Imaging",
-        "title_cn": "用于高动态范围模成像的深度轻量级展开网络",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11358663/",
-        "time": "2026-01-28 15:59:00",
-        "push_time": "2026-01-28 11:14:37"
+        "title": "Transition Matching Distillation for Fast Video Generation",
+        "title_cn": "用于快速视频生成的过渡匹配蒸馏",
+        "link": "https://arxiv.org/pdf/2601.09881",
+        "time": "2026-01-29 00:05:18",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "FaceSplat: A Lightweight, Prior-Guided Framework for High-Fidelity 3D Face Reconstruction from a Single Image",
-        "title_cn": "FaceSplat：一种轻量级的先验引导框架，用于从单个图像重建高保真 3D 人脸",
-        "link": "https://nsh423.github.io/assets/publications/paper_1_3d_face_generation.pdf",
-        "time": "2026-01-28 15:59:00",
-        "push_time": "2026-01-28 11:14:33"
+        "title": "Uncertainty-Aware Gaussian Splatting with View-Dependent Regularization for High-Fidelity 3D Reconstruction",
+        "title_cn": "用于高保真 3D 重建的不确定性感知高斯泼溅与视图相关正则化",
+        "link": "https://diglib.eg.org/bitstreams/b0b2e772-11b0-4281-a89b-e18bacd02b44/download",
+        "time": "2026-01-29 00:05:20",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "SwiftCraft3D: semantic-enhanced multi-view prompting for efficient and high-fidelity text-to-3D generation",
-        "title_cn": "SwiftCraft3D：语义增强的多视图提示，可实​​现高效、高保真的文本到 3D 生成",
-        "link": "https://link.springer.com/article/10.1007/s00371-025-04322-9",
-        "time": "2026-01-28 15:59:01",
-        "push_time": "2026-01-28 11:14:33"
+        "title": "6G Single‐Pixel Meta‐Encryption with Ultra‐Robustness",
+        "title_cn": "具有超鲁棒性的 6G 单像素元加密",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202502566",
+        "time": "2026-01-29 00:05:21",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "DS3former: Dual-Stream Semantic Separation Transformer for Single Image Reflection Separation",
-        "title_cn": "DS3former：用于单图像反射分离的双流语义分离转换器",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11353473/",
-        "time": "2026-01-28 15:59:01",
-        "push_time": "2026-01-28 11:14:33"
+        "title": "Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation",
+        "title_cn": "超越修复：释放 3D 理解，实现精确的摄像机控制视频生成",
+        "link": "https://arxiv.org/pdf/2601.10214",
+        "time": "2026-01-29 00:05:23",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors",
-        "title_cn": "ExposeAnyone：个性化音频到表情扩散模型是强大的零样本面部伪造检测器",
-        "link": "https://arxiv.org/pdf/2601.02359",
-        "time": "2026-01-28 15:59:02",
-        "push_time": "2026-01-28 11:14:33"
+        "title": "Parameter-efficient fine-tuning for no-reference image quality assessment: Empirical studies on vision transformer",
+        "title_cn": "无参考图像质量评估的参数高效微调：视觉变压器的实证研究",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0141938226000028",
+        "time": "2026-01-29 00:05:24",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "UIKA: Fast Universal Head Avatar from Pose-Free Images",
-        "title_cn": "UIKA：来自无姿势图像的快速通用头部头像",
-        "link": "https://arxiv.org/pdf/2601.07603",
-        "time": "2026-01-28 15:59:02",
-        "push_time": "2026-01-28 11:14:33"
+        "title": "SegEdit: Image Editing via Semantic Mask Segmentation and Shape Injection Within Diffusion Model",
+        "title_cn": "SegEdit：通过扩散模型中的语义掩模分割和形状注入进行图像编辑",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0957417426001363",
+        "time": "2026-01-29 00:05:25",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Voxel-MPI: Scene-Adaptive Multiplane Images based Local Voxel Tokenization with Attention Coordination for 3D Scene Representation",
-        "title_cn": "Voxel-MPI：基于局部体素标记的场景自适应多平面图像，具有用于 3D 场景表示的注意力协调",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0167865526000164",
-        "time": "2026-01-28 15:59:03",
-        "push_time": "2026-01-28 11:14:33"
+        "title": "Edit2Restore: Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models",
+        "title_cn": "Edit2Restore：通过预训练编辑模型的参数高效适应进行少镜头图像恢复",
+        "link": "https://arxiv.org/pdf/2601.03391",
+        "time": "2026-01-29 00:05:26",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Self-Supervised Contrastive Learning and GAN-Based Denoising for High-Fidelity HumanNeRF Images",
-        "title_cn": "高保真 HumanNeRF 图像的自监督对比学习和基于 GAN 的去噪",
-        "link": "https://www.mdpi.com/1424-8220/26/1/249",
-        "time": "2026-01-28 15:59:03",
-        "push_time": "2026-01-28 11:14:33"
+        "title": "RcFormer: Reconfigurable Self-Attention Transformer for Image Restoration",
+        "title_cn": "RcFormer：用于图像恢复的可重构自注意力变压器",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11329481/",
+        "time": "2026-01-29 00:05:28",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Guiding Token-Sparse Diffusion Models",
-        "title_cn": "指导代币稀疏扩散模型",
-        "link": "https://arxiv.org/pdf/2601.01608",
-        "time": "2026-01-28 15:59:04",
-        "push_time": "2026-01-28 11:14:33"
+        "title": "Rethinking low-light image enhancement: A local-global synergy perspective",
+        "title_cn": "重新思考微光图像增强：局部-全局协同视角",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0141938226000119",
+        "time": "2026-01-29 00:05:29",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "3DGA: 3D Avatar Animation from Monocular Video via Deformable Gaussian Splatting",
-        "title_cn": "3DGA：通过可变形高斯溅射从单眼视频生成 3D 头像动画",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0031320325016942",
-        "time": "2026-01-28 15:59:04",
-        "push_time": "2026-01-28 11:14:33"
+        "title": "InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields",
+        "title_cn": "InfiniDepth：具有神经隐式场的任意分辨率和细粒度深度估计",
+        "link": "https://arxiv.org/pdf/2601.03252",
+        "time": "2026-01-29 00:05:31",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction",
-        "title_cn": "AdaGaR：用于动态场景重建的自适应 Gabor 表示",
-        "link": "https://arxiv.org/pdf/2601.00796",
-        "time": "2026-01-28 15:59:05",
-        "push_time": "2026-01-28 11:14:33"
+        "title": "Generative Scenario Rollouts for End-to-End Autonomous Driving",
+        "title_cn": "端到端自动驾驶的生成场景推出",
+        "link": "https://arxiv.org/pdf/2601.11475",
+        "time": "2026-01-29 00:05:32",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Deep Video Coding with Bit-Depth Scalability",
-        "title_cn": "具有位深度可扩展性的深度视频编码",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11329493/",
-        "time": "2026-01-28 15:59:05",
-        "push_time": "2026-01-28 11:14:30"
+        "title": "WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments",
+        "title_cn": "WildRayZer：动态环境中的自监督大视图合成",
+        "link": "https://arxiv.org/pdf/2601.10716",
+        "time": "2026-01-29 00:05:33",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Single-Photon Imaging in Complex Scenarios via Physics-Informed Deep Neural Networks",
-        "title_cn": "通过物理信息深度神经网络在复杂场景中进行单光子成像",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11355376/",
-        "time": "2026-01-28 15:59:06",
-        "push_time": "2026-01-28 11:14:30"
+        "title": "UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving",
+        "title_cn": "UniDrive-WM：统一理解、规划和生成自动驾驶世界模型",
+        "link": "https://arxiv.org/pdf/2601.04453",
+        "time": "2026-01-29 00:05:33",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Learning Dual Modality Interactions for Event-based Motion Deblurring",
-        "title_cn": "学习双模态交互以实现基于事件的运动去模糊",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11353454/",
-        "time": "2026-01-28 15:59:06",
-        "push_time": "2026-01-28 11:14:30"
+        "title": "EEnvA-Mamba: Effective and Environtology-aware Adaptive Mamba for Road Object Detection in Adverse Weather Scenes",
+        "title_cn": "EEnvA-Mamba：有效且环境感知的自适应 Mamba，用于恶劣天气场景中的道路物体检测",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0031320326000907",
+        "time": "2026-01-29 00:05:34",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Vector-vortex beam identification via optical correlation using deconvolution-derived filter design",
-        "title_cn": "使用反卷积导出的滤波器设计通过光学相关进行矢量涡旋光束识别",
-        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226001362",
-        "time": "2026-01-28 15:59:07",
-        "push_time": "2026-01-28 11:14:30"
+        "title": "Kinematic Priors Guide Generative Trajectory Planning for Autonomous Vehicles",
+        "title_cn": "运动学先验指南自动驾驶车辆的生成轨迹规划",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0031320326000245",
+        "time": "2026-01-29 00:05:36",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "An Adaptive Depth Processing System Based on Foundation Transformers and Time-of-Flight Fusion",
-        "title_cn": "基于基础变压器和飞行时间融合的自适应深度处理系统",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11300285/",
-        "time": "2026-01-28 15:59:07",
-        "push_time": "2026-01-28 11:14:30"
+        "title": "From Rays to Projections: Better Inputs for Feed-Forward View Synthesis",
+        "title_cn": "从光线到投影：前馈视图合成的更好输入",
+        "link": "https://arxiv.org/pdf/2601.05116",
+        "time": "2026-01-29 00:05:37",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Seismic Denoising Based on Convolutional Dictionary Learning With ADMM",
-        "title_cn": "基于ADMM卷积字典学习的地震去噪",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11310787/",
-        "time": "2026-01-28 15:59:08",
-        "push_time": "2026-01-28 11:14:30"
+        "title": "SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time",
+        "title_cn": "SpaceTimePilot：跨空间和时间的动态场景的生成渲染",
+        "link": "https://arxiv.org/pdf/2512.25075",
+        "time": "2026-01-29 00:05:39",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Vision-Based Human Pose Estimation for Intelligent Sports Training and Teaching Assistance",
-        "title_cn": "基于视觉的人体姿态估计，用于智能运动训练和教学辅助",
-        "link": "https://www.researchsquare.com/article/rs-8622977/latest.pdf",
-        "time": "2026-01-28 15:59:08",
-        "push_time": "2026-01-28 11:14:30"
+        "title": "Delving into Pre-training for Domain Transfer: A Broad Study of Pre-training for Domain Generalization and Domain Adaptation: Wi et al.",
+        "title_cn": "深入研究域迁移的预训练：域泛化和域适应预训练的广泛研究：Wi 等人。",
+        "link": "https://link.springer.com/article/10.1007/s11263-025-02590-5",
+        "time": "2026-01-29 00:05:41",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Improving Image Captioning for Chinese Cultural Relics with Diffusion Language Models",
-        "title_cn": "用扩散语言模型改进中国文物的图像描述",
-        "link": "https://dl.acm.org/doi/pdf/10.1145/3793547",
-        "time": "2026-01-28 15:59:09",
-        "push_time": "2026-01-28 11:14:26"
+        "title": "AT-adapter: Leveraging attribute knowledge of CLIP for few-shot classification",
+        "title_cn": "AT 适配器：利用 CLIP 的属性知识进行少样本分类",
+        "link": "https://www.sciencedirect.com/science/article/pii/S092523122600024X",
+        "time": "2026-01-29 00:05:41",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "EinsPT: Efficient Instance-Aware Pre-Training of Vision Foundation Models",
-        "title_cn": "EinsPT：视觉基础模型的高效实例感知预训练",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11353396/",
-        "time": "2026-01-28 15:59:10",
-        "push_time": "2026-01-28 11:14:26"
+        "title": "Efficient Neural Representations for Videos with Motion-Aided Quality",
+        "title_cn": "具有运动辅助质量的视频的高效神经表示",
+        "link": "https://books.google.com/books?hl=zh-CN&lr=&id=U52lEQAAQBAJ&oi=fnd&pg=PA184&ots=v6osRcEYtH&sig=1Gi4YnHsmYQXpoC1_JR_nP2IWdc",
+        "time": "2026-01-29 00:05:43",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "A Novel Knowledge Distillation Method for Graph Neural Networks with Gradient Mapping and Fusion",
-        "title_cn": "一种基于梯度映射和融合的图神经网络知识蒸馏新方法",
-        "link": "https://www.sciencedirect.com/science/article/pii/S1566253526000424",
-        "time": "2026-01-28 15:59:10",
-        "push_time": "2026-01-28 11:14:26"
+        "title": "PRCSL: A privacy-preserving continual split learning framework for decentralized medical diagnosis",
+        "title_cn": "PRCSL：用于去中心化医疗诊断的隐私保护持续分裂学习框架",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2666827025002117",
+        "time": "2026-01-29 00:05:44",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Mechanisms of Prompt-Induced Hallucination in Vision-Language Models",
-        "title_cn": "视觉语言模型中即时诱发幻觉的机制",
-        "link": "https://arxiv.org/pdf/2601.05201",
-        "time": "2026-01-28 15:59:11",
-        "push_time": "2026-01-28 11:14:26"
+        "title": "Key-Value Pair-Free Continual Learner via Task-Specific Prompt-Prototype",
+        "title_cn": "通过特定任务提示原型的无键值对持续学习器",
+        "link": "https://arxiv.org/pdf/2601.04864",
+        "time": "2026-01-29 00:05:44",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "SGD-Based Knowledge Distillation with Bayesian Teachers: Theory and Guidelines",
-        "title_cn": "贝叶斯教师基于 SGD 的知识蒸馏：理论和指南",
-        "link": "https://arxiv.org/pdf/2601.01484",
-        "time": "2026-01-28 15:59:11",
-        "push_time": "2026-01-28 11:14:26"
+        "title": "Support Vector–Guided Class-Incremental Learning: Discriminative Replay with Dual-Alignment Distillation.",
+        "title_cn": "支持向量引导的类增量学习：具有双对齐蒸馏的判别性重放。",
+        "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15462218&AN=190966219&h=l5CCjKWedoRldUomFe6LbEpph%2FkbmWADuS0A9AeSZCcpq5I%2FrHLhCtyoZQedIq%2BvMQcGtUBmjVj1R6i7inFP1w%3D%3D&crl=c",
+        "time": "2026-01-29 00:05:46",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "COP: CrOss-View Attention Prompt for Zero-Shot Sketch-Based Image Retrieval",
-        "title_cn": "COP：基于零镜头草图的图像检索的跨视图注意提示",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11353916/",
-        "time": "2026-01-28 15:59:12",
-        "push_time": "2026-01-28 11:14:26"
+        "title": "Lithography Alignment Technologies: A Comprehensive Review of Advances and Challenges",
+        "title_cn": "光刻对准技术：进展与挑战的全面回顾",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202501998",
+        "time": "2026-01-29 00:05:49",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Towards Bidirectional Adaptability for Few-Shot Class-Incremental Learning With Forward-Backward Knowledge Transfer",
-        "title_cn": "通过前向-后向知识迁移实现少样本类增量学习的双向适应性",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11329432/",
-        "time": "2026-01-28 15:59:12",
-        "push_time": "2026-01-28 11:14:26"
+        "title": "Optical Intelligent Reflecting Surface-assisted NOMA for VLC System: Fundamentals, Potentials, Open Research Issues, and Future Trends",
+        "title_cn": "VLC 系统的光学智能反射表面辅助 NOMA：基础知识、潜力、开放研究问题和未来趋势",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1573427726000111",
+        "time": "2026-01-29 00:05:50",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Leveraging Prediction Entropy for Automatic Prompt Weighting in Zero-Shot Audio-Language Classification",
-        "title_cn": "利用预测熵在零样本音频语言分类中进行自动提示加权",
-        "link": "https://arxiv.org/pdf/2601.05011",
-        "time": "2026-01-28 15:59:13",
-        "push_time": "2026-01-28 11:14:26"
+        "title": "NIR Metalens Achromatic Imaging Enabled by NAFGAN with Physics‐Constrained Training",
+        "title_cn": "NAFGAN 通过物理约束训练实现近红外超透镜消色差成像",
+        "link": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adom.202502400",
+        "time": "2026-01-29 00:05:51",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "PIC-CMH: Efficient Prompt-Infused Continual Cross-Modal Hashing",
-        "title_cn": "PIC-CMH：高效的提示注入连续跨模式哈希",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11341891/",
-        "time": "2026-01-28 15:59:13",
-        "push_time": "2026-01-28 11:14:26"
+        "title": "Carrier-free phase retrieval of dual-polarization QAM signals aided by polarization rotation estimation",
+        "title_cn": "偏振旋转估计辅助的双偏振 QAM 信号的无载波相位恢复",
+        "link": "https://opg.optica.org/viewmedia.cfm?uri=oe-34-2-3153&seq=0&html=true",
+        "time": "2026-01-29 00:05:53",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "High-Performance Personalized Federated Continual Learning Framework for Dynamic Data Sharing in IoV",
-        "title_cn": "用于车联网动态数据共享的高性能个性化联合持续学习框架",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11352803/",
-        "time": "2026-01-28 15:59:14",
-        "push_time": "2026-01-28 11:14:26"
+        "title": "Omnidirectional‐Incidence On‐Chip Meta‐Optics Enabling Massive 3D Holographic Storage",
+        "title_cn": "全向入射片上元光学器件支持海量 3D 全息存储",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202502562",
+        "time": "2026-01-29 00:05:55",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "TexGS-VolVis: Expressive scene editing for volume visualization via textured Gaussian splatting",
-        "title_cn": "TexGS-VolVis：通过纹理高斯泼溅进行体积可视化的富有表现力的场景编辑",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11262779/",
-        "time": "2026-01-28 15:59:15",
-        "push_time": "2026-01-28 11:14:21"
+        "title": "Unsupervised lensless image reconstruction driven by structure consistency modeling in low-light scenarios",
+        "title_cn": "低光场景下结构一致性建模驱动的无监督无透镜图像重建",
+        "link": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14000/1400022/Unsupervised-lensless-image-reconstruction-driven-by-structure-consistency-modeling-in/10.1117/12.3092879.short",
+        "time": "2026-01-29 00:05:56",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "SeparateGen: Semantic Component-based 3D Character Generation from Single Images",
-        "title_cn": "SeparateGen：从单个图像生成基于语义组件的 3D 角色",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11342401/",
-        "time": "2026-01-28 15:59:15",
-        "push_time": "2026-01-28 11:14:21"
+        "title": "Challenges in Forensic Analysis of Compressed and Low-Resolution Videos",
+        "title_cn": "压缩和低分辨率视频取证分析的挑战",
+        "link": "https://www.igi-global.com/chapter/challenges-in-forensic-analysis-of-compressed-and-low-resolution-videos/400201",
+        "time": "2026-01-29 00:05:58",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "FaceCLIP: CLIP-driven accurate and detailed 3D face reconstruction from a single image",
-        "title_cn": "FaceCLIP：通过 CLIP 驱动，从单个图像进行精确且详细的 3D 人脸重建",
-        "link": "https://ieeexplore.ieee.org/iel8/10750449/10901938/11262758.pdf",
-        "time": "2026-01-28 15:59:16",
-        "push_time": "2026-01-28 11:14:21"
+        "title": "When digital holography meets crystallography: unlocking new frontiers in mineral crystallization",
+        "title_cn": "当数字全息术遇到晶体学：解锁矿物结晶的新领域",
+        "link": "https://pubs.rsc.org/en/content/articlehtml/2026/ce/d5ce00955c",
+        "time": "2026-01-29 00:05:59",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Multiscale Feature Fusion Spatial-channel Attention Network for Infrared Small Target Segmentation",
-        "title_cn": "用于红外小目标分割的多尺度特征融合空间通道注意网络",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11358782/",
-        "time": "2026-01-28 15:59:16",
-        "push_time": "2026-01-28 11:14:21"
+        "title": "PIPN: Physics-inspired phase retrieval network for propagation-based X-ray phase-contrast imaging",
+        "title_cn": "PIPN：基于物理的相位检索网络，用于基于传播的 X 射线相衬成像",
+        "link": "https://opg.optica.org/viewmedia.cfm?uri=ol-51-2-460&seq=0&html=true",
+        "time": "2026-01-29 00:06:00",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Clothed human reconstruction from RGB data: A survey of traditional and diffusion-based methods",
-        "title_cn": "根据 RGB 数据重建穿着衣服的人体：传统方法和基于扩散的方法的调查",
-        "link": "https://link.springer.com/article/10.1007/s44443-025-00460-1",
-        "time": "2026-01-28 15:59:17",
-        "push_time": "2026-01-28 11:14:21"
+        "title": "A flexible deconvolution-based reconstruction pipeline for Edge Illumination phase-contrast Computed Tomography",
+        "title_cn": "用于边缘照明相衬计算机断层扫描的灵活的基于反卷积的重建管道",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2949673X25000348",
+        "time": "2026-01-29 00:06:02",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion",
-        "title_cn": "ActionMesh：具有时间 3D 扩散的动画 3D 网格生成",
-        "link": "https://arxiv.org/pdf/2601.16148",
-        "time": "2026-01-28 15:59:17",
-        "push_time": "2026-01-28 11:14:21"
+        "title": "Spatio-temporal microfluidic reconstruction via compressive dark-field digital holography",
+        "title_cn": "通过压缩暗场数字全息术进行时空微流体重建",
+        "link": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-1-477",
+        "time": "2026-01-29 00:06:02",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Hierarchical Bayesian Guided Spatial-, Angular-and Temporal-Consistent View Synthesis",
-        "title_cn": "分层贝叶斯引导空间、角度和时间一致的视图合成",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11241215/",
-        "time": "2026-01-28 15:59:18",
-        "push_time": "2026-01-28 11:14:21"
+        "title": "Compressive dark-field autofocusing for in-line digital holography",
+        "title_cn": "用于在线数字全息的压缩暗场自动对焦",
+        "link": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14000/140003X/Compressive-dark-field-autofocusing-for-in-line-digital-holography/10.1117/12.3093657.short",
+        "time": "2026-01-29 00:06:04",
+        "push_time": "2026-01-28 18:11:15"
     },
     {
-        "title": "Psa-nerf: Personalized spatial attention neural rendering for audio-driven talking portraits generation",
-        "title_cn": "Psa-nerf：用于音频驱动的说话肖像生成的个性化空间注意神经渲染",
-        "link": "https://ieeexplore.ieee.org/iel8/9970761/11322770/11322846.pdf",
-        "time": "2026-01-28 15:59:18",
-        "push_time": "2026-01-28 11:14:21"
-    },
-    {
-        "title": "Sketch-based Extreme Underwater Image Compression Network",
-        "title_cn": "基于草图的极端水下图像压缩网络",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11251299/",
-        "time": "2026-01-28 15:59:19",
-        "push_time": "2026-01-28 11:14:21"
-    },
-    {
-        "title": "Mining Temporal Redundancy Using Long Short-Term Motion Aggregation and Global-Local Decorrelation for Learned Video Compression",
-        "title_cn": "使用长短期运动聚合和全局局部解相关来挖掘时间冗余以进行学习视频压缩",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11270498/",
-        "time": "2026-01-28 15:59:20",
-        "push_time": "2026-01-28 11:14:21"
-    },
-    {
-        "title": "A Comprehensive Benchmark for Spatiotemporal Tensor-Based Infrared Small Target Detection",
-        "title_cn": "基于时空张量的红外小目标检测的综合基准",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11333368/",
-        "time": "2026-01-28 15:59:21",
-        "push_time": "2026-01-27 08:28:08"
-    },
-    {
-        "title": "FSFNet: Frequency–Spatial-Domain Fusion Network for Infrared Small Target Detection",
-        "title_cn": "FSFNet：用于红外小目标检测的频空域融合网络",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11322558/",
-        "time": "2026-01-28 15:59:22",
-        "push_time": "2026-01-27 08:28:08"
-    },
-    {
-        "title": "Local Low-Rankness and Double Autoregression: A Tensor Completion Framework for Space-Based Radio Environment Mapping",
-        "title_cn": "局部低秩和双重自回归：天基无线电环境测绘的张量完成框架",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11352829/",
-        "time": "2026-01-28 15:59:23",
-        "push_time": "2026-01-27 08:28:08"
-    },
-    {
-        "title": "Self-Supervised Denoising of Seismic Data Using a True 3D Global Attention Convolutional Network",
-        "title_cn": "使用真正的 3D 全局注意力卷积网络对地震数据进行自监督去噪",
-        "link": "https://link.springer.com/article/10.1007/s13369-025-10974-5",
-        "time": "2026-01-28 15:59:24",
-        "push_time": "2026-01-27 08:28:08"
-    },
-    {
-        "title": "OT-AD: Optimal Transport-Guided Transformer for Hyperspectral Anomaly Detection",
-        "title_cn": "OT-AD：用于高光谱异常检测的最佳传输引导变压器",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11358434/",
-        "time": "2026-01-28 15:59:25",
-        "push_time": "2026-01-27 08:28:08"
-    },
-    {
-        "title": "Infrared Small Target Detection with Frequency Guidance and Aliasing Rectification",
-        "title_cn": "带频率引导和混叠校正的红外小目标检测",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11361204/",
-        "time": "2026-01-28 15:59:26",
-        "push_time": "2026-01-27 08:28:08"
-    },
-    {
-        "title": "PQGNet: Perceptual Query Guided Network for Infrared Small Target Detection",
-        "title_cn": "PQGNet：用于红外小目标检测的感知查询引导网络",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11352975/",
-        "time": "2026-01-28 15:59:27",
-        "push_time": "2026-01-27 08:28:08"
-    },
-    {
-        "title": "Hyperspectral Image Target Detection Based on Graph Structure Sampling and Aggregation",
-        "title_cn": "基于图结构采样和聚合的高光谱图像目标检测",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11352724/",
-        "time": "2026-01-28 15:59:28",
-        "push_time": "2026-01-27 08:28:08"
-    },
-    {
-        "title": "MEETNet: Morphology-Edge Enhanced Triple-Stage Network for Infrared Small Target Detection",
-        "title_cn": "MEETNet：用于红外小目标检测的形态学边缘增强三级网络",
-        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11340625.pdf",
-        "time": "2026-01-28 15:59:29",
-        "push_time": "2026-01-27 08:28:08"
-    },
-    {
-        "title": "Local-Motion Mamba With Frequency-Guided for Moving Infrared Small Target Detection",
-        "title_cn": "带有频率引导的本地运动 Mamba 用于移动红外小目标检测",
-        "link": "https://ieeexplore.ieee.org/iel8/8859/4357975/11352796.pdf",
-        "time": "2026-01-28 15:59:30",
-        "push_time": "2026-01-27 08:28:08"
-    },
-    {
-        "title": "IRPNet: Infrared Small Target Detection via RGB Prior Guidance and Physics Feature Fusion",
-        "title_cn": "IRPNet：通过 RGB 先验引导和物理特征融合进行红外小目标检测",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11348967/",
-        "time": "2026-01-28 15:59:31",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "Refining False Detections: An Efficient Network Focused on Error-Prone Regions in Infrared Small Target Detection",
-        "title_cn": "改进错误检测：专注于红外小目标检测中容易出错区域的高效网络",
-        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11347587.pdf",
-        "time": "2026-01-28 15:59:32",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "IE-TV: Structural Information Enhanced 3-D Weighted Correlated Total Variation for Hyperspectral Image Denoising",
-        "title_cn": "IE-TV：用于高光谱图像去噪的结构信息增强型 3D 加权相关总变分",
-        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11320271.pdf",
-        "time": "2026-01-28 15:59:33",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "A general two-stage framework of tensor low-rank representation for enhanced image denoising and clustering",
-        "title_cn": "用于增强图像去噪和聚类的张量低秩表示的通用两阶段框架",
-        "link": "https://link.springer.com/article/10.1007/s00138-025-01785-7",
-        "time": "2026-01-28 15:59:34",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers",
-        "title_cn": "使用轻量级分离光谱变压器进行高效高光谱图像重建",
-        "link": "https://arxiv.org/pdf/2601.01064",
-        "time": "2026-01-28 15:59:35",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "MSIA: A Multiscale Interactive Attention Network Assisted by Self-Supervised Contrastive Learning for Hyperspectral Image Classification",
-        "title_cn": "MSIA：用于高光谱图像分类的自监督对比学习辅助的多尺度交互式注意力网络",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11320908/",
-        "time": "2026-01-28 15:59:36",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "Low-Rank Gradient Guidance With Mutual-Guided Mamba for Hyperspectral Pansharpening",
-        "title_cn": "用于高光谱全色锐化的低阶梯度引导与相互引导 Mamba",
-        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11359004.pdf",
-        "time": "2026-01-28 15:59:37",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "SAR-W-MixMAE: Polarization-Aware Self-Supervised Pretraining for Masked Autoencoders on SAR Data",
-        "title_cn": "SAR-W-MixMAE：SAR 数据上屏蔽自动编码器的偏振感知自监督预训练",
-        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11344788.pdf",
-        "time": "2026-01-28 15:59:38",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "NLSDR-Net: A Lightweight Nonlocal Spatial Disparity Refinement Network for Robust and Real-Time Stereo Matching",
-        "title_cn": "NLSDR-Net：用于鲁棒实时立体匹配的轻量级非局部空间视差细化网络",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11319345/",
-        "time": "2026-01-28 15:59:39",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "Generalized Subspace Coupling Approach for Robust Low-Tubal-Rank Tensor Completion",
-        "title_cn": "鲁棒低管阶张量补全的广义子空间耦合方法",
-        "link": "https://ieeexplore.ieee.org/abstract/document/11223220/",
-        "time": "2026-01-28 15:59:40",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "Methods, Datasets, and Prospects for Hyperspectral Image Denoising: A Comprehensive Survey",
-        "title_cn": "高光谱图像去噪的方法、数据集和前景：综合调查",
-        "link": "https://ieeexplore.ieee.org/iel8/4609443/4609444/11345127.pdf",
-        "time": "2026-01-28 15:59:41",
-        "push_time": "2026-01-26 05:34:57"
-    },
-    {
-        "title": "SHARE: A Fully Unsupervised Framework for Single Hyperspectral Image Restoration",
-        "title_cn": "分享：单张高光谱图像恢复的完全无监督框架",
-        "link": "https://arxiv.org/pdf/2601.13987",
-        "time": "2026-01-28 15:59:42",
-        "push_time": "2026-01-25 06:43:05"
-    },
-    {
-        "title": "Principal Component Analysis-Based Terahertz Self-Supervised Denoising and Deblurring Deep Neural Networks",
-        "title_cn": "基于主成分分析的太赫兹自监督去噪和去模糊深度神经网络",
-        "link": "https://arxiv.org/pdf/2601.12149",
-        "time": "2026-01-28 15:59:44",
-        "push_time": "2026-01-25 06:43:05"
-    },
-    {
-        "title": "Coupled Diffusion Posterior Sampling for Unsupervised Hyperspectral and Multispectral Images Fusion",
-        "title_cn": "用于无监督高光谱和多光谱图像融合的耦合扩散后采样",
-        "link": "https://pubmed.ncbi.nlm.nih.gov/41477791/",
-        "time": "2026-01-28 15:59:45",
-        "push_time": "2026-01-25 06:43:05"
-    },
-    {
-        "title": "Anisotropic Tensor Deconvolution of Hyperspectral Images",
-        "title_cn": "高光谱图像的各向异性张量反卷积",
-        "link": "https://arxiv.org/pdf/2601.11694",
-        "time": "2026-01-28 15:59:46",
-        "push_time": "2026-01-25 06:43:05"
-    },
-    {
-        "title": "FeedbackSTS-Det: Sparse Frames-Based Spatio-Temporal Semantic Feedback Network for Infrared Small Target Detection",
-        "title_cn": "FeedbackSTS-Det：基于稀疏帧的时空语义反馈网络，用于红外小目标检测",
-        "link": "https://arxiv.org/abs/2601.14690",
-        "time": "2026-01-28 15:59:47",
-        "push_time": "2026-01-25 06:43:05"
-    },
-    {
-        "title": "Infrared small UAV target detection via depthwise separable residual dense attention network",
-        "title_cn": "基于深度可分离残差密集注意力网络的红外小型无人机目标检测",
-        "link": "https://www.sciencedirect.com/science/article/pii/S1047320325003177",
-        "time": "2026-01-28 15:59:48",
-        "push_time": "2026-01-25 06:43:05"
-    },
-    {
-        "title": "Research on infrared small/weak target detection algorithm based on deep learning",
-        "title_cn": "基于深度学习的红外小/弱目标检测算法研究",
-        "link": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14005/140050M/Research-on-infrared-small-weak-target-detection-algorithm-based-on/10.1117/12.3093063.short",
-        "time": "2026-01-28 15:59:50",
-        "push_time": "2026-01-25 06:43:05"
+        "title": "All‐Optical Circle Fitting via Vortex‐Antivortex Convolution Merging Within a Single Metasurface",
+        "title_cn": "通过在单个超表面内合并涡旋-反涡旋卷积进行全光圆拟合",
+        "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202502257",
+        "time": "2026-01-29 00:06:07",
+        "push_time": "2026-01-28 18:11:15"
     }
 ]

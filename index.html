@@ -350,6 +350,9 @@
         <div id="scholarTitle" class="reading-title" style="color: #C8595D;">🎓 Google Scholar Monitor</div>
         <div style="text-align: center; margin-bottom: 20px;">
             <a id="scholarDownloadBtn" href="#" class="scholar-download-btn">🔍 Searching Scholar Summary...</a>
+            
+            <div id="scholarPushTime" class="update-time" style="color: #C8595D; margin-top: 8px; font-size: 13px; display:none;"></div>
+            <div id="scholarCrawlTime" class="update-time" style="color: #24292e; margin-top: 5px; font-size: 13px; display:none;"></div>
             <div id="scholarUpdateStatus" class="tips">Secret Mode Activated</div>
         </div>
         
@@ -431,7 +434,9 @@
                 // Scholar 翻译
                 scholarTitle: '🎓 Google Scholar 实时监控',
                 scholarBtnPrefix: '📄 下载 Scholar 汇总：',
-                scholarSearchPlaceholder: '🔍 搜索 Google Scholar 标题或链接...' 
+                scholarSearchPlaceholder: '🔍 搜索 Google Scholar 标题或链接...',
+                scholarTimePrefix: '📧 最新邮件推送时间：', // 【新增】
+                scholarCrawlTimePrefix: '🕷️ 系统抓取时间：'   // 【新增】
             },
             'en': {
                 pageTitle: 'Latest Optics + AI Paper Feed',
@@ -458,7 +463,9 @@
                 // Scholar 翻译
                 scholarTitle: '🎓 Google Scholar Monitor',
                 scholarBtnPrefix: '📄 Download Scholar Summary: ',
-                scholarSearchPlaceholder: '🔍 Search Google Scholar titles or links...' 
+                scholarSearchPlaceholder: '🔍 Search Google Scholar titles or links...',
+                scholarTimePrefix: '📧 Latest Email Push: ', // 【新增】
+                scholarCrawlTimePrefix: '🕷️ System Crawl Time: ' // 【新增】
             }
         };
 
@@ -589,11 +596,11 @@
                 }
 
                 if (!papers || papers.length === 0) {
-                     const t = langData[currentLang];
-                     btn.innerText = t.noData;
-                     btn.style.backgroundColor = "#666"; 
-                     timeDiv.style.display = 'none';
-                     return;
+                      const t = langData[currentLang];
+                      btn.innerText = t.noData;
+                      btn.style.backgroundColor = "#666"; 
+                      timeDiv.style.display = 'none';
+                      return;
                 }
 
                 allPapersData = papers;
@@ -898,6 +905,31 @@
                  sBtn.innerText = t.scholarBtnPrefix + sBtn.dataset.filename;
              }
              document.getElementById('scholarSearchInput').placeholder = t.scholarSearchPlaceholder;
+             
+             // =========== 【修改代码】 更新两个时间的语言前缀 ===========
+             
+             // 1. 更新邮件推送时间
+             const pushTimeDiv = document.getElementById('scholarPushTime');
+             if (pushTimeDiv.innerText.includes(':')) {
+                 let parts = pushTimeDiv.innerText.split('：'); 
+                 if (parts.length < 2) parts = pushTimeDiv.innerText.split(': '); 
+                 if (parts.length >= 2) {
+                      const timePart = parts.slice(1).join(': ');
+                      pushTimeDiv.innerText = t.scholarTimePrefix + timePart;
+                 }
+             }
+
+             // 2. 更新系统抓取时间
+             const crawlTimeDiv = document.getElementById('scholarCrawlTime');
+             if (crawlTimeDiv.innerText.includes(':')) {
+                 let parts = crawlTimeDiv.innerText.split('：'); 
+                 if (parts.length < 2) parts = crawlTimeDiv.innerText.split(': '); 
+                 if (parts.length >= 2) {
+                      const timePart = parts.slice(1).join(': ');
+                      crawlTimeDiv.innerText = t.scholarCrawlTimePrefix + timePart;
+                 }
+             }
+             // ====================================================
         }
 
         function fetchScholarData() {
@@ -907,10 +939,52 @@
                 .then(data => {
                     window.scholarDataCache = data; 
                     renderScholarList(data);
+                    
+                    // =========== 【修改代码】 处理两个时间显示 ===========
+                    const pushTimeDiv = document.getElementById('scholarPushTime');
+                    const crawlTimeDiv = document.getElementById('scholarCrawlTime');
+                    const t = langData[currentLang];
+                    
+                    if (data && data.length > 0) {
+                        // 查找最新的 push_time 和 time
+                        let latestPush = "";
+                        let latestCrawl = "";
+                        
+                        data.forEach(item => {
+                            if (item.push_time && item.push_time > latestPush) {
+                                latestPush = item.push_time;
+                            }
+                            if (item.time && item.time > latestCrawl) {
+                                latestCrawl = item.time;
+                            }
+                        });
+
+                        // 显示邮件推送时间
+                        if (latestPush) {
+                            pushTimeDiv.innerText = t.scholarTimePrefix + latestPush;
+                            pushTimeDiv.style.display = 'block';
+                        } else {
+                            pushTimeDiv.style.display = 'none';
+                        }
+
+                        // 显示系统抓取时间
+                        if (latestCrawl) {
+                            crawlTimeDiv.innerText = t.scholarCrawlTimePrefix + latestCrawl;
+                            crawlTimeDiv.style.display = 'block';
+                        } else {
+                            crawlTimeDiv.style.display = 'none';
+                        }
+                    } else {
+                        pushTimeDiv.style.display = 'none';
+                        crawlTimeDiv.style.display = 'none';
+                    }
+                    // ==============================================
                 })
                 .catch(err => {
                     console.error("Scholar Data Error", err);
                     document.getElementById('scholarContent').innerHTML = "<div class='no-result'>Load Failed.</div>";
+                    document.getElementById('scholarPushTime').style.display = 'none';
+                    document.getElementById('scholarCrawlTime').style.display = 'none';
                 });
         }
 

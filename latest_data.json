@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-28 10:40:29",
+    "update_time": "2026-01-28 10:45:59",
     "word_filename": "Optical_Papers_260128.docx",
-    "total_count": 294,
+    "total_count": 298,
     "data": [
         {
             "id": "https://doi.org/10.1364/oe.587678",
@@ -19005,6 +19005,50 @@
             "journal": "Optics Continuum",
             "title_cn": "基于半蚀刻偏振光束旋转器/分束器的偏振不敏感阵列波导光栅",
             "abstract_cn": "<贾茨：p>\n                    在本文中，我们提出了一种我们认为是偏振不敏感 AWG 的新解决方案，该解决方案在 300 nm 波长上利用脊状偏振光束旋转器/分光器\n                    <jats:italictoggle=\"yes\">Si</jats:italic>\n                    <贾茨：子>3</贾茨：子>\n                    <jats：斜体切换=“是”> N</ jats：斜体>\n                    <贾茨：子>4</贾茨：子>\n                    平台。对于偏振光束旋转器/分光器，我们优化了设计并展示了 18 dB 的消光比。通过在同一芯片上制造我们的偏振旋转器/分光器和多输入 AWG，我们在 TE 和 TM 偏振方面表现出良好的光谱仪性能，对比度约为 18 dB。我们的设计提供了一种对偏振不敏感的光谱仪，可以使用简单、完全 CMOS 兼容的工艺来制造，同时保持广泛的工作波长范围。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.574489",
+            "title": "Continuous-wave laser source at the 148  nm nuclear transition of Th-229",
+            "link": "https://doi.org/10.1364/optica.574489",
+            "published": "2025-12-16",
+            "author": "Vishal Lal, Maksim V. Okhapkin, Johannes Tiedau, Niels Irwin, Valentin Petrov, Ekkehard Peik",
+            "summary": "<jats:p>\n                    A continuous-wave laser source at 148.4 nm based on\n\t\t\t\t\tsecond-harmonic generation in randomly quasi-phase-matched strontium\n\t\t\t\t\ttetraborate, SrB\n                    <jats:sub>4</jats:sub>\n                    O\n                    <jats:sub>7</jats:sub>\n                    , is demonstrated. It provides 1.3\n                    <jats:sub>−0.6</jats:sub>\n                    <jats:sup>+0.7</jats:sup>\n                    nW of VUV power in a single pass for an\n\t\t\t\t\tincident UV laser power of 325 mW. The laser system is\n\t\t\t\t\tdeveloped for the resonant laser excitation of the\n                    <jats:italic/>\n                    <jats:sup>229</jats:sup>\n                    Th nucleus to its low-energy isomeric\n\t\t\t\t\tstate. For a frequency-stabilized laser system, we expect to reach\n\t\t\t\t\tsimilar VUV power spectral densities as in previous pulsed laser\n\t\t\t\t\texcitation experiments of the nuclear transition in\n                    <jats:italic/>\n                    <jats:sup>229</jats:sup>\n                    Th-doped crystals.\n                  </jats:p>",
+            "journal": "Optica",
+            "title_cn": "Th-229 核跃迁的 148  nm 连续波激光源",
+            "abstract_cn": "<贾茨：p>\n                    基于 148.4 nm 的连续波激光源\n\t\t\t\t\t随机准相位匹配锶中的二次谐波产生\n\t\t\t\t\t四硼酸锶\n                    <贾茨：子>4</贾茨：子>\n                    氧\n                    <贾茨：子>7</贾茨：子>\n                    ，被证明。它提供了1.3\n                    <jats:sub>−0.6</jats:sub>\n                    <贾茨：sup>+0.7</贾茨：sup>\n                    单次通过 nW 的 VUV 功率\n\t\t\t\t\t入射紫外激光功率为 325 mW。激光系统是\n\t\t\t\t\t为共振激光激发而开发\n                    <贾茨：斜体/>\n                    <贾茨：sup>229</贾茨：sup>\n                    Th 核及其低能异构体\n\t\t\t\t\t状态。对于稳频激光系统，我们期望达到\n\t\t\t\t\t与之前的脉冲激光类似的 VUV 功率谱密度\n\t\t\t\t\t核跃迁的激发实验\n                    <贾茨：斜体/>\n                    <贾茨：sup>229</贾茨：sup>\n                    钍掺杂晶体。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.585068",
+            "title": "Wearable frequency-domain near-infrared spectroscopy (FD-NIRS) system",
+            "link": "https://doi.org/10.1364/boe.585068",
+            "published": "2026-01-05",
+            "author": "Shashikant Lahade, Siavash Yazdi, Nicholas Ross, Delaney Smith, Saba Mohammadi, Michael M. Green, Thomas D. O’Sullivan",
+            "summary": "<jats:p>\n                    Frequency-domain near-infrared spectroscopy (FD-NIRS) is a noninvasive in vivo sensing and imaging technique that is used to quantify tissue composition and oxygen metabolism in the brain, muscle, and other tissues. However, the size and complexity of FD-NIRS instrumentation have largely limited its use to laboratory and clinical research settings. To expand the use of FD-NIRS into continuous monitoring applications and in naturalistic environments, we report a novel real-time multi-frequency (50–350 MHz) wearable FD-NIRS system based on a custom application-specific integrated circuit (ASIC). The wearable device includes 685 nm and 850 nm laser diodes and a silicon photomultiplier (SiPM) detector. The system has an optical property accuracy of 0.0007 mm\n                    <jats:sup>−1</jats:sup>\n                    for absorption and 0.08 mm\n                    <jats:sup>−1</jats:sup>\n                    for reduced scattering at a 14.7 Hz measurement rate, evaluated using tissue-simulating phantoms, and is capable of capturing single-frequency measurements up to 1 kHz with both wavelengths. Without a battery, it weighs 37 grams and measures less than 7 x 3 x 3 cm in size. For proof-of-concept, we demonstrate measurement of an arteriovenous occlusion of the human forearm. Overall, this work demonstrates the feasibility of quantitative FD-NIRS tissue optical spectroscopy for wearable health monitoring.\n                  </jats:p>",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "可穿戴频域近红外光谱（FD-NIRS）系统",
+            "abstract_cn": "<贾茨：p>\n                    频域近红外光谱 (FD-NIRS) 是一种无创体内传感和成像技术，用于量化大脑、肌肉和其他组织中的组织成分和氧代谢。然而，FD-NIRS 仪器的尺寸和复杂性在很大程度上限制了其在实验室和临床研究环境中的使用。为了将 FD-NIRS 的使用扩展到连续监测应用和自然环境中，我们报告了一种基于定制专用集成电路 (ASIC) 的新型实时多频 (50–350 MHz) 可穿戴 FD-NIRS 系统。该可穿戴设备包括 685 nm 和 850 nm 激光二极管以及硅光电倍增管 (SiPM) 探测器。系统光学特性精度达到0.0007mm\n                    <jats:sup>−1</jats:sup>\n                    用于吸收和 0.08 mm\n                    <jats:sup>−1</jats:sup>\n                    用于减少 14.7 Hz 测量速率下的散射，使用组织模拟体模进行评估，并且能够使用两种波长捕获高达 1 kHz 的单频测量结果。不含电池时，其重量为 37 克，尺寸不到 7 x 3 x 3 厘米。为了进行概念验证，我们演示了人类前臂动静脉闭塞的测量。总体而言，这项工作证明了定量 FD-NIRS 组织光谱用于可穿戴健康监测的可行性。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.575050",
+            "title": "Nano-enhancement of the machine learning assisted laser-induced breakdown spectroscopic analysis of human blood serum samples for breast cancer detection",
+            "link": "https://doi.org/10.1364/optcon.575050",
+            "published": "2025-12-15",
+            "author": "Ayesha Israr, Hafeez Anwar, Sajid Bashir, Muhammad Zahid, Yasir Jamil",
+            "summary": "<jats:p>Detecting cancer early is crucial for successful therapy and improved survival rates. In our study, we classified cancerous and non-cancerous blood serum samples using ML and nano-enhancement techniques. Both supervised (decision tree, discriminant analysis, regression, ensemble, SVM, KNN, and NN) and unsupervised (PCA) ML algorithms were employed for elemental detection and classification. The blood used for LIBS analysis was intravenous blood from patients. The serum was separated by centrifuging the blood at 4000 rpm for 15 minutes. Additionally, we applied nano-enhanced LIBS (NE-LIBS) to achieve higher accuracy. Au-nanoparticles were synthesized through laser ablation. SPR and band gap of Au-nanoparticles were measured from their UV absorption spectrum. Using micro-drops of these nanoparticles, we significantly enhanced the detection of trace elements in the LIBS signal of serum samples. Notably, the testing accuracy improved across various ML algorithms: decision tree (87.3% to 93.9%), discriminant analysis (85.5% to 99.1%), logistic regression (86.8% to 98%), naïve Bayes (85.1% to 93.9%), SVM (86.6% to 99.3%), KNN (90.1% to 98.5%), Ensemble Learning (85.5% to 98.7%), and neural networks (91.4% to 98.7%). Furthermore, our unsupervised approach by applying PCA revealed distinct clusters for both serum types. This innovative approach will assist physicians in making treatment recommendations for patients with various cancers in the early stages.</jats:p>",
+            "journal": "Optics Continuum",
+            "title_cn": "机器学习辅助激光诱导击穿光谱分析的纳米增强用于乳腺癌检测",
+            "abstract_cn": "<jats:p>早期发现癌症对于成功治疗和提高生存率至关重要。在我们的研究中，我们使用机器学习和纳米增强技术对癌性和非癌性血清样本进行分类。元素检测和分类采用有监督（决策树、判别分析、回归、集成、SVM、KNN 和 NN）和无监督 (PCA) ML 算法。用于LIBS分析的血液是来自患者的静脉血。将血液以4000rpm离心15分钟，分离血清。此外，我们应用纳米增强型 LIBS (NE-LIBS) 来实现更高的精度。通过激光烧蚀合成金纳米颗粒。 Au 纳米颗粒的 SPR 和带隙是通过其紫外吸收光谱测量的。使用这些纳米颗粒的微滴，我们显着增强了血清样品 LIBS 信号中微量元素的检测。值得注意的是，各种机器学习算法的测试准确性均有所提高：决策树（87.3% 至 93.9%）、判别分析（85.5% 至 99.1%）、逻辑回归（86.8% 至 98%）、朴素贝叶斯（85.1% 至 93.9%）、SVM（86.6% 至 99.3%）、KNN（90.1% 至 90.1%） 98.5%）、集成学习（85.5% 至 98.7%）和神经网络（91.4% 至 98.7%）。此外，我们通过应用 PCA 的无监督方法揭示了两种血清类型的不同簇。这种创新方法将帮助医生为各种早期癌症患者提出治疗建议。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.578267",
+            "title": "High-speed narrow linewidth All-PM dispersive swept source for real-time FBG sensor interrogation",
+            "link": "https://doi.org/10.1364/optcon.578267",
+            "published": "2025-12-15",
+            "author": "N. Vaish, P. Long, M. R. K. Soltanian, F. Légaré, L. R. Chen",
+            "summary": "<jats:p>We present an environmentally stable, all-polarization-maintaining (PM) dispersion-based swept source system optimized for narrow linewidth and high-speed wavelength scanning, specifically tailored for fiber Bragg grating (FBG) sensor interrogation. The system integrates a chirped fiber Bragg grating (CFBG) as a highly dispersive element to balance scan speed and spectral resolution, enabling a compact cavity design and stable lasing. The laser achieves precise wavelength tuning over a 40 nm range in the telecom C-band, linewidth around 12 MHz, and an impressive scanning speed exceeding 3 MHz with stable output power of over 20 mW, outperforming mechanically tuned lasers. The all-PM design ensures robustness against environmental perturbations. We validate the performance through static and dynamic characterization, including linewidth narrowing via the spatial hole burning effect. Furthermore, we demonstrate its application in the interrogation of FBG sensor arrays in wavelength division multiplexing (WDM), time division multiplexing (TDM), and hybrid modes, as well as real-time dynamic strain sensing up to 1kHz. These results position the system as a scalable and robust solution for applications requiring rapid spectral acquisition and fine resolution, such as border security, biomedical imaging, and structural health monitoring.</jats:p>",
+            "journal": "Optics Continuum",
+            "title_cn": "用于实时 FBG 传感器询问的高速窄线宽全保偏色散扫频源",
+            "abstract_cn": "<jats:p>我们提出了一种环境稳定、基于全保偏 (PM) 色散的扫频光源系统，针对窄线宽和高速波长扫描进行了优化，专为光纤布拉格光栅 (FBG) 传感器询问而定制。该系统集成了啁啾光纤布拉格光栅（CFBG）作为高色散元件，以平衡扫描速度和光谱分辨率，从而实现紧凑的腔体设计和稳定的激光发射。该激光器在电信 C 波段实现了 40 nm 范围内的精确波长调谐，线宽约为 12 MHz，扫描速度超过 3 MHz，稳定输出功率超过 20 mW，性能优于机械调谐激光器。全 PM 设计确保了对环境扰动的鲁棒性。我们通过静态和动态表征来验证性能，包括通过空间烧孔效应缩小线宽。此外，我们还展示了其在波分复用 (WDM)、时分复用 (TDM) 和混合模式中询问 FBG 传感器阵列以及高达 1kHz 的实时动态应变传感中的应用。这些结果使该系统成为一种可扩展且强大的解决方案，适用于需要快速光谱采集和精细分辨率的应用，例如边境安全、生物医学成像和结构健康监测。</jats:p>"
         }
     ]
 }

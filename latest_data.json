@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-28 15:28:02",
+    "update_time": "2026-01-28 17:15:35",
     "word_filename": "Optical_Papers_260128.docx",
-    "total_count": 499,
+    "total_count": 504,
     "data": [
         {
             "id": "https://doi.org/10.1364/oe.587678",
@@ -22521,6 +22521,61 @@
             "summary": "Abstract not available.",
             "journal": "Advanced Photonics Research",
             "title_cn": "封面专题：用于有源微波调制的欺骗表面等离子体激元极化波导上的电容式 Mems 致动器阵列的设计和制造（Adv. Photonics Res. 1/2026）",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.581875",
+            "title": "Interpretable model-driven end-to-end deep learning of geometric shaping for DML-based IM/DD systems",
+            "link": "https://doi.org/10.1364/ol.581875",
+            "published": "2026-01-27",
+            "author": "Yilin Qiu, Yixiao Zhu, Gengming Lin, Yimin Hu, Yikun Zhang, Weisheng Hu",
+            "summary": "Direct modulation lasers (DMLs) are a low-cost technology for short-reach intensity modulation and direct detection (IM/DD) systems due to their small footprint and low power consumption. However, their performance is limited by nonlinear distortion arising from chirp-dispersion interaction. Neural network (NN) autoencoders (AE)-based geometric shaping (GS) offers a promising solution through end-to-end (E2E) constellation optimization. This approach relies on differentiable and accurate channel models, leading to the adoption of NN-based models that require large training datasets and retraining for different configurations. In this Letter, we propose a low-complexity model-driven framework that establishes a surrogate channel based on composite second-order (CSO) distortion theory, enabling AE-based geometric constellation optimization to suppress chirp-dispersion interaction. This approach combines physics-based interpretability with deep learning’s adaptive capabilities. Experimental results demonstrate a 1-dB receiver sensitivity improvement for 64-QAM signals after 10-km standard single-mode fiber (SSMF) transmission, confirming the effectiveness of the proposed scheme in mitigating nonlinear distortions.",
+            "journal": "Optics Letters",
+            "title_cn": "基于 DML 的 IM/DD 系统的可解释模型驱动的几何形状端到端深度学习",
+            "abstract_cn": "直接调制激光器 (DML) 占地面积小、功耗低，是一种用于短距离强度调制和直接检测 (IM/DD) 系统的低成本技术。然而，它们的性能受到线性调频色散相互作用产生的非线性失真的限制。基于神经网络 (NN) 自动编码器 (AE) 的几何整形 (GS) 通过端到端 (E2E) 星座优化提供了一种有前景的解决方案。这种方法依赖于可微分且准确的通道模型，导致采用基于神经网络的模型，这些模型需要大量的训练数据集并针对不同的配置进行重新训练。在这封信中，我们提出了一种低复杂度的模型驱动框架，该框架建立了基于复合二阶（CSO）失真理论的替代通道，使基于AE的几何星座优化能够抑制线性调频色散相互作用。这种方法将基于物理的可解释性与深度学习的自适应能力结合起来。实验结果表明，64-QAM 信号经过 10 km 标准单模光纤 (SSMF) 传输后，接收灵敏度提高了 1 dB，证实了该方案在减轻非线性失真方面的有效性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.581239",
+            "title": "Fourier light field polarization microscopy for depth-resolved fluorescence imaging of brain tissue slices",
+            "link": "https://doi.org/10.1364/ol.581239",
+            "published": "2026-01-22",
+            "author": "Yudi Liu, Nanguang Chen",
+            "summary": "Understanding the three-dimensional organization of brain microstructure is essential for revealing the functional relationships between neurons and glial cells. We have constructed a Fourier Light Field Fluorescence Polarization Microscopy (FLF-FPM) system that can reconstruct the volumetric distribution of six Stokes-derived polarization parameters, enabling scan-less three-dimensional tomographic imaging of fluorescence intensity and polarization. Applied to ex-vivo mouse brain samples stained with GFP, NeuN, and Iba1, the system reveals distinct depth-dependent polarization signatures for each fluorophore label, reflecting both their intrinsic emission characteristics and tissue scattering effects. FLF-FPM provides a compact, low-cost, and quantitative approach for characterizing cellular morphology, layer-specific organization, and local optical anisotropy in thick brain tissue, offering a new, to the best of our knowledge, platform for investigating the structural basis of neural function.",
+            "journal": "Optics Letters",
+            "title_cn": "用于脑组织切片深度分辨荧光成像的傅里叶光场偏振显微镜",
+            "abstract_cn": "了解大脑微观结构的三维组织对于揭示神经元和神经胶质细胞之间的功能关系至关重要。我们构建了傅里叶光场荧光偏振显微镜（FLF-FPM）系统，可以重建六个斯托克斯偏振参数的体积分布，从而实现荧光强度和偏振的无扫描三维断层成像。应用于用 GFP、NeuN 和 Iba1 染色的离体小鼠大脑样本时，该系统揭示了每个荧光团标记的独特的深度依赖性偏振特征，反映了它们的固有发射特性和组织散射效应。 FLF-FPM 提供了一种紧凑、低成本和定量的方法，用于表征厚脑组织中的细胞形态、层特异性组织和局部光学各向异性，据我们所知，为研究神经功能的结构基础提供了一个新的平台。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.578231",
+            "title": "Characterizing a high-dimensional unitary transformation without measuring the qudit it transforms",
+            "link": "https://doi.org/10.1364/ol.578231",
+            "published": "2026-01-02",
+            "author": "Salini Rajeev, Mayukh Lahiri",
+            "summary": "We present a method for reconstructing an arbitrary high-dimensional unitary transformation without detecting the qudit that it transforms. We demonstrate the method using orbital angular momentum states of light. Our method relies on quantum interference enabled by path identity of undetected photons. The method is practically useful when suitable detectors are not available for the qudit on which the unitary transformation works.",
+            "journal": "Optics Letters",
+            "title_cn": "表征高维酉变换而不测量它变换的量子",
+            "abstract_cn": "我们提出了一种重建任意高维酉变换的方法，无需检测其变换的 qudit。我们使用光的轨道角动量状态演示了该方法。我们的方法依赖于未检测到的光子的路径识别所实现的量子干涉。当酉变换所作用的 qudit 没有合适的检测器时，该方法实际上很有用。"
+        },
+        {
+            "id": "https://doi.org/10.1002/adpr.202500247",
+            "title": "Ultra‐Compact Waveguide Couplers for All‐Silicon Terahertz Platform",
+            "link": "https://doi.org/10.1002/adpr.202500247",
+            "published": "2026-01-27",
+            "author": "Linxi Chen, Weijie Gao, Christophe Fumeaux, Withawat Withayachumnankul",
+            "summary": "Efficient mode coupling between dielectric and metallic hollow waveguides is critical in the development of integrated terahertz systems based on all‐silicon platforms. Conventional dielectric linear tapers, while commonly used, require long and thin structures, typically 3 to achieve a low coupling loss, resulting in increased device footprint and a high risk of mechanical breakage during fabrication and alignment. In this work, we present two compact all‐silicon couplers, each leveraging the combined principles of dielectric rod antennas and slot waveguides. The proposed designs feature compact footprints of only 0.5 in length for operation across 220–330 GHz and demonstrate an average coupling loss of –1.25 dB across this band. Compared to conventional linear tapers, the proposed design reduces footprint, improves mechanical robustness and ease of alignment. Experimental validation through terahertz communications measurements demonstrates bit error rates (BER) below for the out‐of‐plane polarization and below for the in‐plane polarization at 275 GHz with a 7 Gbit/s data rate, and stable performance at a BER of under high signal‐to‐noise conditions. The proposed couplers facilitate efficient mode conversion between different waveguides, making them valuable components for system‐level integration in future terahertz communications frontends.",
+            "journal": "Advanced Photonics Research",
+            "title_cn": "用于全硅太赫兹平台的超紧凑波导耦合器",
+            "abstract_cn": "电介质和金属空心波导之间的高效模式耦合对于开发基于全硅平台的集成太赫兹系统至关重要。传统的电介质线性锥度虽然常用，但需要又长又薄的结构（通常为 3）才能实现低耦合损耗，从而导致器件占地面积增加，并且在制造和对准过程中机械损坏的风险很高。在这项工作中，我们提出了两种紧凑的全硅耦合器，每种耦合器都利用了电介质棒天线和缝隙波导的组合原理。所提出的设计具有紧凑的占位面积，长度仅为 0.5，可在 220–330 GHz 范围内运行，并在该频段上表现出 –1.25 dB 的平均耦合损耗。与传统的线性锥度相比，所提出的设计减少了占地面积，提高了机械鲁棒性并易于对准。通过太赫兹通信测量进行的实验验证表明，在 275 GHz、7 Gbit/s 数据速率下，面外偏振和面内偏振的误码率 (BER) 均低于，并且在高信噪比条件下 BER 的性能稳定。所提出的耦合器有助于不同波导之间的有效模式转换，使其成为未来太赫兹通信前端系统级集成的宝贵组件。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02504",
+            "title": "Delocalized Random Lasing in ZnS Nanowires Via Mie Scattering",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02504",
+            "published": "2026-01-27",
+            "author": "Bingheng Meng, Zhaobo Tian, Zhiyuan Ren, Shan Wang, Zhihao Huang, Puning Wang, Huan Liu, Zhipeng Wei, Longxing Su, Rui Chen",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "通过米氏散射在 ZnS 纳米线上产生离域随机激光",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

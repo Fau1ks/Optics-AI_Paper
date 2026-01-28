@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-28 11:07:12",
+    "update_time": "2026-01-28 11:28:03",
     "word_filename": "Optical_Papers_260128.docx",
-    "total_count": 485,
+    "total_count": 488,
     "data": [
         {
             "id": "https://doi.org/10.1364/oe.587678",
@@ -22368,6 +22368,39 @@
             "journal": "Optics and Lasers in Engineering",
             "title_cn": "极端条件下变形载体的制作技术",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.574727",
+            "title": "Identification of binary mixture composition of carbohydrates based on terahertz multi-parameter spectroscopy and machine learning",
+            "link": "https://doi.org/10.1364/optcon.574727",
+            "published": "2026-01-27",
+            "author": "Xiwen Huang, Hongtu Li, Jixuan Hao, Guozhong Zhao",
+            "summary": "<jats:p>To ensure the quality and safety of high-end carbohydrates, this study proposes a method for identifying the ratio of carbohydrate binary mixtures based on terahertz spectroscopy multi-parameter fusion and machine learning. Multi-parameter spectral data (including absorption, refractive index, and transmission spectra) of carbohydrate samples were collected using a transmission terahertz time-domain spectroscopy (THz-TDS) system; three machine learning algorithms were combined to construct binary mixture ratio identification models, and the optimal scheme was determined. Owing to the non-destructiveness and high penetrability of terahertz spectroscopy, it can accurately capture the intrinsic optical differences of carbohydrate molecules with different ratios in the terahertz range. This method reduces human errors, shortens analysis time, rapidly and accurately identifies the ratio of carbohydrate binary mixtures in complex matrices, and has important practical application value in component verification in fields such as food and health products.</jats:p>",
+            "journal": "Optics Continuum",
+            "title_cn": "基于太赫兹多参数光谱和机器学习的碳水化合物二元混合物成分鉴定",
+            "abstract_cn": "<jats:p>为保证高端碳水化合物的质量和安全，本研究提出了一种基于太赫兹光谱多参数融合和机器学习的碳水化合物二元混合物比例识别方法。使用透射太赫兹时域光谱（THz-TDS）系统收集碳水化合物样品的多参数光谱数据（包括吸收光谱、折射率和透射光谱）；结合三种机器学习算法构建二元混合比识别模型，并确定最优方案。由于太赫兹光谱的无损性和高穿透性，它可以在太赫兹范围内准确捕捉不同比例的碳水化合物分子的固有光学差异。该方法减少了人为错误，缩短了分析时间，快速准确地鉴定了复杂基质中碳水化合物二元混合物的比例，在食品、保健品等领域的成分验证中具有重要的实际应用价值。</jats:p>"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202501912",
+            "title": "Full‐Space Switchable Transmissive‐Reflective Metasurface Nano‐Printing in Real‐Space and Holography in\n                    <i>k</i>\n                    ‐Space",
+            "link": "https://doi.org/10.1002/lpor.202501912",
+            "published": "2026-01-27",
+            "author": "Hongqiang Zhou, Likuo Jia, Meiqi Wang, Tianlong Man, Yuhong Wan, Guangzhou Geng",
+            "summary": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Metasurfaces represent a class of artificially engineered planar optical devices that achieve exceptional functional performance through optimized nanostructure design and array configurations. These devices have emerged as the predominant methodology for developing integrated, compact optical systems, offering micro‐ and nano‐scale solutions that enable comprehensive multidimensional optical modulation. Here, we report a full‐space switchable optical encryption platform exhibiting wavelength‐dependent information control. Through precisely engineered nanostructures, the system demonstrates three distinct operational regimes: selective reflection revelation without transmission, complete concealment of real‐space information via dual‐holographic encryption, and switchable recovery of both real‐ and\n                    <jats:italic>k</jats:italic>\n                    ‐space manifestations across transmission and reflection modes. Spectroscopic characterization and computational modeling reveal the critical role of dielectric nanopillar resonance in enabling these switchable states. This work establishes a paradigm for active optical security devices with potential applications in anti‐counterfeiting, optical communication, switching, and information encryption technologies.\n                  </jats:p>",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "实空间中的全空间可切换透射反射超表面纳米印刷和<i>k</i>空间中的全息术",
+            "abstract_cn": "<jats:title>摘要</jats:title>\n                  <贾茨：p>\n                    超表面代表了一类人工设计的平面光学器件，通过优化的纳米结构设计和阵列配置实现卓越的功能性能。这些设备已成为开发集成紧凑光学系统的主要方法，提供微米级和纳米级解决方案，实现全面的多维光学调制。在这里，我们报告了一种全空间可切换光加密平台，展示了波长相关的信息控制。通过精确设计的纳米结构，该系统展示了三种不同的操作机制：无需传输的选择性反射揭示、通过双全息加密完全隐藏真实空间信息以及真实和真实空间信息的可切换恢复。\n                    <jats：斜体>k</jats：斜体>\n                    ‐跨透射和反射模式的空间表现。光谱表征和计算模型揭示了介电纳米柱谐振在实现这些可切换状态中的关键作用。这项工作为有源光学安全设备建立了一个范例，在防伪、光通信、交换和信息加密技术方面具有潜在的应用。\n                  </贾茨：p>"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202503264",
+            "title": "High‐Brightness and Fast‐Response in Cerium‐Doped Halide Double Perovskite Scintillators Based on Defect‐Suppressed Strategies for High‐Speed X‐Ray Imaging",
+            "link": "https://doi.org/10.1002/lpor.202503264",
+            "published": "2026-01-27",
+            "author": "Peiyang Li, Wei Xiong, Laishun Qin, Ji‐Guang Li, Qi Zhu",
+            "summary": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    High‐performance scintillators play a core role in the development of advanced medical imaging technologies, particularly in complex detection scenarios requiring both high sensitivity and high temporal resolution. However, developing a scintillator that simultaneously combines outstanding radioluminescence (RL) efficiency with fast decay characteristics remains a formidable challenge. Here, Ce\n                    <jats:sup>3+</jats:sup>\n                    ‐doped Cs\n                    <jats:sub>2</jats:sub>\n                    NaGdCl\n                    <jats:sub>6</jats:sub>\n                    (CNGC) double perovskite is designed to regulate the luminescence efficiency feature of the scintillator by introducing Br\n                    <jats:sup>−</jats:sup>\n                    to suppress the formation of Cl vacancy defects. Notably, the doping of Br\n                    <jats:sup>−</jats:sup>\n                    significantly reduces the defect density in CNGC:Ce\n                    <jats:sup>3+</jats:sup>\n                    , decreases non‐radiative recombination, and achieves a high photoluminescence quantum yield (PLQY) of 90.2%. Based on its outstanding scintillation performance, including a high light yield (LY) of 47637 photons MeV\n                    <jats:sup>−1</jats:sup>\n                    , a short RL decay time of 153 ns, and a low detection limit of 74.95 nGy s\n                    <jats:sup>−1</jats:sup>\n                    , the CNGC:15%Ce\n                    <jats:sup>3+</jats:sup>\n                    ,3%Br\n                    <jats:sup>−</jats:sup>\n                    scintillator film can capture clear high‐speed X‐ray imaging of the flowing contrast agents in simulated angiography. This work develops a novel scintillator material that not only holds immense potential as a candidate material for diverse ultrafast radiation detection applications, but also establishes a foundation for designing scintillators that simultaneously exhibit high LY and rapid RL decay characteristics.\n                  </jats:p>",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "基于缺陷抑制策略的掺铈卤化物双钙钛矿闪烁体的高亮度和快速响应高速 X 射线成像",
+            "abstract_cn": "<jats:title>摘要</jats:title>\n                  <贾茨：p>\n                    高性能闪烁体在先进医学成像技术的发展中发挥着核心作用，特别是在需要高灵敏度和高时间分辨率的复杂检测场景中。然而，开发一种同时结合出色的辐射发光（RL）效率和快速衰减特性的闪烁体仍然是一项艰巨的挑战。在这里，塞\n                    <贾茨：sup>3+</贾茨：sup>\n                    ‐掺杂铯\n                    <贾茨：子>2</贾茨：子>\n                    氯化钠\n                    <贾茨：子>6</贾茨：子>\n                    (CNGC)双钙钛矿旨在通过引入Br来调节闪烁体的发光效率特征\n                    <jats:sup>−</jats:sup>\n                    抑制Cl空位缺陷的形成。值得注意的是，Br的掺杂\n                    <jats:sup>−</jats:sup>\n                    显着降低 CNGC:Ce 中的缺陷密度\n                    <贾茨：sup>3+</贾茨：sup>\n                    ，减少非辐射复合，并实现高达 90.2% 的光致发光量子产率 (PLQY)。基于其出色的闪烁性能，包括 47637 个光子 MeV 的高光产额 (LY)\n                    <jats:sup>−1</jats:sup>\n                    ，153 ns 的短 RL 衰减时间和 74.95 nGy s 的低检测限\n                    <jats:sup>−1</jats:sup>\n                    , CNGC:15%Ce\n                    <贾茨：sup>3+</贾茨：sup>\n                    ,3%溴\n                    <jats:sup>−</jats:sup>\n                    闪烁体胶片可以在模拟血管造影中捕获流动造影剂的清晰高速 X 射线成像。这项工作开发了一种新型闪烁体材料，它不仅具有作为各种超快辐射探测应用的候选材料的巨大潜力，而且还为设计同时表现出高 LY 和快速 RL 衰减特性的闪烁体奠定了基础。\n                  </贾茨：p>"
         }
     ]
 }

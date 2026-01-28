@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-28 17:15:35",
+    "update_time": "2026-01-28 17:28:02",
     "word_filename": "Optical_Papers_260128.docx",
-    "total_count": 504,
+    "total_count": 509,
     "data": [
         {
             "id": "https://doi.org/10.1364/oe.587678",
@@ -22577,6 +22577,61 @@
             "journal": "ACS Photonics",
             "title_cn": "通过米氏散射在 ZnS 纳米线上产生离域随机激光",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583480",
+            "title": "Simplified probability-maintained noise power ratio method for nonlinear distortion measurement in fiber-optic communications",
+            "link": "https://doi.org/10.1364/ol.583480",
+            "published": "2026-01-06",
+            "author": "Yan Wang, Yi Dong, Tianwai Bo, Zhongwei Tan",
+            "summary": "With the advent of higher baud rates and modulation orders in optical fiber communication systems, device nonlinearities have emerged as a critical limiting factor. In this Letter, we propose a simplified probability-maintained (PM) notch signal generation technique, along with its associated post-processing method, to enable accurate nonlinearity measurement. The feasibility of the proposed method is verified through comprehensive simulations and experimental comparisons with the existing methods. This method offers the advantages of low-complexity probing signal generation and can be readily implemented using a real-time spectrum analyzer (RTSA). It experimentally achieves an estimation error within 0.5 dB when the noise power ratio (NPR) is around −20 dB, thereby facilitating precise nonlinearity characterization at frequencies of interest.",
+            "journal": "Optics Letters",
+            "title_cn": "光纤通信中非线性失真测量的简化概率维持噪声功率比方法",
+            "abstract_cn": "随着光纤通信系统中更高波特率和调制阶数的出现，器件非线性已成为关键的限制因素。在这封信中，我们提出了一种简化的概率维持（PM）陷波信号生成技术及其相关的后处理方法，以实现精确的非线性测量。通过综合仿真以及与现有方法的实验比较，验证了该方法的可行性。该方法具有探测信号生成复杂度低的优点，并且可以使用实时频谱分析仪 (RTSA) 轻松实现。当噪声功率比 (NPR) 约为 −20 dB 时，它通过实验实现了 0.5 dB 以内的估计误差，从而有助于在感兴趣的频率下进行精确的非线性表征。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.578133",
+            "title": "Experimental demonstration of coherent beam combination by a simulation-trained deep neural network",
+            "link": "https://doi.org/10.1364/ol.578133",
+            "published": "2026-01-09",
+            "author": "Nathanaël Hulard, Bastien Rouzé, Laurent Lombard, Stéphane Barland, Pierre Bourdon",
+            "summary": "For phase retrieval in a coherent beam combining of 7 fiber amplifiers arranged in a tiled aperture experiment, we demonstrate the feasibility of direct implementation of a light-weight deep-learning model trained on simulated data only. Deep-learning-assisted phase control performs efficiently with lower than λ/30 residual phase error. The use of simulation-trained neural networks allows for fast training (<10 min), a priori optimization, without the need for experimental data acquisition, and easier experimental portability.",
+            "journal": "Optics Letters",
+            "title_cn": "通过模拟训练的深度神经网络进行相干光束组合的实验演示",
+            "abstract_cn": "对于平铺孔径实验中排列的 7 个光纤放大器的相干光束组合的相位恢复，我们证明了直接实现仅在模拟数据上训练的轻量级深度学习模型的可行性。深度学习辅助相位控制可高效执行，残余相位误差低于 λ/30。使用模拟训练的神经网络可以实现快速训练（<10 分钟）、先验优化，无需采集实验数据，并且更容易实现实验可移植性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.584923",
+            "title": "Rapid fabrication of customizable periodic structures using DMD-Dammann interference lithography",
+            "link": "https://doi.org/10.1364/ol.584923",
+            "published": "2026-01-15",
+            "author": "Zi-Yi Zhou, Xian-Zi Dong, Xuan-Ming Duan, Mei-Ling Zheng",
+            "summary": "We present a hybrid lithography approach integrating digital micromirror device (DMD) projection with multi-beam interference enabled by a Dammann grating. This approach allows for the rapid fabrication of two-dimensional complex periodic structures with low exposure dose and simplified image design. Simulations and experimental results confirm the tunability of patterned structures through three key parameters: DMD image modulation, grating angle adjustment, and exposure dose control. Periodic dot arrays, gradient-duty-ratio superlattices, and photonic crystal waveguides, such as beam splitters, right-angle bends, and resonant rings, were successfully fabricated. Notably, compared to conventional direct DMD lithography, our approach achieves a 25-fold improvement in energy efficiency. The versatility and scalability of DMD–Dammann interference lithography demonstrate its potential for high-throughput fabrication of photonic crystal devices and optical microarrays.",
+            "journal": "Optics Letters",
+            "title_cn": "使用 DMD-Dammann 干涉光刻快速制造可定制的周期性结构",
+            "abstract_cn": "我们提出了一种混合光刻方法，将数字微镜器件 (DMD) 投影与达曼光栅实现的多光束干涉相集成。这种方法允许以低曝光剂量和简化的图像设计快速制造二维复杂周期性结构。模拟和实验结果通过三个关键参数证实了图案结构的可调性：DMD 图像调制、光栅角度调整和曝光剂量控制。成功制造了周期点阵列、梯度占空比超晶格和光子晶体波导，例如分束器、直角弯曲和谐振环。值得注意的是，与传统的直接 DMD 光刻相比，我们的方法实现了 25 倍的能源效率提高。 DMD-达曼干涉光刻的多功能性和可扩展性证明了其高通量制造光子晶体器件和光学微阵列的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.569405",
+            "title": "Wavelength-selective multifunctional light control with inverse designed dielectric metasurface",
+            "link": "https://doi.org/10.1364/prj.569405",
+            "published": "2025-12-18",
+            "author": "Meijiu Zheng, Zhenyu Wang, Bin Ren, Fei Xie, Sergei Makarov, Mingzhao Song, Shuai Wang",
+            "summary": "The metasurface has emerged as a powerful platform for achieving versatile and precise light control due to its extraordinary optical properties. However, multifunctional metasurface-based devices, usually employing shared apertures or cascading with different metasurfaces, suffer from inherent interference and complex configurations. Here, we propose a single-layer transmissive multifunctional metasurface performing distinct manipulations of light at specific wavelengths, free from inter-wavelength interference, benefiting from the strong dispersion of the silicon dielectric nanostructure. The metasurface is optimized using an adjoint-based inverse design with a gradient descent method. The simulated and experimental results confirm the successful integration of three functionalities within a single metasurface: beam stopper, linear polarizer, and half waveplate. The proposed multifunctional metasurface features an ultra-compact design with a simple configuration, which has the potential for applications in various fields, including photonic data transmission, hyperspectral imaging, and advanced optical sensing systems.",
+            "journal": "Photonics Research",
+            "title_cn": "具有逆向设计介电超表面的波长选择性多功能光控制",
+            "abstract_cn": "由于其非凡的光学特性，超表面已成为实现多功能和精确光控制的强大平台。然而，基于多功能超表面的设备通常采用共享孔径或与不同超表面级联，受到固有干扰和复杂配置的影响。在这里，我们提出了一种单层透射多功能超表面，可以在特定波长下对光进行不同的操作，不受波长间干扰，受益于硅介电纳米结构的强色散。使用基于伴随的逆设计和梯度下降法来优化超表面。模拟和实验结果证实了在单个超表面内成功集成了三种功能：光束阻挡器、线性偏振器和半波片。所提出的多功能超表面具有超紧凑的设计和简单的配置，具有在光子数据传输、高光谱成像和先进光学传感系统等各个领域的应用潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tvcg.2026.3658429",
+            "title": "MaskScene: Hierarchical Conditional Masked Models for Real-time 3D Indoor Scene Synthesis",
+            "link": "https://doi.org/10.1109/tvcg.2026.3658429",
+            "published": "2026",
+            "author": "Xinyu Zhang, Yusen Liu, Qichuan Geng, Zhong Zhou, Wenfeng Song",
+            "summary": "Indoor scene synthesis is essential for creative industries, recent advances in scene synthesis using diffusion and autoregressive models have shown promising results. However, existing models struggle to simultaneously achieve real-time performance, high visual fidelity, and flexible scene editability. To tackle these challenges, we propose MaskScene, a novel hierarchical conditional masked model for real-time 3D indoor scene synthesis and editing. Specifically, MaskScene introduces a hierarchical scene representation that explicitly encodes scene relationships, semantics, and tokenization. Based on this representation, we design a hierarchical conditional masked modeling architecture that enables parallel and iterative decoding, conditioned on both semantics and relationships. By masking local objects and leveraging the hierarchical structure of the scene, the model learns to infer and synthesize missing regions from partial observations, enabling rapid construction of 3D indoor environments that more accurately reflect real-world scenes. Compared to state-of-the-art methods, MaskScene achieves 80× faster generation speed and improves scene quality by 10%, while also supporting zero-shot editing, such as scene completion and rearrangement, without extra fine-tuning. Our project and dataset will be public.",
+            "journal": "IEEE Trans. Vis. Comput. Graph",
+            "title_cn": "MaskScene：用于实时 3D 室内场景合成的分层条件掩模模型",
+            "abstract_cn": "室内场景合成对于创意产业至关重要，使用扩散和自回归模型进行场景合成的最新进展已经显示出有希望的结果。然而，现有模型很难同时实现实时性能、高视觉保真度和灵活的场景可编辑性。为了应对这些挑战，我们提出了 MaskScene，这是一种新颖的分层条件遮罩模型，用于实时 3D 室内场景合成和编辑。具体来说，MaskScene 引入了一种分层场景表示，它显式地编码场景关系、语义和标记化。基于这种表示，我们设计了一种分层条件屏蔽建模架构，该架构能够根据语义和关系进行并行和迭代解码。通过屏蔽局部对象并利用场景的层次结构，该模型学习从部分观察中推断和合成缺失区域，从而能够快速构建更准确地反映现实世界场景的 3D 室内环境。与最先进的方法相比，MaskScene 的生成速度提高了 80 倍，场景质量提高了 10%，同时还支持零镜头编辑，例如场景完成和重新排列，无需额外的微调。我们的项目和数据集将是公开的。"
         }
     ]
 }

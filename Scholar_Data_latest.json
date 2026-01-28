@@ -190,5 +190,341 @@
         "title_cn": "基于深度学习的红外小/弱目标检测算法研究",
         "link": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14005/140050M/Research-on-infrared-small-weak-target-detection-algorithm-based-on/10.1117/12.3093063.short",
         "time": "00:26:57"
+    },
+    {
+        "title": "Decentralized Partial Model Personalization with Guaranteed Nonconvex Convergence",
+        "title_cn": "具有保证非凸收敛性的去中心化部分模型个性化",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11359328/",
+        "time": "11:16:15"
+    },
+    {
+        "title": "and Congenital Color Deficiencies",
+        "title_cn": "和先天性颜色缺陷",
+        "link": "https://books.google.com/books?hl=zh-CN&lr=&id=0P61EQAAQBAJ&oi=fnd&pg=PA1&ots=ePLCoUgvYH&sig=XT39JK5ewnONPHeFNfeWlX-zxms",
+        "time": "11:16:17"
+    },
+    {
+        "title": "Integrated photonic devices engineered on subwavelength grating waveguides–A review",
+        "title_cn": "基于亚波长光栅波导的集成光子器件——综述",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226000654",
+        "time": "11:16:19"
+    },
+    {
+        "title": "Coherent Mode Decoupling: A Versatile Framework for High-Throughput Partially Coherent Light Transport",
+        "title_cn": "相干模式解耦：高吞吐量部分相干光传输的多功能框架",
+        "link": "https://arxiv.org/pdf/2601.15776",
+        "time": "11:16:19"
+    },
+    {
+        "title": "Incoherent Multi-Depth-of-Field Edge Imaging Based on Single Metalens",
+        "title_cn": "基于单超透镜的非相干多景深边缘成像",
+        "link": "https://preprints.opticaopen.org/articles/preprint/Incoherent_Multi-Depth-of-Field_Edge_Imaging_Based_on_Single_Metalens/31072714/1/files/61027756.pdf",
+        "time": "11:16:20"
+    },
+    {
+        "title": "Neural Network Embedded With Maximum Likelihood Phase Retrieval for Photonics-Aided Wireless Transmission System at 0.33–0.52 THz",
+        "title_cn": "用于 0.33–0.52 THz 光子辅助无线传输系统的嵌入最大似然相位检索的神经网络",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11346493/",
+        "time": "11:16:22"
+    },
+    {
+        "title": "Off-axis digital holographic microscope with extended field-of-view",
+        "title_cn": "具有扩展视场的离轴数字全息显微镜",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226001040",
+        "time": "11:16:23"
+    },
+    {
+        "title": "Design and Experimental Validation of a Line-Laser Autofocusing System with Extended Working Range",
+        "title_cn": "具有扩展工作范围的线激光自动聚焦系统的设计和实验验证",
+        "link": "https://ieeexplore.ieee.org/iel8/4563994/4814557/11359988.pdf",
+        "time": "11:16:24"
+    },
+    {
+        "title": "Lensless Hypercentric Imaging using Digital Holography",
+        "title_cn": "使用数字全息术的无透镜超中心成像",
+        "link": "https://jeos.edpsciences.org/articles/jeos/pdf/forth/jeos20250094.pdf",
+        "time": "11:16:25"
+    },
+    {
+        "title": "Wavefront-driven optimization for high-quality hologram generation",
+        "title_cn": "用于高质量全息图生成的波前驱动优化",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0143816626000345",
+        "time": "11:16:27"
+    },
+    {
+        "title": "Meta-amplified dark-field interferometric scattering microscopy",
+        "title_cn": "元放大暗场干涉散射显微镜",
+        "link": "https://www.nature.com/articles/s41467-026-68697-6_reference.pdf",
+        "time": "11:16:28"
+    },
+    {
+        "title": "Special-Purpose Computer for Holography HORN-X Enhanced With Separable Convolution Architecture",
+        "title_cn": "采用可分离卷积架构增强的全息专用计算机 HORN-X",
+        "link": "https://ieeexplore.ieee.org/iel8/6287639/6514899/11346469.pdf",
+        "time": "11:16:29"
+    },
+    {
+        "title": "Hologram design framework: reconstruction area of volumetric beam shaping",
+        "title_cn": "全息图设计框架：体积光束整形重建区域",
+        "link": "https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-5-2-342",
+        "time": "11:16:30"
+    },
+    {
+        "title": "COMPRESSION AND COMPUTATION METHODS FOR COMPUTER-GENERATED HOLOGRAPHY",
+        "title_cn": "计算机全息图的压缩和计算方法",
+        "link": "https://macsphere.mcmaster.ca/bitstreams/7284434d-68f0-4146-b518-cf070608d0df/download",
+        "time": "11:16:32"
+    },
+    {
+        "title": "Compound Meta-Optics for Advanced Optical Engineering",
+        "title_cn": "用于高级光学工程的复合超光学",
+        "link": "https://www.mdpi.com/1424-8220/26/3/792",
+        "time": "11:16:33"
+    },
+    {
+        "title": "High-Speed Image Restoration Based on a Dynamic Vision Sensor",
+        "title_cn": "基于动态视觉传感器的高速图像恢复",
+        "link": "https://www.mdpi.com/1424-8220/26/3/781",
+        "time": "11:16:34"
+    },
+    {
+        "title": "High-capacity and robust information transmission using generalized random structured beams and deep learning-based decoding",
+        "title_cn": "使用广义随机结构波束和基于深度学习的解码进行高容量和鲁棒的信息传输",
+        "link": "https://www.researchsquare.com/article/rs-8482044/latest.pdf",
+        "time": "11:16:35"
+    },
+    {
+        "title": "Flexible manipulation of longitudinal polarization vortices by superposed cylindrical vector optical field",
+        "title_cn": "叠加柱面矢量光场灵活操控纵向偏振涡旋",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0960077926000937",
+        "time": "11:16:36"
+    },
+    {
+        "title": "Deep Lightweight Unrolled Network for High Dynamic Range Modulo Imaging",
+        "title_cn": "用于高动态范围模成像的深度轻量级展开网络",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11358663/",
+        "time": "11:16:37"
+    },
+    {
+        "title": "FaceSplat: A Lightweight, Prior-Guided Framework for High-Fidelity 3D Face Reconstruction from a Single Image",
+        "title_cn": "FaceSplat：一种轻量级的先验引导框架，用于从单个图像重建高保真 3D 人脸",
+        "link": "https://nsh423.github.io/assets/publications/paper_1_3d_face_generation.pdf",
+        "time": "11:16:38"
+    },
+    {
+        "title": "SwiftCraft3D: semantic-enhanced multi-view prompting for efficient and high-fidelity text-to-3D generation",
+        "title_cn": "SwiftCraft3D：语义增强的多视图提示，可实​​现高效、高保真的文本到 3D 生成",
+        "link": "https://link.springer.com/article/10.1007/s00371-025-04322-9",
+        "time": "11:16:39"
+    },
+    {
+        "title": "DS3former: Dual-Stream Semantic Separation Transformer for Single Image Reflection Separation",
+        "title_cn": "DS3former：用于单图像反射分离的双流语义分离转换器",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11353473/",
+        "time": "11:16:41"
+    },
+    {
+        "title": "ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors",
+        "title_cn": "ExposeAnyone：个性化音频到表情扩散模型是强大的零样本面部伪造检测器",
+        "link": "https://arxiv.org/pdf/2601.02359",
+        "time": "11:16:42"
+    },
+    {
+        "title": "UIKA: Fast Universal Head Avatar from Pose-Free Images",
+        "title_cn": "UIKA：来自无姿势图像的快速通用头部头像",
+        "link": "https://arxiv.org/pdf/2601.07603",
+        "time": "11:16:43"
+    },
+    {
+        "title": "Voxel-MPI: Scene-Adaptive Multiplane Images based Local Voxel Tokenization with Attention Coordination for 3D Scene Representation",
+        "title_cn": "Voxel-MPI：基于局部体素标记的场景自适应多平面图像，具有用于 3D 场景表示的注意力协调",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0167865526000164",
+        "time": "11:16:44"
+    },
+    {
+        "title": "Self-Supervised Contrastive Learning and GAN-Based Denoising for High-Fidelity HumanNeRF Images",
+        "title_cn": "高保真 HumanNeRF 图像的自监督对比学习和基于 GAN 的去噪",
+        "link": "https://www.mdpi.com/1424-8220/26/1/249",
+        "time": "11:16:45"
+    },
+    {
+        "title": "Guiding Token-Sparse Diffusion Models",
+        "title_cn": "指导代币稀疏扩散模型",
+        "link": "https://arxiv.org/pdf/2601.01608",
+        "time": "11:16:46"
+    },
+    {
+        "title": "3DGA: 3D Avatar Animation from Monocular Video via Deformable Gaussian Splatting",
+        "title_cn": "3DGA：通过可变形高斯溅射从单眼视频生成 3D 头像动画",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0031320325016942",
+        "time": "11:16:48"
+    },
+    {
+        "title": "AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction",
+        "title_cn": "AdaGaR：用于动态场景重建的自适应 Gabor 表示",
+        "link": "https://arxiv.org/pdf/2601.00796",
+        "time": "11:16:49"
+    },
+    {
+        "title": "Deep Video Coding with Bit-Depth Scalability",
+        "title_cn": "具有位深度可扩展性的深度视频编码",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11329493/",
+        "time": "11:16:50"
+    },
+    {
+        "title": "Single-Photon Imaging in Complex Scenarios via Physics-Informed Deep Neural Networks",
+        "title_cn": "通过物理信息深度神经网络在复杂场景中进行单光子成像",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11355376/",
+        "time": "11:16:52"
+    },
+    {
+        "title": "Learning Dual Modality Interactions for Event-based Motion Deblurring",
+        "title_cn": "学习双模态交互以实现基于事件的运动去模糊",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11353454/",
+        "time": "11:16:53"
+    },
+    {
+        "title": "Vector-vortex beam identification via optical correlation using deconvolution-derived filter design",
+        "title_cn": "使用反卷积导出的滤波器设计通过光学相关进行矢量涡旋光束识别",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0030399226001362",
+        "time": "11:16:55"
+    },
+    {
+        "title": "An Adaptive Depth Processing System Based on Foundation Transformers and Time-of-Flight Fusion",
+        "title_cn": "基于基础变压器和飞行时间融合的自适应深度处理系统",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11300285/",
+        "time": "11:16:56"
+    },
+    {
+        "title": "Seismic Denoising Based on Convolutional Dictionary Learning With ADMM",
+        "title_cn": "基于ADMM卷积字典学习的地震去噪",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11310787/",
+        "time": "11:16:57"
+    },
+    {
+        "title": "Vision-Based Human Pose Estimation for Intelligent Sports Training and Teaching Assistance",
+        "title_cn": "基于视觉的人体姿态估计，用于智能运动训练和教学辅助",
+        "link": "https://www.researchsquare.com/article/rs-8622977/latest.pdf",
+        "time": "11:16:59"
+    },
+    {
+        "title": "Improving Image Captioning for Chinese Cultural Relics with Diffusion Language Models",
+        "title_cn": "用扩散语言模型改进中国文物的图像描述",
+        "link": "https://dl.acm.org/doi/pdf/10.1145/3793547",
+        "time": "11:17:00"
+    },
+    {
+        "title": "EinsPT: Efficient Instance-Aware Pre-Training of Vision Foundation Models",
+        "title_cn": "EinsPT：视觉基础模型的高效实例感知预训练",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11353396/",
+        "time": "11:17:01"
+    },
+    {
+        "title": "A Novel Knowledge Distillation Method for Graph Neural Networks with Gradient Mapping and Fusion",
+        "title_cn": "一种基于梯度映射和融合的图神经网络知识蒸馏新方法",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1566253526000424",
+        "time": "11:17:02"
+    },
+    {
+        "title": "Mechanisms of Prompt-Induced Hallucination in Vision-Language Models",
+        "title_cn": "视觉语言模型中即时诱发幻觉的机制",
+        "link": "https://arxiv.org/pdf/2601.05201",
+        "time": "11:17:03"
+    },
+    {
+        "title": "SGD-Based Knowledge Distillation with Bayesian Teachers: Theory and Guidelines",
+        "title_cn": "贝叶斯教师基于 SGD 的知识蒸馏：理论和指南",
+        "link": "https://arxiv.org/pdf/2601.01484",
+        "time": "11:17:04"
+    },
+    {
+        "title": "COP: CrOss-View Attention Prompt for Zero-Shot Sketch-Based Image Retrieval",
+        "title_cn": "COP：基于零镜头草图的图像检索的跨视图注意提示",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11353916/",
+        "time": "11:17:05"
+    },
+    {
+        "title": "Towards Bidirectional Adaptability for Few-Shot Class-Incremental Learning With Forward-Backward Knowledge Transfer",
+        "title_cn": "通过前向-后向知识迁移实现少样本类增量学习的双向适应性",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11329432/",
+        "time": "11:17:06"
+    },
+    {
+        "title": "Leveraging Prediction Entropy for Automatic Prompt Weighting in Zero-Shot Audio-Language Classification",
+        "title_cn": "利用预测熵在零样本音频语言分类中进行自动提示加权",
+        "link": "https://arxiv.org/pdf/2601.05011",
+        "time": "11:17:07"
+    },
+    {
+        "title": "PIC-CMH: Efficient Prompt-Infused Continual Cross-Modal Hashing",
+        "title_cn": "PIC-CMH：高效的提示注入连续跨模式哈希",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11341891/",
+        "time": "11:17:09"
+    },
+    {
+        "title": "High-Performance Personalized Federated Continual Learning Framework for Dynamic Data Sharing in IoV",
+        "title_cn": "用于车联网动态数据共享的高性能个性化联合持续学习框架",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11352803/",
+        "time": "11:17:10"
+    },
+    {
+        "title": "TexGS-VolVis: Expressive scene editing for volume visualization via textured Gaussian splatting",
+        "title_cn": "TexGS-VolVis：通过纹理高斯泼溅进行体积可视化的富有表现力的场景编辑",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11262779/",
+        "time": "11:17:12"
+    },
+    {
+        "title": "SeparateGen: Semantic Component-based 3D Character Generation from Single Images",
+        "title_cn": "SeparateGen：从单个图像生成基于语义组件的 3D 角色",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11342401/",
+        "time": "11:17:13"
+    },
+    {
+        "title": "FaceCLIP: CLIP-driven accurate and detailed 3D face reconstruction from a single image",
+        "title_cn": "FaceCLIP：通过 CLIP 驱动，从单个图像进行精确且详细的 3D 人脸重建",
+        "link": "https://ieeexplore.ieee.org/iel8/10750449/10901938/11262758.pdf",
+        "time": "11:17:13"
+    },
+    {
+        "title": "Multiscale Feature Fusion Spatial-channel Attention Network for Infrared Small Target Segmentation",
+        "title_cn": "用于红外小目标分割的多尺度特征融合空间通道注意网络",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11358782/",
+        "time": "11:17:14"
+    },
+    {
+        "title": "Clothed human reconstruction from RGB data: A survey of traditional and diffusion-based methods",
+        "title_cn": "根据 RGB 数据重建穿着衣服的人体：传统方法和基于扩散的方法的调查",
+        "link": "https://link.springer.com/article/10.1007/s44443-025-00460-1",
+        "time": "11:17:15"
+    },
+    {
+        "title": "ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion",
+        "title_cn": "ActionMesh：具有时间 3D 扩散的动画 3D 网格生成",
+        "link": "https://arxiv.org/pdf/2601.16148",
+        "time": "11:17:17"
+    },
+    {
+        "title": "Hierarchical Bayesian Guided Spatial-, Angular-and Temporal-Consistent View Synthesis",
+        "title_cn": "分层贝叶斯引导空间、角度和时间一致的视图合成",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11241215/",
+        "time": "11:17:17"
+    },
+    {
+        "title": "Psa-nerf: Personalized spatial attention neural rendering for audio-driven talking portraits generation",
+        "title_cn": "Psa-nerf：用于音频驱动的说话肖像生成的个性化空间注意神经渲染",
+        "link": "https://ieeexplore.ieee.org/iel8/9970761/11322770/11322846.pdf",
+        "time": "11:17:18"
+    },
+    {
+        "title": "Sketch-based Extreme Underwater Image Compression Network",
+        "title_cn": "基于草图的极端水下图像压缩网络",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11251299/",
+        "time": "11:17:20"
+    },
+    {
+        "title": "Mining Temporal Redundancy Using Long Short-Term Motion Aggregation and Global-Local Decorrelation for Learned Video Compression",
+        "title_cn": "使用长短期运动聚合和全局局部解相关来挖掘时间冗余以进行学习视频压缩",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11270498/",
+        "time": "11:17:22"
     }
 ]

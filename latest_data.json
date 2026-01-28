@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-28 11:04:04",
+    "update_time": "2026-01-28 11:07:12",
     "word_filename": "Optical_Papers_260128.docx",
-    "total_count": 484,
+    "total_count": 485,
     "data": [
         {
             "id": "https://doi.org/10.1364/oe.587678",
@@ -22357,6 +22357,17 @@
             "journal": "arXiv: AI & Vision (Optics)",
             "title_cn": "VGGT-SLAM 2.0：实时密集前馈场景重建",
             "abstract_cn": "我们提出了 VGGT-SLAM 2.0，这是一种实时 RGB 前馈 SLAM 系统，它在 VGGT-SLAM 的基础上进行了显着改进，用于增量对齐从 VGGT 创建的子图。首先，我们通过创建新的因子图设计来消除 VGGT-SLAM 中的高维 15 自由度漂移和平面简并，同时仍然解决给定未知相机内在特性的 VGGT 的重建模糊性。其次，通过研究 VGGT 的注意力层，我们表明其中一层非常适合免费协助图像检索验证，无需额外训练，这既可以拒绝误报匹配，又可以完成更多的闭环。最后，我们进行了一系列实验，其中包括展示 VGGT-SLAM 2.0 可以轻松适应开放集目标检测，并展示使用 Jetson Thor 在地面机器人上在线运行时的实时性能。我们还在杂乱的室内公寓和办公室场景到 4,200 平方英尺的谷仓等环境中进行了测试，并且我们还证明了 VGGT-SLAM 2.0 在 TUM 数据集上实现了最高准确度，姿态误差比 VGGT-SLAM 减少了约 23%。代码将在发布后发布。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109639",
+            "title": "Fabrication techniques of deformation carriers in extreme conditions",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109639",
+            "published": "2026-06-01",
+            "author": "Wei He, Mingming Xie, Hanhan Jia, Sirui Mo, Jinluo Zou, Bo Liu, Qihong Fang, Huimin Xie, Jiaqiang Li, Xing Sun",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "极端条件下变形载体的制作技术",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-29 12:22:51",
+    "update_time": "2026-01-29 13:28:09",
     "word_filename": "Optical_Papers_260129.docx",
-    "total_count": 560,
+    "total_count": 563,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.displa.2026.103366",
@@ -6162,6 +6162,39 @@
             "journal": "Photonics Research",
             "title_cn": "具有全彩色单像素成像和微米孔阵列的光学加密",
             "abstract_cn": "在加强数据收集和存储过程中信息安全的必要性的推动下，计算成像技术的战略融合正在迅速成为数据保护光学加密领域的主导趋势。本文提出了一种将全彩色单像素成像（SPI）与微米孔阵列相结合的两层安全框架。微米孔阵列是使用深度学习算法生成并通过光刻制造的。全彩傅里叶SPI系统，配备单桶探测器，有效收集和加密图像信息。 SPI 的照明图案序列源自微米孔阵列的光学衍射图像，为系统提供了固有的物理安全性。这项研究精心地将使用微米孔阵列的全息加密融入到整个 SPI 编码-解码过程中，从而利用了算法的复杂性和组件的物理不可克隆性。数值模拟和光学实验都证实了该框架在加密和安全性能方面的稳定性。这为基于计算成像和多维光学密码学的防伪应用的新视角铺平了道路，为该领域的实际进步提供了潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.576499",
+            "title": "Power-tunable rotational dynamics of asymmetric vortex dipoles for material characterization",
+            "link": "https://doi.org/10.1364/ol.576499",
+            "published": "2026-01-28",
+            "author": "Guo Liang, Ping Zhu, Xiangwei Chen",
+            "summary": "This study investigates the orbital angular momentum (OAM) and propagation dynamics of asymmetric vortex dipoles. The asymmetric spatial distribution of vortices carrying opposite topological charges yields a net OAM, inducing rotational motion during both linear and nonlinear propagation. Under linear conditions, the angular velocity of rotation correlates directly with the degree of asymmetry; vortex cores positioned farther from the dipole center exhibit greater angular velocities than those nearer the center. Diffraction limits the net rotation angle to less than 90 degrees in linear propagation. In contrast, during nonlinear propagation, the rotational dynamics depend not only on the asymmetry but also critically on the optical power. Modulating the input power enables precise control over the rotation trajectory, angle, and angular velocity, presenting a viable approach for optical field manipulation. Furthermore, this work proposes a method to experimentally quantify the nonlocal response of nonlinear materials by measuring the rotation angle of asymmetric vortex dipoles.",
+            "journal": "Optics Letters",
+            "title_cn": "用于材料表征的不对称涡旋偶极子的功率可调旋转动力学",
+            "abstract_cn": "本研究研究了不对称涡旋偶极子的轨道角动量（OAM）和传播动力学。携带相反拓扑电荷的涡流的不对称空间分布产生净 OAM，在线性和非线性传播过程中引起旋转运动。在线性条件下，旋转角速度与不对称程度直接相关；远离偶极子中心的涡核比靠近中心的涡核表现出更大的角速度。衍射将线性传播中的净旋转角限制为小于 90 度。相反，在非线性传播过程中，旋转动力学不仅取决于不对称性，而且很大程度上取决于光功率。调制输入功率可以精确控制旋转轨迹、角度和角速度，为光场操纵提供了一种可行的方法。此外，这项工作提出了一种通过测量不对称涡旋偶极子的旋转角来实验量化非线性材料的非局部响应的方法。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.574030",
+            "title": "Blood flow analysis of retinal neovascularisations in a VLDLR mouse model using contrast-enhanced optical coherence tomography",
+            "link": "https://doi.org/10.1364/boe.574030",
+            "published": "2026-01-28",
+            "author": "Yash Patel, Bernhard Baumann, Conrad Merkle",
+            "summary": "Age-related macular degeneration (AMD) is a major cause of global blindness that affects millions worldwide. Certain forms of AMD cause neovascularisations (NVs), which form retinal-choroidal anastomoses. This disrupts healthy haemodynamic patterns, and early detection and treatment are crucial for preserving vision. Here, we employ a custom-built optical coherence tomography (OCT) imaging system to investigate these NVs in a very low-density lipoprotein receptor (VLDLR) knockout mouse model. Mice were imaged before, during, and after contrast agent injection, aiming to enhance our understanding of the NV haemodynamics. Doppler signal analysis techniques were employed to calculate flow velocities within individual NVs. Flow rates pre- and post-injection were determined based on these velocity measurements. Particle tracking was performed on two NVs for a comparative analysis with the Doppler velocity measurements. Both methods of measuring flow velocities showed good agreement post-contrast injection. The analysis of post-injection flow rates from the NVs revealed diverse behaviours. Some NVs exhibited stable flow rates over time, while others showed signs of instability, with flow rates changing substantially or even changing flow direction at different time points. Additionally, it was observed at multiple time points that flow from certain NVs moved from the choroid to the retina at the same time that other NVs displayed flow in the opposite direction. These observations suggest complex interactions between choroidal and retinal vascular networks in diseases like AMD. Further characterisation using contrast-enhanced Doppler OCT may improve our understanding of neovascular haemodynamics.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "使用对比增强光学相干断层扫描对 VLDLR 小鼠模型中视网膜新生血管的血流分析",
+            "abstract_cn": "年龄相关性黄斑变性 (AMD) 是全球失明的主要原因，影响着全世界数百万人。某些形式的 AMD 会导致新生血管形成 (NV)，从而形成视网膜脉络膜吻合。这会破坏健康的血液动力学模式，早期发现和治疗对于保护视力至关重要。在这里，我们采用定制的光学相干断层扫描 (OCT) 成像系统来研究极低密度脂蛋白受体 (VLDLR) 敲除小鼠模型中的这些 NV。在注射造影剂之前、期间和之后对小鼠进行成像，旨在增强我们对 NV 血流动力学的理解。采用多普勒信号分析技术来计算各个 NV 内的流速。根据这些速度测量值确定注入前和注入后的流速。在两个 NV 上进行粒子跟踪，以便与多普勒速度测量进行比较分析。两种测量流速的方法在造影剂注射后表现出良好的一致性。对 NV 注入后流量的分析揭示了不同的行为。一些 NV 随时间的推移表现出稳定的流速，而另一些 NV 则表现出不稳定的迹象，流速发生显着变化，甚至在不同时间点改变流动方向。此外，在多个时间点观察到，来自某些 NV 的血流从脉络膜移动到视网膜，同时其他 NV 则显示出相反方向的血流。这些观察结果表明，在 AMD 等疾病中，脉络膜和视网膜血管网络之间存在复杂的相互作用。使用对比增强多普勒 OCT 进行进一步表征可能会提高我们对新生血管血流动力学的理解。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.571562",
+            "title": "Dual-stage quantum-referenced 795 nm DBR laser with 3.29×10 −13 / τ stability",
+            "link": "https://doi.org/10.1364/prj.571562",
+            "published": "2026-01-28",
+            "author": "Suyang Wei, Zijie Liu, Xuyan Zhou, Fengxin Dong, Xiaomin Qin, Zhiyang Wang, Ziqi Lu, Zheng Xiao, Tiantian Shi, Wei Wang, Wanhua Zheng, Jingbiao Chen",
+            "summary": "Distributed Bragg reflector (DBR) lasers have found promising prospects in quantum sensing, cold atom physics, and precision spectroscopy. However, a broader implementation is challenged by their MHz-scale linewidths and the absence of autonomous atomic resonance alignment. Here, we demonstrate a turnkey 795 nm DBR laser system locked to the Rb 85 D 1 hyperfine transition. Our approach employs a dual-stage architecture: stage 1 utilizes the Faraday anomalous dispersion optical filter (FADOF) with optical feedback, achieving automatic frequency resonance and confinement to the vicinity of the Rb 85 D 1 line, while reducing the 1/ π integral linewidth from 461.8 kHz to 28.8 kHz, and the Lorentzian linewidth from 25.8 kHz to 426.9 Hz. This mechanism is quantitatively investigated using Lang–Kobayashi equations. Stage 2 applies modulation transfer spectroscopy (MTS) to further stabilize the frequency of the optically locked laser, which yields an Allan deviation of 3.29×10 −13 / τ . Our system unlocks DBR lasers’ potential in quantum precision measurements, offering a convenient, compact, low-noise light source for atomic clocks, magnetometers, and gyroscopes.",
+            "journal": "Photonics Research",
+            "title_cn": "双级量子参考 795 nm DBR 激光器，稳定性为 3.29×10 −13 / τ",
+            "abstract_cn": "分布式布拉格反射器（DBR）激光器在量子传感、冷原子物理和精密光谱学方面具有广阔的前景。然而，更广泛的实施面临着 MHz 级线宽和缺乏自主原子共振对准的挑战。在这里，我们展示了锁定 Rb 85 D 1 超精细跃迁的交钥匙 795 nm DBR 激光系统。我们的方法采用双级架构：第一级采用带光学反馈的法拉第反常色散滤光片（FADOF），实现自动频率谐振并限制在Rb 85 D 1 线附近，同时将1/ π积分线宽从461.8 kHz减小到28.8 kHz，将洛伦兹线宽从25.8 kHz减小到426.9 Hz。使用 Lang-Kobayashi 方程定量研究了该机制。第2阶段应用调制传递光谱（MTS）来进一步稳定光学锁定激光器的频率，从而产生3.29×10 -13 / τ 的阿伦偏差。我们的系统释放了 DBR 激光器在量子精密测量方面的潜力，为原子钟、磁力计和陀螺仪提供了方便、紧凑、低噪声的光源。"
         }
     ]
 }

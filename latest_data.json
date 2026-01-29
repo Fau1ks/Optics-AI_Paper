@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-29 11:43:49",
+    "update_time": "2026-01-29 11:47:12",
     "word_filename": "Optical_Papers_260129.docx",
-    "total_count": 369,
+    "total_count": 397,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.displa.2026.103366",
@@ -4061,6 +4061,314 @@
             "journal": "Photonics Research",
             "title_cn": "通过深度学习和分区损失函数进行 3D 全息超表面设计",
             "abstract_cn": "深度学习显着加速了超表面设计的自动化，并减少了其对经验方法的依赖。然而，它仍未完全展示其在最具挑战性的光场操纵：3D 全息术中的能力。在本文中，我们提出了一个框架，将完全连接的前向预测网络与 3D 卷积逆设计网络相集成，以设计太赫兹 3D 全息超表面。通过使用有限数量的目标图像平面作为地面实况，网络学习真正的 3D 全息图的概念，其中图案在传播时旋转和平移，并设计超表面以实现相应的全息图。从实用的角度来看，我们提出了一种计算损失函数的分区和加权方法，以增强3D全息成像的可识别性。与解析方法和Gerchberg-Saxton算法相比，所提出的网络不仅表现出优越的成像性能，而且通过采用近似解来满足物理上不合理的3D全息的要求。本文提供了一种新颖有效的方法来探索深度学习在超表面逆向设计中的巨大潜力，使超表面能够更好地满足跨波段复杂光场操纵的要求。所提出的 3D 全息超表面对于推进太赫兹设备具有巨大的潜力，这些设备产生需要在 3D 空间中严格和连续控制的特定模式。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.576957",
+            "title": "Design of a broadband, high-power, off-axis spiral polarization reflector",
+            "link": "https://doi.org/10.1364/ao.576957",
+            "published": "2026-01-14",
+            "author": "A. Nicholas Black",
+            "summary": "Spirally polarized beams are known to produce a strong longitudinal field under high numerical aperture focusing. We report on the design of a reflective optical element with an off-axis geometry that is capable of transforming a uniformly polarized beam into a predominantly spirally polarized beam. By utilizing the retardance present in Fresnel reflection, our device can operate over a broad range of wavelengths. The output polarization and intensity structure of a beam passing through the reflector are calculated using polarization and scalar ray tracing. Vector diffraction is used to calculate the polarization and intensity structure under f /0.656 focusing. The off-axis reflective design is well-suited for high-power laser applications and could enable current and future laser-based particle accelerators to achieve strong longitudinal fields at focus.",
+            "journal": "Applied Optics",
+            "title_cn": "宽带、高功率、离轴螺旋偏振反射器的设计",
+            "abstract_cn": "众所周知，螺旋偏振光束在高数值孔径聚焦下会产生强纵向场。我们报告了具有离轴几何形状的反射光学元件的设计，该元件能够将均匀偏振光束转换为主要是螺旋偏振的光束。通过利用菲涅耳反射中存在的延迟，我们的设备可以在很宽的波长范围内工作。使用偏振和标量光线追踪来计算穿过反射器的光束的输出偏振和强度结构。矢量衍射用于计算 f/0.656 聚焦下的偏振和强度结构。离轴反射设计非常适合高功率激光应用，可以使当前和未来的基于激光的粒子加速器在焦点处实现强纵向场。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.580700",
+            "title": "Deep learning-based deflection angle regression network for measurement of the atmospheric refractive index structure constant",
+            "link": "https://doi.org/10.1364/ao.580700",
+            "published": "2026-01-12",
+            "author": "Baoyi Li, Jian Jiang, Yunyun Chen, Zhiqin Huang",
+            "summary": "The measurement of the refractive index structure constant plays a crucial role in the study of atmospheric turbulence. This paper proposes a method based on deflection angle regression network (DARN) for measuring the atmospheric refractive index structure constant. First, the feasibility and superiority of this method are verified through numerical simulation. The dataset used for deep learning training consists of 3600 frames of moiré fringes and a label dataset composed of 3600 frames of deflection angle information in one-to-one correspondence with them. Then, the trained model is used to predict the deflection angle, based on which the refractive index structure constant can be obtained. The simulation results show that the relative error of this method is about 0.3%, while that of the traditional method (TM) is about 2.1%. Finally, it is applied to the measurement of real atmosphere flow fields by moiré deflectometry. The experimental results indicate that the deep learning model not only achieves minimal training loss and rapid convergence of validation loss but also maintains a negligible prediction error, confirming its excellent performance.",
+            "journal": "Applied Optics",
+            "title_cn": "基于深度学习的偏转角回归网络测量大气折射率结构常数",
+            "abstract_cn": "折射率结构常数的测量在大气湍流的研究中起着至关重要的作用。提出一种基于偏转角回归网络（DARN）的大气折射率结构常数测量方法。首先，通过数值模拟验证了该方法的可行性和优越性。用于深度学习训练的数据集由3600帧莫尔条纹和与它们一一对应的3600帧偏转角度信息组成的标签数据集组成。然后，利用训练好的模型来预测偏转角，据此可以获得折射率结构常数。仿真结果表明，该方法的相对误差约为0.3%，而传统方法（TM）的相对误差约为2.1%。最后将其应用于莫尔偏转测量真实大气流场。实验结果表明，深度学习模型不仅实现了最小的训练损失和验证损失的快速收敛，而且保持了可忽略的预测误差，证实了其优异的性能。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.581848",
+            "title": "Lightweight dense U-Net for 3D tracer particle field reconstruction in synthetic aperture PIV",
+            "link": "https://doi.org/10.1364/ao.581848",
+            "published": "2026-01-16",
+            "author": "Xiangju Qu, Yang Song, Yulong Qi, Xiaoqiang Guo, Liang Liang, Zhiqiang Hu, Zhenhua Li",
+            "summary": "Synthetic aperture particle image velocimetry (SAPIV) has emerged as an advanced technique for investigating complex fluid dynamics, providing nonintrusive flow measurements with an extended depth of field, robustness at high particle concentrations, and improved three-dimensional resolutions. In SAPIV, accurate reconstruction of three-dimensional tracer particle fields is critical for ensuring the reliability and precision of flow measurements. In this study, a three-dimensional dense U-Net network is proposed to extract tracer particles from the synthetic aperture refocused image volume. Designed with a lightweight architecture, the network eliminates down-sampling and promotes feature reuse via dense blocks and skip connections. The 1×1×1 structure of the dense blocks allows for the reduced computational load while maintaining high spatial resolution. Validation in simulated vortex ring and uniform flow fields confirmed the method’s accuracy in reconstructing tracer particle and displacement vector fields. Quantitative assessments using reconstruction quality Q and 3D structural similarity demonstrated that the method achieves high-quality reconstruction of 3D tracer particle fields. Furthermore, a real experiment involving flow around a circular cylinder was conducted to demonstrate the practical applicability of the method.",
+            "journal": "Applied Optics",
+            "title_cn": "用于合成孔径 PIV 中 3D 示踪粒子场重建的轻量级密集 U-Net",
+            "abstract_cn": "合成孔径粒​​子图像测速 (SAPIV) 已成为研究复杂流体动力学的先进技术，提供具有扩展景深、高粒子浓度下的鲁棒性和改进的三维分辨率的非侵入式流量测量。在 SAPIV 中，三维示踪粒子场的精确重建对于确保流量测量的可靠性和精度至关重要。在本研究中，提出了一个三维密集 U-Net 网络来从合成孔径重聚焦图像体积中提取示踪粒子。该网络采用轻量级架构设计，消除了下采样，并通过密集块和跳过连接促进特征重用。密集块的 1×1×1 结构可以减少计算负载，同时保持高空间分辨率。模拟涡环和均匀流场的验证证实了该方法在重建示踪粒子和位移矢量场方面的准确性。使用重建质量Q和3D结构相似性进行定量评估表明，该方法实现了3D示踪粒子场的高质量重建。此外，还进行了圆柱绕流真实实验，验证了该方法的实际适用性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.582247",
+            "title": "Polarization-based real-time diffraction efficiency measurement of reflection volume holographic gratings",
+            "link": "https://doi.org/10.1364/ao.582247",
+            "published": "2026-01-13",
+            "author": "Rajveer Kaur, Komal Sharma, Saikat Saha, Raj Kumar",
+            "summary": "Holographic gratings play a crucial role in various applications, including spectroscopy, displays, security holograms, and sensing technologies. Real-time monitoring of the diffraction efficiency of these gratings is essential for improving fabrication processes and performance optimization. For many applications, such as displays and sensing, reflection volume holographic gratings (RVHGs) are preferred over transmission gratings due to their high wavelength selectivity. Existing real-time diffraction efficiency measurement setups typically rely on the Bragg degenerate method, which requires two lasers, resulting in increased cost and bulkiness. Also, it requires precise wavelength tuning and alignment, making the system more complex. Therefore, we propose a polarization-based novel, to the best of our knowledge, setup that performs real-time measurement of the diffraction efficiency of RVHGs with a single laser source. In this approach, the probe beam, having a different polarization state than the recording beams, provides real-time measurements, demonstrating a simplified method for the characterization and optimization of RVHGs. Furthermore, the refractive index modulation and polymerization rates are calculated for RVHGs recorded in photopolymer film, which are essential for determining grating quality and optical performance. Application of the proposed method is demonstrated in the optimization of holographic couplers required for the holographic waveguide-based near-eye augmented reality displays.",
+            "journal": "Applied Optics",
+            "title_cn": "基于偏振的反射体全息光栅实时衍射效率测量",
+            "abstract_cn": "全息光栅在光谱学、显示、安全全息图和传感技术等各种应用中发挥着至关重要的作用。实时监测这些光栅的衍射效率对于改进制造工艺和性能优化至关重要。对于显示器和传感等许多应用，反射体全息光栅 (RVHG) 由于其高波长选择性而优于透射光栅。现有的实时衍射效率测量装置通常依赖于布拉格简并方法，该方法需要两个激光器，导致成本增加和体积增大。此外，它需要精确的波长调谐和对准，使系统更加复杂。因此，据我们所知，我们提出了一种基于偏振的新型装置，可以使用单个激光源实时测量 RVHG 的衍射效率。在这种方法中，探测光束具有与记录光束不同的偏振态，可提供实时测量，展示了一种用于表征和优化 RVHG 的简化方法。此外，还计算了光聚合物薄膜中记录的 RVHG 的折射率调制和聚合速率，这对于确定光栅质量和光学性能至关重要。该方法的应用在基于全息波导的近眼增强现实显示器所需的全息耦合器的优化中得到了证明。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.579461",
+            "title": "Estimation of skin optical properties with a Monte Carlo simulation and a genetic algorithm",
+            "link": "https://doi.org/10.1364/ao.579461",
+            "published": "2026-01-15",
+            "author": "Murilo Sanches Sampaio, Luismar Barbosa da Cruz Junior, Renato Tinós, Lilian Tan Moriyama, Luciano Bachmann",
+            "summary": "Designing laser-based therapies and diagnostics requires knowledge of the tissue’s optical properties in order to avoid adverse effects such as burns and overdosing. These optical properties are usually estimated from measured reflectance and Monte Carlo (MC) light transport models, but most existing MC databases are built by sweeping parameters uniformly and often yield spectra that sit outside the range of real skin tones. This study closes this gap by guiding MC simulations with a color-space constraint. A three-layer skin model was implemented in PyXOpto, parameterized by biologically relevant variables and optimized by a genetic algorithm (GA) to ensure that the simulated colors remain within the bounds of the individual typology angle (ITA ∘ ). Validation against ex vivo human skin demonstrates high accuracy for different skin tones. These results indicate that the color-constrained framework can replicate and estimate the optical properties of real skin.",
+            "journal": "Applied Optics",
+            "title_cn": "使用蒙特卡罗模拟和遗传算法估计皮肤光学特性",
+            "abstract_cn": "设计基于激光的疗法和诊断需要了解组织的光学特性，以避免烧伤和用药过量等不良影响。这些光学特性通常是根据测量的反射率和蒙特卡罗 (MC) 光传输模型来估计的，但大多数现有的 MC 数据库是通过均匀扫描参数构建的，并且通常会产生位于真实肤色范围之外的光谱。这项研究通过用色彩空间约束指导 MC 模拟来缩小这一差距。在 PyXOpto 中实现了三层皮肤模型，通过生物学相关变量进行参数化，并通过遗传算法 (GA) 进行优化，以确保模拟颜色保持在单个类型学角度 (ITA ∘ ) 的范围内。针对离体人体皮肤的验证表明，不同肤色的准确性很高。这些结果表明颜色约束框架可以复制和估计真实皮肤的光学特性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.581780",
+            "title": "Decoupled two-stage multi-task learning with channel attention for optical image compression–reconstruction and classification",
+            "link": "https://doi.org/10.1364/ao.581780",
+            "published": "2026-01-12",
+            "author": "Nai-Wei Hsing, Bo-Ya Pan, Po-Jui Chiang",
+            "summary": "We present a decoupled multi-task framework trained via a two-stage scheme and augmented with channel attention for optical image compression–reconstruction and classification. In Stage 1 (classification-focused pretraining), the encoder is optimized without quantization noise to learn stable, semantically discriminative representations. In Stage 2, quantization and decoding are enabled, and channel attention is inserted to emphasize high-information-carrying channels, preserving key structures and textures under compression. The design exploits shallow low-level cues (edges and textures) for reconstruction and deep high-level semantics (object structure and category) for classification, yielding complementary cross-task benefits. Experiments demonstrate a robust trade-off: across bit-per-pixel (BPP) settings, classification accuracy remains at 81.40%, surpassing a joint MTL baseline (60.20% at BPP=0.0362) and a JPEG2000 + VGG19 pipeline (20.80%). The model uses only 1.97×10 7 parameters—over 33% fewer than alternatives—and achieves nearly ×3 faster training under identical settings. In sum, the proposed approach jointly ensures classification accuracy, reconstruction quality, and computational efficiency, delivering high performance, a lightweight footprint, and strong deployability for resource-constrained, low-bandwidth edge scenarios.",
+            "journal": "Applied Optics",
+            "title_cn": "用于光学图像压缩、重建和分类的具有通道注意的解耦两阶段多任务学习",
+            "abstract_cn": "我们提出了一个解耦的多任务框架，通过两阶段方案进行训练，并通过通道注意进行增强，以进行光学图像压缩、重建和分类。在第一阶段（以分类为重点的预训练）中，编码器在没有量化噪声的情况下进行优化，以学习稳定的、语义上有区别的表示。在第 2 阶段，启用量化和解码，并插入通道注意力以强调高信息承载通道，在压缩下保留关键结构和纹理。该设计利用浅层低级线索（边缘和纹理）进行重建，利用深层高级语义（对象结构和类别）进行分类，从而产生互补的跨任务优势。实验证明了一种稳健的权衡：在每像素位数 (BPP) 设置下，分类精度保持在 81.40%，超过了联合 MTL 基线（BPP=0.0362 时为 60.20%）和 JPEG2000 + VGG19 管道（20.80%）。该模型仅使用 1.97×10 7 个参数（比替代方案少 33% 以上），并且在相同设置下实现了近 3 倍的训练速度。总之，所提出的方法共同确保了分类精度、重建质量和计算效率，为资源受限、低带宽边缘场景提供高性能、轻量化和强大的可部署性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.580768",
+            "title": "HeNe laser for a high-precision phase-shifting interferometer based on peak power locking and weak thermal coupling",
+            "link": "https://doi.org/10.1364/ao.580768",
+            "published": "2026-01-20",
+            "author": "Qi Wang, Pei Jing, Zhigang Han, Zhanpeng Cui, Rihong Zhu, Ming Liu",
+            "summary": "Aiming at the problem of lacking several-milliwatt HeNe lasers with stable output in the field of precise interferometry, a light source schema based on peak power locking and weak thermal coupling is proposed in this paper. A weak thermal coupling structure driven by thermoelectric coolers (TECs) is developed based on the thermal conduction model of the laser tube, and the operating temperature of the tube is regulated through the feedback of the intensity signal of the reference light. Eventually, a two-milliwatt laser output with a wavelength drift of 0.04 pm within 24 h is achieved. The power loss, which is faced by the commercial frequency stabilization technique for HeNe lasers, is avoided by locking the operating mode at the peak gain position in the proposed method. In addition, stable single-longitudinal-mode output is achieved through this method, solving the issue of unstable interferogram contrast in spatiotemporal domain associated with the laser coherence fluctuation. Based on these characteristics, the new, to our knowledge, laser is applied for the surface shape measurement of an irregular-shape monocrystalline silicon component, resulting in the single-measurement error being reduced and the repeatability accuracy in the vibrating environment being improved.",
+            "journal": "Applied Optics",
+            "title_cn": "基于峰值功率锁定和弱热耦合的高精度相移干涉仪氦氖激光器",
+            "abstract_cn": "针对精密干涉测量领域缺乏稳定输出的几毫瓦氦氖激光器的问题，提出一种基于峰值功率锁定和弱热耦合的光源方案。基于激光管的热传导模型，开发了热电冷却器（TEC）驱动的弱热耦合结构，通过参考光强度信号的反馈调节管的工作温度。最终实现了24小时内波长漂移为0.04 pm的2毫瓦激光输出。该方法通过将工作模式锁定在峰值增益位置来避免商用氦氖激光器频率稳定技术所面临的功率损失。此外，该方法实现了稳定的单纵模输出，解决了激光相干波动引起的时空域干涉图对比度不稳定的问题。基于这些特点，据我们所知，新型激光应用于不规则形状单晶硅元件的表面形状测量，从而减少了单次测量误差，提高了振动环境下的重复精度。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583070",
+            "title": "Elliptically polarized light obtained from tilted high-contrast grating VCSELs",
+            "link": "https://doi.org/10.1364/ol.583070",
+            "published": "2025-12-17",
+            "author": "Valerio Torrelli, Martino D’Alessandro, Alberto Gullino, Matteo G. C. Alasio, Alberto Tibaldi, Connie Chang-Hasnain, Pierluigi Debernardi",
+            "summary": "We show that ultrathin elliptically polarized VCSELs can be realized with standard high-contrast gratings (HCGs) whose bars are tilted to the semiconductor crystalline axes on the transverse plane, without relying on any 2D chiral layer. Revisiting orthogonal polarization suppression ratio (OPSR) measurements, we demonstrate that the reduced OPSR for tilted gratings is related to elliptical lasing polarization rather than degraded polarization selectivity. Simulations confirm that the polarization state can be tuned by balancing intrinsic and HCG-induced anisotropies. These devices provide integrated elliptically polarized and wavelength-tunable sources for chip-scale atomic devices.",
+            "journal": "Optics Letters",
+            "title_cn": "从倾斜高对比度光栅 VCSEL 获得的椭圆偏振光",
+            "abstract_cn": "我们证明，超薄椭圆偏振 VCSEL 可以使用标准高对比度光栅（HCG）来实现，其光栅在横向平面上与半导体晶轴倾斜，而不依赖于任何 2D 手性层。重新审视正交偏振抑制比 (OPSR) 测量，我们证明倾斜光栅的 OPSR 降低与椭圆激光偏振有关，而不是与偏振选择性下降有关。模拟证实，可以通过平衡固有各向异性和 HCG 引起的各向异性来调节偏振态。这些器件为芯片级原子器件提供集成椭圆偏振和波长可调源。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.578126",
+            "title": "Deep learning for optical misalignment diagnostics in multi-lens imaging systems",
+            "link": "https://doi.org/10.1364/ol.578126",
+            "published": "2025-12-23",
+            "author": "Tomer Slor, Dean Oren, Shira Baneth, Tom Coen, Haim Suchowski",
+            "summary": "In the rapidly evolving field of optical engineering, precise alignment of multi-lens imaging systems is critical yet challenging, as even minor misalignments can significantly degrade performance. Traditional alignment methods rely on specialized equipment and are time-consuming processes, highlighting the need for automated and scalable solutions. We present two complementary deep learning-based inverse-design methods for diagnosing misalignments in multi-element lens systems using only optical measurements. First, we use ray-traced spot diagrams to predict five-degree-of-freedom (5-DOF) errors in a 6-lens photographic prime, achieving a mean absolute error of 0.031 mm in lateral translation and 0.011 ∘ in tilt. We also introduce a physics-based simulation pipeline that utilizes grayscale synthetic camera images, enabling a deep learning model to estimate 4-DOF, decenter, and tilt errors in both two- and six-lens multi-lens systems. These results show the potential to reshape manufacturing and quality control in precision imaging.",
+            "journal": "Optics Letters",
+            "title_cn": "多镜头成像系统中光学失准诊断的深度学习",
+            "abstract_cn": "在快速发展的光学工程领域，多镜头成像系统的精确对准至关重要但又具有挑战性，因为即使是微小的未对准也会显着降低性能。传统的对准方法依赖于专用设备并且是耗时的过程，突出了对自动化和可扩展解决方案的需求。我们提出了两种基于深度学习的互补逆向设计方法，用于仅使用光学测量来诊断多元件透镜系统中的未对准。首先，我们使用光线追踪点图来预测 6 镜头摄影定焦镜头中的五自由度 (5-DOF) 误差，横向平移的平均绝对误差为 0.031 毫米，倾斜的平均绝对误差为 0.011 ∘。我们还引入了基于物理的模拟管道，该管道利用灰度合成相机图像，使深度学习模型能够估计两镜头和六镜头多镜头系统中的 4 自由度、偏心和倾斜误差。这些结果显示了重塑精密成像制造和质量控制的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.580190",
+            "title": "Light shift suppression in a CPT magnetometer using linear polarization and double frequency interrogation",
+            "link": "https://doi.org/10.1364/ol.580190",
+            "published": "2025-12-30",
+            "author": "M. A. Maldonado, Yang Li, James A. McKelvy, Andrey Matsko, Irina Novikova, Eugeniy E. Mikhailov, John Kitching, Ying-Ju Wang",
+            "summary": "We demonstrate a suppression of the light shift in a Coherent-Population-Trapping (CPT) atomic magnetometer by using linearly polarized light and a differential measurement between magnetic resonances. The radio frequency that creates the optical sidebands for CPT quickly switches between two magnetic sensitive transitions, and the magnetic field is extrapolated from the difference of the center frequencies of the magnetic resonances. Light shifts and common drifts like collisional shifts can be suppressed through careful choice of measured resonances, and we show the light shift reduction by more than a factor of 20 compared to excitation with circularly-polarized light. Various limitations of the method are discussed.",
+            "journal": "Optics Letters",
+            "title_cn": "使用线性偏振和双频询问的 CPT 磁力计中的光移抑制",
+            "abstract_cn": "我们通过使用线偏振光和磁共振之间的差分测量来证明相干粒子捕获（CPT）原子磁力计中光移的抑制。为 CPT 创建光学边带的射频在两个磁敏感跃迁之间快速切换，并且根据磁共振中心频率的差异推断出磁场。通过仔细选择测量的共振，可以抑制光位移和常见漂移（例如碰撞位移），并且我们发现与圆偏振光激发相比，光位移减少了 20 倍以上。讨论了该方法的各种局限性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.576454",
+            "title": "Ranging beyond synthetic wavelengths with an undersampled spectral signal using tunable wavelength laser interferometry",
+            "link": "https://doi.org/10.1364/ol.576454",
+            "published": "2025-12-24",
+            "author": "P. Harikrishnan, Dinesh N. Naik",
+            "summary": "Range extension achieved beyond the longest synthetic wavelength is possible by continuous tuning of the source wavelength and with the use of tilted interference for excess fraction extraction from a spectrally undersampled signal. This allows for the unique measurement of the extended range. For a correctly assumed fringe order for the initial source wavelength, the non-divergence of the estimated range as a function of wavelength tuning provides the potential range locations. These are further zeroed in by repeating the analysis by varying the tuning steps. A cascaded Michelson interferometer is used to uniquely measure the extended range as well as the spatial profile of the sample from a single set of wavelength scan. The excess fraction is accurately measured using the Fourier transform method of fringe analysis by virtue of tilted interference. With the support of sub-nanometer resolution in wavelength tuning, precise centimeter-scale ranging, along with micrometer-level profile resolution, is achieved.",
+            "journal": "Optics Letters",
+            "title_cn": "使用可调谐波长激光干涉测量法，通过欠采样光谱信号超越合成波长",
+            "abstract_cn": "通过连续调谐光源波长并使用倾斜干涉从光谱欠采样信号中提取多余部分，可以实现超出最长合成波长的范围扩展。这允许对扩展范围进行独特的测量。对于正确假设的初始源波长的条纹阶数，作为波长调谐函数的估计范围的不发散提供了潜在的范围位置。通过改变调整步骤重复分析，可以进一步将这些归零。级联迈克尔逊干涉仪用于通过单组波长扫描独特地测量扩展范围以及样品的空间轮廓。利用条纹分析的傅立叶变换方法，利用倾斜干涉，精确测量过量部分。在波长调谐的亚纳米分辨率的支持下，可以实现精确的厘米级测距以及微米级的轮廓分辨率。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.584159",
+            "title": "Long-period grating on thin-film lithium-niobate waveguide for polarization mode conversion",
+            "link": "https://doi.org/10.1364/ol.584159",
+            "published": "2025-12-23",
+            "author": "Mengke Wang, Wei Jin, Kaixin Chen, Kin Seng Chiang",
+            "summary": "We design and fabricate a long-period grating (LPG) on a thin-film lithium-niobate (TFLN) rib waveguide for achieving effective conversion between two orthogonally polarized modes. Our experimental device, which employs a 330-µm long dual SiO 2 grating structure, achieves a mode conversion efficiency of ~99% at 1550 nm with a 10-dB bandwidth of ~20 nm, in good agreement with our theoretical results. This compact polarization mode converter, or polarization rotator, can serve as a basic component in TFLN-based photonic circuits. Our study extends the conventional functions of LPGs as mode converters for the same polarization and thus opens up new possibilities in the development of polarization-controlling devices for applications in high-density integrated photonics.",
+            "journal": "Optics Letters",
+            "title_cn": "用于偏振模式转换的薄膜铌酸锂波导上的长周期光栅",
+            "abstract_cn": "我们在薄膜铌酸锂（TFLN）肋波导上设计并制造了长周期光栅（LPG），以实现两种正交偏振模式之间的有效转换。我们的实验装置采用 330 µm 长的双 SiO 2 光栅结构，在 1550 nm 处实现了约 99% 的模式转换效率，10 dB 带宽约为 20 nm，与我们的理论结果非常吻合。这种紧凑型偏振模式转换器或偏振旋转器可用作基于 TFLN 的光子电路中的基本组件。我们的研究扩展了LPG作为相同偏振模式转换器的传统功能，从而为开发用于高密度集成光子学应用的偏振控制器件开辟了新的可能性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.584240",
+            "title": "Coupled plasmonic-passivation luminescence enhancement in InGaN quantum wells with Ag/AlN capping",
+            "link": "https://doi.org/10.1364/ol.584240",
+            "published": "2025-12-21",
+            "author": "David S. Pate, Joshua N. Blum, Iftikhar Ahmad, Vitaliy Avrutin, Ümit Özgür",
+            "summary": "Ag/AlN is investigated as an advantageous metal/dielectric combination for enhancing the radiative efficiency of InGaN multi-quantum well (MQW) structures via both passivation and plasmonic mechanisms. Steady-state and time-resolved photoluminescence (PL) measurements facilitate separation of these coupled effects, demonstrating almost complete elimination of parasitic recombination channels via AlN-related surface passivation alone. In agreement with theory, an additional Ag layer yields PL enhancements of 7.0–8.3× in the top QW closest to the plasmonic metal interface, with progressive reduction in deeper QWs. The high passivation efficiency of even thin AlN enables close proximity of the plasmonic layer and MQW active region, with increased spontaneous emission rates as high as 8.1× resulting from strengthened resonant coupling to Ag surface plasmons.",
+            "journal": "Optics Letters",
+            "title_cn": "Ag/AlN 封盖的 InGaN 量子阱中的耦合等离子体钝化发光增强",
+            "abstract_cn": "Ag/AlN 被研究为一种有利的金属/电介质组合，可通过钝化和等离子体机制提高 InGaN 多量子阱 (MQW) 结构的辐射效率。稳态和时间分辨光致发光 (PL) 测量有助于分离这些耦合效应，证明仅通过 AlN 相关的表面钝化就几乎完全消除了寄生复合通道。与理论一致，额外的 Ag 层在最靠近等离子体金属界面的顶部 QW 中产生 7.0-8.3 倍的 PL 增强，并且在更深的 QW 中逐渐减少。即使很薄的 AlN 也具有高钝化效率，使得等离子体层和 MQW 活性区域非常接近，由于与 Ag 表面等离子体激元的共振耦合增强，自发发射率高达 8.1 倍。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.576772",
+            "title": "Tunable 300 W single-frequency 2 μm fiber amplifier",
+            "link": "https://doi.org/10.1364/ol.576772",
+            "published": "2025-12-19",
+            "author": "Reagan R. D. Weeks, Ryan A. Lane, Brian M. Anderson",
+            "summary": "We present an all-fiber design for a Tm-based fiber amplifier that can tune over 1992–2065 nm with 300–350 W single-frequency (<100 kHz) output. Over 180 W is achieved out to 2085 nm with <10% ASE content without utilizing ASE spectral filters. The amplifier employs both Tm- and Tm/Ho-doped gain fibers in two preamplifier stages in addition to longer sections of Tm fiber to extend the bandwidth of the Tm-based high-power amplifier to longer wavelengths (>2050 nm). Efficiencies of ∼55% are realized across the full bandwidth. Roll-off occurs beyond 2085 nm where ASE becomes intractable. The amplifier has an average M 2 value of 1.39 at high power due to the presence of light guided within the fiber pedestal. Estimates of the pedestal light and higher-order mode contents are provided.",
+            "journal": "Optics Letters",
+            "title_cn": "可调谐 300 W 单频 2 μm 光纤放大器",
+            "abstract_cn": "我们提出了一种基于 Tm 的光纤放大器的全光纤设计，可以在 1992-2065 nm 范围内调谐，并具有 300-350 W 单频（<100 kHz）输出。在 2085 nm 处可实现超过 180 W，且 ASE 含量 <10%，无需使用 ASE 光谱滤光片。除了 Tm 光纤的较长部分之外，该放大器在两个前置放大器级中还采用了 Tm 和 Tm/Ho 掺杂增益光纤，以将基于 Tm 的高功率放大器的带宽扩展到更长的波长 (>2050 nm)。在整个带宽上实现了约 55% 的效率。滚降发生在 2085 nm 之外，此时 ASE 变得难以处理。由于光纤基座内存在引导光，放大器在高功率下的平均 M 2 值为 1.39。提供了基座光和高阶模式内容的估计。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583980",
+            "title": "Programmable solvent-responsive PDMS microstructures via 3D direct laser writing",
+            "link": "https://doi.org/10.1364/ol.583980",
+            "published": "2025-12-24",
+            "author": "Qingbo Jiao, Yimin Zhang, Wenbo Wang, Ge Jiang, Wei Wang, Mengdan Qian",
+            "summary": "This study addresses the three-dimensional (3D) fabrication of polydimethylsiloxane (PDMS) for intelligent micromechanical systems through a novel PDMS-based photoresist compatible with two-photon polymerization (2PP). By optimizing a 2PP system, photosensitivity and processability were significantly enhanced, enabling complex 3D structures with sub-micron precision. Using programmable 2PP direct laser writing (DLW) and by controlling the processing parameters and scanning strategies, we established a quantitative model for structural fidelity and achieved spatial control over the crosslinking density. Thus, solvent-responsive components used for encrypted micropillar arrays and smart microvalves were successfully fabricated, demonstrating the precise and controllable deformation upon solvent stimulation. Excellent cytocompatibility is also confirmed by biocompatibility tests. This research breaks through conventional PDMS microfabrication limitations, providing innovative material solutions and processing pathways for intelligent micro-systems in soft robotics and biomedical fields.",
+            "journal": "Optics Letters",
+            "title_cn": "通过 3D 直接激光写入可编程溶剂响应 PDMS 微结构",
+            "abstract_cn": "本研究通过与双光子聚合 (2PP) 兼容的新型基于 PDMS 的光刻胶，解决了用于智能微机械系统的聚二甲基硅氧烷 (PDMS) 的三维 (3D) 制造问题。通过优化 2PP 系统，光敏性和可加工性显着增强，从而实现亚微米精度的复杂 3D 结构。使用可编程2PP直接激光写入（DLW）并通过控制加工参数和扫描策略，我们建立了结构保真度的定量模型并实现了交联密度的空间控制。因此，成功制造了用于加密微柱阵列和智能微阀的溶剂响应组件，展示了溶剂刺激时精确且可控的变形。生物相容性测试也证实了优异的细胞相容性。该研究突破了传统PDMS微加工的局限性，为软体机器人和生物医学领域的智能微系统提供了创新的材料解决方案和加工途径。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583535",
+            "title": "Spectral broadening and pulse shaping in the deep ultraviolet",
+            "link": "https://doi.org/10.1364/ol.583535",
+            "published": "2025-12-30",
+            "author": "Julia Codere, Brett J. Pearson, Brian Kaufman, Loc Thi-Hoang Ngo, Martin G. Cohen, Matthew Bain, Thomas Weinacht, Ruaridh Forbes",
+            "summary": "We report the generation and shaping of ∼20 femtosecond pulses in the deep ultraviolet (DUV). Our approach combines spectral broadening in a stretched hollow-core fiber with compression and shaping via an acousto-optic modulator-based pulse shaper. The pulse shaper allows for automatic compression, useful for in-air delivery of pulses to two-dimensional (2D) spectroscopy and other time-resolved experiments. Unlike previous DUV pulse generation schemes that lack phase stability, our method enables programmable generation of phase-locked pulse-pairs with attosecond-level stability. We demonstrate pulse characterization via self-diffraction frequency-resolved optical gating and dispersion scan methods in the DUV and validate performance through a pump-probe experiment resolving electronic dynamics on attosecond timescales.",
+            "journal": "Optics Letters",
+            "title_cn": "深紫外光谱展宽和脉冲整形",
+            "abstract_cn": "我们报告了深紫外 (DUV) 中约 20 飞秒脉冲的生成和整形。我们的方法将拉伸空心光纤中的光谱展宽与通过基于声光调制器的脉冲整形器的压缩和整形结合起来。脉冲整形器允许自动压缩，适用于将脉冲在空气中传输到二维 (2D) 光谱和其他时间分辨实验。与之前缺乏相位稳定性的 DUV 脉冲生成方案不同，我们的方法能够可编程生成具有阿秒级稳定性的锁相脉冲对。我们通过 DUV 中的自衍射频率分辨光选通和色散扫描方法演示了脉冲表征，并通过解析阿秒时间尺度上的电子动力学的泵浦探针实验验证了性能。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583775",
+            "title": "Application of deep learning to single-shot gas-phase laser-induced breakdown spectroscopy",
+            "link": "https://doi.org/10.1364/ol.583775",
+            "published": "2025-12-30",
+            "author": "Nathan P. Brown, Elijah R. Jans, Garrett W. Idler",
+            "summary": "Single-shot fs laser-induced breakdown spectroscopy (LIBS) has the potential to capture ns-scale electrode desorption phenomena in pulsed power fusion drivers. However, the successful implementation of the diagnostic for this purpose is challenging, as it requires interpreting single-shot measurements collected from low-density gas mixtures. In this work, we demonstrate the efficacy of a Bayesian-optimized convolutional neural network (CNN) to interpret these measurements. We generated 256 distinct measurement conditions at relevant gas pressures ranging from 80–530 mTorr by mixing 100–250 sccm H 2 and 50–200 sccm CH 4 in increments of 10 sccm. Despite the considerable overlap between signals separated by 20 sccm, the CNN is able to predict the H 2 flow rate with a root-mean-square error (RMSE) of 15.9 sccm and the CH 4 flow rate with an RMSE of 12.0 sccm. The average relative prediction error is <9% for each gas and largely remains below or near 10%.",
+            "journal": "Optics Letters",
+            "title_cn": "深度学习在单次气相激光诱导击穿光谱中的应用",
+            "abstract_cn": "单次飞秒激光诱导击穿光谱 (LIBS) 有潜力捕获脉冲功率聚变驱动器中的纳秒级电极解吸现象。然而，成功实现此目的的诊断具有挑战性，因为它需要解释从低密度气体混合物中收集的单次测量结果。在这项工作中，我们展示了贝叶斯优化卷积神经网络 (CNN) 解释这些测量结果的有效性。我们通过以 10 sccm 增量混合 100–250 sccm H 2 和 50–200 sccm CH 4，在 80–530 mTorr 的相关气压下生成 256 个不同的测量条件。尽管间隔 20 sccm 的信号之间存在相当大的重叠，CNN 仍能够预测均方根误差 (RMSE) 为 15.9 sccm 的 H 2 流速和 RMSE 为 12.0 sccm 的 CH 4 流速。每种气体的平均相对预测误差<9%，并且大部分保持在低于或接近10%。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.572694",
+            "title": "Photonic integrated circuit optical parametric oscillators",
+            "link": "https://doi.org/10.1364/optica.572694",
+            "published": "2025-12-22",
+            "author": "Xiyuan Lu, Robert M. Gray, Jordan Stone, Selina Zhou, Nicolas Englebert, Alireza Marandi, Kartik Srinivasan",
+            "summary": "Optical parametric oscillators (OPOs) are versatile nonlinear optical devices for wavelength generation from the visible to the mid-infrared. Recently, OPO research has merged with photonic integrated circuits (PICs) in the advancement of miniaturized, on-chip light sources utilizing second-order ( χ (2) ) or third-order ( χ (3) ) nonlinearities. This mini-review of PIC-based OPOs begins with an overview of their history, applications, and underlying physics. We then discuss χ (2) and χ (3) implementations in depth, highlighting material and device platforms, recent breakthroughs, and key engineering strategies across different wavelength regions. Finally, we outline future directions in PIC OPO technology and its application to spectroscopy, sensing, quantum optics, and photonic computing.",
+            "journal": "Optica",
+            "title_cn": "光子集成电路光参量振荡器",
+            "abstract_cn": "光参量振荡器 (OPO) 是通用非线性光学器件，用于产生从可见光到中红外的波长。最近，OPO 研究与光子集成电路 (PIC) 相结合，利用二阶 ( χ (2) ) 或三阶 ( χ (3) ) 非线性推动小型化片上光源的发展。这篇基于 PIC 的 OPO 的简短回顾首先概述了它们的历史、应用和基础物理。然后，我们深入讨论 χ (2) 和 χ (3) 的实现，重点介绍材料和器件平台、最新突破以及不同波长区域的关键工程策略。最后，我们概述了 PIC OPO 技术及其在光谱学、传感、量子光学和光子计算方面的应用的未来方向。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.580877",
+            "title": "Longitudinal investigation of prostate tumor spheroid proliferation with dynamic line-field optical coherence tomography",
+            "link": "https://doi.org/10.1364/boe.580877",
+            "published": "2026-01-23",
+            "author": "Steph Swanson, Keyu Chen, Elahe Cheraghi, Ernest Osei, Kostadinka Bizheva",
+            "summary": "Recently, it has become widely recognized that culturing cancer cells in vitro in small, 3D aggregates known as tumor spheroids provides a more physiologically relevant model of in vivo tumor behavior compared to 2D monolayer cultures. Dynamic optical coherence tomography (dOCT) is a non-invasive imaging modality that, by analyzing temporal fluctuations in the light scattered from biological tissue, does not require exogenous contrast agents to visualize and quantify cellular activity within 3D cell cultures. However, recent volumetric dOCT studies have encountered challenges due to low acquisition speeds. In this study, we present morphological and dynamic analyses of prostate tumor spheroid growth over a two-week longitudinal period, utilizing a line-field dOCT platform. Volumetric dOCT data were acquired for each spheroid in 16 seconds. Our method clearly differentiated between active cellular metabolism in live spheroids and the lack of activity in spheroids fixed with formaldehyde. Quantitative validation of the dynamic signal was conducted using the Alamar Blue proliferation assay, while qualitative validation was provided by live/dead fluorescence microscopy.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "动态线场光学相干断层扫描对前列腺肿瘤球体增殖的纵向研究",
+            "abstract_cn": "最近，人们广泛认识到，与 2D 单层培养物相比，在体外以称为肿瘤球体的小型 3D 聚集体培养癌细胞，可以提供更生理相关的体内肿瘤行为模型。动态光学相干断层扫描 (dOCT) 是一种非侵入性成像方式，通过分析生物组织散射光的时间波动，不需要外源造影剂即可可视化和量化 3D 细胞培养物中的细胞活动。然而，最近的体积 dOCT 研究由于采集速度低而遇到了挑战。在这项研究中，我们利用线场 dOCT 平台对两周纵向期间的前列腺肿瘤球体生长进行形态学和动态分析。在 16 秒内获取每个球体的体积 dOCT 数据。我们的方法清楚地区分了活球体中活跃的细胞代谢和用甲醛固定的球体中缺乏活性的细胞代谢。使用 Alamar Blue 增殖测定对动态信号进行定量验证，而通过活/死荧光显微镜提供定性验证。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.572662",
+            "title": "Simultaneous real-time multispectral fluorescence and reflectance imaging for enhanced intraoperative guidance",
+            "link": "https://doi.org/10.1364/optcon.572662",
+            "published": "2025-11-14",
+            "author": "Kyriakos Pentarakis, George Kakavelakis, Constantinos Petridis, George Themelis",
+            "summary": "Intraoperative fluorescence imaging enhances surgical precision, but current systems require switching between anatomical and fluorescence views, disrupting workflow and forcing surgeons to mentally overlay separate images. We developed a dual-sensor multispectral imaging system that uniquely enables simultaneous visualization of full-color anatomy and multiple fluorescence signals (protoporphyrin IX, fluorescein sodium, and indocyanine green) in real-time, a capability not available in existing surgical platforms. By employing custom optical filters and linear unmixing algorithms, the system captures all imaging modes concurrently, providing perfectly co-registered anatomical and fluorescence information in a single unified view. Phantom validation demonstrated accurate fluorophore separation while maintaining color fidelity for tissue visualization. This approach eliminates mode-switching delays and mental image fusion, streamlining surgical workflow with a practical platform designed for clinical integration.",
+            "journal": "Optics Continuum",
+            "title_cn": "同时实时多光谱荧光和反射成像，增强术中指导",
+            "abstract_cn": "术中荧光成像提高了手术精度，但当前的系统需要在解剖视图和荧光视图之间切换，这会扰乱工作流程并迫使外科医生在心里重叠单独的图像。我们开发了一种双传感器多光谱成像系统，能够实时同步显示全彩色解剖结构和多种荧光信号（原卟啉 IX、荧光素钠和吲哚菁绿），这是现有手术平台所不具备的功能。通过采用定制光学滤波器和线性解混合算法，该系统可以同时捕获所有成像模式，从而在单个统一视图中提供完美共同配准的解剖和荧光信息。体模验证证明了准确的荧光团分离，同时保持了组织可视化的颜色保真度。这种方法消除了模式切换延迟和心理图像融合，通过专为临床集成设计的实用平台简化了手术工作流程。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.572008",
+            "title": "Analytical study of the effect of refractive index and scattering angle on the light scattering ratio of aerosol particles",
+            "link": "https://doi.org/10.1364/optcon.572008",
+            "published": "2026-01-06",
+            "author": "Haibin Wang, Xueying Bai, Jinhao Li, Yvcheng Dong, Li Deng, Quanyi Liu",
+            "summary": "The precision of fire detection technology is essential for protecting lives and property, with the light scattering characteristics of aerosol particles being critical factors influencing the performance of fire detection systems. This study employs Mie scattering theory to analyze the light scattering ratio in fire detection, examining the effects of refractive index and scattering angle on aerosol particles to enhance fire detection technology. The findings reveal that scattering efficiencies vary with refractive index and size parameters, while extinction efficiencies are closely linked to these factors. Additionally, the study highlights the significant impact of scattering angle combinations on light scattering ratios, emphasizing the potential advantages of multi-wavelength detection technology in accurately identifying smoke particles and reducing false alarm rates.",
+            "journal": "Optics Continuum",
+            "title_cn": "折射率和散射角对气溶胶颗粒光散射比影响的分析研究",
+            "abstract_cn": "火灾探测技术的精度对于保护生命和财产至关重要，而气溶胶颗粒的光散射特性是影响火灾探测系统性能的关键因素。本研究采用米氏散射理论来分析火灾探测中的光散射比，考察折射率和散射角对气溶胶颗粒的影响，以提高火灾探测技术。研究结果表明，散射效率随折射率和尺寸参数而变化，而消光效率与这些因素密切相关。此外，该研究还强调了散射角度组合对光散射比的显着影响，强调多波长检测技术在准确识别烟雾颗粒和降低误报率方面的潜在优势。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.569801",
+            "title": "Observation of photonic asymmetric topological corner modes driven by periodically staggered onsite edge potentials",
+            "link": "https://doi.org/10.1364/prj.569801",
+            "published": "2025-11-13",
+            "author": "Hongyi Li, Chunmei Ouyang, Shiyu Liu, Yuting Yang, Jiajun Ma, Liyuan Liu, Quan Xu, Xueqian Zhang, Jianqiang Gu, Zhen Tian, Yanfeng Li, Jiaguang Han, Weili Zhang",
+            "summary": "Controlling topological modes in photonic systems remains a fundamental challenge, as conventional approaches rely on global lattice modifications and lack topological phase engineering of the induced non-trivial states. Here, we reveal that staggered onsite edge potential (SOEP) modulation breaks mirror symmetry in folded edge states, inducing edge-confined Wannier function deviations and thus driving edge bands into distinct topological phases. The emergence of resulting higher-order localized modes is further confirmed. Notably, the hosted corner modes are SOEP-selective, depending on the deviation direction of the Wannier function. Using spoof surface plasmon polariton photonic crystals, we experimentally confirm two SOEP-driven evolution regimes: symmetric evolution enabling corner-mode pumping between adjacent corners and asymmetric evolution restricting corner modes to negative potentials. These results demonstrate spatial control over corner states, linking edge potential engineering to higher-order topology. Our study paves the way for manipulating the band structure and modeling topological phases of photonic states.",
+            "journal": "Photonics Research",
+            "title_cn": "周期性交错现场边缘电势驱动的光子不对称拓扑角模式的观察",
+            "abstract_cn": "控制光子系统中的拓扑模式仍然是一个基本挑战，因为传统方法依赖于全局晶格修改并且缺乏诱导的非平凡状态的拓扑相工程。在这里，我们揭示了交错现场边缘势（SOEP）调制打破了折叠边缘态的镜像对称性，引起边缘限制的万尼尔函数偏差，从而驱动边缘带进入不同的拓扑相。由此产生的高阶局域模式的出现得到进一步证实。值得注意的是，托管角点模式是 SOEP 选择性的，具体取决于 Wannier 函数的偏差方向。使用欺骗表面等离子体极化子光子晶体，我们通过实验证实了两种 SOEP 驱动的演化机制：对称演化实现了相邻角之间的角模式泵浦，非对称演化将角模式限制为负电势。这些结果证明了对角状态的空间控制，将边缘势工程与高阶拓扑联系起来。我们的研究为操纵能带结构和模拟光子态的拓扑相铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.567625",
+            "title": "Iterative virtual Moiré reconstruction: simultaneous recovery for topological charge and phase from a single-frame aberrated interferogram",
+            "link": "https://doi.org/10.1364/prj.567625",
+            "published": "2025-11-13",
+            "author": "Bo Long, Ning Sun, Ling Wei, Rui Yang, Junling Chen, Rong Yan, Lei Mu, Xiaoyue Hu, Lei Zhang",
+            "summary": "Traditional vortex beam parameter determination methods are all designed for aberration-free vortex beams. In the case of aberrations and turbulence, they tend to struggle in mutual restraint between phase recovery and topological charge (TC) detection. Most recent methods depend on complex interferometric setups and precise phase singularity localization. An iterative virtual Moiré reconstruction (IVMR) technique is proposed based on the blind conformal mapping, achieving simultaneous demodulation of TC and phase from a single-frame aberrated interferogram, not needing precise phase singularity positioning. Experimental validation reveals an unprecedented dual-parameter characterization capability, demonstrating robustness across general aberration (root mean square ≤3 λ ) with an accuracy of 0.1 and Kolmogorov-type turbulence (atmospheric turbulence strength D / r 0 =12.5) with an accuracy of 0.15 for both integer and fractional topological charges. The simultaneous phase recovery accuracy achieves 3% and 10% root mean square error under general aberrations and turbulence, respectively. This approach demonstrates remarkably robust performance coupled with system simplicity, enabling efficient and accurate parameter quantification of vortex beams in real-world applications.",
+            "journal": "Photonics Research",
+            "title_cn": "迭代虚拟莫尔条纹重建：从单帧像差干涉图中同时恢复拓扑电荷和相位",
+            "abstract_cn": "传统的涡旋光束参数确定方法都是针对无像差涡旋光束而设计的。在像差和湍流的情况下，它们往往会在相位恢复和拓扑电荷（TC）检测之间相互制约。最近的方法依赖于复杂的干涉装置和精确的相位奇点定位。提出了一种基于盲共形映射的迭代虚拟莫尔重构(IVMR)技术，实现了单帧像差干涉图TC和相位的同时解调，不需要精确的相位奇点定位。实验验证揭示了前所未有的双参数表征能力，证明了整数和分数拓扑电荷在一般像差（均方根≤3 λ）和柯尔莫哥洛夫型湍流（大气湍流强度 D / r 0 = 12.5）方面的鲁棒性，精度为 0.1，精度为 0.15。在一般像差和湍流情况下，同步相位恢复精度分别达到 3% 和 10% 均方根误差。这种方法展示了非常强大的性能以及系统的简单性，从而能够在实际应用中对涡旋光束进行高效、准确的参数量化。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.568472",
+            "title": "High-power, thermally accessible dissipative Kerr soliton generation",
+            "link": "https://doi.org/10.1364/prj.568472",
+            "published": "2025-10-29",
+            "author": "Andreas Jacobsen, Yanjing Zhao, Yang Liu, Chaochao Ye, Yi Zheng, Camiel Op de Beeck, José Carreira, Michael Geiselmann, Minhao Pu",
+            "summary": "Kerr frequency combs, or microcombs, are revolutionizing fields such as precision metrology, optical clocks, and astronomical spectrometer calibration. However, conventional dissipative Kerr soliton (DKS) microcombs often suffer from limited conversion efficiency and low output power, and achieving deterministic single-soliton generation remains a challenge due to limited thermal accessibility arising from the intricate interplay of Kerr and thermal effects. In this work, we present an optimized microresonator design combined with a robust pumping scheme to enhance the thermal accessibility of single-soliton states for deterministic generation. By operating a silicon nitride microresonator with tailored dispersion in the over-coupled regime, we demonstrate a thermally accessible pathway to single solitons with high conversion efficiency (approaching 30%), and high output power (up to 50 mW). Through a pump forward-tuning process with power ramping, followed by backward tuning, we achieve deterministic single-soliton generation across 80 consecutive trials via automated laser tuning, eliminating the need for complex thermal compensation or rapid tuning schemes. Our work provides a straightforward and robust solution for generating high-power solitons, advancing the practicality and accessibility of microcombs for real-world applications.",
+            "journal": "Photonics Research",
+            "title_cn": "高功率、热可达耗散克尔孤子发生",
+            "abstract_cn": "克尔频率梳或微梳正在给精密计量、光学时钟和天文光谱仪校准等领域带来革命性的变化。然而，传统的耗散克尔孤子（DKS）微梳经常受到转换效率有限和输出功率低的困扰，并且由于克尔和热效应的复杂相互作用而导致热可达性有限，实现确定性单孤子生成仍然是一个挑战。在这项工作中，我们提出了一种优化的微谐振器设计与强大的泵浦方案相结合，以增强单孤子态的热可达性，从而实现确定性生成。通过在过耦合状态下操作具有定制色散的氮化硅微谐振器，我们展示了一种具有高转换效率（接近 30%）和高输出功率（高达 50 mW）的单孤子的热可达路径。通过功率斜坡前向调谐过程，然后向后调谐，我们通过自动激光调谐在 80 次连续试验中实现了确定性的单孤子生成，从而无需复杂的热补偿或快速调谐方案。我们的工作为产生高功率孤子提供了一种简单而强大的解决方案，提高了微梳在实际应用中的实用性和可访问性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.568361",
+            "title": "Universal spectral purification of ultrahigh- Q microresonators for ideal soliton microcombs",
+            "link": "https://doi.org/10.1364/prj.568361",
+            "published": "2025-10-31",
+            "author": "Xin Zhou, Jincheng Li, Min Wang, Yuechen Lei, Yinke Cheng, Ze Wang, Zhongshan Zhang, Zhilin Li, Hao Zhang, Zhisong Xiao, Qi-Fan Yang, Bei-Bei Li",
+            "summary": "Soliton microcombs offer a compact means to generate equally spaced spectral lines via a delicate balance of Kerr nonlinearity and anomalous dispersion in nonlinear microresonators. However, the simultaneous excitation of multiple transverse mode families can disrupt soliton formation and degrade spectral uniformity. Here, we demonstrate universal spectral purification of microresonators with ultrahigh intrinsic Q factors exceeding 10 8 . An aluminum ring is deposited onto a silica microdisk to eliminate high-order transverse modes selectively by introducing additional losses. The resulting soliton microcombs exhibit an ideal sech 2 spectral envelope and enable continuous tuning of the soliton repetition frequency over a 300 kHz range without compromising phase noise performance. Our approach can be universally applied to integrated photonic platforms to reduce transverse modes crowding in high- Q resonators, facilitating the generation of broadband classical and quantum light with ideal performance.",
+            "journal": "Photonics Research",
+            "title_cn": "用于理想孤子微梳的超高 Q 微谐振器的通用光谱纯化",
+            "abstract_cn": "孤子微梳提供了一种紧凑的方法，通过非线性微谐振器中克尔非线性和反常色散的微妙平衡来生成等间隔的谱线。然而，多个横模族的同时激发会破坏孤子的形成并降低光谱均匀性。在这里，我们展示了具有超过 10 8 的超高本征 Q 因子的微谐振器的通用光谱净化。将铝环沉积在二氧化硅微盘上，通过引入额外损耗来选择性地消除高阶横模。由此产生的孤子微梳表现出理想的 sech 2 频谱包络，并能够在 300 kHz 范围内连续调谐孤子重复频率，而不会影响相位噪声性能。我们的方法可以普遍应用于集成光子平台，以减少高Q谐振器中的横模拥挤，促进产生具有理想性能的宽带经典光和量子光。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.565450",
+            "title": "Dynamic-range-extended line-field interferometric profiling with high-speed in-fiber optical delay control",
+            "link": "https://doi.org/10.1364/prj.565450",
+            "published": "2025-10-31",
+            "author": "Jaeheung Kim, Gyeong Hun Kim, Sang Min Park, Eun Seo Choi, Seung Seok Lee, Kyung Won Kim, Hyung-Hoi Kim, Chang-Seok Kim, Hwidon Lee",
+            "summary": "A high-speed dynamic-range-extended white light interferometry (HS-DRE-WLI) system is developed for fast, high-resolution 3D surface profiling across varying reflectance levels. The system combines high-speed fiber-stretcher-based optical path difference modulation with an asymmetric line-illumination technique to enhance imaging speed and dynamic range. Chromatic and polarization-induced distortions are minimized through dispersion compensation using optimized fiber lengths and a Faraday rotator, achieving 14.2-μm axial resolution. Validated on diverse samples, the system captures fine and large-scale features with high fidelity, demonstrating strong potential for industrial and biomedical applications requiring accurate, robust surface measurements.",
+            "journal": "Photonics Research",
+            "title_cn": "具有高速光纤内光学延迟控制的动态范围扩展线场干涉分析",
+            "abstract_cn": "开发了高速动态范围扩展白光干涉测量 (HS-DRE-WLI) 系统，用于在不同的反射率水平上进行快速、高分辨率的 3D 表面分析。该系统将基于高速光纤拉伸器的光程差调制与非对称线照明技术相结合，以提高成像速度和动态范围。使用优化的光纤长度和法拉第旋转器进行色散补偿，最大限度地减少色度和偏振引起的畸变，实现 14.2μm 的轴向分辨率。该系统经过不同样品的验证，能够以高保真度捕获精细和大规模的特征，展现出在需要精确、稳健的表面测量的工业和生物医学应用中的巨大潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.566383",
+            "title": "Demonstration and performance evaluation of reconfigurable multiband microwave filters using a programmable photonic integrated circuit",
+            "link": "https://doi.org/10.1364/prj.566383",
+            "published": "2025-11-20",
+            "author": "Ashitosh Velamuri, Kumar Piyush, Yash Raj, Arnab Goswami, Anandha Padmanabhan, Nitin Ghodgaonkar, Dinanath Soni, Janakiraman Viraraghavan, Bijoy Krishna Das",
+            "summary": "A programmable silicon photonic multiband microwave filter with tunable bandwidths has been demonstrated. The filter has been successfully used to set up a radio-over-fiber link operating in the X-band as a proof of concept. For this purpose, we have investigated the programmable photonic integrated circuit comprising 14 tunable balanced Mach–Zehnder interferometers designed into a square mesh architecture and fabricated using CMOS-compatible silicon photonic technology. The photonic chip was electrically packaged for its reconfigurable operations using an external 16-channel programmable power supply by tuning the thermo-optic phase shifters integrated into both the arms of Mach–Zehnder interferometers. The operating temperature of the packaged chip is stabilized within ±0.002°C using a PID controller to avoid any interference of ambient temperature fluctuations. The mesh architecture is programmed into three different microring resonators (MRRs) operating independently in all-pass configurations for three free spectral ranges (23.25 GHz, 11.75 GHz, and 8.75 GHz, respectively). The multiband microwave photonic filter characteristics have been experimentally obtained using a fiber-coupled off-chip laser source (operating at λ ∼1550 nm ), a modulator (bandwidth ∼40 GHz ), and a photodetector (bandwidth ∼50 GHz ). Thus, we have demonstrated microwave filters with two, three, and four bands within the modulator bandwidth used in the experiments. Among these, the two-band filter realized for the X- and Ka-bands was thoroughly investigated in the experiments to understand the MRR coupling condition ( Q -factor) effect on the realized filter bandwidth and its tuning range, link gain, and rejection. The bandwidth of both the filter bands was tuned over the extensive range of 1.6–8.1 GHz by controlling the MRR Q -factor and the resonance spacing from the carrier. At the same time, the bandwidth tuning range of the three-band filter realized for the C-, Ku-, and Ka-band (2–6 GHz) and the four-band filter realized for the C-, Ku-, K-, and Ka-band (3–5 GHz) in our experiments was limited by the finesse of the ring resonator. Finally, the microwave filter response at the X-band is used for evaluating a radio-over-fiber receiver link as a proof of concept for its potential 5G/6G applications. With an optimized set of operating parameters of the programmable microwave filter, we could achieve a bit error rate as low as ∼10 −20 for a fiber-optic link length of 400 m (at 100 Mbps).",
+            "journal": "Photonics Research",
+            "title_cn": "使用可编程光子集成电路的可重构多频带微波滤波器的演示和性能评估",
+            "abstract_cn": "已经展示了具有可调带宽的可编程硅光子多频带微波滤波器。作为概念验证，该滤波器已成功用于建立在 X 频段运行的光纤无线电链路。为此，我们研究了可编程光子集成电路，该电路由 14 个可调谐平衡马赫-曾德干涉仪组成，设计成方形网格架构，并使用 CMOS 兼容的硅光子技术制造。通过调整集成到马赫-曾德干涉仪两个臂中的热光移相器，使用外部 16 通道可编程电源对光子芯片进行了电气封装，以实现其可重新配置操作。采用PID控制器将封装芯片的工作温度稳定在±0.002℃以内，避免环境温度波动的干扰。该网状架构被编程到三个不同的微环谐振器 (MRR) 中，这些微环谐振器在三个自由光谱范围（分别为 23.25 GHz、11.75 GHz 和 8.75 GHz）的全通配置中独立运行。使用光纤耦合片外激光源（工作波长为 λ ~1550 nm）、调制器（带宽 ~40 GHz）和光电探测器（带宽 ~50 GHz）通过实验获得了多波段微波光子滤波器特性。因此，我们在实验中使用的调制器带宽内演示了具有两个、三个和四个频带的微波滤波器。其中，在实验中对 X 和 Ka 频段实现的双频段滤波器进行了深入研究，以了解 MRR 耦合条件（Q 因子）对实现的滤波器带宽及其调谐范围、链路增益和抑制的影响。通过控制 MRR Q 因子和与载波的谐振间距，可以在 1.6–8.1 GHz 的广泛范围内调谐两个滤波器频段的带宽。同时，在我们的实验中，为C、Ku和Ka频段（2-6 GHz）实现的三频段滤波器以及为C、Ku、K和Ka频段（3-5 GHz）实现的四频段滤波器的带宽调谐范围受到环形谐振器精度的限制。最后，X 频段的微波滤波器响应用于评估光纤无线电接收器链路，作为其潜在 5G/6G 应用的概念证明。通过可编程微波滤波器的一组优化操作参数，我们可以在 400 m 的光纤链路长度（100 Mbps 时）实现低至 ∼10 -20 的误码率。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.571051",
+            "title": "Optical chirality of vortex structured light in a temporal medium",
+            "link": "https://doi.org/10.1364/prj.571051",
+            "published": "2025-11-26",
+            "author": "Yiyu Shi, Zhiwei Cui, Mingkai Deng, Junting He, Chencheng Ran, Mingjian Cheng, Xinxing Zhou",
+            "summary": "The optical chirality of vortex structured light has attracted more and more attention in recent years due to its fascinating properties and wide potential applications. Such an issue is typically studied in a spatial medium. This work is devoted to the study of the optical chirality of vortex structured light in the temporal medium with time-varying permittivity. A full vector theoretical model is developed to describe the optical chirality of Laguerre-Gaussian (LG) vortex light beams that undergo the temporal reflection and transmission. A concept called the temporal equivalent of the photonic spin Hall effect (PSHE) is proposed to reveal the physical mechanism of controlled optical chirality of the vortex structured light in a temporal medium. It is revealed that, in the temporal medium, the distribution of the local chirality density of the LG vortex light beams is asymmetric, whereas the corresponding vortex dichroism signal is circularly symmetric. Notably, both the local chirality density and the vortex dichroism signal of the LG vortex light beams are significantly enhanced in the temporal medium. Moreover, the optical chirality of the vortex structured light can be well controlled by the anisotropic permittivity tensor of the temporal medium and the spatial incident angle. This study may provide useful insights into the interactions of vortex structured light with a temporal medium and find potential applications in the fields of chiral recognition, detection, and manipulation.",
+            "journal": "Photonics Research",
+            "title_cn": "时间介质中涡旋结构光的光学手性",
+            "abstract_cn": "近年来，涡旋结构光的光学手性因其迷人的性质和广泛的潜在应用而受到越来越多的关注。通常在空间介质中研究此类问题。这项工作致力于研究介电常数随时间变化的时间介质中涡旋结构光的光学手性。开发了全矢量理论模型来描述经历时间反射和透射的拉盖尔高斯（LG）涡旋光束的光学手性。提出了一种称为光子自旋霍尔效应时间等效（PSHE）的概念，以揭示时间介质中涡旋结构光受控光学手性的物理机制。结果表明，在时间介质中，LG涡旋光束的局部手性密度分布是不对称的，而相应的涡旋二色性信号是圆对称的。值得注意的是，LG 涡旋光束的局部手性密度和涡旋二色性信号在时间介质中均显着增强。此外，涡旋结构光的光学手性可以通过时间介质的各向异性介电常数张量和空间入射角来很好地控制。这项研究可以为涡旋结构光与时间介质的相互作用提供有用的见解，并在手性识别、检测和操纵领域找到潜在的应用。"
         }
     ]
 }

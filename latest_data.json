@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-29 11:38:35",
+    "update_time": "2026-01-29 11:43:49",
     "word_filename": "Optical_Papers_260129.docx",
-    "total_count": 341,
+    "total_count": 369,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.displa.2026.103366",
@@ -3753,6 +3753,314 @@
             "journal": "Photonics Research",
             "title_cn": "通过焦相量匹配实现高效、大尺寸、高数值孔径消色差平面透镜",
             "abstract_cn": "平面透镜，包括超透镜和衍射透镜，由于实现小型化光学系统而引起了相当大的关注。然而，实现具有大数值孔径 (NA) 和高消色差性能的大型平面透镜仍然是一个重大挑战。在这项工作中，我们提出了一种称为焦点相量匹配的结构高度优化方法，以实现大孔径的高性能设计。为了确保计算精度，进一步采用界面衍射积分方法来解释自由空间中的完整衍射过程。数值结果表明，该方法比直接优化得到的高度序列获得了显着更高的聚焦效率。对于所有考虑的光圈，使用所提出的方法，焦点处的最小相对强度提高到 57%。通过实验，我们通过双光子聚合光刻成功设计并制造了直径为0.4 mm、NA为0.5的消色差多级衍射透镜（MDL）。所制造的 MDL 具有出色的消色差性能，焦移小于 1%。由于单层结构和低折射率材料的使用，所设计的 MDL 有潜力使用纳米压印光刻经济有效地复制。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.581006",
+            "title": "Information content analysis of shadow imaging of GEO satellites",
+            "link": "https://doi.org/10.1364/ao.581006",
+            "published": "2026-01-14",
+            "author": "David G. Sheppard, Bobby R. Hunt, Peter N. McMahon-Crabtree",
+            "summary": "Space situational awareness (SSA) is important for understanding the space environment to ensure safe operation of space missions. SSA activities include detecting, identifying, tracking, and characterizing artificial satellites and orbital debris. SSA objectives rely on the information that can be gained from ground-based and space-based sensors, such as optical telescopes and radar. For space objects at geosynchronous altitudes, obtaining resolved imagery from Earth is not feasible with practical instruments. Shadow imaging , however, offers the possibility of obtaining a high-resolution silhouette of the object from the shadow cast when it passes between the observer and a stellar source. Prior analyses have concluded that such a method is feasible. Herein, we discuss the usage of information-theoretic methods to understand the limitations of stellar shadow imaging. Scene-based information applied to the irradiance pattern treated as an image is investigated, as well as task-based information that links knife-edge localization, a surrogate for system resolution, to Shannon information.",
+            "journal": "Applied Optics",
+            "title_cn": "GEO卫星阴影成像信息内容分析",
+            "abstract_cn": "太空态势感知（SSA）对于了解太空环境以确保太空任务的安全运行非常重要。 SSA 的活动包括探测、识别、跟踪和表征人造卫星和轨道碎片。 SSA 目标依赖于从地面和天基传感器（例如光学望远镜和雷达）获得的信息。对于地球同步高度的空间物体，使用实用仪器从地球获得解析图像是不可行的。然而，阴影成像提供了当物体经过观察者和恒星源之间时从阴影投射中获得物体的高分辨率轮廓的可能性。先前的分析表明这种方法是可行的。在这里，我们讨论使用信息论方法来理解恒星阴影成像的局限性。研究了应用于被视为图像的辐照度图案的基于场景的信息，以及将刀口定位（系统分辨率的替代品）与香农信息联系起来的基于任务的信息。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.581525",
+            "title": "Grating mosaic error evaluation method based on dual-wavelength diffraction spot centroid analysis",
+            "link": "https://doi.org/10.1364/ao.581525",
+            "published": "2026-01-14",
+            "author": "Chenguang Xin, Zeteng Sun, Yichao Zhang, Xiaochen Ma, Hao Yang, Mengwei Li",
+            "summary": "To meet the demands of large-range, high-precision grating displacement sensing and high-energy laser systems for large-aperture gratings, grating mosaic technology has become a critical manufacturing process. Addressing the technical challenge that traditional grating mosaic methods struggle to achieve composite detection of the five-dimensional mosaic errors, this paper proposes a method for evaluating grating mosaic errors based on dual-wavelength diffraction spot centroid analysis. By establishing a quantitative mapping model between the five-dimensional mosaic errors and the centroid displacement of the diffraction spots, and utilizing a dual-wavelength laser to decouple the mixed error signals, the centroid coordinates of the spots are extracted using an improved centroid localization algorithm. This verifies the linear relationship between the alignment errors of the mosaic gratings and the centroid positions of the diffraction spots. Experimental results demonstrate that this method can effectively distinguish and measure both angular and displacement errors during the grating mosaic process. Under the condition of a CCD pixel size of 2.4 µm, the achieved detection resolution for angular errors is 0.09 µrad, and for linear displacement errors, it is 0.02 µm. This work provides a non-contact solution for the composite detection of multi-dimensional errors in the fabrication of large-scale mosaic gratings, holding significant application value in the fields of large-aperture grating manufacturing and grating-based displacement sensing.",
+            "journal": "Applied Optics",
+            "title_cn": "基于双波长衍射光斑质心分析的光栅镶嵌误差评估方法",
+            "abstract_cn": "为满足大范围、高精度光栅位移传感和高能激光系统对大孔径光栅的需求，光栅镶嵌技术已成为关键的制造工艺。针对传统光栅镶嵌方法难以实现五维镶嵌误差复合检测的技术难题，提出一种基于双波长衍射光斑质心分析的光栅镶嵌误差评估方法。通过建立五维镶嵌误差与衍射斑质心位移之间的定量映射模型，并利用双波长激光器对混合误差信号进行解耦，采用改进的质心定位算法提取斑点的质心坐标。这验证了马赛克光栅的对准误差与衍射斑的质心位置之间的线性关系。实验结果表明，该方法能够有效区分和测量光栅镶嵌过程中的角度误差和位移误差。在CCD像素尺寸为2.4μm的条件下，实现的角度误差检测分辨率为0.09μrad，线性位移误差为0.02μm。该工作为大规模镶嵌光栅制造中多维误差的复合检测提供了一种非接触式解决方案，在大口径光栅制造和光栅位移传感领域具有重要的应用价值。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.582986",
+            "title": "Scattering imaging based on the phase retrieval algorithm of an adaptive partitioned support domain",
+            "link": "https://doi.org/10.1364/ao.582986",
+            "published": "2026-01-12",
+            "author": "Mingxia Liu, Zhifang Feng, Meigang Duan, Xun Liu, Wei Li, Yuan Liu",
+            "summary": "To address the issue of iterative stagnation caused by twin-image artifacts in conventional phase retrieval methods based on global support constraints, an adaptive partitioned support constraint (APS) of the phase retrieval algorithm utilizing a discrimination of correlation coefficient threshold is proposed in this paper. The algorithm calculates the correlation coefficient δ between the Fourier amplitude obtained through iterative updates and the target Fourier amplitude obtained from the speckle autocorrelation. When the correlation coefficient δ is below the presupposed threshold, the processing mechanism of support constraint divided into two pieces is automatically triggered. Numerical simulations demonstrate that, compared to conventional methods, the phase retrieval algorithm of adaptive partitioned support constraint dramatically mitigates the impact of twin images, showing advantages by both the sum-squared error (SSE) and the image universal quality index (UQI) evaluation metrics. The phase retrieval algorithm of adaptive partitioned support constraint mitigates the interference of twin images during the iteration process, providing new, to our knowledge, insights into the speckle autocorrelation imaging and promoting practical applications of scattering imaging technology in fields such as biomedicine and deep-sea exploration. Furthermore, this algorithm can be combined with X-ray imaging and Fourier ptychographic microscopy (FPM) technology to reduce imaging time and improve imaging quality.",
+            "journal": "Applied Optics",
+            "title_cn": "基于自适应划分支持域相位恢复算法的散射成像",
+            "abstract_cn": "针对传统基于全局支持约束的相位检索方法中双图像伪影引起的迭代停滞问题，提出一种利用相关系数阈值判别的自适应分区支持约束（APS）相位检索算法。该算法计算迭代更新得到的傅里叶幅度与散斑自相关得到的目标傅里叶幅度之间的相关系数δ。当相关系数δ低于预设阈值时，自动触发支持约束分为两部分的处理机制。数值模拟表明，与传统方法相比，自适应分区支撑约束的相位检索算法极大地减轻了孪生图像的影响，在平方和误差（SSE）和图像通用质量指数（UQI）评价指标上都显示出优势。自适应分区支撑约束的相位检索算法减轻了迭代过程中孪生图像的干扰，为散斑自相关成像提供了新的见解，促进了散射成像技术在生物医学、深海探测等领域的实际应用。此外，该算法可以与X射线成像和傅立叶叠层显微术（FPM）技术相结合，以减少成像时间并提高成像质量。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.580779",
+            "title": "Theoretical analysis of communication systems based on low-coherence interferometry",
+            "link": "https://doi.org/10.1364/ao.580779",
+            "published": "2026-01-15",
+            "author": "Eneas N. Morel, Santiago Cerrotta, Jorge R. Torga",
+            "summary": "This paper presents a detailed analysis of crosstalk, dispersion, and the signal-to-noise ratio (SNR) in an optical communication system based on low-coherence interferometry (LCI-Cs). This technique enables the generation of spatially localized carriers through optical path differences using a single central wavelength, introducing what we believe to be a new degree of freedom for data modulation. As a result, both spectral and spatial multiplexing become feasible, substantially increasing the number of transmission channels. The study examines the main factors that affect signal integrity in optical links, including chromatic dispersion, inter-channel crosstalk, interference from other stations, and optical noise—particularly amplified spontaneous emission (ASE) generated by optical amplifiers. The results show that the proposed system exhibits strong resilience to these impairments, primarily due to the partial coherence of the superluminescent source and the architecture of the interferometric setup. From a theoretical standpoint, the influence of the random phase of the optical field on interference formation is analyzed, demonstrating that this phase cancels when the fields originate from the same coherent source. Dispersion effects are modeled using a Taylor expansion of the refractive index as a function of the wavenumber, enabling accurate predictions of pulse broadening and phase shifts introduced by the transmission medium. Finally, a unified noise model is presented, capable of representing both ASE noise from discrete EDFAs and noise arising from distributed amplification schemes such as Raman amplification. The SNR is evaluated in the presence of this noise, and it is shown that when the detection interferometers are properly balanced, the system effectively suppresses common-mode noise and allows robust recovery of the transmitted signal.",
+            "journal": "Applied Optics",
+            "title_cn": "基于低相干干涉测量的通信系统理论分析",
+            "abstract_cn": "本文对基于低相干干涉测量 (LCI-Cs) 的光通信系统中的串扰、色散和信噪比 (SNR) 进行了详细分析。该技术能够使用单个中心波长通过光程差生成空间局部载波，从而引入我们认为的数据调制的新自由度。因此，频谱和空间复用都变得可行，从而大大增加了传输通道的数量。该研究研究了影响光链路信号完整性的主要因素，包括色散、通道间串扰、其他站的干扰以及光噪声，尤其是光放大器产生的放大自发发射 (ASE)。结果表明，所提出的系统对这些损伤表现出很强的恢复能力，这主要是由于超发光源和干涉装置的架构的部分相干性。从理论角度来看，分析了光场的随机相位对干涉形成的影响，证明当场源自同一相干源时，该相位会抵消。使用折射率的泰勒展开作为波数的函数来对色散效应进行建模，从而能够准确预测传输介质引入的脉冲展宽和相移。最后，提出了一个统一的噪声模型，能够表示来自离散 EDFA 的 ASE 噪声和分布式放大方案（例如拉曼放大）产生的噪声。在存在这种噪声的情况下评估了 SNR，结果表明，当检测干涉仪适当平衡时，系统可以有效抑制共模噪声，并实现传输信号的稳健恢复。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.581670",
+            "title": "Fiber-to-chip grating couplers for lithium niobate on sapphire",
+            "link": "https://doi.org/10.1364/ao.581670",
+            "published": "2026-01-13",
+            "author": "Xiang Chen, Jia-Qi Wang, Yuan-Hao Yang, Zheng-Xu Zhu, Xin-Biao Xu, Ming Li, Xi-Feng Ren, Guang-Can Guo, Chang-Ling Zou",
+            "summary": "Lithium niobate on sapphire (LNOS) is an emerging platform for photonic integrated circuits, offering unique properties such as a wide transparency window, high nonlinearity, and strong electro-optic, nonlinear, and acousto-optic effects. Efficient light coupling between optical fibers and on-chip waveguides is crucial for practical applications. We present the design, simulation, and experimental demonstration of high-efficiency fiber-to-chip grating couplers for LNOS. The grating coupler design employs a self-imaging approach with a fixed period and linearly diminished filling factor, enabling a negative diffracted angle to match the fiber array and suppress higher-order diffraction. Numerical simulations predict a coupling efficiency of 42% at a 1550 nm wavelength. The grating couplers are fabricated on an X-cut, 400 nm thick LN film with a 220 nm etching depth using electron beam lithography and inductively coupled plasma etching. Experimental characterization using a fiber array and a six-axis displacement stage reveals a single-end coupling efficiency exceeding 20%, confirming the effectiveness of the design. The demonstrated grating couplers pave the way for efficient light coupling in LN-on-sapphire photonic circuits, enabling diverse applications in classical and quantum information processing, sensing, and nonlinear optics.",
+            "journal": "Applied Optics",
+            "title_cn": "用于蓝宝石上铌酸锂的光纤到芯片光栅耦合器",
+            "abstract_cn": "蓝宝石上铌酸锂（LNOS）是一种新兴的光子集成电路平台，具有宽透明窗口、高非线性以及强电光、非线性和声光效应等独特特性。光纤和片上波导之间的高效光耦合对于实际应用至关重要。我们展示了用于 LNOS 的高效光纤到芯片光栅耦合器的设计、仿真和实验演示。光栅耦合器设计采用自成像方法，具有固定周期和线性减小的填充因子，使负衍射角能够匹配光纤阵列并抑制高阶衍射。数值模拟预测 1550 nm 波长处的耦合效率为 42%。光栅耦合器采用电子束光刻和感应耦合等离子体蚀刻在 X 切、400 nm 厚的 LN 薄膜上制造，蚀刻深度为 220 nm。使用光纤阵列和六轴位移台进行的实验表征表明单端耦合效率超过 20%，证实了设计的有效性。所演示的光栅耦合器为蓝宝石上 LN 光子电路中的高效光耦合铺平了道路，从而实现了经典和量子信息处理、传感和非线性光学中的多种应用。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.582394",
+            "title": "Rapid convergence of mid-spatial-frequency errors based on a vibration-assisted polishing strategy",
+            "link": "https://doi.org/10.1364/ao.582394",
+            "published": "2026-01-15",
+            "author": "Linqiang Gong, Yunfei Zhang, Longxiang Li, Yiran Li, Kuo Hai, Jiahao Yu, Yuchuan Chen, Baichen Cai, Yingjie Lu, Nianju Li, Lei Zhang",
+            "summary": "Silicon carbide and other high-hardness materials are widely used in lightweight space telescope mirrors and laser optical systems due to their high specific stiffness, low thermal expansion coefficient, and excellent thermal conductivity. However, their high hardness and brittle removal mechanism lead to a significant reduction in the material removal rate during polishing, making it difficult for conventional process optimization and path planning methods to substantially improve the convergence limit of mid-spatial-frequency (MSF) errors. To address this challenge, this paper presents what we believe to be a novel industrially robot-integrated, unidirectional vibration-assisted polishing tool with adjustable vibration direction. By introducing micro-scale vibrations at the tool-workpiece interface, this tool effectively expands the coverage area of abrasive particles, improves their distribution uniformity, and enhances the activation level of abrasive grains. This mechanism successfully breaks the anisotropy of the removal function in the polishing of high-hardness materials and reduces the periodic accumulation of regular errors, thereby significantly improving the convergence efficiency of the MSF error and the robustness of the process. Corresponding experimental results validate the positive contribution of the vibration-assisted polishing strategy to the convergence of mid-spatial-frequency errors.",
+            "journal": "Applied Optics",
+            "title_cn": "基于振动辅助抛光策略的中频误差快速收敛",
+            "abstract_cn": "碳化硅等高硬度材料因其比刚度高、热膨胀系数低、导热性能优良等优点，广泛应用于轻型空间望远镜镜面和激光光学系统。然而，它们的高硬度和脆性去除机制导致抛光过程中材料去除率显着降低，使得传统的工艺优化和路径规划方法难以实质性改善中空频（MSF）误差的收敛极限。为了应对这一挑战，本文提出了一种我们认为是一种新颖的工业机器人集成、单向振动辅助抛光工具，其振动方向可调。该刀具通过在刀具与工件界面处引入微尺度振动，有效扩大了磨粒的覆盖面积，提高了磨粒的分布均匀性，提高了磨粒的活化水平。该机制成功打破了高硬度材料抛光中去除函数的各向异性，减少了规则误差的周期性累积，从而显着提高了MSF误差的收敛效率和过程的鲁棒性。相应的实验结果验证了振动辅助抛光策略对中频误差收敛的积极贡献。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.583392",
+            "title": "Surface profile measurement using heterodyne moiré signals with an adjustable grating period",
+            "link": "https://doi.org/10.1364/ao.583392",
+            "published": "2026-01-14",
+            "author": "Kun-Huang Chen, Chia-Hung Tsai, Sheng-Chun Hung, Jing-Heng Chen",
+            "summary": "This paper presents a heterodyne moiré fringe technique with real-time tunable fringe pitch for high-precision surface profilometry. The proposed method combines tunable fringe projection, heterodyne frequency-shifting, and a least-squares sinusoidal fitting algorithm to achieve stable and high-resolution phase extraction and surface reconstruction. A computer-generated dynamic grating pattern is projected onto a spatial light modulator, and the reflected fringe pattern, deformed by the object’s surface profile, is captured by a camera. This deformed fringe is then digitally superimposed with a virtual reference grating to generate a time-varying heterodyne moiré signal. Phase information is retrieved through phase analysis and unwrapped when necessary to reconstruct the continuous 3D surface profile. Experimental validation using a coin and a plaster statue demonstrated a height measurement error of approximately 1.4 µm. Compared with conventional physical grating systems, the proposed approach offers real-time pitch tunability, non-contact operation, a simplified setup, and ease of use, demonstrating strong potential for applications in precision optical metrology.",
+            "journal": "Applied Optics",
+            "title_cn": "使用具有可调光栅周期的外差莫尔信号进行表面轮廓测量",
+            "abstract_cn": "本文提出了一种具有实时可调条纹间距的外差莫尔条纹技术，用于高精度表面轮廓测量。该方法结合了可调条纹投影、外差频移和最小二乘正弦拟合算法，以实现稳定、高分辨率的相位提取和表面重建。计算机生成的动态光栅图案被投影到空间光调制器上，并且由物体表面轮廓变形的反射条纹图案被相机捕获。然后，将该变形的条纹与虚拟参考光栅进行数字叠加，以生成随时间变化的外差莫尔信号。通过相位分析检索相位信息，并在必要时展开相位信息以重建连续的 3D 表面轮廓。使用硬币和石膏雕像进行的实验验证表明，高度测量误差约为 1.4 µm。与传统的物理光栅系统相比，所提出的方法提供了实时间距可调性、非接触式操作、简化的设置和易用性，展示了在精密光学计量中的巨大应用潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.582492",
+            "title": "Temporal-spatial-modulation-based light separation for high-resolution 3D reconstruction under complex scenarios",
+            "link": "https://doi.org/10.1364/ol.582492",
+            "published": "2025-12-24",
+            "author": "Hao Yuan, Qican Zhang, Yajun Wang",
+            "summary": "Due to the light interference problem, three-dimensional (3D) reconstruction of complex scenarios remains challenging, especially when multiple reflections or light scattering exist. Although some attempts have been made to tackle this issue, there is still a lack of effective method simultaneously achieving high-accuracy and high-resolution reconstruction. In this work, we present a temporal-spatial modulation (TSM) framework to address those challenging issues by modulating illumination in both temporal and spatial dimensions. In the temporal dimension, TSM separates aliased light through frequency encoding and discrete Fourier analysis. In the spatial dimension, TSM leverages the physical imaging model and the Fourier power spectrum coefficients of direct light to reconstruct high-resolution fringe patterns and phase. Notably, the proposed method can be realized with off-the-shelf components such as the camera and projector, which is compatible with traditional structured light system. We validate our method in several challenging scenarios, including a sculpture with a mirror on its side, an L-shaped workpiece, and a ceramic bowl. The experiment results demonstrate the versatility of the proposed method.",
+            "journal": "Optics Letters",
+            "title_cn": "基于时空调制的光分离，用于复杂场景下的高分辨率 3D 重建",
+            "abstract_cn": "由于光干扰问题，复杂场景的三维（3D）重建仍然具有挑战性，特别是当存在多次反射或光散射时。尽管人们已经做出了一些尝试来解决这个问题，但仍然缺乏同时实现高精度和高分辨率重建的有效方法。在这项工作中，我们提出了一个时空调制（TSM）框架，通过在时间和空间维度上调制照明来解决这些具有挑战性的问题。在时间维度上，TSM通过频率编码和离散傅立叶分析来分离混叠光。在空间维度上，TSM利用物理成像模型和直射光的傅立叶功率谱系数来重建高分辨率条纹图案和相位。值得注意的是，所提出的方法可以使用现成的组件（例如相机和投影仪）来实现，并且与传统的结构光系统兼容。我们在几个具有挑战性的场景中验证了我们的方法，包括侧面有镜子的雕塑、L 形工件和陶瓷碗。实验结果证明了该方法的通用性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583364",
+            "title": "Low-loss splicing between anti-reflection coated SMF and hollow-core fiber without back-reflection degradation",
+            "link": "https://doi.org/10.1364/ol.583364",
+            "published": "2025-12-23",
+            "author": "Cong Zhang, Jiajie Chen, Di Lin, Jianping Li, Meng Xiang, Yuwen Qin, Radan Slavík, Songnian Fu",
+            "summary": "Anti-reflection (AR) coating is an effective technique for reducing back-reflection and insertion loss (IL) in the interconnection between standard single-mode fiber (SSMF) and hollow-core fiber (HCF). However, the difference in thermal expansion coefficient between the fiber and coating leads to performance degradation during fusion splicing. To address this limitation, we report an embedded fiber splicing technique that uses a tapered borosilicate glass tube (BGT) as a splicing bridge, thereby avoiding direct heating of the AR coating. Theoretical analysis shows that a minimal IL of 0.13 dB can be achieved by optimizing the structural parameters, including the GRIN length and the air-cavity length, when the HCF mode field diameter ranges from 17 to 21 μm. Then, the SSMF with an AR-coated GRIN end is inserted into a tapered BGT, with the untapered side spliced to the HCF. By managing the GRIN length, the air gap, and the splicing offset, a low-IL interconnection can be achieved without the back-reflection penalty. Finally, an SSMF-HCF-SSMF interconnection link with an IL of 0.6 dB and a back-reflection of −33.8 dB is experimentally achieved. Meanwhile, higher-order mode coupling is well suppressed to below −35 dB. The proposed embedded splicing technique can facilitate HCF applications in a harsh environment.",
+            "journal": "Optics Letters",
+            "title_cn": "防反射涂层 SMF 和空心光纤之间的低损耗熔接，无背反射衰减",
+            "abstract_cn": "增透膜（AR）是标准单模光纤（SSMF）和空心光纤（HCF）互连中减少背反射和插入损耗（IL）的有效技术。然而，光纤和涂层之间的热膨胀系数差异导致熔接过程中性能下降。为了解决这一限制，我们报告了一种嵌入式光纤熔接技术，该技术使用锥形硼硅酸盐玻璃管（BGT）作为熔接桥，从而避免直接加热增透膜。理论分析表明，当HCF模场直径在17~21 μm范围内时，通过优化GRIN长度和气腔长度等结构参数，可以实现0.13 dB的最小IL。然后，将带有 AR 涂层 GRIN 端的 SSMF 插入锥形 BGT，将非锥形侧拼接到 HCF。通过管理 GRIN 长度、气隙和拼接偏移，可以实现低 IL 互连，而不会产生背反射损失。最后，通过实验实现了IL为0.6 dB、背反射为-33.8 dB的SSMF-HCF-SSMF互连链路。同时，高阶模耦合被很好地抑制到-35 dB以下。所提出的嵌入式拼接技术可以促进HCF在恶劣环境下的应用。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583557",
+            "title": "DSM-LT: direct slope measurement for large-aperture optical telescope evaluation",
+            "link": "https://doi.org/10.1364/ol.583557",
+            "published": "2025-12-19",
+            "author": "Jae-Cheul Lee, Sang-Won Park, In-Ung Song, Ho-Soon Yang",
+            "summary": "Accurate slope measurement in large-aperture optical systems is limited by drift and reference optics. We present DSM-LT—a direct slope measurement technique that employs a 2 × 2 mirror or collimator array with retro-reflected beams. Hardware-based differential detection suppresses common-mode pointing errors without requiring software-based tilt compensation. Wavefronts are reconstructed using a zonal least-squares method, enabling precise localized feature recovery. DSM-LT supports flexible scan patterns and can seamlessly resume after scan interruptions. Simulation results confirm nanoradian-level slope accuracy and robustness against noise. A dual-detector configuration with polarization-separated beams mitigates turbulence effects. DSM-LT provides a compact, resilient, and scalable metrology solution for large-aperture and space-based telescopes.",
+            "journal": "Optics Letters",
+            "title_cn": "DSM-LT：用于大口径光学望远镜评估的直接斜率测量",
+            "abstract_cn": "大孔径光学系统中的精确斜率测量受到漂移和参考光学器件的限制。我们提出了 DSM-LT——一种直接斜率测量技术，采用带有回射光束的 2 × 2 镜子或准直器阵列。基于硬件的差分检测可抑制共模指向误差，无需基于软件的倾斜补偿。使用区域最小二乘法重建波前，从而实现精确的局部特征恢复。 DSM-LT 支持灵活的扫描模式，并且可以在扫描中断后无缝恢复。仿真结果证实了纳弧度级的斜率精度和抗噪声鲁棒性。具有偏振分离光束的双探测器配置可减轻湍流效应。 DSM-LT 为大口径和天基望远镜提供紧凑、弹性和可扩展的计量解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.573750",
+            "title": "Highly hardware-efficiency implementation for W-band PAM8 signal reception with additive powers-of-two quantization",
+            "link": "https://doi.org/10.1364/ol.573750",
+            "published": "2026-01-06",
+            "author": "Sheng Hu, Kaihui Wang, Chengzhen Bian, Tianqi Zheng, Bohan Sang, Xinda Sun, Jie Zhang, Jingtao Ge, Jianjun Yu",
+            "summary": "In this study, we demonstrate a hardware-efficient post-equalization implementation for PAM8 signals on an FPGA platform by utilizing an additive power-of-two (APoT) quantization scheme. This approach reduces hardware resource consumption by over 70% compared to conventional methods while preserving critical performance metrics. In a 300-m W-band wireless communication experiment, the system reliably transmits 22.1184 Gbit/s PAM8 signals and satisfies the 2.4 × 10 −2 soft-decision forward error correction (SD-FEC) standard. Notably, under a host-assisted workflow, the APoT scheme achieves performance equivalent to 16-bit uniform quantization and exhibits superior stability than PoT quantization.",
+            "journal": "Optics Letters",
+            "title_cn": "通过加性二次幂量化实现 W 频段 PAM8 信号接收的高硬件效率",
+            "abstract_cn": "在本研究中，我们通过利用加性二次幂 (APoT) 量化方案，在 FPGA 平台上演示了 PAM8 信号的硬件高效后均衡实现。与传统方法相比，这种方法可减少 70% 以上的硬件资源消耗，同时保留关键性能指标。在300米W频段无线通信实验中，系统可靠传输22.1184 Gbit/s PAM8信号，满足2.4 × 10 -2 软判决前向纠错（SD-FEC）标准。值得注意的是，在主机辅助工作流程下，APoT 方案实现了与 16 位均匀量化相当的性能，并且表现出比 PoT 量化优越的稳定性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.584229",
+            "title": "Pulse-width dependence of terahertz parametric generation in the sub-picosecond regime",
+            "link": "https://doi.org/10.1364/ol.584229",
+            "published": "2025-12-22",
+            "author": "Sota Mine, Kaito Abe, Shusaku Nakajima, Joel Edouard Nkeck, Kodo Kawase, François Blanchard, Kosuke Murate, Chiko Otani",
+            "summary": "The present study investigated the generation characteristics and phase stability of terahertz parametric generation in the ultrashort pulse regime. The experimental results clearly demonstrated the emergence of parametric gain in LiNbO 3 , with the generation threshold appearing at a pulse width of approximately 700 fs, which closely corresponds to the Raman linewidth of the crystal. The generated terahertz waves were found to exhibit high inter-pulse phase stability. These findings indicate that parametric terahertz generation with gain in the sub-picosecond regime can serve as a basis for developing broadband pulsed sources suitable for terahertz time-domain spectroscopy.",
+            "journal": "Optics Letters",
+            "title_cn": "亚皮秒范围内太赫兹参数生成的脉冲宽度依赖性",
+            "abstract_cn": "本研究研究了超短脉冲范围内太赫兹参量产生的产生特性和相位稳定性。实验结果清楚地证明了LiNbO 3 中参量增益的出现，产生阈值出现在大约700 fs的脉冲宽度处，这与晶体的拉曼线宽密切对应。发现所产生的太赫兹波表现出高脉冲间相位稳定性。这些发现表明，具有亚皮秒范围增益的参数太赫兹产生可以作为开发适用于太赫兹时域光谱的宽带脉冲源的基础。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.585665",
+            "title": "High-range-resolution and long-distance CO 2 profiling using a single-photon differential absorption lidar",
+            "link": "https://doi.org/10.1364/ol.585665",
+            "published": "2025-12-21",
+            "author": "Mingjia Shangguan, Simin Lin, Xianghui Guo, Jinxian Fang, Guojing Dong",
+            "summary": "Lidar has become an increasingly attractive approach for CO 2 monitoring. However, simultaneously achieving long-range detection and high-range resolution remains a fundamental tradeoff. To address this issue, first, a superconducting nanowire single-photon detector is integrated into lidar to significantly enhance long-range sensitivity, enabling detection of backscattered signals up to 10 km. In addition, a new retrieval algorithm is proposed to retrieve range-resolved CO 2 concentrations from high-SNR column measurements, effectively improving profile resolution and stability. Three consecutive nights of field tests show that the system achieves 30 m range resolution, 5 min temporal resolution, and a near-8-km range. Compared with the traditional CO 2 retrieval algorithm, the proposed method improves the range resolution by more than one order of magnitude while still achieving a 3.8-fold enhancement in retrieval accuracy. Cross-validation with in-situ observations shows that the standard deviation between the two datasets is approximately 10 ppm, further confirming the accuracy and robustness of the method. This work underpins future high-resolution CO 2 monitoring networks and supports carbon-cycle studies.",
+            "journal": "Optics Letters",
+            "title_cn": "使用单光子差分吸收激光雷达进行高分辨率长距离 CO 2 分析",
+            "abstract_cn": "激光雷达已成为一种越来越有吸引力的 CO 2 监测方法。然而，同时实现远程检测和高分辨率仍然是一个基本的权衡。为了解决这个问题，首先，将超导纳米线单光子探测器集成到激光雷达中，显着增强远距离灵敏度，能够检测最远10公里的反向散射信号。此外，还提出了一种新的反演算法，可从高SNR柱测量中反演距离分辨的CO 2 浓度，有效提高剖面分辨率和稳定性。连续三个晚上的现场测试表明，该系统实现了30 m的距离分辨率、5 min的时间分辨率和近8 km的射程。与传统CO 2 反演算法相比，该方法在距离分辨率提高了1个数量级以上的同时，反演精度仍实现了3.8倍的提升。与现场观测的交叉验证表明，两个数据集之间的标准偏差约为10 ppm，进一步证实了该方法的准确性和鲁棒性。这项工作支撑了未来的高分辨率CO 2 监测网络并支持碳循环研究。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.579138",
+            "title": "Voltage-tunable graphene/β-Ga 2 O 3 heterojunction solar-blind photodetector enabling photovoltaic and photoconductive dual-mode operation",
+            "link": "https://doi.org/10.1364/ol.579138",
+            "published": "2025-12-24",
+            "author": "Shuren Zhou, Lin Chen, Aijiang Yan, Hong Zhang, Yan Tang, Di Pang, Honglin Li, Lijuan Ye, Peng Yu, Wanjun Li",
+            "summary": "Solar-blind ultraviolet photodetectors based on β-Ga 2 O 3 are attractive for both military and civilian applications, yet photoconductors suffer from slow response and photovoltaic photodiodes suffer from limited responsivity. Herein, we report a voltage-tunable graphene/β-Ga 2 O 3 heterojunction photodetector with dual-mode operation. Under reverse bias, it functions as a photodiode with 150 mA/W responsivity, 71% external quantum efficiency (EQE), and 0.5 ms response time at 254 nm. Forward bias switches it to photoconductive mode, achieving 71 A/W responsivity and EQE above 35,000% with 60 ms response time. This bias-selectable behavior integrates high-speed and high-gain operation in one device, enabling advanced communication and imaging applications.",
+            "journal": "Optics Letters",
+            "title_cn": "电压可调石墨烯/β-Ga 2 O 3 异质结日盲光电探测器可实现光伏和光电导双模式操作",
+            "abstract_cn": "基于β-Ga 2 O 3 的日盲紫外光电探测器对于军事和民用应用都很有吸引力，但光电导体的响应速度慢，光伏光电二极管的响应率有限。在此，我们报告了一种具有双模式操作的电压可调石墨烯/β-Ga 2 O 3 异质结光电探测器。在反向偏压下，它充当光电二极管，具有 150 mA/W 响应度​​、71% 外量子效率 (EQE) 和 254 nm 波长下 0.5 ms 响应时间。正向偏压将其切换至光电导模式，实现 71 A/W 响应度​​和 35,000% 以上的 EQE，响应时间为 60 ms。这种偏置可选行为将高速和高增益操作集成在一个器件中，从而实现了先进的通信和成像应用。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.578999",
+            "title": "Optically excited nano-mechanical modes of a droplet",
+            "link": "https://doi.org/10.1364/ol.578999",
+            "published": "2025-12-21",
+            "author": "Bhupal Singh, Amarnath, Nisha Kumawat, Manoranjan Mishra, Kailash C. Jena, Kamal P. Singh",
+            "summary": "We show that a surging radiation pressure excites well-defined nanoscale optomechanical discrete modes of a sessile droplet. Using a pump-probe approach, we isolate growth and damped oscillations of droplet modes from background evaporation and steady-state bulge. For a microlitre droplet, we find that the amplitude of a mode increases linearly with the rate of pump power surge, reaching ∼20 nm for 2.7 kW/s. The mode frequency is characteristic of droplet geometry and physical properties but independent of the optical excitation. A Navier–Stokes model of droplet for realistic parameters reproduces the key experimental results. Furthermore, we show phenomenon of frequency splitting for the n = 3 mode of non-spherical droplets. This work opens a route to probe nanoscale shape oscillations of complex droplets subjected to spatiotemporally structured stimulus.",
+            "journal": "Optics Letters",
+            "title_cn": "液滴的光激发纳米机械模式",
+            "abstract_cn": "我们表明，激增的辐射压力会激发固着液滴的明确定义的纳米级光机械离散模式。使用泵浦探针方法，我们将液滴模式的生长和阻尼振荡与背景蒸发和稳态膨胀隔离开来。对于微升液滴，我们发现模式的振幅随着泵浦功率浪涌的速率线性增加，在 2.7 kW/s 时达到~20 nm。模式频率是液滴几何形状和物理性质的特征，但与光学激发无关。真实参数的纳维-斯托克斯液滴模型再现了关键的实验结果。此外，我们还展示了 n = 3 模式的非球形液滴的频率分裂现象。这项工作开辟了一条探测复杂液滴在时空结构刺激下的纳米级形状振荡的途径。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.579716",
+            "title": "Unidirectional bulk magnetoplasmons at terahertz frequencies",
+            "link": "https://doi.org/10.1364/ol.579716",
+            "published": "2025-12-30",
+            "author": "Ye Tian, Qingyu Li, Hongyan Lou, Shiqing Li, Linfang Shen",
+            "summary": "Unidirectional electromagnetic modes, as an extreme regime of wave propagation, enable extraordinary and counterintuitive optical effects. These modes are typically realized as tightly confined surface waves in photonic crystals or materials with topologically nontrivial bandgaps. Here, we show that a structure comprising a magnetized semiconductor layer sandwiched between electro- and magneto-opaque materials can support unidirectional bulk magnetoplasmons at terahertz frequencies, in which all field components maintain constant amplitudes within the core layer. These modes exhibit modal properties that are independent of the core thickness, allowing the modal spot to extend over several wavelengths. Numerical simulations further confirm their immunity to backscattering. By combining the tunability of modal spot with the robustness of unidirectional propagation, these unidirectional bulk modes offer more degrees of freedom for the manipulation of terahertz waves.",
+            "journal": "Optics Letters",
+            "title_cn": "太赫兹频率下的单向体磁等离子体",
+            "abstract_cn": "单向电磁模式作为波传播的极端状态，能够产生非凡且违反直觉的光学效应。这些模式通常以光子晶体或具有拓扑非平凡带隙的材料中严格限制的表面波的形式实现。在这里，我们表明，由夹在电和磁不透明材料之间的磁化半导体层组成的结构可以支持太赫兹频率的单向体磁等离子激元，其中所有场分量在核心层内保持恒定的幅度。这些模式表现出与纤芯厚度无关的模态特性，允许模态点扩展到多个波长。数值模拟进一步证实了它们对反向散射的免疫力。通过将模态点的可调谐性与单向传播的鲁棒性相结合，这些单向体模式为太赫兹波的操纵提供了更多的自由度。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.579829",
+            "title": "Reconfigurable GSST-based metasurfaces for simultaneously demultiplexing optical spin and orbital angular momenta",
+            "link": "https://doi.org/10.1364/ol.579829",
+            "published": "2025-12-21",
+            "author": "Kangzhun Peng, Shiqi Luo, Hengyue Luo, Zhi-Yuan Li, Wenyao Liang",
+            "summary": "Light beams carrying spin angular momentum (SAM) and orbital angular momentum (OAM) have garnered significant interest owing to their potential in optical communications, imaging, and micromanipulation. Although simultaneous detection of multiple SAM and OAM modes through demultiplexing is highly necessary, it remains challenging due to the static optical responses of conventional metasurfaces after device fabrication. Here, we propose a multifunctional metasurface demultiplexer utilizing the phase-change material Ge 2 Sb 2 Se 4 Te 1 (GSST) for reconfigurable, simultaneous detection of multiple SAM and OAM modes. When GSST is amorphous, the coaxial beams carrying SAM and OAM modes are spatially demultiplexed into distinct vortex beams with defined topological charges, and each propagates to a predetermined position. The information of SAM and OAM of the incident beam can be determined by observing the position of the solid spot. Upon transition of GSST into the crystalline state, demultiplexing ceases due to the loss of phase modulation capability, thereby preventing mode retrieval. This reconfigurable detection strategy offers a promising platform for dynamically switchable devices in applications such as encrypted optical communications and dynamic holography.",
+            "journal": "Optics Letters",
+            "title_cn": "可重构的基于 GSST 的超表面，用于同时解复用光学自旋和轨道角动量",
+            "abstract_cn": "携带自旋角动量（SAM）和轨道角动量（OAM）的光束由于其在光通信、成像和显微操作方面的潜力而引起了人们的极大兴趣。尽管通过解复用同时检测多个 SAM 和 OAM 模式非常必要，但由于器件制造后传统超表面的静态光学响应，这仍然具有挑战性。在这里，我们提出了一种利用相变材料Ge 2 Sb 2 Se 4 Te 1 (GSST) 的多功能超表面解复用器，用于可重构、同时检测多个SAM 和OAM 模式。当 GSST 为非晶态时，携带 SAM 和 OAM 模式的同轴光束在空间上被解复用为具有定义的拓扑电荷的不同涡旋光束，并且每个光束都传播到预定位置。通过观察实心点的位置可以确定入射光束的SAM和OAM信息。当 GSST 转变为结晶态时，由于相位调制能力的丧失，解复用停止，从而阻止模式恢复。这种可重新配置的检测策略为加密光通信和动态全息术等应用中的动态可切换设备提供了一个有前景的平台。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.581788",
+            "title": "Self-coherent photonic terahertz link at 300-GHz-band against modulated jamming",
+            "link": "https://doi.org/10.1364/ol.581788",
+            "published": "2026-01-05",
+            "author": "Shenghong Ye, Yoshiki Kamiura, Bo Li, Ryota Kaide, Yiqing Wang, Ming Che, Yuya Mikami, Yuta Ueda, Kazutoshi Kato",
+            "summary": "Terahertz (THz) intensity modulation technology is crucial for future low-cost 6G networks but is vulnerable to jamming. While frequency hopping (FH) counters single-tone jamming, our evaluation demonstrates its weakness against modulated jamming. Specifically, we demonstrated that while FH with a 40 GHz carrier separation is effective against single-tone jamming, it fails against modulated jamming. To address the vulnerability, we propose a self-coherent THz system where the transmitter generates both the radio frequency and local oscillator signals. This architecture separates the desired signal from the modulated jamming for secure communication. Moreover, using wavelength-tunable lasers for FH, the system resists both modulated and single-tone jamming. We demonstrate secure 1-Gbit/s transmission at 275 GHz against a 235 GHz modulated jamming signal and the reverse case. This cost-effective scheme improves THz link resilience to multiple jamming types and supports secure THz wireless communications.",
+            "journal": "Optics Letters",
+            "title_cn": "300 GHz 频段的自相干光子太赫兹链路可抵抗调制干扰",
+            "abstract_cn": "太赫兹 (THz) 强度调制技术对于未来低成本 6G 网络至关重要，但容易受到干扰。虽然跳频 (FH) 可以对抗单音干扰，但我们的评估表明它在对抗调制干扰方面存在弱点。具体来说，我们证明了虽然具有 40 GHz 载波间隔的 FH 可以有效对抗单音干扰，但它无法对抗调制干扰。为了解决该漏洞，我们提出了一种自相干太赫兹系统，其中发射器生成射频信号和本地振荡器信号。该架构将所需信号与调制干扰分开，以实现安全通信。此外，该系统使用波长可调谐激光器进行跳频，可以抵抗调制干扰和单音干扰。我们演示了在 275 GHz 下针对 235 GHz 调制干扰信号和相反情况的安全 1 Gbit/s 传输。这种经济高效的方案提高了太赫兹链路对多种干扰类型的恢复能力，并支持安全的太赫兹无线通信。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583052",
+            "title": "Differentiable ray tracing optimization of freeform spectacle lenses for astigmatism correction",
+            "link": "https://doi.org/10.1364/ol.583052",
+            "published": "2025-12-30",
+            "author": "Hanni Qiu, Xinghua Pan, Zexin Feng",
+            "summary": "Refractive error is a global public health challenge, with astigmatism correction being one of the key issues. While spherocylindrical lenses compensate for static astigmatism, they fail to address optical axis shifts during eye movement. To address this problem, we propose a single vision lens design method with freeform surfaces based on differentiable ray tracing. Our method integrates the rotation model of the human eye into the optical design framework. Besides, it leverages the high design freedom of the freeform surface to realize effective correction of optical focus errors across different fields of view. To verify the effectiveness of the method, we develop spectacle lens designs to correct astigmatism in the human eye through systematic comparison of traditional spherocylindrical and aspheric lenses with various freeform designs, including deformed XY polynomials and both single- and double-Zernike surfaces. Results show that our method achieves superior off-axis aberration correction at equivalent optimization orders, demonstrating its technical advantage for vision correction.",
+            "journal": "Optics Letters",
+            "title_cn": "用于散光矫正的自由曲面眼镜片的可微分光线追踪优化",
+            "abstract_cn": "屈光不正是一项全球公共卫生挑战，其中散光矫正是关键问题之一。虽然球柱镜可以补偿静态散光，但它们无法解决眼睛运动期间的光轴偏移问题。为了解决这个问题，我们提出了一种基于可微分光线追踪的自由曲面单光镜片设计方法。我们的方法将人眼的旋转模型集成到光学设计框架中。此外，它利用自由曲面的高设计自由度，实现不同视场光学聚焦误差的有效校正。为了验证该方法的有效性，我们开发了眼镜镜片设计，通过对传统球柱面和非球面镜片与各种自由形状设计（包括变形 XY 多项式以及单泽尼克曲面和双泽尼克曲面）进行系统比较，开发了矫正人眼散光的眼镜镜片设计。结果表明，我们的方法在等效优化阶数下实现了优异的离轴像差校正，展示了其在视力校正方面的技术优势。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.569117",
+            "title": "High-sensitivity SNSPD-enabled swept source Raman spectroscopy for cancer detection with SERS nanoparticles",
+            "link": "https://doi.org/10.1364/optica.569117",
+            "published": "2025-12-18",
+            "author": "Yifan Liu, A. K. M. Atique Ullah, Timothy M. Rambo, Aniwat Juhong, Bo Li, Cheng-you Yao, Min Li, Jeremy S. Doredla, Stephanie Boyd, Gary D. Luker, Ming Han, Aaron J. Miller, Xuefei Huang, Zhen Qiu",
+            "summary": "Highly sensitive and specific molecular detection is essential for advancing early cancer diagnosis. In this paper, we present an imaging system that combines swept source Raman spectroscopy with surface-enhanced Raman scattering (SERS) nanoparticles to enhance cancer detection capability. By incorporating a high-efficiency superconducting nanowire single-photon detector (SNSPD), the system achieves remarkable detection sensitivity to the femtomolar concentrations. This performance was demonstrated under practical conditions using only 30 mW excitation power and 40 ms wavelength point exposure time, enabling ultra-sensitive acquisition. Imaging experiments on both cell and tissue samples confirm the system’s compatibility with various biological applications. Combining high sensitivity, speed, and specificity, this platform offers a promising approach for molecular imaging and early stage cancer detection using SERS-based probes.",
+            "journal": "Optica",
+            "title_cn": "支持高灵敏度 SNSPD 的扫频拉曼光谱，用于使用 SERS 纳米粒子检测癌症",
+            "abstract_cn": "高度灵敏和特异性的分子检测对于推进早期癌症诊断至关重要。在本文中，我们提出了一种成像系统，将扫频拉曼光谱与表面增强拉曼散射（SERS）纳米颗粒相结合，以增强癌症检测能力。通过采用高效超导纳米线单光子探测器（SNSPD），该系统对飞摩尔浓度实现了卓越的检测灵敏度。这种性能在实际条件下仅使用 30 mW 激发功率和 40 ms 波长点曝光时间就得到了证明，从而实现了超灵敏采集。对细胞和组织样本的成像实验证实了该系统与各种生物应用的兼容性。该平台结合了高灵敏度、速度和特异性，为使用基于 SERS 的探针进行分子成像和早期癌症检测提供了一种有前途的方法。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.577684",
+            "title": "Watt-level actively Q-switched intracavity frequency-doubled Pr:LiYF 4 laser at 261 nm",
+            "link": "https://doi.org/10.1364/optcon.577684",
+            "published": "2025-11-19",
+            "author": "Zihao Tong, Lei Zhu, Changsheng Zheng, Kui Wu, Yongguang Zhao, Zhengping Wang, Haohai Yu, Huaijin Zhang",
+            "summary": "We report on a watt-level nanosecond 261-nm laser from an acousto-optically Q-switched visible Pr:YLF laser through intracavity second-harmonic generation (SHG). By implementing direct water-cooling for thermal management and an intracavity mirror for double-passing nonlinear crystal, a maximum average power of 1.03 W has been achieved at a repetition rate of 40 kHz, which, to the best of our knowledge, is the highest power ever reported from an intracavity-frequency-doubled pulsed, short-wave ultraviolet (UV-C) laser at 261 nm. Decreasing the repetition rate to 20 kHz, a single-pulse energy of 43.4 µJ can be obtained. This approach with a robust and simple structure demonstrates a promising way toward the direct generation of high-power UVC laser pulses.",
+            "journal": "Optics Continuum",
+            "title_cn": "瓦特级主动调Q腔内倍频Pr:LiYF 4 激光器，波长261 nm",
+            "abstract_cn": "我们报告了通过腔内二次谐波产生 (SHG) 的声光 Q 开关可见 Pr:YLF 激光器产生的瓦特级纳秒 261 nm 激光器。通过实施用于热管理的直接水冷和用于双通非线性晶体的腔内镜，在 40 kHz 的重复频率下实现了 1.03 W 的最大平均功率，据我们所知，这是迄今为止报道的 261 nm 腔内倍频脉冲短波紫外 (UV-C) 激光器的最高功率。将重复频率降低至 20 kHz，可获得 43.4 µJ 的单脉冲能量。这种结构坚固且简单的方法展示了直接生成高功率 UVC 激光脉冲的一种有前途的方法。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.571653",
+            "title": "Dispersion-engineered subwavelength grating microring resonator for high-sensitivity and wide-range on-chip sensing",
+            "link": "https://doi.org/10.1364/prj.571653",
+            "published": "2025-12-01",
+            "author": "Shibo Sun, Xinzhe Xiong, Meiyu Chang, Yameng Xu, Mei Kong, Li Shen",
+            "summary": "Silicon-based microring resonator sensors are promising components for lab-on-chip sensing systems. However, developing a microring resonator sensor with both high sensitivity and wide detectable range has remained challenging. Here, we experimentally demonstrate a high-sensitivity and wide-range subwavelength grating microring resonator sensor by leveraging its dispersion properties. These properties enable the formation of an envelope spectrum. By tracking this envelope spectrum for sensing, the detectable range is liberated from the limitation of the free spectral range. Moreover, the dispersion properties are crucial for the improvement of sensitivity. Through dispersion engineering, the subwavelength grating microring resonator achieves a refractive index sensitivity of 791 nm/RIU, with the detectable range no longer limited by the free spectral range. This work advances the design principles for microring resonator sensors and paves the way for high-performance on-chip optical sensing platforms.",
+            "journal": "Photonics Research",
+            "title_cn": "色散设计的亚波长光栅微环谐振器，用于高灵敏度和宽范围片上传感",
+            "abstract_cn": "硅基微环谐振器传感器是芯片实验室传感系统中很有前途的组件。然而，开发具有高灵敏度和宽检测范围的微环谐振器传感器仍然具有挑战性。在这里，我们利用其色散特性，通过实验演示了一种高灵敏度、宽范围的亚波长光栅微环谐振器传感器。这些特性使得包络谱能够形成。通过跟踪该包络光谱进行传感，可检测范围摆脱了自由光谱范围的限制。此外，分散特性对于灵敏度的提高至关重要。通过色散工程，亚波长光栅微环谐振器实现了791 nm/RIU的折射率灵敏度，可检测范围不再受到自由光谱范围的限制。这项工作推进了微环谐振器传感器的设计原理，并为高性能片上光学传感平台铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.564412",
+            "title": "Epsilon-near-zero material assisted metasurface saturable absorber for ultrafast Yb-doped fiber lasers",
+            "link": "https://doi.org/10.1364/prj.564412",
+            "published": "2025-11-20",
+            "author": "Ji Su Kim, Byeong Kwon Choi, Soyeon Ahn, Sung Yoon Cho, Min Su Kim, Minjun Kim, Yeonsang Park, Min Yong Jeon",
+            "summary": "The recent progress in semiconductor processing technology has served as a major driving force behind the rapid development of nanophotonics research. Among the emerging applications, metasurfaces have attracted significant attention as saturable absorbers (SAs) for mode-locked laser systems that generate short pulses. In this study, we present the comprehensive design, fabrication, and experimental demonstration of a metasurface-based SA operating in the 1 μm wavelength range, leveraging both the localized surface plasmon resonance (LSPR) phenomenon and the epsilon-near-zero (ENZ) effect of indium tin oxide. The proposed metasurface SA significantly enhances the nonlinear optical response by combining the effects of LSPR and ENZ phenomena. The design was optimized using finite-difference time-domain simulations, which enabled both structural optimization and comprehensive characterization of optical properties. Based on the simulation results, the metasurface SA was fabricated via a commercial electron-beam lithography process. Linear transmission measurements of the fabricated SA confirmed the presence of LSPR around 1050 nm. Nonlinear transmission measurements revealed a modulation depth of 10.9% and a saturation intensity of 10.98 MW / cm 2 . The metasurface SA was successfully integrated into a mode-locked Yb-doped fiber laser, achieving stable Q -switched mode-locking operation at a central wavelength of 1058 nm. The resulting laser exhibited a spectral bandwidth of 11.7 nm, a repetition rate of 16.15 MHz, and a pulse envelope duration of approximately 2.6 μs. These results validate the reliability and effectiveness of the metasurface-based approach. The experimental findings highlight the strong potential of metasurface SAs incorporating ENZ materials as a versatile platform for next-generation high-performance ultrafast fiber lasers. The integration of plasmonic metasurfaces with ENZ effects offers a promising pathway toward compact, efficient, and tunable ultrafast laser sources for applications in communications, spectroscopy, and precision measurement.",
+            "journal": "Photonics Research",
+            "title_cn": "用于超快掺镱光纤激光器的ε近零材料辅助超表面可饱和吸收器",
+            "abstract_cn": "半导体加工技术的最新进展成为纳米光子学研究快速发展的主要推动力。在新兴应用中，超表面作为产生短脉冲的锁模激光系统的可饱和吸收器（SA）引起了人们的广泛关注。在这项研究中，我们利用局域表面等离子体共振（LSPR）现象和氧化铟锡的ε近零（ENZ）效应，展示了在1μm波长范围内工作的基于超表面的SA的全面设计、制造和实验演示。所提出的超表面 SA 通过结合 LSPR 和 ENZ 现象的影响显着增强了非线性光学响应。使用有限差分时域仿真对设计进行了优化，从而实现了结构优化和光学特性的综合表征。根据模拟结果，超表面 SA 通过商业电子束光刻工艺制造。所制造的 SA 的线性透射测量证实了 1050 nm 左右的 LSPR 的存在。非线性传输测量显示调制深度为10.9%，饱和强度为10.98 MW/cm 2 。该超表面SA成功集成到锁模掺镱光纤激光器中，在中心波长1058 nm处实现了稳定的调Q锁模操作。所得激光器的光谱带宽为 11.7 nm，重复率为 16.15 MHz，脉冲包络持续时间约为 2.6 μs。这些结果验证了基于超表面的方法的可靠性和有效性。实验结果凸显了采用 ENZ 材料的超表面 SA 作为下一代高性能超快光纤激光器的多功能平台的巨大潜力。等离子体超表面与 ENZ 效应的集成为紧凑、高效、可调谐超快激光源提供了一条有前途的途径，可用于通信、光谱学和精密测量等领域。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.568903",
+            "title": "Lithium niobate micro-waveguides for efficient supercontinuum generation and frequency comb self-referencing",
+            "link": "https://doi.org/10.1364/prj.568903",
+            "published": "2025-11-20",
+            "author": "Yongzhi Tang, Jing Qiu, Wenjun Ding, Tingting Ding, Xingze Song, Tianhao Xian, Hao Li, Shijie Liu, Luqi Yuan, Yuanlin Zheng, Xianfeng Chen",
+            "summary": "Optical frequency combs (OFCs) and supercontinuum generation (SCG) facilitate a plethora of important applications in metrology, spectroscopy, optical clocks, etc. Recent advances in integrated photonics offer an attractive avenue to implement compact or chip-integrated comb sources. However, the prevalent method based on nano-waveguides usually exhibits low output power and large coupling losses during the SCG process. Here, we experimentally demonstrate over two-octave-spanning SCG with high output power in dispersion-engineered magnesium-oxide-doped lithium-niobate-on-insulator (MgO:LNOI) micro-waveguides using a high-repetition-rate femtosecond fiber oscillator laser. The micro-waveguide can deliver high-power SCG due to its excellent fiber compatibility, lower insertion loss, and higher optical damage threshold. The designed waveguide also allows for birefringence phase matched second-harmonic generation (SHG), realizing simultaneous f -2 f interference in a single-pass configuration. Measurement and stabilization of carrier-envelope offset frequency ( f CEO ) are achieved with over 36-dB signal-to-noise ratio for OFC self-referencing. Furthermore, a nonlinear envelope equation model is established to simulate the spectral broadening and frequency conversion process regarding cascaded χ (2) and χ (3) nonlinearities. This work provides a compact and convenient solution for f -2 f self-referencing frequency combs using photonic micro-waveguide technology.",
+            "journal": "Photonics Research",
+            "title_cn": "用于高效超连续谱生成和频率梳自参考的铌酸锂微波导",
+            "abstract_cn": "光学频率梳 (OFC) 和超连续谱产生 (SCG) 促进了计量学、光谱学、光学时钟等领域的大量重要应用。集成光子学的最新进展为实现紧凑型或芯片集成梳状源提供了一条有吸引力的途径。然而，基于纳米波导的流行方法在SCG过程中通常表现出低输出功率和大耦合损耗。在这里，我们使用高重复率飞秒光纤振荡器激光器，在色散工程掺杂氧化镁掺杂绝缘体上铌酸锂 (MgO:LNOI) 微波导中实验演示了两个八度跨度的 SCG 具有高输出功率。微波导由于其优异的光纤兼容性、较低的插入损耗和较高的光损伤阈值，可以提供高功率SCG。设计的波导还允许双折射相位匹配二次谐波产生（SHG），在单通道配置中实现同时 f -2 f 干涉。载波包络偏移频率 (fCEO) 的测量和稳定是通过 OFC 自参考超过 36dB 的信噪比实现的。此外，建立了非线性包络方程模型来模拟级联χ(2)和χ(3)非线性的谱展宽和变频过程。这项工作为利用光子微波导技术的 f -2 f 自参考频率梳提供了一种紧凑且方便的解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.567779",
+            "title": "Cross-coupling effects of surface plasmon polaritons and guided mode resonances toward tunable light trapping",
+            "link": "https://doi.org/10.1364/prj.567779",
+            "published": "2025-11-20",
+            "author": "Chao Xie, Wenxuan Liu, Hongyi Chen, Yutu Li, En-Ming You, Renxian Gao, Zhilin Yang, Shaoxin Shen",
+            "summary": "Achieving the precise control over high-quality ( Q ) resonances, particularly bound states in the continuum (BICs), within plasmonic metasurfaces remains a substantial challenge due to inherent material losses, which can undermine the modulation efficiency and device performance in practical settings. Here, we introduce a mechanism, termed dual-channel-driven BICs, which exploits the cross-coupling between surface plasmon polaritons and guided mode resonances to enable the delicate formation and manipulation of high- Q bound states in dissipative plasmonic platforms. This mechanism is concretized through the design of plasmonic resonant waveguide metagratings, which support controllable modal transitions from bulk-like guided modes to interface-coupled resonances, thereby facilitating the energy transfer between low-loss dielectric components and metal-associated local regimes. The proposed strategy is experimentally validated via a proof-of-concept prototype, accompanied by theoretical modeling that elucidates the governing mechanism. Furthermore, we numerically demonstrate the potential of this approach in developing high-figure-of-merit filtering and sensing. Insights derived from this work offer a versatile yet effective design framework for dissipationless manipulation of light-matter interactions at the nanoscale, thereby expanding functional capabilities of high- Q metaphotonic systems.",
+            "journal": "Photonics Research",
+            "title_cn": "表面等离子体激元和导模共振对可调谐光捕获的交叉耦合效应",
+            "abstract_cn": "由于固有的材料损失，在等离子体超表面内实现对高质量（Q）共振，特别是连续体中的束缚态（BIC）的精确控制仍然是一个巨大的挑战，这可能会破坏实际设置中的调制效率和器件性能。在这里，我们引入了一种称为双通道驱动 BIC 的机制，它利用表面等离激元极化子和导模共振之间的交叉耦合，从而能够在耗散等离激元平台中精细地形成和操纵高 Q 束缚态。这种机制通过等离子体谐振波导元光栅的设计具体化，它支持从体状导模到界面耦合谐振的可控模态转变，从而促进低损耗介电元件和金属相关局部状态之间的能量转移。所提出的策略通过概念验证原型进行实验验证，并附有阐明控制机制的理论模型。此外，我们还以数字方式证明了这种方法在开发高品质过滤和传感方面的潜力。这项工作的见解提供了一个通用而有效的设计框架，用于在纳米尺度上无耗散地操纵光与物质的相互作用，从而扩展高Q元光子系统的功能能力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.572334",
+            "title": "NSGA-II-driven design of a multispectral compatible metasurface with broadband microwave polarization conversion and low infrared emissivity",
+            "link": "https://doi.org/10.1364/prj.572334",
+            "published": "2025-12-01",
+            "author": "Weisheng Zhang, Mingbao Yan, Ruichao Zhu, Sai Sui, Yajuan Han, Weiqiang Gong, Jiechu Liu, Jiafu Wang",
+            "summary": "Given the conflict between high microwave absorption and low infrared emissivity performance in electromagnetic-controlled metasurface design, achieving multispectral compatibility between low microwave reflectivity and low infrared emissivity remains challenging. Leveraging the non-dominated sorting genetic algorithm II (NSGA-II), this study presents a three-layer lightweight metasurface comprising a metal-patterned F4B substrate with a metal backplate, designed to achieve simultaneous ultra-wideband polarization conversion and low infrared emissivity. The NSGA-II is employed to engineer distinct electrical lengths along the two orthogonal decomposition components of the incident electromagnetic wave, enabling dominant resonant mode conversion across multiple frequency bands, which facilitates efficient broadband polarization conversion while maintaining low infrared emissivity. Simulation results show that the polarization conversion efficiency is greater than 90% in the 7.7–12.1 GHz band, and the experimentally measured mean infrared emissivity is 0.36, which is close to the theoretical value with angular stability. This feature enables it to be directly applied to the stealth coating of military targets and the field of polarization multiplexing communication, doubling the transmission channel capacity.",
+            "journal": "Photonics Research",
+            "title_cn": "NSGA-II 驱动的具有宽带微波偏振转换和低红外发射率的多光谱兼容超表面设计",
+            "abstract_cn": "鉴于电磁控制超表面设计中高微波吸收和低红外发射率性能之间的冲突，实现低微波反射率和低红外发射率之间的多光谱兼容性仍然具有挑战性。利用非支配排序遗传算法 II (NSGA-II)，本研究提出了一种三层轻质超表面，包括金属图案 F4B 基板和金属背板，旨在实现同时超宽带偏振转换和低红外发射率。 NSGA-II 用于沿入射电磁波的两个正交分解分量设计不同的电长度，从而实现跨多个频段的主导谐振模式转换，从而促进高效的宽带偏振转换，同时保持低红外发射率。仿真结果表明，在7.7~12.1 GHz频段偏振转换效率大于90%，实验测量的平均红外发射率为0.36，与角稳定理论值接近。这一特性使其能够直接应用于军事目标的隐身涂层和偏振复用通信领域，使传输通道容量成倍增加。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.541297",
+            "title": "Sub-nanometer address grid in variable shaped e-beam lithography for efficient inscription of high-precision large-area optical gratings",
+            "link": "https://doi.org/10.1364/prj.541297",
+            "published": "2025-11-13",
+            "author": "Martin Heusinger, Thorsten A. Goebel, Michael Banasch, Daniel Richter, Ria G. Krämer, Christian Voigtländer, Eike Linn, Thomas Siefke, Andreas Tünnermann, Ernst-Bernhard Kley, Stefan Nolte, Uwe D. Zeitner",
+            "summary": "High-performance, large-area optical gratings for applications like chirped pulse amplification, gravitational wave astronomy, and X-ray optics require sub-nanometer line placement control over several cm 2 . Electron beam lithography with a variable shaped beam (VSB) is well suited but limited by tool-dependent address grid discretization. We adapted address grid interpolation to the VSB method, reducing the effective placement grid to 25 pm, as confirmed by stray light measurements. The technique was further demonstrated on a 0.5 cm ×5 cm phase mask for chirped fiber Bragg gratings (100 pm/mm), achieving excellent spectral broadband reflection quality.",
+            "journal": "Photonics Research",
+            "title_cn": "可变形状电子束光刻中的亚纳米地址网格，用于高效刻写高精度大面积光栅",
+            "abstract_cn": "用于啁啾脉冲放大、引力波天文学和X射线光学等应用的高性能、大面积光栅需要数cm 2 的亚纳米线布局控制。具有可变形状束（VSB）的电子束光刻非常适合，但受到工具相关的地址网格离散化的限制。我们将地址网格插值调整为 VSB 方法，将有效放置网格减少到下午 25 点，正如杂散光测量所证实的那样。该技术在啁啾光纤布拉格光栅 (100 pm/mm) 的 0.5 cm ×5 cm 相位掩模上得到进一步验证，实现了出色的光谱宽带反射质量。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.565131",
+            "title": "3D holographic metasurface design by deep learning with partitioned loss function",
+            "link": "https://doi.org/10.1364/prj.565131",
+            "published": "2025-12-01",
+            "author": "Yunxin Guo, Yi Yang, Fan Huang, Jianqiang Gu, Chunmei Ouyang, Quan Xu, Xueqian Zhang",
+            "summary": "Deep learning has significantly accelerated the automation of metasurface design and reduced its dependence on empirical approaches. However, it still has not fully demonstrated its capabilities in the most challenging light field manipulation: 3D holography. In this paper, we present a framework that integrates a fully connected forward prediction network with a 3D convolutional inverse design network to design terahertz 3D holographic metasurfaces. By using a limited number of target image planes as the ground truth, the network learns the concept of true 3D holography, where patterns rotate and translate as they propagate, and designs metasurfaces to realize the corresponding holograms. From a practical perspective, we propose a partitioning and weighting method for calculating the loss function to enhance the recognizability of 3D holographic imaging. Compared to the analytical method and Gerchberg–Saxton algorithm, the proposed network not only exhibits superior imaging performance but also meets the demands of physically unreasonable 3D holography by adopting the approximate solution. This paper provides a novel and effective method for exploring the immense potential of deep learning in the inverse design of metasurfaces, enabling metasurfaces to better meet the requirements of complex light field manipulation across various wavelength bands. The proposed 3D holographic metasurfaces hold significant potential for advancing terahertz devices that generate specific modes requiring strict and continuous control in 3D space.",
+            "journal": "Photonics Research",
+            "title_cn": "通过深度学习和分区损失函数进行 3D 全息超表面设计",
+            "abstract_cn": "深度学习显着加速了超表面设计的自动化，并减少了其对经验方法的依赖。然而，它仍未完全展示其在最具挑战性的光场操纵：3D 全息术中的能力。在本文中，我们提出了一个框架，将完全连接的前向预测网络与 3D 卷积逆设计网络相集成，以设计太赫兹 3D 全息超表面。通过使用有限数量的目标图像平面作为地面实况，网络学习真正的 3D 全息图的概念，其中图案在传播时旋转和平移，并设计超表面以实现相应的全息图。从实用的角度来看，我们提出了一种计算损失函数的分区和加权方法，以增强3D全息成像的可识别性。与解析方法和Gerchberg-Saxton算法相比，所提出的网络不仅表现出优越的成像性能，而且通过采用近似解来满足物理上不合理的3D全息的要求。本文提供了一种新颖有效的方法来探索深度学习在超表面逆向设计中的巨大潜力，使超表面能够更好地满足跨波段复杂光场操纵的要求。所提出的 3D 全息超表面对于推进太赫兹设备具有巨大的潜力，这些设备产生需要在 3D 空间中严格和连续控制的特定模式。"
         }
     ]
 }

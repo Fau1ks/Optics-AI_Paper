@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-29 06:29:06",
+    "update_time": "2026-01-29 08:28:41",
     "word_filename": "Optical_Papers_260129.docx",
-    "total_count": 66,
+    "total_count": 97,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.displa.2026.103366",
@@ -728,6 +728,347 @@
             "journal": "Laser & Photonics Reviews",
             "title_cn": "通过缺陷介导的发射机制实现耐高温余辉材料的热解辅助策略",
             "abstract_cn": "摘要 实现耐高温余辉是非常理想但具有挑战性的，主要是由于激子在高温下失活。在这项工作中，提出了一种共热解策略，通过引入结构缺陷来调节有机分子的发射动力学来实现这种余辉。这些缺陷促进激子转移到客体分子，延长和平衡热激活延迟荧光和磷光过程的寿命。结构缺陷还会促进热致发光，其中升高的温度会触发被捕获的电子释放到客体分子，从而显着促进异常的高温余辉稳定性。此外，热解过程会产生三聚酰胺，从而保护激子免于失活。这些协同效应产生的余辉材料表现出 59.9% 的光致发光量子产率和 3.5 s 的发射寿命。值得注意的是，强烈的余辉发射在 25 至 150°C 范围内持续存在，发射颜色、强度和衰变动力学的变化可以忽略不计。这些发现为调节余辉材料的发射动力学提供了宝贵的见解，表明在信息安全、生物医学诊断和化学传感方面具有广阔的应用前景。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114826",
+            "title": "Dispersion engineering in Sol-Gel coated silica Microspheres: From normal to anomalous dispersion for broadband Kerr frequency comb generation",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114826",
+            "published": "2026-05-01",
+            "author": "Ruiji Dong, Jun-an Li, Fang-Jie Shu, Qijing Lu",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "溶胶-凝胶涂层二氧化硅微球中的色散工程：从正常色散到反常色散，产生宽带克尔频率梳",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109660",
+            "title": "Clutter suppression of optical coherence tomography angiography based on kalman filtering of optical attenuation coefficient and eigen decomposition for deep cortex vascular visualization",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109660",
+            "published": "2026-06-01",
+            "author": "Ben Xiang, Xinru Wu, Haoran Zhang, Jian Liu, Yao Yu, Jingmin Luan, Yuqian Zhao, Yi Wang, Yanqiu Yang, Zhenhe Ma",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "基于光学衰减系数卡尔曼滤波和特征分解的光学相干断层扫描血管造影杂波抑制，用于深层皮层血管可视化",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584239",
+            "title": "Reinforcement learning-enabled robust phase control for OAM beam generation in coherent beam combining systems",
+            "link": "https://doi.org/10.1364/oe.584239",
+            "published": "2026-01-16",
+            "author": "Wenjun Jiang, Guiyuan Tan, Mengmeng Zhang, Junzhe Gao, Wusheng Zhu, Jiazhen Dou, Ju Tang, Jianglei Di, Yuwen Qin",
+            "summary": "Orbital angular momentum (OAM) beams play a vital role across diverse scientific and technological frontiers. However, in high-power regimes, intra-cavity generation is constrained by mode competition, while extra-cavity conversion suffers from low damage thresholds. Coherent beam combination (CBC) provides a promising pathway by combining multiple lasers into structured beams, yet achieving intelligent, label-free, and high-precision phase control remains a formidable challenge. Here we present a reinforcement learning-based phase control framework tailored to generate OAM beams in CBC systems, featuring a physically informed reward function and a vector-quantized (VQ) module embedded in both the actor and critic networks. The proposed framework enables rapid and robust single-stage generation of ±1 and ±2 OAM beams in a 12-channel CBC system, achieving mode purities exceeding 0.99 in noisy environments. Remarkably, it surpasses the stochastic parallel gradient descent (SPGD) algorithm in control stability, despite operating at a much lower control frequency. This work advances the development of RL-based phase control in CBC and establishes a scalable and physically grounded paradigm for intelligent optical field modulation.",
+            "journal": "Optics Express",
+            "title_cn": "用于相干光束组合系统中 OAM 光束生成的强化学习鲁棒相位控制",
+            "abstract_cn": "轨道角动量（OAM）光束在不同的科学和技术前沿发挥着至关重要的作用。然而，在高功率状态下，腔内发电受到模式竞争的限制，而腔外转换则受到低损伤阈值的影响。相干光束组合（CBC）通过将多个激光器组合成结构化光束提供了一条有前途的途径，但实现智能、无标记和高精度相位控制仍然是一个艰巨的挑战。在这里，我们提出了一种基于强化学习的相位控制框架，专门用于在 CBC 系统中生成 OAM 光束，该框架具有物理通知奖励函数和嵌入到参与者和批评者网络中的矢量量化（VQ）模块。所提出的框架能够在 12 通道 CBC 系统中快速、鲁棒地单级生成 ±1 和 ±2 OAM 光束，在噪声环境中实现超过 0.99 的模式纯度。值得注意的是，尽管其控制频率​​要低得多，但它在控制稳定性方面优于随机并行梯度下降（SPGD）算法。这项工作推进了 CBC 中基于 RL 的相位控制的发展，并为智能光场调制建立了可扩展且物理接地的范例。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.580575",
+            "title": "Thermo-optically tuned parametric wavelength conversion in integrated Bragg gratings",
+            "link": "https://doi.org/10.1364/oe.580575",
+            "published": "2026-01-16",
+            "author": "X. Wang, J. W. Choi, G. F. R. Chen, H. Gao, D. K. T. Ng, B. J. Eggleton, D. T. H. Tan",
+            "summary": "We demonstrate thermo-optic tuning of parametric wavelength conversion in integrated Bragg gratings— an approach that enables dynamic control of nonlinear optical processes on-chip. Bragg gratings offer enhanced phase matching through sharp dispersion near the photonic stopband, enabling significantly improved four-wave mixing efficiency compared to uniform photonic waveguides. Leveraging this grating-induced dispersion, we achieve continuous-wave four-wave mixing with a 20 dB enhancement in on/off conversion efficiency relative to a reference waveguide of the same length. Crucially, we show that thermal tuning from 25 °C to 75 °C yields up to a 5 dB modulation in conversion efficiency and induces a 5 nm spectral shift in the stopband—representing a level of control not attainable in conventional waveguides. Experimental results show good agreement with theoretical predictions. These results establish integrated Bragg gratings as a powerful and reconfigurable platform for actively tunable nonlinear photonic devices.",
+            "journal": "Optics Express",
+            "title_cn": "集成布拉格光栅中的热光调谐参量波长转换",
+            "abstract_cn": "我们演示了集成布拉格光栅中参量波长转换的热光调谐——一种能够动态控制片上非线性光学过程的方法。布拉格光栅通过光子阻带附近的锐色散提供增强的相位匹配，与均匀光子波导相比，能够显着提高四波混频效率。利用这种光栅引起的色散，我们实现了连续波四波混频，相对于相同长度的参考波导，开/关转换效率提高了 20 dB。至关重要的是，我们表明，从 25 °C 到 75 °C 的热调谐可产生高达 5 dB 的转换效率调制，并在阻带中引起 5 nm 的光谱偏移，这代表了传统波导无法达到的控制水平。实验结果与理论预测吻合良好。这些结果使集成布拉格光栅成为主动可调谐非线性光子器件的强大且可重新配置的平台。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582360",
+            "title": "Microcrystalline Ge interlayer-bonded InGaAs/Si avalanche photodiode with ultrahigh responsivity of 135 A/W and gain of 190",
+            "link": "https://doi.org/10.1364/oe.582360",
+            "published": "2026-01-20",
+            "author": "Menghui Guo, Xiaolong Jiang, Jie Wang, Junfeng Yang, Zikai Lin, Yiyuan Fan, Songyan Chen, Shaoying Ke",
+            "summary": "This paper reports a high-performance InGaAs/Si avalanche photodiode (APD) utilizing a microcrystalline germanium (μc-Ge) interlayer bonding technique. This technique enables the formation of a high-quality InGaAs/Si heterojunction with a void-free, high-strength, and oxide-free bonded interface, effectively suppressing dislocation formation and elemental interdiffusion. The device demonstrates high responsivities of 68 A/W and 135 A/W at wavelengths of 1310 nm and 1550 nm, respectively, with avalanche gains of 106.25 and 190, respectively, significantly outperforming previously reported Ge/Si and various InGaAs-based APDs. Further observation shows that the punch-through voltage increases with rising optical power, attributed to the space charge effect caused by the hole potential well at the μc-Ge bonded interface. Additionally, a defect-assisted tunneling mechanism for interfacial carrier transport is revealed. This work presents an effective technological pathway for the development of high-performance, low-noise III-V/Si integrated photodetectors.",
+            "journal": "Optics Express",
+            "title_cn": "微晶Ge层间键合InGaAs/Si雪崩光电二极管，具有135 A/W的超高响应度和190的增益",
+            "abstract_cn": "本文报道了一种采用微晶锗 (μc-Ge) 层间键合技术的高性能 InGaAs/Si 雪崩光电二极管 (APD)。该技术能够形成具有无空隙、高强度、无氧化物键合界面的高质量InGaAs/Si异质结，有效抑制位错形成和元素相互扩散。该器件在 1310 nm 和 1550 nm 波长下分别表现出 68 A/W 和 135 A/W 的高响应度，雪崩增益分别为 106.25 和 190，显着优于之前报道的 Ge/Si 和各种基于 InGaAs 的 APD。进一步观察表明，击穿电压随着光功率的增加而增加，这归因于μc-Ge键合界面空穴势阱引起的空间电荷效应。此外，还揭示了用于界面载流子传输的缺陷辅助隧道机制。这项工作为开发高性能、低噪声 III-V/Si 集成光电探测器提供了一条有效的技术途径。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.583806",
+            "title": "Non-uniform bit-manipulation 3D probabilistic shaping method over hollow-core fiber transmission",
+            "link": "https://doi.org/10.1364/oe.583806",
+            "published": "2026-01-20",
+            "author": "Na Li, Bo Liu, Jianxin Ren, Yaya Mao, Shuaidong Chen, Xiantao Yang, Jianye Zhao, Rahat Ullan, Xiumin Song, Ying Li, Mingqian Liu, Huili Ji",
+            "summary": "This paper proposes a three-dimensional (3D) probabilistic shaping (PS) method based on non-uniform bit manipulation (NUBM) for hollow-core fiber transmission. The proposed NUBM involves bit-level preprocessing to achieve a non-uniform manipulation of ‘0's and ‘1's in the amplitude bits. Subsequently, Gray mapping is employed to generate PAM4 symbols, resulting in a higher probability for the two inner PAM4 signal levels. This effectively lowers the average transmission power and moves the system nearer to the channel capacity limit. Three such probabilistically shaped PAM4 (PS-PAM4) signals are then combined and mapped into a 3D-64QAM constellation with shaping gain. The scheme was experimentally validated over a 1.5 km hollow-core fiber link, achieving a 15.75 Gb/s signal transmission. Under the condition of maintaining the same net data rate, the experimental results show that at the 7% hard-decision forward error correction (HD-FEC) threshold (BER = 3.8 × 10 −3 ), the proposed 3D-PS-64QAM scheme gains receiver sensitivity improvements of 1.7 dB and 3.2 dB compared to conventional uniform 3D-64QAM and 2D-PS-64QAM, respectively. This study validates the effectiveness of the described 3D non-uniform bit manipulation in a hollow-core fiber environment, offering a high-performance transmission solution for next-generation high-speed optical communication systems.",
+            "journal": "Optics Express",
+            "title_cn": "空心光纤传输上的非均匀位操作3D概率整形方法",
+            "abstract_cn": "本文提出了一种基于非均匀位操作（NUBM）的空心光纤传输三维（3D）概率整形（PS）方法。所提出的 NUBM 涉及位级预处理，以实现幅度位中“0”和“1”的非均匀操作。随后，采用格雷映射来生成 PAM4 符号，从而导致两个内部 PAM4 信号电平的概率更高。这有效地降低了平均传输功率并使系统更接近信道容量极限。然后将三个这样的概率整形 PAM4 (PS-PAM4) 信号组合起来并映射到具有整形增益的 3D-64QAM 星座中。该方案在1.5公里空心光纤链路上进行了实验验证，实现了15.75 Gb/s的信号传输。实验结果表明，在保持相同净数据速率的情况下，在7%硬判决前向纠错（HD-FEC）阈值（BER=3.8×10−3）下，所提出的3D-PS-64QAM方案与传统均匀3D-64QAM和2D-PS-64QAM相比，接收灵敏度分别提高了1.7 dB和3.2 dB。这项研究验证了空心光纤环境中所描述的 3D 非均匀位操作的有效性，为下一代高速光通信系统提供高性能传输解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.585712",
+            "title": "FMCW LiDAR with a GaN-based distributed feedback laser diode at 466 nm",
+            "link": "https://doi.org/10.1364/oe.585712",
+            "published": "2026-01-21",
+            "author": "Wataru Kokuyama, Hidemi Tsuchida, Yoshiaki Nakajima",
+            "summary": "Frequency-modulated continuous-wave (FMCW) LiDAR requires a visible narrow-linewidth laser capable of a wide linear chirp for operations in underwater environments. To this end, we evaluated a GaN-based 466 nm distributed feedback laser diode (DFB-LD) using a delayed self-heterodyne interferometer, measuring its modulation waveform. The chirp span reached a 12.2 GHz peak-to-peak value (Fourier-limited theoretical resolution: 0.92 cm in the water). The modulation nonlinearity was 9% full scale, and the coherence length was 14 m (β-separation linewidth: 1.9 MHz). Using the proposed LD, we demonstrated free-space FMCW LiDAR at ∼3 m without predistortion. Although the resolution degraded to ∼2 m due to nonlinearity and frequency noise, this work represents, to our knowledge, the first experimental demonstration of FMCW LiDAR using a visible DFB-LD, showing its potential for visible coherent sensing.",
+            "journal": "Optics Express",
+            "title_cn": "具有 466 nm GaN 分布式反馈激光二极管的 FMCW LiDAR",
+            "abstract_cn": "调频连续波 (FMCW) LiDAR 需要具有宽线性调频的可见窄线宽激光器，才能在水下环境中运行。为此，我们使用延迟自外差干涉仪评估了基于 GaN 的 466 nm 分布式反馈激光二极管 (DFB-LD)，测量了其调制波形。线性调频跨度达到 12.2 GHz 峰峰值（傅立叶极限理论分辨率：水中 0.92 cm）。调制非线性为满量程的 9%，相干长度为 14 m（β 分离线宽：1.9 MHz）。使用所提出的 LD，我们在 ∼3 m 处演示了无预失真的自由空间 FMCW LiDAR。尽管由于非线性和频率噪声，分辨率降低至~2 m，但据我们所知，这项工作代表了使用可见光 DFB-LD 的 FMCW LiDAR 的首次实验演示，显示了其可见光相干传感的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582311",
+            "title": "Generation of 125-GHz millijoule-level ultrashort pulse-train from a Yb:YAG regenerative amplifier and PMF-polarization-mode-based pulse division",
+            "link": "https://doi.org/10.1364/oe.582311",
+            "published": "2026-01-22",
+            "author": "Yuxi Pang, Yu Wang, Xinyu Hu, Longwang Xiu, Yanfei Liu, Xiangdong Cao",
+            "summary": "This paper presents an ultrafast laser pulse train that delivers millijoule-class energy in 125 GHz train repetition rate, achieved mainly through a Yb:YAG regenerative amplifier (RA) combined with a polarization-maintaining fiber (PMF)-based pulse division scheme. The RA operates at a 5 kHz repetition rate in a mode-symmetrically distributed standing-wave resonant cavity incorporating a Yb:YAG crystal. The PMF-based pulse divider exploits the birefringence properties of PMF to realize pulse division at train repetition rates reaching the hundred-gigahertz or even terahertz regime, providing in a simple, stable, and cost-effective solution. Based on the integration of the RA and the pulse divider, the generation and evolution of satellite pulses induced by the Kerr nonlinear optical effect during the amplification of 125 GHz pulse trains are systematically investigated. Both numerical calculations and the experimental results confirm the temporal smoothing effect produced by a large sub-pulse number of pulse trains and its suppression effect on satellite pulse formation, and ultimately yielding a pulse train output with N = 32, an average power of 5.12 W, pulse energy of 1.024 mJ, and pulse duration of 2 ps.",
+            "journal": "Optics Express",
+            "title_cn": "从 Yb:YAG 再生放大器和基于 PMF 偏振模式的脉冲划分生成 125 GHz 毫焦耳级超短脉冲序列",
+            "abstract_cn": "本文提出了一种超快激光脉冲序列，可在 125 GHz 序列重复率下提供毫焦级能量，主要通过 Yb:YAG 再生放大器 (RA) 与基于保偏光纤 (PMF) 的脉冲分割方案相结合来实现。 RA 在采用 Yb:YAG 晶体的模式对称分布驻波谐振腔中以 5 kHz 重复率运行。基于 PMF 的脉冲分配器利用 PMF 的双折射特性，以达到百吉赫甚至太赫兹的序列重复率实现脉冲分配，提供简单、稳定且经济高效的解决方案。基于RA和脉冲分配器的集成，系统地研究了125 GHz脉冲串放大过程中克尔非线性光学效应引起的卫星脉冲的产生和演化。数值计算和实验结果均证实了大量子脉冲串产生的时间平滑效应及其对卫星脉冲形成的抑制作用，最终得到N=32、平均功率为5.12 W、脉冲能量为1.024 mJ、脉冲持续时间为2 ps的脉冲串输出。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.583426",
+            "title": "Optimized image fusion rule based on targeted image evaluation metrics for vehicle imaging systems",
+            "link": "https://doi.org/10.1364/oe.583426",
+            "published": "2026-01-23",
+            "author": "Junrong Zhou, Yupeng Chen, Guoliang Li, Baixuan Zhao, Haitao Nie, Kaifeng Zheng, Yingze Zhao, Weibiao Wang, Yuxin Qin, Jingqiu Liang, Jinguang Lv",
+            "summary": "Vehicle assistance systems suffer from perception degradation in complex environments like haze. To address this, we develop an integrated visible polarization and infrared dual-band imaging system and propose an innovative image fusion rule based on target image evaluation metrics. Experimental results demonstrate that our method significantly enhances texture details and target discrimination in fused images. The proposed rule also shows strong versatility, supporting various fusion frameworks and multimodal imaging applications. This work provides valuable solutions for assisted driving and other fields like remote sensing and military reconnaissance.",
+            "journal": "Optics Express",
+            "title_cn": "基于车辆成像系统目标图像评估指标的优化图像融合规则",
+            "abstract_cn": "车辆辅助系统在雾霾等复杂环境中会遭受感知退化的影响。为了解决这个问题，我们开发了一种集成的可见光偏振和红外双波段成像系统，并提出了一种基于目标图像评估指标的创新图像融合规则。实验结果表明，我们的方法显着增强了融合图像中的纹理细节和目标辨别力。所提出的规则还显示出很强的通用性，支持各种融合框架和多模态成像应用。这项工作为辅助驾驶以及遥感和军事侦察等其他领域提供了有价值的解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.583744",
+            "title": "Unified ray-wave model for end-to-end imaging in refractive–diffractive hybrid optics",
+            "link": "https://doi.org/10.1364/oe.583744",
+            "published": "2026-01-16",
+            "author": "Jintao Shi, Desheng Li, Jingang Zhang, Xiaoxiao Wei, Yunfeng Nie",
+            "summary": "End-to-end optical design has emerged as a promising paradigm in computational imaging, emphasizing the joint optimization of optical elements and computational algorithms. However, existing models struggle to simultaneously achieve efficiency, accuracy, and differentiability, which limits the development of refractive–diffractive hybrid systems. To address this challenge, we propose a unified ray-wave (UniRW) differentiable modeling framework that couples generalized Snell’s law with wave propagation. By unifying geometric ray tracing and wave optics, the framework enables accurate and efficient simulation of arbitrary hybrid optical systems, and can be naturally embedded into end-to-end optimization pipelines to support joint learning of optical parameters and image reconstruction networks. We validate the proposed framework on aberration correction and extended depth-of-field (EDOF) tasks. In aberration correction, the proposed hybrid lens achieves improved image reconstruction quality enabled by more accurate PSF modeling and end-to-end optimization. Quantitative results show that UniRW improves the reconstructed image peak signal-to-noise ratio (PSNR) by approximately 3.4 dB. In the EDOF setting, the proposed framework achieves high-quality image reconstruction with a PSNR of approximately 31.9 dB across an extended axial defocus range of ±500 µm . These results demonstrate that the proposed approach bridges physical modeling and deep learning optimization, providing an efficient, accurate, and general paradigm for hybrid optical design.",
+            "journal": "Optics Express",
+            "title_cn": "折射-衍射混合光学中端到端成像的统一射线波模型",
+            "abstract_cn": "端到端光学设计已成为计算成像领域有前途的范例，强调光学元件和计算算法的联合优化。然而，现有模型难以同时实现效率、准确性和可微分性，这限制了折射-衍射混合系统的发展。为了应对这一挑战，我们提出了一个统一射线波（UniRW）可微分建模框架，将广义斯涅尔定律与波传播结合起来。通过统一几何光线追踪和波动光学，该框架能够准确高效地模拟任意混合光学系统，并且可以自然地嵌入到端到端优化管道中，以支持光学参数和图像重建网络的联合学习。我们验证了所提出的像差校正和扩展景深（EDOF）任务框架。在像差校正中，所提出的混合镜头通过更准确的 PSF 建模和端到端优化实现了更高的图像重建质量。定量结果表明，UniRW 将重建图像峰值信噪比 (PSNR) 提高了约 3.4 dB。在 EDOF 设置中，所提出的框架在 ±500 µm 的扩展轴向散焦范围内实现了高质量图像重建，PSNR 约为 31.9 dB。这些结果表明，所提出的方法连接了物理建模和深度学习优化，为混合光学设计提供了高效、准确和通用的范例。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584282",
+            "title": "Rapidly tunable synthetic wavelength ranging with an RFSoC",
+            "link": "https://doi.org/10.1364/oe.584282",
+            "published": "2026-01-15",
+            "author": "Shawn M. P. McSorley, Benjamin P. Dix-Matthews, Andrew M. Lance, David R. Gozzard, Sascha W. Schediwy",
+            "summary": "Measurements of optical range and time-of-flight are crucial for a variety of high-precision technologies. Competitive optical measurement techniques have been developed that balance precision with accuracy and system complexity. Here, we present a continuous-wave synthetic wavelength interferometry technique that employs digitally tunable electro-optic frequency combs. With a software-defined radio, our approach can dynamically sweep the synthetic wavelength and measure absolute optical range. We demonstrate this digital approach over a free-space optical delay line of 1 m and over a 40 km fiber link. The best obtained precision over the delay line is better than 60 nm (0.2 fs). Through a 40 km fiber spool, this precision degrades to 15 µm (50 fs), which is a fractional error on the order of 2 × 10 −10 m/m. Our design is simple to implement and only relies on continuous-wave interference, decreasing system complexity.",
+            "journal": "Optics Express",
+            "title_cn": "使用 RFSoC 快速调节合成波长范围",
+            "abstract_cn": "光学范围和飞行时间的测量对于各种高精度技术至关重要。已经开发出具有竞争力的光学测量技术，可以在精度与准确度和系统复杂性之间取得平衡。在这里，我们提出了一种采用数字可调谐电光频率梳的连续波合成波长干涉测量技术。通过软件定义的无线电，我们的方法可以动态扫描合成波长并测量绝对光学范围。我们通过 1 m 的自由空间光延迟线和 40 km 的光纤链路演示了这种数字方法。延迟线上获得的最佳精度优于 60 nm (0.2 fs)。通过 40 km 光纤线轴，该精度会降低至 15 µm (50 fs)，这是 2 × 10 -10 m/m 数量级的分数误差。我们的设计易于实现，仅依赖于连续波干扰，降低了系统复杂性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582474",
+            "title": "Frequency domain side channel on lithium niobate phase modulator in high-rate quantum key distribution system",
+            "link": "https://doi.org/10.1364/oe.582474",
+            "published": "2026-01-16",
+            "author": "Siying Huang, Jindong Wang, Qincheng Hou, Naida Mo, Shaoke Huang, Pan Li, Xinyi Wang, Zhengjun Wei, Tianming Zhao, Yafei Yu, Zhiming Zhang",
+            "summary": "Constructing high-rate quantum key distribution (QKD) systems is an effective way to increase secure key rates. However, in such systems, modulation strengthens the correlation between signaling and non-signaling states, allowing an eavesdropper to extract information from the latter. While frequency-domain side-channel leakage from light sources has been recognized, leakage arising from modulation in high-rate QKD systems has not yet been reported. In this paper, we first constructed BB84 phase and polarization coding units and observed frequency-domain variations in increasing rates of lithium niobate (LN) modulation. Using an information-theoretic model, we evaluated the correlation between frequency and coded bits, finding side-channel mutual information of 2.44 × 10 −2 and 8.81 × 10 −3 bits/pulse at 594 MHz and 668 MHz for phase and polarization units, respectively. Information leakage increased with higher modulation rate and voltage, and potential defense schemes are briefly discussed.",
+            "journal": "Optics Express",
+            "title_cn": "高速量子密钥分配系统中铌酸锂相位调制器的频域侧信道",
+            "abstract_cn": "构建高速量子密钥分发（QKD）系统是提高安全密钥速率的有效途径。然而，在此类系统中，调制增强了信令和非信令状态之间的相关性，从而允许窃听者从后者中提取信息。虽然来自光源的频域侧信道泄漏已经被认识到，但高速 QKD 系统中的调制引起的泄漏尚未有报道。在本文中，我们首先构建了 BB84 相位和偏振编码单元，并观察了铌酸锂 (LN) 调制速率增加的频域变化。使用信息论模型，我们评估了频率和编码比特之间的相关性，发现相位和偏振单元在 594 MHz 和 668 MHz 下的旁路互信息分别为 2.44 × 10 -2 和 8.81 × 10 -3 比特/脉冲。信息泄漏随着调制速率和电压的升高而增加，并简要讨论了潜在的防御方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584499",
+            "title": "Co-design framework for the joint optimization of astronomical optical systems and deep learning algorithms",
+            "link": "https://doi.org/10.1364/oe.584499",
+            "published": "2026-01-15",
+            "author": "Wennan Xiang, Peng Jia, Zhengyang Li, Zeyu Bai, Jiameng Lv",
+            "summary": "We present an optical system optimization framework that directly bridges astronomy, computational imaging, and optical engineering. Traditionally, optical systems of telescopes are optimized using classical image quality metrics (e.g., RMS spot radius), which are often decoupled from the performance of modern, deep learning-based object detection algorithms. This paper introduces an end-to-end, interdisciplinary optimization framework where the optical system is optimized directly for the detection performance of its subsequent deep learning algorithm. Our method integrates an optical system simulator—which models specific optical designs, hardware, and observation modes—with a deep learning-based detection algorithm. In this joint optimization scheme, the detection accuracy of a pre-trained, weight-fixed network on simulated imagery serves as the primary evaluation signal. By combining this signal with classical optical merit functions, we facilitate a closed-loop, iterative refinement of optical design parameters. To validate this co-design approach, we optimized both a Primary-Focus and a Ritchey-Chrétien telescope for a wide-field astronomical survey scenario. The resulting systems demonstrated gains in celestial object detection efficiency and accuracy, proving the value of our method. This work provides an innovative pathway for jointly optimizing optical systems and their bespoke algorithms for specific scientific tasks.",
+            "journal": "Optics Express",
+            "title_cn": "天文光学系统与深度学习算法联合优化的协同设计框架",
+            "abstract_cn": "我们提出了一个直接连接天文学、计算成像和光学工程的光学系统优化框架。传统上，望远镜的光学系统使用经典的图像质量指标（例如 RMS 光斑半径）进行优化，这些指标通常与现代基于深度学习的物体检测算法的性能脱钩。本文介绍了一种端到端、跨学科的优化框架，其中光学系统直接针对其后续深度学习算法的检测性能进行优化。我们的方法将光学系统模拟器（对特定光学设计、硬件和观察模式进行建模）与基于深度学习的检测算法集成在一起。在这种联合优化方案中，预训练的、权重固定的网络在模拟图像上的检测精度作为主要评估信号。通过将该信号与经典光学评价函数相结合，我们促进了光学设计参数的闭环、迭代细化。为了验证这种协同设计方法，我们针对宽视场天文观测场景优化了主焦点望远镜和里奇-克雷蒂安望远镜。由此产生的系统证明了天体检测效率和准确性的提高，证明了我们方法的价值。这项工作为联合优化光学系统及其针对特定科学任务的定制算法提供了一条创新途径。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584254",
+            "title": "Optical fiber twist sensor based on a double-helix structure and quasi-distributed displacement system",
+            "link": "https://doi.org/10.1364/oe.584254",
+            "published": "2026-01-22",
+            "author": "Xueqian Bai, Wenrui Wang, Jun Hu, Biying Zhou, Qingxin Shu, Ruoqi Wang, Lingyun Ye, Kaichen Song",
+            "summary": "The inherent axial torsion of cable-type sensor arrays can cause errors in the projection direction of vector signals. Therefore, accurate characterization of torsional deformation in such arrays is of critical importance. A dual-helix optical fiber twisting measurement method was proposed for the first time, so as to address the issue of measurement errors accumulating with sensor length in traditional optical fiber twist sensors. Saint Venant’s theory was applied to a fiber twist sensing model to analyze the relationship between fiber displacement and twist angle. A quasi-distributed fiber displacement measurement system based on dual modulation using a Mach–Zehnder modulator (MZM) was constructed. Subsequently, a proof-of-concept verification was carried out, in which two optical fibers were wound in opposite helical directions on a silicone substrate with a diameter of 4 cm and a pre-twisted pitch of 25 cm. Experimental results show that the sensor can effectively measure twisting angles, with a sensitivity coefficient of 40.76 kHz/° over a twisting range of ±90°, and a measurement accuracy of 0.39°. The main advantage of this twisting measurement method is that the twisting error does not accumulate with sensor length, and the common-mode noise (CMN) caused by external environmental factors can be effectively suppressed. This approach, therefore, offers significant potential for the torsional measurement of long-distance underwater cable-style sensor arrays.",
+            "journal": "Optics Express",
+            "title_cn": "基于双螺旋结构和准分布式位移系统的光纤扭转传感器",
+            "abstract_cn": "电缆型传感器阵列固有的轴向扭转会导致矢量信号的投影方向出现误差。因此，准确表征此类阵列中的扭转变形至关重要。首次提出双螺旋光纤扭转测量方法，解决传统光纤扭转传感器测量误差随传感器长度累积的问题。将圣维南理论应用于光纤扭曲传感模型，分析光纤位移与扭曲角之间的关系。构建了一种基于马赫-曾德调制器（MZM）双调制的准分布式光纤位移测量系统。随后进行了概念验证，其中两根光纤以相反的螺旋方向缠绕在直径为 4 cm、预绞距为 25 cm 的硅胶基板上。实验结果表明，该传感器能够有效测量扭转角度，在±90°扭转范围内灵敏度系数为40.76 kHz/°，测量精度为0.39°。这种扭转测量方法的主要优点是扭转误差不随传感器长度累积，并且可以有效抑制由外部环境因素引起的共模噪声（CMN）。因此，这种方法为长距离水下电缆式传感器阵列的扭转测量提供了巨大的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583231",
+            "title": "Dissolved methane sensing using a microchanneled hollow-core anti-resonant fiber",
+            "link": "https://doi.org/10.1364/ol.583231",
+            "published": "2026-01-16",
+            "author": "Rongzhen Jiang, Chenyu Yao, Xian Zhao",
+            "summary": "Deep-sea dissolved methane detection is significant for global climate research and ecological monitoring. Here, we report a dissolved methane sensor employing a hollow-core anti-resonant fiber (HC-ARF) that incorporates fifteen 300 × 45 μm microchannels fabricated using a femtosecond laser. To our knowledge, this is the first report of a dissolved gas sensor based on a microchanneled HC-ARF. The HC-ARF was enclosed in a gas-permeable, water-impermeable membrane tube, enabling efficient degassing and rapid gas exchange. Using wavelength-modulation tunable diode laser absorption spectroscopy at 1653 nm, the sensor detected CH 4 dissolved in water and achieved a 400 s response time. Calibration over 0.05%–2% CH 4 showed a linear response. We further demonstrated stable sensing performance in high-salinity solutions, confirming the sensor’s capability for dissolved CH 4 detection in seawater environments.",
+            "journal": "Optics Letters",
+            "title_cn": "使用微通道空心反谐振光纤进行溶解甲烷传感",
+            "abstract_cn": "深海溶解甲烷检测对于全球气候研究和生态监测具有重要意义。在这里，我们报告了一种采用空心反谐振光纤（HC-ARF）的溶解甲烷传感器，该光纤包含 15 个使用飞秒激光器制造的 300 × 45 μm 微通道。据我们所知，这是第一份基于微通道 HC-ARF 的溶解气体传感器的报告。 HC-ARF 封装在透气、不透水的膜管中，可实现高效脱气和快速气体交换。该传感器使用 1653 nm 波长调制可调谐二极管激光吸收光谱检测溶解在水中的 CH 4 并实现 400 秒的响应时间。超过 0.05%–2% CH 4 的校准显示出线性响应。我们进一步证明了在高盐溶液中稳定的传感性能，证实了传感器在海水环境中检测溶解 CH 4 的能力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.580091",
+            "title": "Optimization of iterative wavefront shaping algorithms for quantum light",
+            "link": "https://doi.org/10.1364/ol.580091",
+            "published": "2026-01-13",
+            "author": "Kiran Bajar, Rounak Chatterjee, Vikas S. Bhat, Sushil Mujumdar",
+            "summary": "Wavefront manipulation and correction using feedback-based optimization have long been employed in optical applications such as microscopy, optical sensing, astronomical imaging, and communication. With recent advances in quantum optics, wavefront correction has become a crucial tool in quantum imaging, quantum communication, and efficient photon coupling. Consequently, understanding the performance of optimization algorithms under low-photon conditions is essential for the effective deployment of quantum optical systems. This study investigates the performance of two algorithms in the photon-counting regime across varying mean photon rates through experiments and numerical simulations. Furthermore, we propose, simulate, and implement a novel, to the best of our knowledge, augmented algorithm that combines the strengths of both methods and is particularly well suited for quantum applications.",
+            "journal": "Optics Letters",
+            "title_cn": "量子光迭代波前整形算法的优化",
+            "abstract_cn": "使用基于反馈的优化进行波前操纵和校正长期以来一直应用于光学应用，例如显微镜、光学传感、天文成像和通信。随着量子光学的最新进展，波前校正已成为量子成像、量子通信和高效光子耦合的重要工具。因此，了解低光子条件下优化算法的性能对于量子光学系统的有效部署至关重要。本研究通过实验和数值模拟研究了两种算法在不同平均光子速率下的光子计数机制中的性能。此外，据我们所知，我们提出、模拟并实现了一种新颖的增强算法，该算法结合了两种方法的优点，特别适合量子应用。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.585502",
+            "title": "Large-mode area erbium-doped tantalum pentoxide waveguide amplifier with high on-chip net gain",
+            "link": "https://doi.org/10.1364/ol.585502",
+            "published": "2026-01-13",
+            "author": "Yuhan Sun, Qi Cheng, Lipeng Xia, Ze Wang, Peng Chen, Zhe Long, Rongping Wang, Yi Zou",
+            "summary": "We report a high-performance erbium-doped tantalum pentoxide (Er 3+ : Ta 2 O 5 ) large-mode-area (LMA) waveguide amplifier fabricated by direct etching of the gain medium. The device achieves strong optical confinement and high pump–signal overlap (>98.6%) while maintaining propagation loss of 0.7 dB/cm after annealing. Under 140 mW total pump power at 980 nm, the 2.75-cm-long amplifier delivers a maximum on-chip signal enhancement of 38.1 dB at 1530 nm and 24.1 dB at 1550 nm, corresponding to net gains of 8.6 and 9.6 dB, respectively, with gain exceeding 3 dB/cm across the C-band. Large-signal measurements show a maximum output power of 2.4 mW (1.25 dB net gain), confirming stable high-power operation enabled by the LMA design. A minimum noise figure of 5.68 dB is achieved at 1550.5 nm. This device not only overcomes the fabrication challenges associated with Er 3+ : Ta 2 O 5 and validates its amplification potential, but also demonstrates excellent large-signal amplification performance, highlighting its strong potential for compact, high-output, and low-noise on-chip optical amplification in integrated photonic systems.",
+            "journal": "Optics Letters",
+            "title_cn": "具有高片上净增益的大模面积掺铒五氧化二钽波导放大器",
+            "abstract_cn": "我们报告了一种通过直接蚀刻增益介质制造的高性能掺铒五氧化二钽（Er 3+ : Ta 2 O 5 ）大模面积（LMA）波导放大器。该器件实现了强光学限制和高泵浦信号重叠 (>98.6%)，同时在退火后保持 0.7 dB/cm 的传播损耗。在 980 nm 处的总泵浦功率为 140 mW 的情况下，2.75 cm 长的放大器可在 1530 nm 处提供最大片上信号增强 38.1 dB，在 1550 nm 处提供 24.1 dB，分别对应于 8.6 和 9.6 dB 的净增益，在整个 C 频段增益超过 3 dB/cm。大信号测量显示最大输出功率为 2.4 mW（1.25 dB 净增益），证实了 LMA 设计可实现稳定的高功率运行。在 1550.5 nm 处实现了 5.68 dB 的最小噪声系数。该器件不仅克服了与 Er 3+ : Ta 2 O 5 相关的制造挑战并验证了其放大潜力，而且还表现出优异的大信号放大性能，凸显了其在集成光子系统中紧凑、高输出和低噪声片上光放大的强大潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.584010",
+            "title": "Optical skyrmionium of confined partially coherent beams with orbital angular momentum",
+            "link": "https://doi.org/10.1364/ol.584010",
+            "published": "2026-01-26",
+            "author": "Yu Li, YuPei Zhang, Nan Huo, JinHong Li, XiaoJin Yin",
+            "summary": "In recent years, optical skyrmions have garnered significant attention due to their unique properties and potential applications. These skyrmions, which include optical field skyrmions, optical spin skyrmions, and optical Stokes skyrmions, exhibit deep-subwavelength and topologically stable characteristics that make them highly suitable for various technological applications such as microscopy, metrology, sensing, and memory. In this context, we present a theoretical proposal for the generation of optical spin skyrmions in a tightly focused partially coherent beam. Our study delves into the behavior of these skyrmions as a function of the coherence length of the beam. Optical spin skyrmions fabricated by spin–orbit coupling of a partially coherent optical vortex are not limited by the topological charge m of the optical vortex. This investigation is particularly novel as we believe it marks the first instance where skyrmions have been identified in a partially coherent beam.",
+            "journal": "Optics Letters",
+            "title_cn": "具有轨道角动量的受限部分相干光束的光学斯格米离子",
+            "abstract_cn": "近年来，光学斯格明子由于其独特的性质和潜在的应用而引起了广泛的关注。这些斯格明子包括光场斯格明子、光学自旋斯格明子和光学斯托克斯斯格明子，表现出深亚波长和拓扑稳定的特性，使其非常适合各种技术应用，例如显微镜、计量、传感和存储。在这种背景下，我们提出了在紧密聚焦的部分相干光束中生成光学自旋斯格明子的理论建议。我们的研究深入研究了这些斯格明子的行为作为光束相干长度的函数。通过部分相干光学涡旋的自旋轨道耦合制造的光学自旋斯格明子不受光学涡旋的拓扑电荷m的限制。这项研究特别新颖，因为我们相信它标志着首次在部分相干光束中识别出斯格明子。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.582519",
+            "title": "Thermal–penetration–driven, record nanoparticle yield and throughput by high-power, ultraviolet nanosecond microparticle laser fragmentation",
+            "link": "https://doi.org/10.1364/ol.582519",
+            "published": "2026-01-13",
+            "author": "Anna R. Ziefuss, Nadine Stratmann, Christoph Reifenrath, Gaurav Kanu, Niklas Berndt, Sabrina Disch, Stephan Barcikowski",
+            "summary": "Laser nanomanufacturing requires energy-efficient, high-throughput methods using inexpensive feedstocks and continuous operation. We demonstrate high-power ultraviolet nanosecond microparticle laser fragmentation in liquids as a controlled, high-yield, high-throughput route to ligand-free silver nanoparticles. Two synchronized 343 nm, 200 W beams enable sufficient laser fluence and single-pulse-per-volume conditions. Matching the thermal diffusion length to the microparticle diameter converts surface-confined absorption into deep photothermal heating, driving single-pulse phase explosion instead of photomechanical rupture. The productivity reaches 10 g h −1 of Ag nanoparticles <10 nm, at almost quantitative microparticle-to-nanoparticle conversion of up to 98% mass yield, achieving record throughput and mass conversion. Ionic-strength–mediated surface chemistry provides in-situ control over nanoparticle size. This establishes a scalable, green synthesis platform linking mechanistic understanding with industrial level throughput.",
+            "journal": "Optics Letters",
+            "title_cn": "通过高功率紫外纳秒微粒激光破碎实现热渗透驱动、创纪录的纳米颗粒产量和吞吐量",
+            "abstract_cn": "激光纳米制造需要使用廉价原料和连续操作的节能、高通量方法。我们展示了液体中的高功率紫外纳秒微粒激光破碎作为一种受控、高产率、高通量的制备无配体银纳米粒子的途径。两束同步的 343 nm、200 W 光束可实现足够的激光能量密度和每体积单脉冲条件。将热扩散长度与微粒直径相匹配，将表面限制吸收转化为深层光热加热，驱动单脉冲相爆炸而不是光机械破裂。生产率达到 10 g h -1 的小于 10 nm 的银纳米粒子，几乎定量的微粒到纳米粒子的转化率高达 98% 的质量产率，实现了创纪录的通量和质量转化。离子强度介导的表面化学提供了对纳米颗粒尺寸的原位控制。这建立了一个可扩展的绿色合成平台，将机械理解与工业水平的吞吐量联系起来。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.581991",
+            "title": "Universal appearance tendency of modes at the finite periodic P T -symmetric structure",
+            "link": "https://doi.org/10.1364/ol.581991",
+            "published": "2026-01-14",
+            "author": "Jihoon Choi, Young Ki Hong, Heeso Noh",
+            "summary": "We investigate the emergence of specific modes in finite periodic (FP) parity-time ( P T ) symmetric photonic structures using the transfer matrix (T-matrix) formalism. Three distinct resonant states are identified—the coherent perfect absorber–laser ( M C L ), the unidirectional invisibility ( M U I ), and the anti-reflection ( M A R ) modes. We show that, unlike in a single-period P T bilayer—where the M C L mode arises only once—FP structures support recurring M C L modes as the number of periods increases. M A R modes appear between successive M C L modes. The required imaginary part of the refractive index ( n ′ ′ ) for the emergence of each mode is determined by the ratio l / N , where l is the mode order and N the number of periods. For small l / N , n ′ ′ increases linearly, whereas for large l / N , n ′ ′ approaches the P T critical point. Furthermore, the phase diagram shows that M C L modes exist solely in the P T -broken phase, while M A R modes remain confined to the P T -symmetric phase. These findings are validated using photonic nanobeam simulations, demonstrating the systematic realization of the three modes in FP P T -symmetric photonic systems.",
+            "journal": "Optics Letters",
+            "title_cn": "有限周期P T 对称结构模态的普遍出现趋势",
+            "abstract_cn": "我们使用转移矩阵（T 矩阵）形式研究有限周期（FP）奇偶时间（PT）对称光子结构中特定模式的出现。确定了三种不同的谐振态——相干完美吸收激光（M C L ）、单向不可见（ M U I ）和抗反射（ M A R ）模式。我们表明，与单周期 P T 双层（其中 M C L 模式仅出现一次）不同，随着周期数的增加，FP 结构支持重复出现的 M C L 模式。 M A R 模式出现在连续的 M C L 模式之间。出现每种模式所需的折射率虚部 (n'') 由比率 l / N 确定，其中 l 是模式阶数，N 是周期数。对于较小的 l / N ，n ' ' 线性增加，而对于较大的 l / N ，n ' ' 接近 P T 临界点。此外，相图显示 M C L 模式仅存在于 P T 破碎相中，而 M A R 模式仍然局限于 P T 对称相。这些发现通过光子纳米束模拟得到验证，证明了 FP P T 对称光子系统中三种模式的系统实现。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.575794",
+            "title": "Observation of σ–π coupling and mode selection in optically trapped artificial polariton molecules",
+            "link": "https://doi.org/10.1364/optica.575794",
+            "published": "2026-01-15",
+            "author": "Krzysztof Sawicki, Valtýr Kári Daníelsson, Dmitriy Dovzhenko, Pavlos G. Lagoudakis, Simone De Liberato, Helgi Sigurdsson",
+            "summary": "Microcavity exciton–polariton condensates under additional transverse confinement constitute a flexible optical platform to study the coupling and hybridization between neighboring nonlinear states of light and matter. Driven far from equilibrium, networks of polariton condensates can display spontaneous synchronization, pattern formation, and instabilities depending on the excitation and material parameters. Here, we investigate this coupling mechanism between polariton condensates populating the first excited p -state manifold in optical traps and show a rich structure of patterns based on excitation parameters. Spontaneous symmetry breaking in the p -orbital manifold upon condensation results in an ordered arrangement of dipole-shaped condensates between coupled traps reminiscent of σ and π molecular bonding mechanisms but restricted to the plane. A salient advantage is offered by the optical reconfigurability of the laser excitation patterns, which determine the parameters of the polariton trapping potential and coupling strength with neighboring condensates. Our results underpin the potential role of polariton condensates in exploring the conditions of spontaneous order in the relative orientation of anisotropic nonlinear states of light and matter.",
+            "journal": "Optica",
+            "title_cn": "光学捕获人工极化子分子中σ-π耦合和模式选择的观察",
+            "abstract_cn": "额外横向约束下的微腔激子-极化子凝聚体构成了一个灵活的光学平台，用于研究光和物质的相邻非线性状态之间的耦合和杂化。在远离平衡的情况下，极化子凝聚体网络可以表现出自发同步、图案形成和不稳定性，具体取决于激发和材料参数。在这里，我们研究了光陷阱中第一激发 p 态流形中的极化子凝聚体之间的耦合机制，并显示了基于激发参数的丰富模式结构。凝结时 p 轨道流形中的自发对称性破缺导致偶极子形凝结物在耦合陷阱之间有序排列，让人想起 σ 和 π 分子键合机制，但仅限于平面。激光激发图案的光学可重构性提供了一个显着的优势，它决定了极化子捕获势和与相邻凝聚体的耦合强度的参数。我们的结果支持了极化子凝聚体在探索光和物质各向异性非线性态相对方向的自发有序条件方面的潜在作用。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.581170",
+            "title": "DPLSeg: unsupervised general segmentation model for retinal images across multiple OCT devices",
+            "link": "https://doi.org/10.1364/boe.581170",
+            "published": "2026-01-08",
+            "author": "Caiye Fan, Huankai Yu, Zuoping Tan, Ran Yang, Rui Yao, Tinghui Huang, Qinghong Gao, Yilei Shao, Fan Lu, Meixiao Shen, Yuanyuan Wang",
+            "summary": "Retinal diseases, including myopic and diabetic retinopathies, require early detection through precise retinal-layer segmentation in optical coherence tomography images. Existing deep-learning models generalize poorly across devices (domain shifts, noise, and high annotation costs). We propose dual-level pseudo-label learning for segmentation (DPLSeg), an unsupervised segmentation model with a dual-level pseudo-label learning strategy and a hierarchical transformer encoder to enhance feature representation and domain adaptability. Validated on 850 optical coherence tomography images from three devices, DPLSeg achieves a mean intersection over union of 79.9%, surpassing DeepLab (75.2%) and DAFormer, reducing annotation needs by 80% and providing a scalable clinical diagnostic tool.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "DPLSeg：跨多个 OCT 设备的视网膜图像的无监督通用分割模型",
+            "abstract_cn": "视网膜疾病，包括近视和糖尿病视网膜病变，需要通过光学相干断层扫描图像中精确的视网膜层分割来早期检测。现有的深度学习模型在不同设备上的泛化能力很差（领域转移、噪声和高注释成本）。我们提出了用于分割的双层伪标签学习（DPLSeg），这是一种具有双层伪标签学习策略和分层变压器编码器的无监督分割模型，以增强特征表示和领域适应性。在来自三个设备的 850 个光学相干断层扫描图像上进行验证，DPLSeg 的并集平均交集达到 79.9%，超过 DeepLab (75.2%) 和 DAFormer，将注释需求减少 80%，并提供可扩展的临床诊断工具。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.578830",
+            "title": "Learned perturbation-based digital backpropagation with low complexity for nonlinearity compensation",
+            "link": "https://doi.org/10.1364/optcon.578830",
+            "published": "2025-12-05",
+            "author": "Alexey Redyuk, Evgeny Shevelev, Vitaly Danilko, Timur Bazarov, Maksim Senko, Leonid Samodelkin, Oleg Nanii, Vladimir Treshchikov, Mikhail Fedoruk",
+            "summary": "Optical fiber communication systems play a crucial role in providing high-speed data transmission, forming the backbone of modern digital services and computational infrastructure. Further increases in data rates and transmission distances require higher signal power, which in turn amplifies the detrimental effects of fiber nonlinearity. However, developing a method that effectively compensates for nonlinear signal distortions while balancing performance and computational complexity remains an open challenge. Traditional approaches, such as digital backpropagation (DBP) and perturbation-based models (PBM), offer certain advantages but also have drawbacks that limit their practical implementation. In this work, we propose a low complexity perturbation-based digital backpropagation (PB-DBP) method to compensate for intrachannel nonlinearity. We introduce a novel approach that combines the DBP structure with an advanced PBM-based nonlinear effects model, using machine learning techniques to optimize compensation scheme parameters and improve the trade-off between accuracy and computational complexity. We present experimental results that demonstrate the performance of the proposed method, together with a comparative analysis based on data from a 20×100 km dispersion uncompensated fiber link with a dual-polarization QPSK signal. The results show that the proposed PB-DBP achieves an 1.6 dB signal-to-noise ratio improvement compared to compensation of only linear distortions, and an improvement of 0.26 dB compared to the enhanced DBP method.",
+            "journal": "Optics Continuum",
+            "title_cn": "用于非线性补偿的低复杂度的基于学习扰动的数字反向传播",
+            "abstract_cn": "光纤通信系统在提供高速数据传输、形成现代数字服务和计算基础设施的骨干方面发挥着至关重要的作用。数据速率和传输距离的进一步增加需要更高的信号功率，这反过来又放大了光纤非线性的有害影响。然而，开发一种有效补偿非线性信号失真，同时平衡性能和计算复杂性的方法仍然是一个悬而未决的挑战。数字反向传播 (DBP) 和基于扰动的模型 (PBM) 等传统方法具有一定的优势，但也存在限制其实际实施的缺点。在这项工作中，我们提出了一种低复杂度的基于扰动的数字反向传播（PB-DBP）方法来补偿通道内非线性。我们引入了一种新颖的方法，将 DBP 结构与先进的基于 PBM 的非线性效应模型相结合，使用机器学习技术来优化补偿方案参数并改善精度和计算复杂性之间的权衡。我们提出的实验结果证明了所提出方法的性能，并基于来自具有双偏振 QPSK 信号的 20×100 km 色散未补偿光纤链路的数据进行了比较分析。结果表明，与仅补偿线性失真相比，所提出的PB-DBP实现了1.6 dB的信噪比改进，与增强型DBP方法相比，实现了0.26 dB的改进。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.577884",
+            "title": "Enhancing limited-view photoacoustic vascular images via non-linear Lucy-Richardson deconvolution",
+            "link": "https://doi.org/10.1364/optcon.577884",
+            "published": "2025-12-05",
+            "author": "Pooja A. Nair, Anuj Deshpande, Sikhakolli Sravan Kumar, Shivasubramanian Gopinath, Vineela Chandra Dodda, Lakshmi Kuruguntla, Inbarasan Muniraj",
+            "summary": "Photoacoustic microscopy (PAM) is often implemented with a reduced number of sensors to minimize system complexity and cost. However, this results in sparse data acquisition and limited-view detection, which introduces severe artifacts and degrades image quality, consequently hindering the accurate visualization of fine vascular structures. In this study, we propose to use a hybrid image reconstruction framework that combines a nonlinear Lucy-Richardson deconvolution algorithm with an adaptive Kalman filter to enhance vascular detail under limited-view conditions. The proposed method is evaluated using an optical-resolution PAM dataset, demonstrating improved reconstruction fidelity and diagnostic accuracy for both preclinical and clinical imaging applications. Additionally, we benchmark our approach against a recently developed Swin Transformer-based image restoration model to assess its effectiveness in enhancing image clarity and vascular structure delineation. Compared to noisy PAM vessel images, the proposed method achieves a reduction of up to 95% in mean squared error (MSE) and nearly a 97% improvement in structural similarity index measure (SSIM).",
+            "journal": "Optics Continuum",
+            "title_cn": "通过非线性 Lucy-Richardson 反卷积增强有限视角光声血管图像",
+            "abstract_cn": "光声显微镜 (PAM) 通常通过减少传感器数量来实现，以最大限度地降低系统复杂性和成本。然而，这会导致稀疏的数据采集和有限的视图检测，从而引入严重的伪影并降低图像质量，从而阻碍精细血管结构的准确可视化。在本研究中，我们建议使用混合图像重建框架，该框架将非线性 Lucy-Richardson 反卷积算法与自适应卡尔曼滤波器相结合，以在有限视图条件下增强血管细节。使用光学分辨率 PAM 数据集对所提出的方法进行了评估，证明了临床前和临床成像应用的重建保真度和诊断准确性得到了提高。此外，我们将我们的方法与最近开发的基于 Swin Transformer 的图像恢复模型进行基准测试，以评估其在增强图像清晰度和血管结构描绘方面的有效性。与噪声 PAM 血管图像相比，该方法的均方误差 (MSE) 降低了高达 95%，结构相似性指数测量 (SSIM) 提高了近 97%。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.569108",
+            "title": "High power short mid-infrared quantum cascade lasers based on ultrathin AlAs intercalation layers grown by MOCVD",
+            "link": "https://doi.org/10.1364/prj.569108",
+            "published": "2025-12-23",
+            "author": "Yongqiang Sun, Guangzhou Cui, Sihao Long, Jinchuan Zhang, Fengmin Cheng, Junqi Liu, Shuman Liu, Ning Zhuo, Quanyong Lu, Lijun Wang, Fengqi Liu, Shenqiang Zhai",
+            "summary": "Quantum cascade lasers (QCLs) are promising light sources for the mid-to-far-infrared spectral region. Their performances have made great improvements with realizing room temperature high power continuous wave (CW) operation for different wavelengths. Nevertheless, limited by poor material quality or serious electron thermal leakage, efficient lasing for the short mid-infrared range, that is, shorter than 4 μm, is still challenging. Here, the design with ultrathin AlAs intercalations to the InAlAs barriers based on standard In 0.7 Ga 0.3 As / In 0.36 Al 0.64 As materials for short mid-infrared QCLs is demonstrated. The introduction of ultrathin AlAs intercalated layers raises the positions of the parasitic levels, which efficiently suppresses electron thermal leakage, and higher device performances are expected. Meanwhile, due to the small thickness of the AlAs intercalated layers, the material growth is similar to the standard growth process for 4−5 μm QCLs. Therefore, high quality material epitaxy is easy and feasible for metal organic chemical vapor deposition (MOCVD). QCLs grown by MOCVD emitting at 3.57 μm, 3.88 μm, and 4.05 μm are demonstrated, which exhibit significant performance improvement compared with previously reported devices grown by MOCVD for similar wavelengths. Considering the advantages of high throughput, efficiency, and low costs of MOCVD, our study provides a convenient and efficient approach for high power short mid-infrared QCLs.",
+            "journal": "Photonics Research",
+            "title_cn": "基于MOCVD生长的超薄AlAs插层的高功率短中红外量子级联激光器",
+            "abstract_cn": "量子级联激光器（QCL）是中远红外光谱区很有前景的光源。它们的性能有了很大的提高，实现了不同波长的室温高功率连续波（CW）操作。然而，由于材料质量较差或电子热泄漏严重，短中红外范围（即小于4μm）的高效激光仍然具有挑战性。这里，展示了基于用于短中红外 QCL 的标准 In 0.7 Ga 0.3 As / In 0.36 Al 0.64 As 材料的超薄 AlAs 嵌入 InAlAs 势垒的设计。超薄AlAs插层的引入提高了寄生能级的位置，从而有效抑制电子热泄漏，并有望获得更高的器件性能。同时，由于 AlAs 插层的厚度较小，材料生长类似于 4−5 μm QCL 的标准生长过程。因此，高质量材料外延对于金属有机化学气相沉积（MOCVD）来说是容易且可行的。展示了通过 MOCVD 生长的 QCL，其发射波长为 3.57 μm、3.88 μm 和 4.05 μm，与之前报道的通过 MOCVD 生长的类似波长的器件相比，其性能显着提高。考虑到MOCVD高通量、高效率和低成本的优势，我们的研究为高功率短中红外QCL提供了一种便捷有效的方法。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.570193",
+            "title": "Extended short-wavelength infrared spectrometer based on a single n-graded-p junction",
+            "link": "https://doi.org/10.1364/prj.570193",
+            "published": "2025-12-18",
+            "author": "Jinyu Zhang, Han Wang, Le Qin, Jiaxin Yue, Fanlong Meng, Renjie Wen, Leran Zhao, Zhongshan Zhang, Yang Jiang, Chunhua Du, Haiqiang Jia, Hong Chen, Wenxin Wang, Xiaolong Chen, Zhen Deng",
+            "summary": "Ultra-compact spectrometers have attracted significant attention for their potential applications in portable systems for biomedical analysis, environmental monitoring, spectral analysis, and astronomical observation. In this work, we propose a miniaturized InGaAs-based extended short-wave infrared (eSWIR) spectrometer based on a single n-graded-p junction with voltage-tunable optical response characteristics in the range from 1600 to 2100 nm. We combine this unique optical characteristic with a regression algorithm to realize the reconstruction of an unknown spectrum. The spectrometer achieves a high responsivity of 0.73 A/W at 1650 nm, and a low dark current density of 3.91×10 −5 A/ cm 2 at 200 K, corresponding to a calculated detectivity of 1.69×10 11 cm · Hz 1/2 /W. Such spectrometers compatible with standard III–V processes can offer a pathway to greatly promote the development of miniaturized spectrometers.",
+            "journal": "Photonics Research",
+            "title_cn": "基于单个 n 梯度 p 结的扩展短波长红外光谱仪",
+            "abstract_cn": "超紧凑型光谱仪因其在生物医学分析、环境监测、光谱分析和天文观测等便携式系统中的潜在应用而引起了广泛关注。在这项工作中，我们提出了一种基于单个 n 梯度 p 结的小型化 InGaAs 基扩展短波红外 (eSWIR) 光谱仪，具有 1600 至 2100 nm 范围内的电压可调光学响应特性。我们将这种独特的光学特性与回归算法相结合，实现未知光谱的重建。该光谱仪在1650 nm处实现了0.73 A/W的高响应度，在200 K处实现了3.91×10 -5 A/ cm 2 的低暗电流密度，对应于计算的探测度为1.69×10 11 cm · Hz 1/2 /W。这种与标准III-V族工艺兼容的光谱仪可以为极大地促进小型化光谱仪的发展提供途径。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.574843",
+            "title": "Twisted light and twisted matter: the photonic frontier of chirality [Invited]",
+            "link": "https://doi.org/10.1364/prj.574843",
+            "published": "2025-12-24",
+            "author": "Kayn A. Forbes",
+            "summary": "Chirality, the inability of an object to match its mirror image, is central to the architecture of life. It critically influences pharmaceuticals, catalysis, and emerging photonic technologies, where controlling handedness determines function and performance. While optical chirality has traditionally been associated with circular polarization, the advent of structured light has introduced new forms of chirality through the helical wavefronts of vortex beams carrying orbital angular momentum. These developments challenge conventional frameworks and have opened new directions in the study of chiral light–matter interactions. This review focuses on the role of wavefront chirality in two emerging areas: enhancing chiroptical spectroscopies and inducing chiral structure formation in materials. We highlight how recent advances in theory and experiment have enabled structured light to serve not only as probes of chirality but also as active agents in its generation and control. By uniting progress in theory, experiment, and application, this review positions the chirality of structured light as a transformative tool in the ongoing exploration of optical and material asymmetries.",
+            "journal": "Photonics Research",
+            "title_cn": "扭曲的光和扭曲的物质：手性的光子前沿 [邀请]",
+            "abstract_cn": "手性，即物体无法与其镜像相匹配的现象，是生命结构的核心。它对制药、催化和新兴光子技术产生了至关重要的影响，在这些技术中，控制用手习惯决定了功能和性能。虽然光学手性传统上与圆偏振相关，但结构光的出现通过携带轨道角动量的涡旋光束的螺旋波前引入了新形式的手性。这些进展挑战了传统框架，并为手性光与物质相互作用的研究开辟了新的方向。本综述重点关注波前手性在两个新兴领域的作用：增强手性光谱和诱导材料中手性结构的形成。我们强调理论和实验的最新进展如何使结构光不仅可以用作手性探针，而且可以作为其生成和控制的活性剂。通过结合理论、实验和应用方面的进展，这篇综述将结构光的手性定位为光学和材料不对称性持续探索的变革性工具。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.571336",
+            "title": "Color-polarimetric stereo endoscopy for high-quality 3D reconstruction",
+            "link": "https://doi.org/10.1364/prj.571336",
+            "published": "2025-12-24",
+            "author": "Yirui Wang, Jiawei Song, Changjiang Zhou, Qing Tian, Wenwen Li, Hongqing Wang, Julin Xiao, Daniel S. Elson, Danail Stoyanov, Qing Yang, Xiaohua Feng, Ji Qi",
+            "summary": "3D endoscopy can improve minimally invasive diagnosis and surgery by enhancing the precision, safety, and efficiency of surgery and enabling computer-assisted interventions. However, traditional approaches relying on feature detection and stereo matching often struggle with the weakly textured features of biological tissues and confusing artifacts such as specular reflections, leading to compromised reconstruction quality. Here, we demonstrate color-polarimetric stereo endoscopy, which leverages the dense surface normal information carried by polarization to enhance feature-based reconstruction from binocular color imaging. This approach was enabled by developing a non-depolarizing binocular endoscope, which is suitable for snapshot color-polarimetric image acquisition, and a deep neural network for seamless fusion of polarimetric and binocular color information for 3D reconstruction of biological tissues. The proposed approach was validated with tissue phantoms and ex vivo porcine tissues. The results indicate that it outperforms reconstruction methods based solely on binocular color cues, including techniques based on learning and block matching. In regions showing weak textures and specular reflections, reconstruction errors were reduced by 29.67% and 13.24%, respectively. The work provides a solution to overcoming the limitations of current state-of-the-art 3D endoscopy techniques, paving the way for intelligent and precise minimally invasive procedures.",
+            "journal": "Photonics Research",
+            "title_cn": "用于高质量 3D 重建的彩色偏振立体内窥镜",
+            "abstract_cn": "3D内窥镜可以通过提高手术的精确度、安全性和效率以及实现计算机辅助干预来改善微创诊断和手术。然而，依赖于特征检测和立体匹配的传统方法常常难以应对生物组织的弱纹理特征和镜面反射等令人困惑的伪影，从而导致重建质量受损。在这里，我们演示了彩色偏振立体内窥镜，它利用偏振携带的密集表面法线信息来增强双目彩色成像的基于特征的重建。该方法是通过开发适用于快照彩色偏振图像采集的非去偏双目内窥镜和用于无缝融合偏振和双目颜色信息以进行生物组织 3D 重建的深度神经网络来实现的。所提出的方法通过组织模型和离体猪组织进行了验证。结果表明，它优于仅基于双眼颜色线索的重建方法，包括基于学习和块匹配的技术。在纹理较弱和镜面反射的区域，重建误差分别减少了 29.67% 和 13.24%。这项工作提供了一种解决方案，克服当前最先进的 3D 内窥镜技术的局限性，为智能、精确的微创手术铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.567829",
+            "title": "Silicon-photonics-based ultimate-simplified coherent optics with reduced DC leakage for next-generation optical access networks",
+            "link": "https://doi.org/10.1364/prj.567829",
+            "published": "2025-12-24",
+            "author": "Xuyu Deng, Junhao Zhao, An Yan, Aolong Sun, Yuqin Yuan, Sizhe Xing, Penghao Luo, Yongzhu Hu, Renle Zheng, Xingyu Li, Xiao Hu, Jianyang Shi, Nan Chi, Junwen Zhang",
+            "summary": "Coherent passive optical network (PON) is a promising architecture that offers high sensitivity and support for advanced modulation formats. However, fully coherent systems have high complexity and cost, making them unsuitable for cost-sensitive user-end applications. Additionally, in coherent access architectures, the lasers of optical network units (ONUs) in the upstream are typically kept on rather than being switched off to avoid wavelength drift, with the Mach–Zehnder modulators (MZMs) biased at the null point for modulation. However, the limited extinction ratio (ER) of the MZM introduces direct current (DC) leakage, which degrades system performance and limits the number of users the network can support. To address this issue, we design and fabricate the first silicon-photonics-based ultimate-simplified coherent-optics chip for ONU. The simplified transmitter employs a single MZM combined with a high-speed optical switch (OS), while the simplified receiver adopts a hybrid and a standalone photodetector (PD) for coherent detection with Alamouti coding. By integrating the OS, the upstream achieves a maximum ER of 63.93 dB, while the OS switching speed meets the guard interval requirements of PON systems. Compared to a traditional single MZM with a 26 dB ER, our design achieves an additional 37.93 dB improvement, which significantly increases the user capacity in PON systems. Comprehensive experiments were conducted to validate the proposed design. Ultimately, leveraging this ultimate-simplified coherent-optics chip, a 100 Gbps bidirectional transmission was successfully demonstrated with a power budget exceeding 29 dBm, verifying its feasibility and cost-effectiveness for next-generation coherent optical access networks.",
+            "journal": "Photonics Research",
+            "title_cn": "基于硅光子学的终极简化相干光学器件，可减少下一代光接入网络的直流泄漏",
+            "abstract_cn": "相干无源光网络 (PON) 是一种很有前景的架构，可提供高灵敏度并支持先进的调制格式。然而，完全相干系统具有较高的复杂性和成本，使得它们不适合对成本敏感的用户端应用。此外，在相干接入架构中，上游光网络单元 (ONU) 的激光器通常保持打开状态，而不是关闭以避免波长漂移，同时马赫-曾德调制器 (MZM) 在调制零点处偏置。然而，MZM 有限的消光比 (ER) 会引入直流 (DC) 泄漏，从而降低系统性能并限制网络可支持的用户数量。为了解决这个问题，我们为ONU设计并制造了第一个基于硅光子的终极简化相干光学芯片。简化的发射器采用单个 MZM 与高速光开关 (OS) 相结合，而简化的接收器采用混合和独立光电探测器 (PD)，通过 Alamouti 编码进行相干检测。通过集成OS，上行最大ER达到63.93dB，同时OS切换速度满足PON系统保护间隔要求。与具有 26 dB ER 的传统单个 MZM 相比，我们的设计实现了额外的 37.93 dB 改进，从而显着增加了 PON 系统中的用户容量。进行了综合实验来验证所提出的设计。最终，利用这款极致简化的相干光芯片，成功演示了 100 Gbps 双向传输，功率预算超过 29 dBm，验证了其对于下一代相干光接入网络的可行性和成本效益。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.569207",
+            "title": "Compact vacuum levitation and control platform with a single 3D-printed fiber lens",
+            "link": "https://doi.org/10.1364/prj.569207",
+            "published": "2025-12-24",
+            "author": "Seyed Khalil Alavi, Jose Manuel Monterrosas Romero, Pavel Ruchka, Sara Jakovljevic´, Harald Giessen, Sungkun Hong",
+            "summary": "Levitated dielectric particles in a vacuum have emerged as a new platform in quantum science, with applications ranging from precision acceleration and force sensing to testing quantum physics beyond the microscopic domain. Traditionally, particle levitation relies on optical tweezers formed by tightly focused laser beams, which typically require multiple bulk optical elements aligned in free space, limiting robustness and scalability of the system. To address these challenges, we employ a single optical fiber equipped with a high-numerical-aperture (NA) lens directly printed onto the fiber facet. This enables a compact yet robust optical levitation and detection system composed entirely of fiber-based components, eliminating the need for complex alignment. The high NA of the printed lens allows stable single-beam trapping of a dielectric nanoparticle in a vacuum, even while the fiber is in controlled motion. The high NA also allows for collecting scattered light from the particle with excellent collection efficiency, thus enabling efficient detection and feedback stabilization of the particle’s motion. Our platform paves the way for practical and portable sensors based on levitated particles and provides simple yet elegant solutions to complex experiments requiring the integration of levitated particles.",
+            "journal": "Photonics Research",
+            "title_cn": "具有单个 3D 打印光纤透镜的紧凑型真空悬浮和控制平台",
+            "abstract_cn": "真空中悬浮的介电粒子已成为量子科学的新平台，其应用范围从精密加速和力传感到测试微观领域之外的量子物理。传统上，粒子悬浮依赖于由紧密聚焦的激光束形成的光镊，这通常需要在自由空间中对齐的多个体光学元件，限制了系统的稳健性和可扩展性。为了应对这些挑战，我们采用了单根光纤，该光纤配备了直接印刷在光纤面上的高数值孔径 (NA) 透镜。这使得紧凑而坚固的光学悬浮和检测系统完全由基于光纤的组件组成，从而无需复杂的对准。印刷透镜的高数值孔径使得即使在光纤处于受控运动的情况下，也可以在真空中稳定地单束捕获介电纳米颗粒。高数值孔径还可以以出色的收集效率收集来自粒子的散射光，从而实现粒子运动的有效检测和反馈稳定。我们的平台为基于悬浮粒子的实用便携式传感器铺平了道路，并为需要集成悬浮粒子的复杂实验提供了简单而优雅的解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.567442",
+            "title": "Experimental demonstration of deterministic all-optical quantum cloning with phase-conjugate inputs",
+            "link": "https://doi.org/10.1364/prj.567442",
+            "published": "2025-12-24",
+            "author": "Rui Zhang, Yanbo Lou, Xiaolan Liu, Jiabin Wang, Shengshuai Liu, Jietai Jing",
+            "summary": "An unknown quantum state is prohibited from perfect cloning due to the principles of quantum mechanics, while approximate cloning of an unknown quantum state can be achieved by constructing quantum cloning machines. In the continuous variable regime, to effectively improve the cloning fidelity, an N + N ′ → M + M ′ phase-conjugate inputs (PCI) quantum cloning scheme is proposed based on an optical parametric amplifier and beam splitter network. However, due to the difficulties in constructing an optical parametric amplifier approaching the quantum noise limit, such quantum cloning scheme has not been experimentally realized. In this work, we present all-optical N + N ′ → M + M ′ PCI quantum cloning of coherent states by utilizing a phase-sensitive amplifier based on a four-wave mixing process. In particular, we experimentally realize deterministic all-optical 1+1→ M + M ′ ( M = M ′ =2, 4) and 2+2→ M + M ′ ( M = M ′ =3, 4, 6, 8) PCI quantum cloning. The maximum cloning fidelities experimentally achieved are 96.76 % ±0.57 % and 96.80 % ±0.58 % in the 2+2→3+3 case, which are the maximum cloning fidelities in deterministic continuous variable quantum cloning, to our knowledge. Our results provide an effective scheme for enhancing cloning fidelity and can find applications in achieving high-fidelity quantum information protocols.",
+            "journal": "Photonics Research",
+            "title_cn": "具有相位共轭输入的确定性全光量子克隆的实验演示",
+            "abstract_cn": "由于量子力学原理，未知的量子态无法完美克隆，而未知量子态的近似克隆可以通过构建量子克隆机来实现。在连续变量体系中，为了有效提高克隆保真度，提出了一种基于光参量放大器和分束器网络的N + N′→M+M′相位共轭输入（PCI）量子克隆方案。然而，由于构建接近量子噪声极限的光学参量放大器的困难，这种量子克隆方案尚未在实验上实现。在这项工作中，我们利用基于四波混频过程的相敏放大器，提出了全光 N + N ′ → M + M ′ PCI 相干态量子克隆。特别是，我们实验性地实现了确定性全光1+1→ M + M ′ ( M = M ′ =2, 4) 和2+2→ M + M ′ ( M = M ′ =3, 4, 6, 8) PCI 量子克隆。在2+2→3+3情况下，实验达到的最大克隆保真度为96.76%±0.57%和96.80%±0.58%，据我们所知，这是确定性连续可变量子克隆中的最大克隆保真度。我们的结果为增强克隆保真度提供了一种有效的方案，并且可以在实现高保真量子信息协议中找到应用。"
         }
     ]
 }

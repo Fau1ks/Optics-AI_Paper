@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-29 11:47:12",
+    "update_time": "2026-01-29 11:58:24",
     "word_filename": "Optical_Papers_260129.docx",
-    "total_count": 397,
+    "total_count": 413,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.displa.2026.103366",
@@ -4369,6 +4369,182 @@
             "journal": "Photonics Research",
             "title_cn": "时间介质中涡旋结构光的光学手性",
             "abstract_cn": "近年来，涡旋结构光的光学手性因其迷人的性质和广泛的潜在应用而受到越来越多的关注。通常在空间介质中研究此类问题。这项工作致力于研究介电常数随时间变化的时间介质中涡旋结构光的光学手性。开发了全矢量理论模型来描述经历时间反射和透射的拉盖尔高斯（LG）涡旋光束的光学手性。提出了一种称为光子自旋霍尔效应时间等效（PSHE）的概念，以揭示时间介质中涡旋结构光受控光学手性的物理机制。结果表明，在时间介质中，LG涡旋光束的局部手性密度分布是不对称的，而相应的涡旋二色性信号是圆对称的。值得注意的是，LG 涡旋光束的局部手性密度和涡旋二色性信号在时间介质中均显着增强。此外，涡旋结构光的光学手性可以通过时间介质的各向异性介电常数张量和空间入射角来很好地控制。这项研究可以为涡旋结构光与时间介质的相互作用提供有用的见解，并在手性识别、检测和操纵领域找到潜在的应用。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.578011",
+            "title": "Optical losses in SiN x and SiO x N y coatings deposited by plasma-enhanced chemical vapor deposition for gravitational wave detectors",
+            "link": "https://doi.org/10.1364/ao.578011",
+            "published": "2026-01-13",
+            "author": "Kirstin Saunders, Tobias Herffurth, Simon Bublitz, Christian Mühlig, Anne-Sophie Munser, Elena Herguedas, Andrés Redondo-Cubero, Des Gibson, Caspar Clark, Carlos García Nuñez, Sven Schröder",
+            "summary": "Gravitational wave detectors (GWDs) rely heavily on low mechanical and optical loss mirror coatings to detect cosmic events happening in the universe. This work discusses optical losses through light absorption and scattering mechanisms in silicon nitride (SiN x ) and silicon oxynitride (SiO x N y ) thin films deposited by the plasma-enhanced chemical vapor deposition technique. We report an efficient and repeatable procedure to tune the refractive index of both SiN x and SiO x N y thin films, while preserving a low optical absorption and scattering in the range of ppm. Finally, we demonstrate the design, fabrication, and characterization of an SiN x /SiO x N y multi-layer stack composed of 20 layers with a total thickness of 3.9 µm, achieving a reflectance above 99% (and a low absorbance of 0.259%) in the near-infrared region, which is a promising step toward meeting the optical requirements of the third generation of GWDs.",
+            "journal": "Applied Optics",
+            "title_cn": "用于引力波探测器的等离子增强化学气相沉积沉积的 SiN x 和 SiO x N y 涂层中的光学损耗",
+            "abstract_cn": "引力波探测器 (GWD) 严重依赖低机械和光学损耗镜面涂层来探测宇宙中发生的宇宙事件。这项工作讨论了通过等离子体增强化学气相沉积技术沉积的氮化硅 (SiN x ) 和氮氧化硅 (SiO x N y ) 薄膜中光吸收和散射机制造成的光学损失。我们报告了一种有效且可重复的程序来调整 SiN x 和 SiO x N y 薄膜的折射率，同时保持 ppm 范围内的低光学吸收和散射。最后，我们展示了由 20 层组成、总厚度为 3.9 µm 的 SiN x /SiO x N y 多层堆叠的设计、制造和表征，在近红外区域实现了 99% 以上的反射率（以及 0.259% 的低吸光度），这是满足第三代 GWD 光学要求的有希望的一步。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.579417",
+            "title": "Monochromatic Cherenkov diffraction radiation from continuous coupling of an electron beam to a thin dielectric slab waveguide",
+            "link": "https://doi.org/10.1364/ao.579417",
+            "published": "2026-01-15",
+            "author": "Andrzej Szczepkowicz, Po-Wei Kuo, Yen-Chieh Huang",
+            "summary": "A scheme for the generation of monochromatic Cherenkov radiation in a thin dielectric layer is proposed. The electrons travel in a vacuum parallel to a dielectric, exciting a single synchronous electromagnetic waveguide mode. This way of obtaining monochromatic light coupled to free electrons may constitute a new, to the best of our knowledge, platform for quantum optics experiments with free electrons. The proposed scheme is studied quantitatively (radiation power and radiation efficiency) for near-infrared radiation in silicon induced by a 100 keV electron beam, using time-domain and frequency-domain numerical simulations, with material absorption and dispersion taken into account. This method of radiation generation can be scaled from ultraviolet to terahertz radiation by changing the thickness of the dielectric layer and choosing a material with low loss at the desired wavelength. A comparison with conventional Cherenkov radiation and Cherenkov diffraction radiation is also presented.",
+            "journal": "Applied Optics",
+            "title_cn": "电子束连续耦合到薄介质板波导产生的单色切伦科夫衍射辐射",
+            "abstract_cn": "提出了一种在薄介电层中产生单色切伦科夫辐射的方案。电子在真空中平行于电介质传播，激发单一同步电磁波导模式。据我们所知，这种获得与自由电子耦合的单色光的方法可能构成一个新的自由电子量子光学实验平台。该方案采用时域和频域数值模拟，并考虑材料吸收和色散，对 100 keV 电子束在硅中引起的近红外辐射进行定量研究（辐射功率和辐射效率）。通过改变介电层的厚度并选择在所需波长下具有低损耗的材料，这种辐射产生方法可以从紫外线扩展到太赫兹辐射。还提供了与传统切伦科夫辐射和切伦科夫衍射辐射的比较。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.578440",
+            "title": "Generation and control of structured digital holographic moiré patterns using position sensing detection",
+            "link": "https://doi.org/10.1364/ao.578440",
+            "published": "2026-01-12",
+            "author": "I. B. Glória, G. N. de Oliveira, P. A. M. dos Santos",
+            "summary": "This paper provides a detailed description of the generation and control of structured moiré patterns produced by digital holography. We will present a detailed description of the simple optical procedures and instrumental operations that facilitate the generation of these patterns with convenient geometries using a segmented optical detector PSD (position sensing detector) as an optical element, basically for the control of spatial frequencies, systematically monitoring the incidence of one of the illumination beams in the holographic process. Some of the applications that have already been demonstrated using these procedures include profilometry and numerical representation, while others, such as structured illumination microscopy (SIM), are still under development.",
+            "journal": "Applied Optics",
+            "title_cn": "使用位置传感检测生成和控制结构化数字全息莫尔图案",
+            "abstract_cn": "本文详细描述了数字全息术产生的结构化莫尔图案的生成和控制。我们将详细描述简单的光学程序和仪器操作，使用分段光学探测器 PSD（位置传感探测器）作为光学元件，促进以方便的几何形状生成这些图案，主要用于控制空间频率，系统地监控全息过程中其中一束照明光束的入射。已经使用这些程序演示的一些应用包括轮廓测量和数值表示，而其他应用，例如结构照明显微镜（SIM），仍在开发中。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.583714",
+            "title": "Polarization-multiplexed disorder-encoded metasurface for multi-channel optical encryption",
+            "link": "https://doi.org/10.1364/ao.583714",
+            "published": "2026-01-13",
+            "author": "Zilei Liu, Jiaqi Zhao, Wanjun Wang, Fan Bu, Wenfu Zhang, Siqi Li",
+            "summary": "In recent years, the use of speckle patterns has gained increasing attention in the context of optical encryption. Conventional scattering media (CSM), due to their fixed functionality, are mostly limited to single-channel encryption, which restricts further improvements in system security. Metasurfaces, as two-dimensional devices capable of flexibly manipulating optical parameters, provide an ideal platform for achieving multiplexing functionality. Building on this foundation, we propose a polarization-multiplexed disorder-encoded metasurface (DEM) for multi-channel optical encryption. This DEM enables dual encryption through quick response (QR) code cascading and provides six encryption channels to the system. The encryption capability of the DEM-based system has been verified through security attack analysis. The proposed DEM effectively expands the number of channels and enhances the data capacity of the encryption system, thereby significantly improving security and attack resilience, demonstrating promising potential for practical applications.",
+            "journal": "Applied Optics",
+            "title_cn": "用于多通道光学加密的偏振复用无序编码超表面",
+            "abstract_cn": "近年来，散斑图案的使用在光学加密领域受到越来越多的关注。传统的散射介质（CSM）由于其功能固定，大多局限于单通道加密，限制了系统安全性的进一步提高。超表面作为能够灵活操纵光学参数的二维器件，为实现复用功能提供了理想的平台。在此基础上，我们提出了一种用于多通道光学加密的偏振复用无序编码超表面（DEM）。该 DEM 通过快速响应 (QR) 代码级联实现双重加密，并为系统提供六个加密通道。通过安全攻击分析，验证了基于DEM的系统的加密能力。所提出的DEM有效地扩展了加密系统的通道数量并增强了加密系统的数据容量，从而显着提高了安全性和攻击弹性，展示了实际应用的广阔潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.582446",
+            "title": "Accelerated gradient restarted FISTA-TV algorithm for 3D terahertz transmission tomography",
+            "link": "https://doi.org/10.1364/ao.582446",
+            "published": "2026-01-12",
+            "author": "Cong Liu, Wei Chen, Haiqing Liu, Nu Zhang, Zhiyong Zou, Yu Xu, Jiaxing Xie, Anlan Huang, Huanhuan Tian, Xiang Ma",
+            "summary": "Terahertz computed tomography (THz-CT) is a non-destructive technique for characterizing the external and internal structures of complex samples. In this research, a 2.5 THz continuous-wave THz-CT system integrating a quantum cascade laser and a high-speed focal plane array detector was developed. To enhance reconstruction quality under sparse projection conditions, we proposed a fast iterative shrinkage-thresholding algorithm with total variation regularization (FISTA-TV). Comparative experiments demonstrated that FISTA-TV outperformed conventional methods by effectively suppressing noise and streak artifacts while preserving edge sharpness and internal structures. This superiority was quantitatively verified by metrics, including Laplacian variance, mean gradient magnitude, and entropy, which indicated enhanced edge sharpness and reduced noise. These results demonstrate the feasibility of FISTA-TV for high-quality THz-CT imaging under limited-angle conditions and its potential in non-destructive inspection of polymeric components and pharmaceutical preparations.",
+            "journal": "Applied Optics",
+            "title_cn": "用于 3D 太赫兹传输层析成像的加速梯度重启 FISTA-TV 算法",
+            "abstract_cn": "太赫兹计算机断层扫描（THz-CT）是一种无损技术，用于表征复杂样品的外部和内部结构。本研究开发了集成量子级联激光器和高速焦平面阵列探测器的2.5 THz连续波太赫兹-CT系统。为了提高稀疏投影条件下的重建质量，我们提出了一种带有全变差正则化的快速迭代收缩阈值算法（FISTA-TV）。对比实验表明，FISTA-TV 能够有效抑制噪声和条纹伪影，同时保留边缘清晰度和内部结构，从而优于传统方法。这种优越性通过拉普拉斯方差、平均梯度幅值和熵等指标进行了定量验证，这些指标表明边缘锐度增强，噪声降低。这些结果证明了 FISTA-TV 在有限角度条件下进行高质量 THz-CT 成像的可行性及其在聚合物成分和药物制剂无损检测中的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.581692",
+            "title": "Benchtop implementation of branch-point-tolerant adaptive optics",
+            "link": "https://doi.org/10.1364/ao.581692",
+            "published": "2026-01-22",
+            "author": "Matthew Kalensky, Matthias T. Banet, Timothy J. Bukowski, Evan M. Bates, Milo W. Hyde, Mark F. Spencer",
+            "summary": "We use a benchtop atmospheric turbulence simulator (ATS) and the adaptive-optics (AO) system to experimentally evaluate AO performance using a Shack–Hartmann wavefront sensor (SHWFS) and a digital-holographic wavefront sensor (DHWFS). Consistent with past results, we show that while the SHWFS yields performance improvement relative to no AO compensation, the SHWFS struggles in strong scintillation conditions. However, when we control our AO system using the least-squares component of our DHWFS measurements, we notice a substantial improvement in performance relative to the results we obtain with the SHWFS. We also leverage our DHWFS measurements to implement a post-processing congruence operation algorithm, referred to as the least-squares principal value (LSPV). We show that the LSPV-based results yield substantial AO performance improvements in strong scintillation conditions compared to only using the least-squares component of our DHWFS measurements. LSPV enables partial compensation of the hidden-phase component—a requirement to achieve better AO performance when scintillation is strong. These findings will be of interest to researchers exploring AO performance in deep turbulence and those who are interested in branch-point-tolerant AO approaches.",
+            "journal": "Applied Optics",
+            "title_cn": "耐分支点自适应光学器件的台式实现",
+            "abstract_cn": "我们使用台式大气湍流模拟器 (ATS) 和自适应光学 (AO) 系统，通过 Shack-Hartmann 波前传感器 (SHWFS) 和数字全息波前传感器 (DHWFS) 来实验评估 AO 性能。与过去的结果一致，我们表明，虽然 SHWFS 相对于无 AO 补偿而言性能有所提高，但 SHWFS 在强闪烁条件下表现不佳。然而，当我们使用 DHWFS 测量的最小二乘分量控制 AO 系统时，我们注意到相对于使用 SHWFS 获得的结果，性能有了显着提高。我们还利用 DHWFS 测量来实施后处理同余运算算法，称为最小二乘主值 (LSPV)。我们表明，与仅使用 DHWFS 测量的最小二乘分量相比，基于 LSPV 的结果在强闪烁条件下可显着提高 AO 性能。 LSPV 能够对隐藏相位分量进行部分补偿，这是在闪烁较强时实现更好的 AO 性能的要求。这些发现将引起探索深度湍流中 AO 性能的研究人员以及那些对分支点容忍 AO 方法感兴趣的人的兴趣。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.586110",
+            "title": "Joint equalization–demodulation using deep neural networks with embedded signal-dependent noise variance for SPAD-based UWOC systems",
+            "link": "https://doi.org/10.1364/ao.586110",
+            "published": "2026-01-12",
+            "author": "Sheng Xie, Dan Li, Dong Yan, Liying Chen, Renhai Feng, Zhenhua Han, Yuanxiang Chen, Shuang Wang, Jun Li",
+            "summary": "In underwater wireless optical communication (UWOC) systems, using single-photon avalanche diodes (SPAD) as a detector can improve the detection sensitivity and thus improve the transmission distance. However, the signal detection for SPAD-based systems is greatly challenged by the complex optical channel characteristics and SPAD nonlinear distortion. In order to mitigate the nonlinear distortion caused by SPAD detectors, signal-dependent noise (SDN), and the effect of underwater channel attenuation on the transmitted signal in UWOC systems, this paper proposes a signal detection scheme using deep neural networks with embedded SDN variance (DNN–SDN). This scheme performs joint equalization and demodulation of the received signal, avoiding information loss and error propagation between these two processes, thereby achieving more accurate signal recovery. In this work, we first characterize the statistical noise model for the SPAD array and establish a nonlinear relationship between the number of detected photons and the transmitted signal power. The SDN variance is integrated as an input feature during network training. Performance is quantified via a joint loss function with parameters optimized through a systematic ablation study. Finally, the performance of the proposed signal detection scheme is also compared with other schemes in different waters. Simulation results demonstrate that the scheme can effectively mitigate the effects of SPAD-induced nonlinear distortion and SDN on the signal, and the proposed method extends the transmission distance by 20%–40%.",
+            "journal": "Applied Optics",
+            "title_cn": "针对基于 SPAD 的 UWOC 系统，使用具有嵌入式信号相关噪声方差的深度神经网络进行联合均衡解调",
+            "abstract_cn": "在水下无线光通信（UWOC）系统中，使用单光子雪崩二极管（SPAD）作为探测器可以提高探测灵敏度，从而提高传输距离。然而，复杂的光通道特性和SPAD非线性失真给基于SPAD的系统的信号检测带来了巨大的挑战。为了减轻UWOC系统中SPAD探测器、信号相关噪声(SDN)引起的非线性失真以及水下信道衰减对传输信号的影响，本文提出了一种使用嵌入SDN方差的深度神经网络(DNN-SDN)的信号检测方案。该方案对接收信号进行联合均衡和解调，避免了这两个过程之间的信息丢失和错误传播，从而实现更准确的信号恢复。在这项工作中，我们首先表征 SPAD 阵列的统计噪声模型，并在检测到的光子数量与传输信号功率之间建立非线性关系。 SDN 方差在网络训练期间被集成为输入特征。通过联合损失函数来量化性能，并通过系统消融研究优化参数。最后，还将所提出的信号检测方案的性能与不同水域中的其他方案进行了比较。仿真结果表明，该方案可以有效减轻SPAD引起的非线性失真和SDN对信号的影响，并且该方法将传输距离延长了20%~40%。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.575503",
+            "title": "Time-domain Raman optical activity spectroscopy",
+            "link": "https://doi.org/10.1364/optica.575503",
+            "published": "2025-12-17",
+            "author": "Kotaro Hiramatsu, Hikaru Kuramochi, Satoshi Takeuchi, Tahei Tahara",
+            "summary": "Vibrational chiroptical spectroscopy is a valuable tool for investigating the three-dimensional structure of various biomolecules, such as proteins and nucleic acids, in the solution phase. Since the functions of these biomolecules are closely related to their dynamic behavior, the extension of vibrational chiroptical spectroscopy to time-resolved measurements is a promising approach for elucidating the mechanisms responsible for biological functions. However, the implementation of vibrational chiroptical spectroscopy with an ultrashort pulsed laser source—a crucial step toward time-resolved chiroptical spectroscopy—presents significant technical challenges due to its inherently low signal intensity and the difficulty of precise polarization control. Here, we report a sensitive and effective method to measure vibrational Raman optical activity (ROA) spectra using sub-10-fs pulses, which we call time-domain Raman optical activity (TD-ROA) spectroscopy. Specifically, ROA spectra were obtained by measuring a time-dependent change in circular birefringence accompanied by coherent nuclear wavepacket motion. We performed proof-of-principle TD-ROA measurements with (+)- and (−)- β -pinene in the spectral range from 400 to 1200cm −1 , which shows the capability of the method to discriminate enantiomers. Our approach paves the way for tracking chiral nuclear motion that is correlated to the activation of various biomolecular functions.",
+            "journal": "Optica",
+            "title_cn": "时域拉曼旋光光谱",
+            "abstract_cn": "振动手性光谱是研究溶液相中各种生物分子（例如蛋白质和核酸）的三维结构的重要工具。由于这些生物分子的功能与其动态行为密切相关，因此将振动手性光谱扩展到时间分辨测量是阐明生物功能机制的一种有前途的方法。然而，利用超短脉冲激光源实现振动手性光谱——时间分辨手性光谱的关键一步——由于其固有的低信号强度和精确偏振控制的难度，带来了重大的技术挑战。在这里，我们报告了一种使用亚 10-fs 脉冲测量振动拉曼旋光 (ROA) 光谱的灵敏且有效的方法，我们将其称为时域拉曼旋光 (TD-ROA) 光谱。具体来说，ROA 光谱是通过测量伴随相干核波包运动的圆形双折射随时间的变化而获得的。我们在 400 至 1200cm -1 的光谱范围内对 (+)- 和 (−)- β-蒎烯进行了原理验证 TD-ROA 测量，这显示了该方法区分对映体的能力。我们的方法为跟踪与各种生物分子功能激活相关的手性核运动铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.581058",
+            "title": "Direct fiber-coupled soliton microcomb system with enhanced stability and reproducibility via high numerical-aperture polarization-maintaining single-mode fibers and temperature control",
+            "link": "https://doi.org/10.1364/optcon.581058",
+            "published": "2025-11-14",
+            "author": "Miezel Talara, Yu Tokizane, Kodai Yamaji, Yudai Matsumura, Yoshihiro Makimoto, Kenji Nishimoto, Masayuki Higaki, Naoya Kuse, Takeshi Yasui",
+            "summary": "We propose a relatively simple and robust system architecture for soliton microcomb generation, based on two key techniques: direct fiber coupling using high numerical-aperture polarization-maintaining single-mode fibers (high-NA PMFs) and active temperature control of the microresonator. These complementary strategies address two major challenges in microcomb implementation: environmental sensitivity and resonance instability. Building on prior work using single-mode fiber (SMF)-based direct coupling, which demonstrated device miniaturization and partial suppression of thermal drift in total fiber-to-fiber insertion loss, our PMF-based approach offers enhanced thermal stability and significantly greater robustness to environmental disturbances such as temperature fluctuations and vibration. In our system, the need for precision alignment using microscopes or multi-axis stages is alleviated, enabling a less complex optical setup and stable long-term operation. The direct coupling scheme achieved a total fiber-to-fiber insertion loss of 2.39 dB and maintained stable soliton operation for over 24 hours under external perturbations. In parallel, active temperature control of the microresonator was quantitatively evaluated, reducing the wavelength variation of the pump and auxiliary lasers by 79% and 97%, respectively. This stability enables reproducible soliton generation even in thermally dynamic environments. Comparative experiments with SMF-based direct coupling and lensed-SMF-based free-space coupling systems confirmed the superior performance of the PMF-based design in terms of coupling stability, soliton lifetime, and immunity to environmental noise. The architecture developed in this study lays a strong foundation for future integration into compact modules, with ongoing efforts aimed at reducing the reliance on laboratory-scale laser systems and optical components.",
+            "journal": "Optics Continuum",
+            "title_cn": "直接光纤耦合孤子微梳系统通过高数值孔径保偏单模光纤和温度控制增强稳定性和再现性",
+            "abstract_cn": "我们提出了一种相对简单且鲁棒的孤子微梳生成系统架构，基于两项关键技术：使用高数值孔径保偏单模光纤（高NA PMF）的直接光纤耦合和微谐振器的主动温度控制。这些互补策略解决了微梳实施中的两个主要挑战：环境敏感性和共振不稳定性。我们基于 PMF 的方法基于使用基于单模光纤 (SMF) 的直接耦合的先前工作，该工作证明了设备小型化和对总光纤到光纤插入损耗中热漂移的部分抑制，从而提供了增强的热稳定性以及对温度波动和振动等环境干扰的显着增强的鲁棒性。在我们的系统中，减少了使用显微镜或多轴平台进行精确对准的需求，从而实现了不太复杂的光学设置和稳定的长期运行。直接耦合方案实现了 2.39 dB 的总光纤到光纤插入损耗，并在外部扰动下保持稳定的孤子运行超过 24 小时。同时，对微谐振器的主动温度控制进行了定量评估，将泵浦激光器和辅助激光器的波长变化分别减少了 79% 和 97%。即使在热动态环境中，这种稳定性也能实现可重复的孤子生成。基于 SMF 的直接耦合系统和基于透镜 SMF 的自由空间耦合系统的比较实验证实了基于 PMF 的设计在耦合稳定性、孤子寿命和抗环境噪声方面的优越性能。本研究开发的架构为未来集成到紧凑型模块中奠定了坚实的基础，并不断努力减少对实验室规模激光系统和光学组件的依赖。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.569333",
+            "title": "Plasma-like-like oscillation and its mechanism",
+            "link": "https://doi.org/10.1364/prj.569333",
+            "published": "2025-10-29",
+            "author": "Tiefu Li, Jinwei Chen, Cunqian Feng, Jie Yang, Yuxiang Jia, Xinmin Fu, Chang Ding, Yajuan Han, Zhihui Zhang, Song Zhao, Zhaotang Liu, Jiafu Wang",
+            "summary": "In 1996, Pendry proposed plasma-like oscillation (PLO) in the long-metallic-strip (LMS) array. With the ability of permittivity reduction, it is effective for negative refractive index and electromagnetic (EM) transparency, thereby promoting the development of metamaterials. In this manuscript, we discover a novel magnetic response in the LMS array, which is excited at high frequencies with TE polarization incident at large angles (≥60°). With similar currents to PLO, the magnetic response has EM characteristics similar to those of PLO, where the most typical is the permittivity reduction. Thus, it is called plasma-like-like oscillation (PLLO) here. The discovery is well verified by the monitored induced currents, the magnetic field, the spectrum comparison, and the extracted EM parameters. The prototypes are designed, fabricated, and measured, where the measured results are basically consistent with the simulated ones. With a similar permittivity reduction to PLO, PLLO would provide new ideas for left-handed materials and EM windows.",
+            "journal": "Photonics Research",
+            "title_cn": "类等离子体振荡及其机制",
+            "abstract_cn": "1996年，Pendry提出了长金属条（LMS）阵列中的类等离子体振荡（PLO）。具有降低介电常数的能力，可有效实现负折射率和电磁（EM）透明性，从而促进超材料的发展。在这份手稿中，我们在 LMS 阵列中发现了一种新颖的磁响应，该响应在高频率下通过大角度（≥60°）的 TE 极化入射而被激发。在与 PLO 类似的电流下，磁响应具有与 PLO 类似的电磁特性，其中最典型的是介电常数降低。因此，这里将其称为类等离子体振荡（PLLO）。监测的感应电流、磁场、频谱比较和提取的电磁参数很好地验证了这一发现。样机经过设计、制作和测量，测量结果与仿真结果基本一致。通过与 PLO 类似的介电常数降低，PLLO 将为左手材料和电磁窗口提供新的想法。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.570290",
+            "title": "Ultra-high-density integrated spatial division multiplexer",
+            "link": "https://doi.org/10.1364/prj.570290",
+            "published": "2026-01-22",
+            "author": "Hui-Ming Wang, Ying-Yu Fang, Yi-Lan Liu, Ka-Di Zhu, Hao Tang, Xian-Min Jin",
+            "summary": "Twisted light with orbital angular momentum (OAM) introduces an innovative dimension in modern optics, providing a valuable resource for advancing both classical and quantum information technologies. The utilization of OAM and multi-core multiplexing in advanced optical fiber communication systems has been demonstrated as the pivotal solution to the escalating demand for information transmission in contemporary society. However, creating a large-scale and stable device for spatially separated cores supporting OAM modes is more challenging compared to established technologies for spectrum and polarization, which have mature devices. To address this challenge, we propose and fabricate a double-layer doughnut waveguide supporting three OAM modes under 1550 nm, using femtosecond laser direct writing technology. Based on that, we design the 37-core integrated space-division multiplexing device with uniform performance by depth-related power compensation. Our platform represents a breakthrough by overcoming the current technological barriers in on-chip multi-mode support and large-scale uniformity. This advancement enables a theoretical increase over a hundred fold in single-fiber information capacity, positioning it well ahead of existing integrated solutions. Designed for next-generation communication systems, it optimizes integrated space-division multiplexing, setting new benchmarks for efficiency and scalability in optical networks and facilitating unprecedented advancements in communication technologies.",
+            "journal": "Photonics Research",
+            "title_cn": "超高密度集成空分复用器",
+            "abstract_cn": "具有轨道角动量（OAM）的扭曲光引入了现代光学的创新维度，为推进经典和量子信息技术提供了宝贵的资源。先进光纤通信系统中 OAM 和多芯复用的利用已被证明是满足当代社会不断增长的信息传输需求的关键解决方案。然而，与拥有成熟器件的现有频谱和偏振技术相比，为支持 OAM 模式的空间分离核心创建大规模且稳定的器件更具挑战性。为了应对这一挑战，我们利用飞秒激光直写技术提出并制造了一种支持 1550 nm 以下三种 OAM 模式的双层环形波导。在此基础上，我们通过深度相关功率补偿设计了性能统一的37核集成空分复用器件。我们的平台突破了当前片上多模式支持和大规模统一性方面的技术障碍。这一进步理论上使单光纤信息容量增加了一百倍以上，远远领先于现有的集成解决方案。它专为下一代通信系统而设计，优化了集成空分复用，为光网络的效率和可扩展性树立了新基准，并促进了通信技术的前所未有的进步。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.561085",
+            "title": "Continuous-variable quantum key distribution over 50.4 km fiber using an integrated silicon photonic transmitter and receiver",
+            "link": "https://doi.org/10.1364/prj.561085",
+            "published": "2025-10-29",
+            "author": "Shuaishuai Liu, Yanxiang Jia, Yuqi Shi, Yizhuo Hou, Pu Wang, Yu Zhang, Shiwei Yang, Zhenguo Lu, Xuyang Wang, Yongmin Li",
+            "summary": "Quantum key distribution (QKD) is the fastest-growing and relatively mature technology in the field of quantum information, enabling information-theoretically secure key distribution between two remote users. Although QKD based on off-the-shelf telecom components has been validated in both laboratory and field tests, its high cost and large volume remain major obstacles to large-scale deployment. Photonic integration, featured by its compact size and low cost, offers an effective approach to addressing the above challenges faced by QKD. Here, we implement a high-performance, integrated local local oscillator continuous-variable (CV) QKD system based on an integrated silicon photonic transmitter and receiver. By employing a high-speed silicon photonic integrated in-phase and quadrature modulator, a low-noise and high-bandwidth silicon photonic integrated heterodyne detector, and digital signal processing, our CV-QKD system achieves a symbol rate of up to 1.5625 GBaud. Furthermore, the system achieves asymptotic secret key rates of 31.05 and 5.05 Mbps over 25.8 and 50.4 km standard single-mode fiber, respectively, using 8-phase-shift keying discrete modulation. Our integrated CV-QKD system with a high symbol rate and long transmission distance paves the way for the quantum secure communication network in metropolitan areas.",
+            "journal": "Photonics Research",
+            "title_cn": "使用集成硅光子发射器和接收器在 50.4 km 光纤上进行连续可变量子密钥分发",
+            "abstract_cn": "量子密钥分发（QKD）是量子信息领域发展最快且相对成熟的技术，能够在两个远程用户之间实现信息理论上安全的密钥分发。尽管基于现成电信组件的 QKD 已在实验室和现场测试中得到验证，但其高成本和大体积仍然是大规模部署的主要障碍。光子集成以其紧凑的尺寸和低成本的特点，为解决QKD面临的上述挑战提供了有效的方法。在这里，我们实现了一个基于集成硅光子发射器和接收器的高性能、集成本地本地振荡器连续可变 (CV) QKD 系统。通过采用高速硅光子集成同相和正交调制器、低噪声和高带宽硅光子集成外差探测器以及数字信号处理，我们的CV-QKD系统实现了高达1.5625 GBaud的符号率。此外，该系统使用 8 相移键控离散调制，在 25.8 公里和 50.4 公里标准单模光纤上分别实现了 31.05 和 5.05 Mbps 的渐近密钥速率。我们的集成CV-QKD系统具有高符号率和长传输距离，为城域量子安全通信网络铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.569751",
+            "title": "Centimeter-scale achromatic supercritical lens",
+            "link": "https://doi.org/10.1364/prj.569751",
+            "published": "2025-10-31",
+            "author": "Zeda Lin, Yiyin Zheng, Xu Hu, Jing Li, Sicong Wang, Yaoyu Cao, Xiangping Li, Fei Qin",
+            "summary": "A supercritical lens (SCL) can achieve far-field sub-diffraction-limited focusing by elaborately manipulating the interference effect in the focal region, which makes it strongly dependent on the wavelength of the illuminating light. In addition to the strong chromatic aberrations it suffers, the micrometer-scale clear aperture of reported SCL represents another compelling challenge that excludes their practical imaging applications demand. In this work, we proposed and experimentally demonstrated an achromatic supercritical lens (ASCL) with a centimeter-scale clear aperture. The ASCL was designed by a two-step optimization algorithm and constructed in a multilevel phase configuration which consists of 1251 concentric polymer rings with 52 phase levels. By utilizing the grayscale laser lithography technique, we successfully fabricated an ASCL with a diameter of 10 mm. Such a centimeter-scale ASCL showcases a distinguished performance with full visible working bandwidth covering from 400 nm to 700 nm and simultaneous achromatic sub-diffraction-limited focusing of 0.88 times of the Airy spot. The demonstrations of white light microscopic imaging further validate our design and show decent performance. Our work paves the way for practical applications of SCL in high-density optical data storage, super-resolving optical telescope, and high-precision optical trapping.",
+            "journal": "Photonics Research",
+            "title_cn": "厘米级消色差超临界透镜",
+            "abstract_cn": "超临界透镜（SCL）可以通过精心操纵焦点区域的干涉效应来实现远场亚衍射限制聚焦，这使得它强烈依赖于照明光的波长。除了所遭受的强烈色差之外，报道的 SCL 的微米级通光孔径代表了另一个令人瞩目的挑战，排除了其实际成像应用的需求。在这项工作中，我们提出并通过实验演示了一种具有厘米级通光孔径的消色差超临界透镜（ASCL）。 ASCL 采用两步优化算法设计，并采用多级相配置构建，该配置由 1251 个同心聚合物环和 52 个相级组成。利用灰度激光光刻技术，我们成功制作了直径为10毫米的ASCL。这种厘米级的ASCL展现出卓越的性能，其全可见光工作带宽覆盖400 nm至700 nm，同时消色差亚衍射极限聚焦为艾里斑的0.88倍。白光显微成像的演示进一步验证了我们的设计并显示出良好的性能。我们的工作为SCL在高密度光学数据存储、超分辨光学望远镜和高精度光捕获方面的实际应用铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.563172",
+            "title": "Non-invasive 3D imaging of hidden objects based on a short-wave infrared BIC metasurface",
+            "link": "https://doi.org/10.1364/prj.563172",
+            "published": "2025-10-29",
+            "author": "Qiming Liao, Xiaoli Jing, Jidong Xue, Ning Li, Yuxuan Yang, Rui You, Yongtian Wang, Zhaoxian Su, Lingling Huang",
+            "summary": "Point-cloud-projection-based stereo vision technology is widely applied in 3D reconstruction, robotic vision, and virtual reality. A metasurface, known for its exceptional light-field manipulation capabilities and compact integration, offers a promising approach to reducing system size while enhancing functionality. In this work, we propose and implement a short-wave infrared 3D structured light detection system based on a metasurface supporting a bound state in the continuum (BIC). The designed BIC metasurface exhibits wavelength selectivity, generating a point cloud projection array exclusively under 1350 nm laser illumination, effectively minimizing interference from environmental light and enabling penetration through certain packaging materials opaque to visible light. Using this system, we successfully demonstrate 3D detection and reconstruction of concealed objects, such as lenses and workpieces, within opaque packaging. Our design provides a non-contact, penetrating 3D reconstruction approach for industrial inspection, offering potential applications in non-destructive quality control.",
+            "journal": "Photonics Research",
+            "title_cn": "基于短波红外BIC超表面的隐藏物体非侵入3D成像",
+            "abstract_cn": "基于点云投影的立体视觉技术广泛应用于3D重建、机器人视觉、虚拟现实等领域。超表面以其卓越的光场操纵能力和紧凑的集成而闻名，它提供了一种有前途的方法来减小系统尺寸，同时增强功能。在这项工作中，我们提出并实现了一种基于支持连续体束缚态（BIC）的超表面的短波红外3D结构光检测系统。设计的BIC超表面具有波长选择性，仅在1350 nm激光照射下生成点云投影阵列，有效地最大限度地减少环境光的干扰，并能够穿透某些对可见光不透明的包装材料。使用该系统，我们成功演示了不透明包装内隐藏物体（例如镜头和工件）的 3D 检测和重建。我们的设计为工业检测提供了一种非接触式、穿透式 3D 重建方法，为无损质量控制提供了潜在的应用。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.566344",
+            "title": "Computational immunity-belt reconstruction restores far-field images through bent step-index fibers",
+            "link": "https://doi.org/10.1364/prj.566344",
+            "published": "2025-10-31",
+            "author": "Zhicheng Ye, Jing Xu, Shuang Wang, Fei Yu, Chunlei Yu, Yang Du",
+            "summary": "Multimode fibers (MMFs) are increasingly pursued for ultrathin and lensless endoscopic imaging, but their extreme susceptibility to bend-induced mode scrambling has so far impeded practical deployment. We uncover a hitherto overlooked bend resilience in step-index multimode fibers and convert it into a proximal strategy for flexible imaging. Under fiber bending curvature the far-field image degrades from the center outward, yet a peripheral annulus conveyed by higher-order modes remains largely unperturbed across bend angles approaching 90°. Exploiting this “immunity belt,” we devise a three-stage reconstruction pipeline that isolates bend tolerant spatial frequencies in the Fourier domain, transplants them into the corrupted core via feature-guided Poisson fusion, and removes residual noise with physics informed dehazing. Systematic tests on 15 cm to 2 m fibers yield a mean matching score gain of 38% over 250 sequential bend states, restoring features in both 3D figurines and high-contrast test gratings. A dual-fiber probe integrated in a needle further resolves centimeter-scale anatomy in a gastric phantom and underscores the method’s clinical relevance and feasibility for minimally invasive diagnostic applications. This work highlights the potential of computational reconstruction to significantly enhance the robustness and practical applicability of multimode fiber imaging in biomedical and industrial contexts.",
+            "journal": "Photonics Research",
+            "title_cn": "计算免疫带重建通过弯曲阶跃折射率光纤恢复远场图像",
+            "abstract_cn": "多模光纤（MMF）越来越多地用于超薄和无透镜内窥镜成像，但它们对弯曲引起的模式扰乱的极度敏感性迄今为止阻碍了实际部署。我们发现了阶跃折射率多模光纤中迄今为止被忽视的弯曲弹性，并将其转化为灵活成像的近端策略。在光纤弯曲曲率下，远场图像从中心向外退化，但由高阶模式传送的外围环面在接近 90° 的弯曲角上仍基本不受干扰。利用这个“免疫带”，我们设计了一个三级重建管道，可以隔离傅里叶域中的耐弯曲空间频率，通过特征引导的泊松融合将它们移植到损坏的核心中，并通过物理通知的去雾去除残余噪声。对 15 cm 至 2 m 光纤进行的系统测试在 250 个连续弯曲状态下的平均匹配得分增益提高了 38%，从而恢复了 3D 雕像和高对比度测试光栅中的特征。集成在针中的双光纤探针进一步解析了胃体模中的厘米级解剖结构，并强调了该方法的临床相关性和微创诊断应用的可行性。这项工作凸显了计算重建在显着增强生物医学和工业环境中多模光纤成像的鲁棒性和实际适用性方面的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.571967",
+            "title": "Diamond-neural-network magnetic sensors for ultrafast circuit fault detection and identification",
+            "link": "https://doi.org/10.1364/prj.571967",
+            "published": "2025-10-31",
+            "author": "Wei Gao, Jinyu Tai, Zhibin Wang, Shuchen Song, Xin Li, Huanfei Wen, Zhonghao Li, Zongmin Ma, Yunbo Shi, Hao Guo, Jun Tang, Jun Liu",
+            "summary": "As fundamental components of consumer electronics, medical devices, and aerospace precision instruments, circuit modules require fault detection analysis to ensure operational stability and safety, which remains a critical challenge. Conventional contact-based electrical signal detection methods for printed circuit board (PCB) fault analysis often induce contact damage and suffer from slow detection and analysis speeds due to massive redundant data transmission and processing. Here, we propose a diamond-neural-network quantum magnetic sensor that enables non-contact circuit fault analysis by detecting far-field weak magnetic signals from PCBs. The sensor comprises a diamond array where each diamond functions as a nitrogen-vacancy (NV) center quantum magnetic sensor with tunable responsivity regulated by positive and negative voltage follower units. This diamond array inherently constitutes an artificial neural network (ANN), capable of simultaneous magnetic signal detection and real-time processing with ultra-low latency. Through training the sensor for fault classification, we achieve a response time superior to 137.1 ns.",
+            "journal": "Photonics Research",
+            "title_cn": "用于超快电路故障检测和识别的金刚石神经网络磁传感器",
+            "abstract_cn": "作为消费电子、医疗设备和航空航天精密仪器的基本组件，电路模块需要故障检测分析以确保运行稳定性和安全性，这仍然是一个严峻的挑战。传统的用于印刷电路板（PCB）故障分析的基于接触的电信号检测方法经常会导致接触损坏，并且由于大量冗余数据传输和处理而导致检测和分析速度缓慢。在这里，我们提出了一种金刚石神经网络量子磁传感器，通过检测 PCB 的远场弱磁信号来实现非接触式电路故障分析。该传感器由金刚石阵列组成，其中每个金刚石都充当氮空位 (NV) 中心量子磁传感器，具有由正负电压跟随器单元调节的可调响应度。该钻石阵列本质上构成了一个人工神经网络（ANN），能够同时进行磁信号检测和超低延迟的实时处理。通过训练传感器进行故障分类，我们实现了优于 137.1 ns 的响应时间。"
         }
     ]
 }

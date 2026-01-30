@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-31 00:28:48",
+    "update_time": "2026-01-31 06:28:26",
     "word_filename": "Optical_Papers_260131.docx",
-    "total_count": 23,
+    "total_count": 48,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.displa.2026.103362",
@@ -255,6 +255,281 @@
             "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
             "title_cn": "ZUMA：免训练零样本统一多模态异常检测",
             "abstract_cn": "多模态异常检测（MAD）旨在利用纹理和空间属性来识别复杂场景中与正常模式的偏差。然而，由于隐私问题或保密性限制而产生的零样本（ZS）设置对现有的 MAD 方法提出了重大挑战。为了解决这个问题，我们引入了 ZUMA，这是一种免训练、零样本统一多模态异常检测框架，可释放 CLIP 的跨模态潜力来执行 ZS MAD。为了缩小 CLIP 预训练空间和点云之间的域差距，我们提出了跨域校准（CDC），它通过源域语义转移有效地弥合流形错位，并建立混合语义空间，从而实现 2D 和 3D 表示的联合嵌入。随后，ZUMA​​ 执行动态语义交互（DSI），以实现 CDC 构建的高维嵌入空间中异常区域的结构解耦，其中自然语言作为语义锚，帮助 DSI 在混合模态表示中建立判别超平面。在此框架内，ZUMA​​ 能够即插即用地检测 2D、3D 或多模态异常，即使对于跨数据集或不完整模态场景也无需训练或微调。此外，为了进一步研究免训练 ZUMA 在基于训练的范式中的潜力，我们开发了 ZUMA-FT，这是一种经过微调的变体，可以通过最小的参数权衡实现显着的改进。在两个 MAD 基准测试 MVTec 3D-AD 和 Eyecandies 上进行了大量实验。值得注意的是，免训练 ZUMA 在两个数据集上都实现了最先进的 (SOTA) 性能，优于现有的 ZS MAD 方法，包括基于训练的方法。此外，ZUMA​​-FT 进一步扩展了 ZUMA 的性能边界，仅 6.75 M 可学习参数。代码位于：https://github.com/yif-ma/ZUMA"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41566-025-01836-5",
+            "title": "Ultrahigh-resolution nanoimprint patterning of quantum-dot light-emitting diodes via capillary self-assembly",
+            "link": "https://doi.org/10.1038/s41566-025-01836-5",
+            "published": "2026-01-30",
+            "author": "Wei Cao, Sen Tian, Chao Zhong, Li Qiu, Pan Zeng, Zhiming Chen, Xiancheng Zhang, Haitao Liu, Kaitao Liu, Jian Li, Tao Sun, Pingfan Ning, Delin Zhang, Wenhong Wang, Yong Jiang, An Cao, Liang Li, Dilong Liu, Zhihong Nie, Fan Yang, Fushan Li, Yue Li",
+            "summary": "A nanoimprint technique exploiting capillary forces in nanohole arrays enables patterning CdSe-based quantum-dot LEDs with a resolution of nearly 170,000 pixels per inch while maintaining high average external quantum efficiencies of 17.0%, 10.5% and 5.7% for red-, green- and blue-emitting pixels, respectively.",
+            "journal": "Nature Photonics",
+            "title_cn": "通过毛细管自组装实现量子点发光二极管的超高分辨率纳米压印图案",
+            "abstract_cn": "利用纳米孔阵列中的毛细管力的纳米压印技术能够以每英寸近 170,000 像素的分辨率对基于 CdSe 的量子点 LED 进行图案化，同时保持红色、绿色和蓝色发射像素分别为 17.0%、10.5% 和 5.7% 的高平均外部量子效率。"
+        },
+        {
+            "id": "https://doi.org/10.29026/oea.2026.250257",
+            "title": "High-efficiency infrared upconversion imaging with nonlinear silicon metasurfaces empowered by quasi-bound states in the continuum",
+            "link": "https://doi.org/10.29026/oea.2026.250257",
+            "published": "2026",
+            "author": "Tingting Liu, Jumin Qiu, Meibao Qin, Xu Tu, Huifu Qiu, Feng Wu, Tianbao Yu, Qiegen Liu, Shuyuan Xiao",
+            "summary": "Infrared imaging is indispensable for its ability to penetrate obscurants and visualize thermal signatures, yet its practical use is hindered by the intrinsic limitations of conventional detectors. Nonlinear upconversion, which converts infrared light into the visible band, offers a promising pathway to address these challenges. Here, we demonstrate high-efficiency infrared upconversion imaging using nonlinear silicon metasurfaces. By strategically breaking in-plane symmetry, the metasurface supports a high- Q quasi-bound states in the continuum resonance, leading to strongly enhanced third-harmonic generation (THG) with a conversion efficiency of 3×10 −5 at a pump intensity of 10 GW/cm 2 . Through this THG process, the metasurface enables high-fidelity upconversion of arbitrary infrared images into the visible range, achieving a spatial resolution of ~6 μm as verified using a resolution target and various customized patterns. This work establishes a robust platform for efficient nonlinear conversion and imaging, highlighting the potential of CMOS-compatible silicon metasurfaces for high-performance infrared sensing applications with reduced system complexity.",
+            "journal": "Opto-Electronic Advances",
+            "title_cn": "连续体中准束缚态赋能的非线性硅超表面的高效红外上转换成像",
+            "abstract_cn": "红外成像因其穿透遮蔽物和可视化热特征的能力而不可或缺，但其实际应用却受到传统探测器固有局限性的阻碍。非线性上转换可将红外光转换为可见光波段，为解决这些挑战提供了一条有前途的途径。在这里，我们展示了使用非线性硅超表面的高效红外上转换成像。通过策略性地打破面内对称性，超表面在连续共振中支持高Q准束缚态，从而导致三次谐波产生（THG）的强烈增强，在泵浦强度为10 GW/cm 2 时转换效率为3×10 -5 。通过这种 THG 过程，超表面能够将任意红外图像高保真上转换到可见光范围，并使用分辨率目标和各种定制图案进行验证，实现约 6 μm 的空间分辨率。这项工作为高效非线性转换和成像建立了一个强大的平台，凸显了 CMOS 兼容硅超表面在高性能红外传感应用中的潜力，同时降低了系统复杂性。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114830",
+            "title": "Hardware-free low-frequency drift compensation method for interferometric fiber-optic vibration sensing",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114830",
+            "published": "2026-05-01",
+            "author": "Ke Ai, Cunzheng Fan, Shuolong Zhu, Bin Lu, Wenqi Ren, Junfeng Chen, Zhan Chen, Hao Li, Zhijun Yan, Qizhen Sun",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "干涉式光纤振动传感的无硬件低频漂移补偿方法",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114814",
+            "title": "Numerical simulation and experimental study of ultrafast laser micromachining of PMN-PT single crystals",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114814",
+            "published": "2026-05-01",
+            "author": "Chao Wang, Zhongwen Cheng, Yan Chen, Haocong He, Zhongliang Zou, Xuanrong Ji",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "PMN-PT单晶超快激光微加工数值模拟与实验研究",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.583629",
+            "title": "Carrier-free phase retrieval of dual-polarization QAM signals aided by polarization rotation estimation",
+            "link": "https://doi.org/10.1364/oe.583629",
+            "published": "2026-01-22",
+            "author": "Xiaoxue Gan, Meng Xiang, Jie Xu, Gai Zhou, Songnian Fu, Yuwen Qin",
+            "summary": "Recovering polarization-multiplexed QAM signals through carrier-free phase retrieval (CF-PR) remains a significant challenge, as it requires accurate estimation of the 2 × 2 transfer matrix of standard single mode fiber (SSMF) based on the only intensity measurements. In this paper, we propose and experimentally demonstrate a dual-polarization CF-PR (DP-CF-PR) receiver that reconstructs DP-QAM signals based solely on intensity detection. By integrating iterative field reconstruction with training-sequence assisted polarization rotation matrix estimation, the proposed scheme effectively mitigates cross-polarization coupling and enables the full-field recovery of DP-QAM signals. Numerical simulations show the polarization rotation angle and phase difference estimation errors below 0.18 rad under the variable optical signal-to-noise (OSNR) values and various modulation formats. Experimental validation based on 32GBaud DP-QPSK/16QAM signals transmission over 80 km SSMF holds excellent accuracy of phase reconstruction and BER performance, achieving the 20% soft-decision FEC (20% SD-FEC) threshold at OSNR values of 17.4 dB and 27.5 dB, respectively. The proposed DP-CF-PR architecture therefore, offers a practical and cost-efficient solution for dual-polarization optical field recovery based on direct detection, showing strong potential for short-reach and energy-efficient optical interconnects.",
+            "journal": "Optics Express",
+            "title_cn": "偏振旋转估计辅助的双偏振 QAM 信号的无载波相位恢复",
+            "abstract_cn": "通过无载波相位恢复 (CF-PR) 恢复偏振复用 QAM 信号仍然是一项重大挑战，因为它需要基于唯一的强度测量来准确估计标准单模光纤 (SSMF) 的 2 × 2 传输矩阵。在本文中，我们提出并通过实验演示了一种双偏振 CF-PR (DP-CF-PR) 接收器，该接收器仅基于强度检测来重建 DP-QAM 信号。通过将迭代场重建与训练序列辅助偏振旋转矩阵估计相结合，该方案有效地减轻了交叉偏振耦合，并实现了 DP-QAM 信号的全场恢复。数值模拟显示，在可变光信噪比 (OSNR) 值和各种调制格式下，偏振旋转角和相位差估计误差低于 0.18 rad。基于超过 80 km SSMF 的 32GBaud DP-QPSK/16QAM 信号传输的实验验证保持了出色的相位重建精度和 BER 性能，在 OSNR 值分别为 17.4 dB 和 27.5 dB 时实现了 20% 软判决 FEC (20% SD-FEC) 阈值。因此，所提出的DP-CF-PR架构为基于直接检测的双偏振光场恢复提供了一种实用且经济高效的解决方案，显示出短距离和节能光互连的强大潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584834",
+            "title": "Graphene oxide functionalized side-polished sampled fiber grating biosensor for highly sensitive detection of SARS-CoV-2 spike protein",
+            "link": "https://doi.org/10.1364/oe.584834",
+            "published": "2026-01-16",
+            "author": "Bo Wang, Jinshuo Li, Shanren Liu, Mengmeng Gao, Qianhua Li, Qi Guo, Yongsen Yu",
+            "summary": "A graphene oxide functionalized side-polished sampled fiber grating (GO-SPSFG) biosensor is proposed for highly sensitive detection of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The sensing structure is obtained by combining femtosecond laser line-by-line scanning technology and precise mechanical side-polishing. The fabricated sampled grating exhibits characteristics of both Bragg gratings and long-period gratings for effectively decoupling temperature in the sensing measurement. The generated evanescent field can be further enhanced by asymmetrically polishing the cladding surrounding the grating region and forming a D-shaped fiber structure with optimized residual cladding thickness. The side-polished fiber surface is further modified with graphene oxide, which can provide effective binding sites for biomolecule immobilization due to its abundant oxygen-containing functional groups as well as a large specific surface area. This approach not only significantly improves the sensitivity but also successfully eliminates temperature interference for biomolecule detection. It has been demonstrated that when the residual thickness of the side polished fiber is 70 μm, the sensor achieves a detection limit as low as 0.055 nM for the SARS-CoV-2 spike protein. This biosensor holds broad application potential in medical diagnostics, environmental virus monitoring, biomedical research, food safety screening, and biosecurity warning systems.",
+            "journal": "Optics Express",
+            "title_cn": "氧化石墨烯功能化侧面抛光采样光纤光栅生物传感器，用于高灵敏检测 SARS-CoV-2 刺突蛋白",
+            "abstract_cn": "提出了一种氧化石墨烯功能化侧面抛光采样光纤光栅（GO-SPSFG）生物传感器，用于高灵敏度检测严重急性呼吸综合征冠状病毒2（SARS-CoV-2）。该传感结构是通过飞秒激光逐行扫描技术和精密机械侧面抛光相结合获得的。所制作的采样光栅表现出布拉格光栅和长周期光栅的特性，可有效解耦传感测量中的温度。通过对光栅区域周围的包层进行不对称抛光并形成具有优化的残余包层厚度的D形光纤结构，可以进一步增强所产生的倏逝场。侧面抛光的纤维表面进一步用氧化石墨烯进行修饰，由于其丰富的含氧官能团以及较大的比表面积，可为生物分子固定化提供有效的结合位点。这种方法不仅显着提高了灵敏度，而且成功消除了生物分子检测的温度干扰。事实证明，当侧面抛光光纤的剩余厚度为 70 μm 时，传感器对 SARS-CoV-2 刺突蛋白的检测限可低至 0.055 nM。该生物传感器在医疗诊断、环境病毒监测、生物医学研究、食品安全筛查和生物安全预警系统等方面具有广泛的应用潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582330",
+            "title": "Polarization state classification of vector vortex beams using the PaCMAP algorithm",
+            "link": "https://doi.org/10.1364/oe.582330",
+            "published": "2026-01-29",
+            "author": "Feng Zhang, Zhi Liu, Qiaochu Yang, Peng Lin, Wanzhuo Ma, Liben He, Huanyu Qian, Keyan Dong, Shiming Gao",
+            "summary": "Vector vortex beams (VVBs), characterized by their anisotropic wavefront and polarization distributions, offer a multitude of optical field degrees of freedom. These properties endow VVBs with significant potential for applications in optical communication, quantum technology, high-resolution imaging, optical tweezers, and other fields. Accurate identification of the modes and polarization distributions of VVBs is crucial for their successful application. However, the performance of existing principal component analysis (PCA) methods for classifying the states of VVBs deteriorates markedly in disturbed environments. To address this challenge, this paper proposes a joint algorithm based on pairwise controlled manifold approximation projection (PaCMAP) for classifying and recognizing VVBs in complex noise environments. The classification performance of this algorithm on the states of VVBs is experimentally verified. Results indicate that the PaCMAP-based joint algorithm significantly enhances the classification of VVBs’ polarization states, thereby providing a reliable method for the development and application of vector vortex light.",
+            "journal": "Optics Express",
+            "title_cn": "使用 PaCMAP 算法对矢量涡旋光束进行偏振状态分类",
+            "abstract_cn": "矢量涡旋光束 (VVB) 以其各向异性波前和偏振分布为特征，提供多种光场自由度。这些特性赋予VVB在光通信、量子技术、高分辨率成像、光镊等领域的巨大应用潜力。准确识别 VVB 的模式和偏振分布对其成功应用至关重要。然而，现有的用于对 VVB 状态进行分类的主成分分析 (PCA) 方法的性能在受干扰的环境中显着恶化。为了应对这一挑战，本文提出了一种基于成对控制流形逼近投影（PaCMAP）的联合算法，用于在复杂噪声环境中对 VVB 进行分类和识别。实验验证了该算法对VVB状态的分类性能。结果表明，基于PaCMAP的联合算法显着增强了VVB偏振态的分类，从而为矢量涡旋光的开发和应用提供了可靠的方法。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582440",
+            "title": "Doping effect on the electronic and optical properties of all-inorganic CsGeBr 3-x I x",
+            "link": "https://doi.org/10.1364/oe.582440",
+            "published": "2026-01-21",
+            "author": "Youming Huang, Xinyu Wang, Xu Li, Zhihao Liu, Fengfei Wang, Wenjing Yu, Yuemei Sun, Liangjun Zhai",
+            "summary": "The excitonic effect of metal halide perovskites as an important indicator on their optoelectronic and photovoltaic characteristics has been widely studied. Here, we investigate doping effects on the electronic and optical properties of CsGeBr 3- x I x ( x = 0,1, 2, 3) by first-principles methods. The calculated band gap and electron effective mass at the band-edge are observed to decrease with increasing doping proportion, suggesting enhanced charge transport properties for efficient solar cells. Considering the excitonic effect in halide perovskites, we further investigate the absorption spectra of CsGeBr 3- x I x , including the electron–hole interactions. Our results show the pronounced excitonic resonances and low exciton binding energies in mixed halide perovskites. This study establishes doped ferroelectric halide perovskites as a novel class of functional materials, characterized by an ideal band gap, low exciton binding energy, and strong optical absorption, providing a platform for advanced optoelectronic and photovoltaic applications.",
+            "journal": "Optics Express",
+            "title_cn": "掺杂对全无机CsGeBr 3-x I x电子和光学性能的影响",
+            "abstract_cn": "金属卤化物钙钛矿的激子效应作为其光电和光伏特性的重要指标已被广泛研究。在这里，我们通过第一原理方法研究了掺杂对 CsGeBr 3- x I x ( x = 0,1, 2, 3) 电子和光学性质的影响。观察到计算出的带隙和带边电子有效质量随着掺杂比例的增加而减小，这表明高效太阳能电池的电荷传输特性得到增强。考虑到卤化物钙钛矿的激子效应，我们进一步研究了 CsGeBr 3- x I x 的吸收光谱，包括电子-空穴相互作用。我们的结果表明混合卤化物钙钛矿具有明显的激子共振和低激子结合能。这项研究将掺杂铁电卤化物钙钛矿确立为一类新型功能材料，其特点是理想的带隙、低激子结合能和强光吸收，为先进的光电和光伏应用提供了平台。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584588",
+            "title": "Shape from polarization based on a polarization representation and sparse self-attention",
+            "link": "https://doi.org/10.1364/oe.584588",
+            "published": "2026-01-22",
+            "author": "Zhenhua Wan, Jiayue Wu, Kaiang Li, Zhichao Yu, Kaichun Zhao",
+            "summary": "Accurate estimation of surface normals plays a crucial role in 3D reconstruction tasks. Physics-based shape from polarization (SfP) methods face numerous limitations, such as difficulty in handling mixed reflections and local ambiguities. In contrast, deep learning-based SfP methods surpass physics-based approaches in both accuracy and applicability. However, learning-based SfP methods still exhibit deficiencies in leveraging global context information and physical prior knowledge. To further enhance the accuracy of shape recovery, we propose what is believed to be a novel learning-based shape from polarization method that combines physical priors with sparse self-attention. First, we introduce the representation of polarization information based on Stokes vectors to enhance the efficient utilization of physical priors. Subsequently, we incorporate a sparse self-attention mechanism with bi-level routing to improve our network’s perception of global contextual information and better resolve local polarization ambiguities. Spatial and channel attention mechanisms are further employed to optimize feature fusion, enhancing the ability to capture high-frequency details. Finally, experiments conducted on the public DeepSfP dataset and the self-built dataset demonstrate that our method outperforms state-of-the-art SfP methods on all evaluation metrics and achieves a mean angular error of 12.06 ∘ on the DeepSfP dataset. By introducing a supposed novel polarization representation, sparse self-attention, and feature fusion techniques, our method significantly enhances the accuracy of normal estimation, providing promising technical support for the SfP task.",
+            "journal": "Optics Express",
+            "title_cn": "基于偏振表示和稀疏自注意力的偏振形状",
+            "abstract_cn": "表面法线的准确估计在 3D 重建任务中起着至关重要的作用。基于物理的偏振形状 (SfP) 方法面临许多限制，例如难以处理混合反射和局部模糊性。相比之下，基于深度学习的 SfP 方法在准确性和适用性方面都优于基于物理的方法。然而，基于学习的 SfP 方法在利用全局上下文信息和物理先验知识方面仍然存在缺陷。为了进一步提高形状恢复的准确性，我们提出了一种新颖的基于学习的极化方法形状，该方法将物理先验与稀疏自注意力相结合。首先，我们引入基于斯托克斯向量的偏振信息表示，以增强物理先验的有效利用。随后，我们将稀疏自注意力机制与双层路由结合起来，以改善我们的网络对全局上下文信息的感知，并更好地解决局部极化模糊性。进一步采用空间和通道注意机制来优化特征融合，增强捕获高频细节的能力。最后，在公共 DeepSfP 数据集和自建数据集上进行的实验表明，我们的方法在所有评估指标上都优于最先进的 SfP 方法，并在 DeepSfP 数据集上实现了 12.06 ∘ 的平均角度误差。通过引入一种假设的新颖的偏振表示、稀疏自注意力和特征融合技术，我们的方法显着提高了正常估计的准确性，为 SfP 任务提供了有前景的技术支持。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.583458",
+            "title": "Near-infrared (769–770 nm) K atomic laser optically pumped through KXe excimer intermediate states",
+            "link": "https://doi.org/10.1364/oe.583458",
+            "published": "2026-01-23",
+            "author": "Kavita Desai Kabelitz, Andrey E. Mironov, J. Gary Eden",
+            "summary": "Photopumping of K/Xe vapor mixtures over a continuous spectral region >1.2 THz (>40 cm −1 ) in breadth yields lasing on the D 1 line of atomic potassium (4 p 2 P 1/2 → 4 s 2 S 1/2 ) by populating the dissociative B 2 Σ 1/2 + or weakly bound A 2 Π 3/2 states of the KXe excimer molecule. Subsequent dissociation of the excited molecule populates the 4 p 2 P 3/2 and 4 p 2 P 1/2 levels of the K atom, the latter of which is the upper level for the 769.9 nm resonance line laser. Lasing over ∼60% of the 57.7 cm −1 gap lying between the spin-orbit split 4 p 2 P 3/2 − 4 p 2 P 1/2 states has been achieved, and single-pulse energies up to ∼35 µJ have been obtained when pumping the K/Xe mixture in the vicinity of the D 2 line (766.5 nm) in a single-pass pumping configuration of the resonator. The quantum efficiency (>99%) and broad pump-acceptance bandwidth afforded by the KXe excimer lend this hybrid atomic/molecular photodissociation laser to pumping with free-running semiconductor laser arrays.",
+            "journal": "Optics Express",
+            "title_cn": "通过 KXe 准分子中间态光学泵浦的近红外（769–770 nm）K 原子激光",
+            "abstract_cn": "通过填充 KXe 准分子的离解 B 2 Σ 1/2 + 或弱结合 A 2 Π 3/2 态，在宽度 >1.2 THz (>40 cm -1 ) 的连续光谱区域内对 K/Xe 蒸气混合物进行光泵浦，可在原子钾的 D 1 线上 (4 p 2 P 1/2 → 4 s 2 S 1/2 ) 产生激光。随后受激分子的解离填充了 K 原子的 4 p 2 P 3/2 和 4 p 2 P 1/2 能级，后者是 769.9 nm 共振线激光器的上能级。已经实现了自旋轨道分裂 4 p 2 P 3/2 − 4 p 2 P 1/2 态之间 57.7 cm -1 间隙的~60%的激光发射，并且当在谐振器的单程泵浦配置中在 D 2 线（766.5 nm）附近泵浦 K/Xe 混合物时，获得了高达~35 µJ 的单脉冲能量。 KXe 准分子提供的量子效率 (>99%) 和宽泵浦接受带宽使这种混合原子/分子光解离激光器能够通过自由运行的半导体激光器阵列进行泵浦。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.583376",
+            "title": "Coupling surface waves from an oblique incident wave based on a metasurface",
+            "link": "https://doi.org/10.1364/oe.583376",
+            "published": "2026-01-29",
+            "author": "Guoxiang Dong, Bo Xiao, Hongyang Qu, Anxue Zhang, Xiaoming Chen",
+            "summary": "In this work, we achieve a method for the complete conversion of incident oblique waves into surface waves. By controlling the amplitudes of the coupled surface waves, both the direction and power distribution of the surface waves on the metasurface can be flexibly designed. First, using TE-polarized Gaussian waves incident at +40° and –40° as design examples, we demonstrate precise control over the direction and power of the coupled surface waves, thereby validating the proposed method for designing surface wave coupling metasurfaces under oblique incidence. Second, by using TE-polarized Gaussian waves incident at 0°, +20°, and +50°, we further demonstrate the capability of the metasurface to couple surface waves across a broad range of incidence angles. Finally, the impedance profile of the metasurface is implemented using subwavelength unit cells, and a physical prototype of the surface wave coupling metasurface is fabricated. Both numerical simulations and experimental measurements confirm the effectiveness of the design approach in simultaneously controlling the direction and power of coupled surface waves under oblique incidence.",
+            "journal": "Optics Express",
+            "title_cn": "基于超表面的斜入射波耦合表面波",
+            "abstract_cn": "在这项工作中，我们实现了一种将入射斜波完全转换为表面波的方法。通过控制耦合表面波的幅度，可以灵活设计表面波在超表面上的方向和功率分布。首先，以+40°和–40°入射的TE偏振高斯波作为设计实例，展示了对耦合表面波的方向和功率的精确控制，从而验证了所提出的斜入射下表面波耦合超表面的设计方法。其次，通过使用以 0°、+20° 和 +50° 入射的 TE 偏振高斯波，我们进一步证明了超表面在广泛的入射角范围内耦合表面波的能力。最后，利用亚波长晶胞实现了超表面的阻抗分布，并制作了表面波耦合超表面的物理原型。数值模拟和实验测量都证实了该设计方法在同时控制斜入射下耦合表面波的方向和功率方面的有效性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582832",
+            "title": "SBS suppressed 2.82 kW, 10.34 GHz fiber amplifier using real-time p-tunable phase modulation via parallel LFSR structures",
+            "link": "https://doi.org/10.1364/oe.582832",
+            "published": "2026-01-23",
+            "author": "Qianhe Shao, Yifeng Yang, He Wang, Qingyu Liang, Jun Zhou, Junqing Meng",
+            "summary": "Power scaling of high-power narrow-linewidth continuous-wave fiber lasers is limited by stimulated Brillouin scattering (SBS). While inversion probability-tunable (p-tunable) sequence modulation offers dynamic spectral control for enhanced SBS suppression, its practical implementation has been hindered by reliance on complex, expensive arbitrary waveform generators (AWG) or significant hardware complexity (particularly demanding logic resource requirements) of conventional field-programmable gate array (FPGA)-based implementations. This work introduces what we believe to be a novel, hardware-efficient approach to overcome these limitations. We present a hardware-efficient parallel linear feedback shift register (LFSR) architecture with comparator probability adjustment, enabling real-time, precise p-value control at 10 GHz clock rates, significantly reducing cost and complexity. Concurrently, we establish a quantitative acoustic-photonic dynamics model based on a time-dependent three-wave coupled equation, solving the nonlinear interactions among signal laser photons, phonons, and Stokes waves under p-tunable modulation. This model enables systematic optimization, theoretically predicting and experimentally confirming maximal SBS threshold enhancement at p = 0.58. Leveraging this optimized parameter, our system achieves 2.82 kW output power with a 10.34 GHz FWHM linewidth. Compared to systems using pseudo-random binary sequence (PRBS) modulation (achieving 2.46 kW at ∼10 GHz FWHM linewidth), this represents a 13% increase in output power. This integrated hardware-theory solution provides a practical and effective approach for SBS suppression in high-power narrow-linewidth fiber lasers, enabling higher power scaling and stable operation.",
+            "journal": "Optics Express",
+            "title_cn": "SBS 抑制 2.82 kW、10.34 GHz 光纤放大器，通过并行 LFSR 结构使用实时 p 可调相位调制",
+            "abstract_cn": "高功率窄线宽连续波光纤激光器的功率缩放受到受激布里渊散射（SBS）的限制。虽然反演概率可调（p 可调）序列调制提供动态频谱控制以增强 SBS 抑制，但其实际实现却因依赖于复杂、昂贵的任意波形发生器 (AWG) 或基于传统现场可编程门阵列 (FPGA) 的传统实现的显着硬件复杂性（特别是苛刻的逻辑资源要求）而受到阻碍。这项工作介绍了我们认为是一种新颖的、硬件高效的方法来克服这些限制。我们提出了一种具有比较器概率调整功能的硬件高效并行线性反馈移位寄存器 (LFSR) 架构，可在 10 GHz 时钟速率下实现实时、精确的 p 值控制，从而显着降低成本和复杂性。同时，我们建立了基于时变三波耦合方程的定量声光子动力学模型，求解p可调调制下信号激光光子、声子和斯托克斯波之间的非线性相互作用。该模型可实现系统优化，从理论上预测并通过实验确认 p = 0.58 时的最大 SBS 阈值增强。利用这一优化参数，我们的系统实现了 2.82 kW 输出功率和 10.34 GHz FWHM 线宽。与使用伪随机二进制序列 (PRBS) 调制的系统（在 ∼10 GHz FWHM 线宽下实现 2.46 kW）相比，输出功率增加了 13%。这种集成的硬件理论解决方案为高功率窄线宽光纤激光器中的SBS抑制提供了一种实用且有效的方法，从而实现更高的功率缩放和稳定的运行。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502697",
+            "title": "One‐Step In Situ Synthesis of Carbon Dot‐Based Nanospheres With Underwater Color‐Tunable, Dual‐Mode Long‐Afterglow Emission",
+            "link": "https://doi.org/10.1002/lpor.202502697",
+            "published": "2026-01-29",
+            "author": "Tengyang Cao, Lei Chen, Helang Li, Zinan Jiang, Jiawen Li, Jijun Huang, Caiqi Wang",
+            "summary": "ABSTRACT Carbon dot (CD)‐based afterglow materials have recently proliferated in various areas, but color‐tunable, carbon dot‐based underwater afterglow nanomaterials remain largely unexplored. Moreover, the existing synthesis methods are generally complex, and there has been a notable lack of efficient, one‐step preparation techniques. We present a simple one‐step hydrothermal method to synthesize CD‐based nanomaterials that exhibit stable dual‐mode underwater emission comprising room‐temperature phosphorescence (RTP) and thermally activated delayed fluorescence (TADF). Using 3‐aminopropyltriethoxysilane, a densely cross‐linked SiO 2 matrix forms, embedding in situ generated CDs. This confined structure stabilizes triplet excitons, enabling an ultra‐long underwater afterglow lifetime of 1218 ms and a quantum yield of 46.7%. By doping with halide ions, the afterglow wavelength was tuned from 402 to 560 nm, achieving multicolor emission. The nanocomposites maintain stable afterglow performance in harsh conditions, including strong acids, alkalis, oxidants, and polar solvents. Given its exceptional stability and multicolor afterglow, the material was used to construct a sophisticated triple anti‐counterfeiting system, demonstrating great potential for advanced information encryption.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "一步原位合成具有水下颜色可调、双模式长余辉发射的碳点基纳米球",
+            "abstract_cn": "摘要 基于碳点（CD）的余辉材料最近在各个领域激增，但颜色可调的基于碳点的水下余辉纳米材料在很大程度上仍未得到探索。此外，现有的合成方法普遍较为复杂，明显缺乏高效的一步制备技术。我们提出了一种简单的一步水热方法来合成基于 CD 的纳米材料，该材料表现出稳定的双模水下发射，包括室温磷光（RTP）和热激活延迟荧光（TADF）。使用 3-氨基丙基三乙氧基硅烷，形成致密交联的 SiO 2 基质，嵌入原位生成的 CD。这种受限结构稳定了三线态激子，实现了 1218 ms 的超长水下余辉寿命和 46.7% 的量子产率。通过掺杂卤化物离子，余辉波长从402 nm调谐到560 nm，实现多色发射。该纳米复合材料在强酸、强碱、氧化剂和极性溶剂等恶劣条件下仍能保持稳定的余辉性能。由于其卓越的稳定性和多色余辉，该材料被用来构建复杂的三重防伪系统，展示了先进信息加密的巨大潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502619",
+            "title": "Information Metasurface‐Enabled Dynamically Reconfigurable Radar Electromagnetic Phantoms",
+            "link": "https://doi.org/10.1002/lpor.202502619",
+            "published": "2026-01-29",
+            "author": "Shijian Yu, Jinxing Guo, Dongfang Guan, Zhen Liu, Yongxiang Liu",
+            "summary": "ABSTRACT Radar electromagnetic phantoms aim to deceive radar systems by introducing virtual targets—entities that do not physically exist—into radar imagery, thereby inducing erroneous recognition. Information metasurfaces, functioning as digitally reconfigurable electromagnetic reflectors, offer unprecedented capabilities in multidimensional radar target signatures control. Nevertheless, existing space‐coding‐based techniques are constrained by static phantom image templates, limiting their ability to generate dynamically reconfigurable radar phantoms. Temporal modulation strategies are susceptible to synchronization errors under non‐cooperative scenarios. To address these challenges, this paper proposes a novel method for generating image‐level, dynamically stable, and reconfigurable radar electromagnetic phantoms via information metasurfaces. The proposed approach leverages the geometric theory of diffraction (GTD) to extract characteristic parameters oftargets. These parameters subsequently guide the design of asynchronous frequency‐modulated sequences implemented on the metasurface. A 1‐bit information metasurface prototype was developed and experimentally validated. The results demonstrate its capability to generate a variety of reconfigurable radar phantoms in high‐resolution range profiles (HRRPs) in real time. Furthermore, both human radar image interpretation and artificial neural network (ANN)‐based classification exhibit high confidence in identifying the modulated imagery as authentic targets, thereby confirming the effectiveness of deception. The developed metasurface and its associated modulation strategy hold significant promise for critical target protection in electronic warfare scenarios.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "信息超表面动态可重构雷达电磁体模",
+            "abstract_cn": "摘要 雷达电磁幻影旨在通过将虚拟目标（物理上不存在的实体）引入雷达图像中来欺骗雷达系统，从而引起错误识别。信息超表面作为数字可重构电磁反射器，在多维雷达目标特征控制方面提供了前所未有的功能。然而，现有的基于空间编码的技术受到静态模型图像模板的限制，限制了它们生成动态可重构雷达模型的能力。在非合作场景下，时间调制策略容易受到同步错误的影响。为了应对这些挑战，本文提出了一种通过信息超表面生成图像级、动态稳定和可重构雷达电磁体模的新方法。该方法利用衍射几何理论（GTD）来提取目标的特征参数。这些参数随后指导在超表面上实现的异步调频序列的设计。开发了 1 位信息超表面原型并进行了实验验证。结果证明其能够实时生成高分辨率距离剖面（HRRP）中的各种可重构雷达模型。此外，人类雷达图像解释和基于人工神经网络（ANN）的分类在将调制图像识别为真实目标方面表现出很高的置信度，从而证实了欺骗的有效性。所开发的超表面及其相关的调制策略对于电子战场景中的关键目标保护具有重大前景。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202501055",
+            "title": "Inverse Design of Mirror‐Symmetric Disordered Systems for Broadband Perfect Transmission",
+            "link": "https://doi.org/10.1002/lpor.202501055",
+            "published": "2026-01-29",
+            "author": "Zhazira Zhumabay, Clément Ferise, Vincent Pagneux, Stefan Rotter, Matthieu Davy",
+            "summary": "ABSTRACT We present a framework for achieving broadband perfect wave transmission in complex systems by optimizing symmetric disordered media via inverse design. We show that leveraging symmetry of complex media reduces the optimization's complexity enabling the incorporation of additional constraints in the parameter space. Starting from a single perfectly transmitting state with predefined input and output wavefronts at a specific frequency, we progressively broaden the bandwidth — from a reflectionless exceptional point with a flattened lineshape to narrowband filters and ultimately to broadband quasi‐perfect transmission exhibiting a rainbow effect. Numerical simulations based on the coupled dipole approximation are validated experimentally in a multichannel microwave waveguide with dielectric and metallic scatterers. Finally, we demonstrate broadband enhanced wave transmission through barriers highlighting the potential for advanced wave control applications.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "宽带完美传输镜像对称无序系统的逆设计",
+            "abstract_cn": "摘要：我们提出了一个框架，通过逆向设计优化对称无序介质，在复杂系统中实现宽带完美波传输。我们表明，利用复杂介质的对称性可以降低优化的复杂性，从而能够在参数空间中加入额外的约束。从在特定频率下具有预定义输入和输出波前的单一完美传输状态开始，我们逐步拓宽带宽——从具有扁平线形的无反射特殊点到窄带滤波器，最终到表现出彩虹效应的宽带准完美传输。基于耦合偶极近似的数值模拟在具有介电和金属散射体的多通道微波波导中进行了实验验证。最后，我们展示了通过障碍物的宽带增强波传输，突出了先进波控制应用的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202503085",
+            "title": "Dynamic and Underwater X‐ray Imaging Enabled by Instant Ion Exchange of Copper Halide Scintillators",
+            "link": "https://doi.org/10.1002/lpor.202503085",
+            "published": "2026-01-29",
+            "author": "Xinjiang Zhan, Jie Cao, Le Dong, Ye Xun, Ya Chen, Yulong Wang, Bing Chen, Shujuan Liu, Xiuwen Xu, Qiang Zhao",
+            "summary": "ABSTRACT Organic–inorganic hybrid copper halides, with exceptional optoelectronic properties encoded in their highly tunable crystal structure, are emerging as promising candidates for next‐generation scintillators. However, achieving both high light yield and fast luminescence decay in copper halides remains a significant challenge, limiting their application in real‐time X‐ray imaging. Here, a simple yet effective ion exchange approach is developed to enable rapid conversion of (MeEn) 2 Cu 4 Br 6 (MeEn = 3‐methylbut‐2‐enyl(triphenyl)phosphanium) to (MeEn) 2 Cu 4 I 6 , resulting in a near‐unity photoluminescence quantum yield (PLQY), a 1.7‐fold increase in light yield (39700 photons MeV −1 ), and a 15‐fold reduction in luminescence decay time (2.4 µs). Mechanistic investigations reveal that the enhanced scintillation properties arise from reduced lattice distortion, appropriately weakened electron‐phonon coupling, and strong spin–orbit coupling induced by the heavy iodine atom. Beyond (MeEn) 2 Cu 4 X 6 , this approach is applicable to a variety of copper halides, leading to consistent improvements in photophysical performance. Finally, by embedding (MeEn) 2 Cu 4 I 6 with a polymer matrix, the resulting scintillation film is further entailed with desired flexibility and water resistance, demonstrating its capability in static, dynamic, curved, and underwater X‐ray imaging.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "通过卤化铜闪烁体的即时离子交换实现动态和水下 X 射线成像",
+            "abstract_cn": "摘要 有机-无机杂化卤化铜具有高度可调谐晶体结构中编码的卓越光电特性，正在成为下一代闪烁体的有希望的候选者。然而，在卤化铜中同时实现高光产率和快速发光衰减仍然是一个重大挑战，限制了它们在实时 X 射线成像中的应用。在这里，开发了一种简单而有效的离子交换方法，能够将 (MeEn) 2 Cu 4 Br 6 （MeEn = 3-甲基丁-2-烯基（三苯基）鏻）快速转化为 (MeEn) 2 Cu 4 I 6 ，从而产生接近一致的光致发光量子产率（PLQY），光产额增加 1.7 倍（39700 光子 MeV -1 ），并且光致发光量子产率增加 15 倍。减少发光衰减时间（2.4 µs）。机理研究表明，闪烁性能的增强源于晶格畸变的减少、电子声子耦合的适当减弱以及重碘原子引起的强自旋轨道耦合。除了 (MeEn) 2 Cu 4 X 6 之外，该方法还适用于各种卤化铜，从而实现光物理性能的持续改进。最后，通过将(MeEn) 2 Cu 4 I 6 嵌入聚合物基质，所得闪烁膜进一步具有所需的柔韧性和耐水性，展示了其静态、动态、弯曲和水下X射线成像的能力。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202501893",
+            "title": "Chiral Quantum Optics With Topological Photonic Crystal Waveguide of Triangular Lattice",
+            "link": "https://doi.org/10.1002/lpor.202501893",
+            "published": "2026-01-29",
+            "author": "Hancong Li, Sai Yan, Zhikai Ma, Rui Zhu, Hanqing Liu, Xiqing Chen, Yu Yuan, Longlong Yang, Haiqiao Ni, Zhichuan Niu, Qihuang Gong, Xiulai Xu",
+            "summary": "ABSTRACT We present a versatile dielectric platform for studying chiral light–matter interaction and cavity quantum electrodynamics, based on high bend transmittance waveguide (HBT WG) modes of triangular‐lattice photonic crystals (Tri‐PhCs). The demonstration of chiral coupling is realized by employing two Tri‐PhC zigzag interface waveguides which offer a simplified geometry in the first place. Compared to previous honeycomb‐lattice systems, Tri‐PhC zigzag waveguides provide at least twice the effective chiral area for quantum dot (QD) interaction and support accessible slow‐light modes that are crucial for light–matter interaction. Integrating self‐assembled QDs, we experimentally demonstrate chiral photon routing in Z‐shaped Tri‐PhC HBT WGs, confirming robust directional photon transport. Additionally, we incorporate a whispering‐gallery‐mode cavity‐waveguide structure to achieve Purcell‐enhanced on‐chip single‐photon emission, with a Purcell factor of 4 and spin‐dependent directional contrast of 82%. Our results show the potential of Tri‐PhC‐based topological waveguides as a promising, scalable platform for low‐loss, high‐chirality quantum photonic devices.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "三角晶格拓扑光子晶体波导的手性量子光学",
+            "abstract_cn": "摘要：我们提出了一个基于三角晶格光子晶体（Tri-PhC）的高弯曲透射率波导（HBT WG）模式的多功能介电平台，用于研究手性光与物质相互作用和腔量子电动力学。手性耦合的演示是通过采用两个 Tri-PhC 之字形界面波导来实现的，这首先提供了简化的几何形状。与之前的蜂窝晶格系统相比，Tri-PhC 之字形波导为量子点 (QD) 相互作用提供至少两倍的有效手性面积，并支持对光与物质相互作用至关重要的慢光模式。集成自组装量子点，我们通过实验证明了 Z 形 Tri-PhC HBT WG 中的手性光子路由，证实了稳健的定向光子传输。此外，我们采用回音壁模式腔波导结构来实现 Purcell 增强的片上单光子发射，Purcell 因子为 4，自旋相关的方向对比度为 82%。我们的结果表明，基于 Tri-PhC 的拓扑波导作为低损耗、高手性量子光子器件的有前途的、可扩展的平台具有潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502750",
+            "title": "Super Depth‐of‐Field Snapshot Light‐Field Microscopy",
+            "link": "https://doi.org/10.1002/lpor.202502750",
+            "published": "2026-01-29",
+            "author": "Zhi‐Yong Hu, Chang Qiao, Jian‐Yu Dou, Ming‐Ze Zhao, Zhen‐Nan Tian, Yue‐Ying Zhang, Yan‐Hao Yu, Chong Pan, Yong‐Lai Zhang, Qi‐Dai Chen, Din Ping Tsai, Hong‐Bo Sun",
+            "summary": "ABSTRACT Snapshot light‐field microscopes (SLFMs) enable high‐speed 3D observation (4D imaging) of dynamic micro‐targets. However, their performance is fundamentally restricted by the inherent planar structure of microlens arrays (MLAs), which leads to tradeoffs among resolution, depth of field (DOF), and depth perception, making large DOF light‐field detection extremely challenging. Here, we propose a paradigm in curved MLA with a logarithmic profile, featuring extreme depth of focus (>346λ), enhanced parallax (273%), and near‐diffraction‐limited resolution, outperforming conventional planar counterparts. Integrated into a commercial microscope and combined with neural network‐based reconstruction, this architecture yields a super depth‐of‐field snapshot light‐field microscope (SDOF‐SLFM), achieving over 15 times improvement in DOF (>3 mm) and enabling in situ stereo imaging of micro‐pyramids and 4D tracking of micro‐particles in flow fields. This study offers a practical pathway for upgrading SLFMs without complex system assembly or sample processing, facilitating the adaptation of conventional commercial microscopes to dynamic 4D imaging applications such as biological laboratories and microfluidic flow monitoring.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "超景深快照光场显微镜",
+            "abstract_cn": "摘要 快照光场显微镜 (SLFM) 能够对动态微目标进行高速 3D 观察（4D 成像）。然而，它们的性能从根本上受到微透镜阵列（MLA）固有平面结构的限制，这导致分辨率、景深（DOF）和深度感知之间的权衡，使得大DOF光场检测极具挑战性。在这里，我们提出了一种具有对数轮廓的弯曲 MLA 范例，具有极高的焦深 (>346λ)、增强的视差 (273%) 和近衍射极限的分辨率，优于传统的平面同类产品。集成到商用显微镜中并与基于神经网络的重建相结合，该架构产生了超景深快照光场显微镜（SDOF-SLFM），实现了自由度（>3毫米）超过15倍的改进，并实现了微金字塔的原位立体成像和流场中微粒的4D跟踪。这项研究提供了一种无需复杂系统组装或样品处理即可升级 SLFM 的实用途径，有助于传统商用显微镜适应动态 4D 成像应用，例如生物实验室和微流体监测。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502793",
+            "title": "Monolithically Integrated Silicon Photonic Local Oscillator‐Free Homodyne Receiver",
+            "link": "https://doi.org/10.1002/lpor.202502793",
+            "published": "2026-01-30",
+            "author": "Jingchi Li, Hua Zhong, Yixiao Zhu, Yu He, Zhen Wang, Xiong Ni, Xingchen Ji, Qian Hu, Haoshuo Chen, Nicolas K. Fontaine, Roland Ryf, William Shieh, Yikai Su",
+            "summary": "ABSTRACT The exponential growth of global data traffic driven by artificial intelligence and cloud computing necessitates cost‐efficient, ultrahigh‐capacity optical interconnects. Integrated photonic interconnect offers a promising solution but faces critical bottlenecks: integrated coherent receivers require local oscillator (LO) lasers, resulting in material incompatibility and cost challenges for monolithic integration, while integrated self‐coherent schemes fundamentally suffer from nonlinear distortions induced by the nonlinear beating process between signal inputs during optical‐to‐electrical mapping, which limits both capacity and spectral efficiency. Here, we present an integrated LO‐free homodyne detection scheme with superior linearity enabled by a micro‐ring filter. The Si 3 N 4 micro‐ring resonator effectively filters out the optical carrier for homodyne detection, saving the LO in coherent receivers and eliminating the second‐order nonlinear distortions commonly encountered in self‐coherent schemes. Our fabricated monolithically integrated silicon photonic receiver enables single‐polarization 600‐Gb/s 16‐ary quadrature amplitude modulated orthogonal frequency division multiplexing signal transmission over an 80‐km fiber, achieving a net 480‐Gb/s per polarization. This represents an 86% improvement over previous integrated self‐coherent detection records and matches that of state‐of‐the‐art integrated coherent systems. Multichannel validation across the C band further confirms the dense wavelength‐division multiplexing compatibility. This work provides an Optical communication, dense wavelength division multiplexing, direct detection, integrated photonic interconnects, silicon photonicsscalable and cost‐effective solution essential for future 1.6 Tb/s per lane optical interconnects.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "单片集成硅光子无本地振荡器零差接收器",
+            "abstract_cn": "摘要：人工智能和云计算推动的全球数据流量呈指数级增长，需要经济高效、超高容量的光互连。集成光子互连提供了一种有前途的解决方案，但面临关键瓶颈：集成相干接收器需要本地振荡器（LO）激光器，导致单片集成的材料不兼容和成本挑战，而集成自相干方案从根本上遭受光电映射期间信号输入之间的非线性拍频过程引起的非线性失真，这限制了容量和频谱效率。在这里，我们提出了一种集成的无 LO 零差检测方案，通过微环滤波器实现卓越的线性度。 Si 3 N 4 微环谐振器有效地滤除用于零差检测的光载波，节省了相干接收器中的本振，并消除了自相干方案中常见的二阶非线性失真。我们制造的单片集成硅光子接收器可在 80 公里光纤上实现单偏振 600 Gb/s 16 进制正交调幅正交频分复用信号传输，实现每偏振 480 Gb/s 的净传输速度。这比之前的集成自相干检测记录提高了 86%，并且与最先进的集成相干系统相匹配。 C 波段的多通道验证进一步证实了密集波分复用兼容性。这项工作提供了光通信、密集波分复用、直接检测、集成光子互连、硅光子可扩展且经济高效的解决方案，这对于未来每通道 1.6 Tb/s 光互连至关重要。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502957",
+            "title": "Optical Topological Differentiation Cryptography",
+            "link": "https://doi.org/10.1002/lpor.202502957",
+            "published": "2026-01-30",
+            "author": "Yanliang He, Yuanfeng Zhu, Haimei Luo, Wen Yuan, Guiqiang Liu, Zhengqi Liu, Xianping Wang, Junxiao Zhou",
+            "summary": "ABSTRACT Optical encryption provides an effective way to secure confidential information, featuring low energy consumption, parallel operation, high speed, and the ability to process multidimensional data. However, a unified framework that can encrypt and decrypt optical information across the fundamental spatial physical dimensions (amplitude, phase, and polarization) is still lacking. Here, we present an optical cryptography approach based on topological differentiation via Pancharatnam–Berry (PB) phase liquid crystal optical elements. By leveraging the spin‐dependent phase modulation of the PB phase, binary‐encoded optical images in any physical dimension are encrypted into an identical ciphertext, effectively hiding the information by converting it into edge‐based representations. Decryption is accomplished through a conjugate topological differentiation operation, which precisely reverses the process by redistributing energy from the edge back to the center, thereby restoring the original image. As a proof of concept, we successfully demonstrated the encryption and decryption of the plaintext information “LIGHT” across the spatial dimensions of amplitude, phase, and polarization. This work introduces a new paradigm in optical information security by innovatively applying optical differentiation to physical‐layer encryption and decryption, providing a robust and unified approach for the protection of multidimensional optical data.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "光拓扑微分密码学",
+            "abstract_cn": "摘要 光加密提供了一种保护机密信息的有效方法，具有低能耗、并行操作、高速和处理多维数据的能力。然而，仍然缺乏可以跨基本空间物理维度（幅度、相位和偏振）加密和解密光学信息的统一框架。在这里，我们提出了一种基于 Pancharatnam-Berry (PB) 相液晶光学元件拓扑微分的光学密码学方法。通过利用 PB 相位的自旋相关相位调制，任何物理维度的二进制编码光学图像都被加密为相同的密文，通过将其转换为基于边缘的表示来有效隐藏信息。解密是通过共轭拓扑微分运算完成的，该运算通过将能量从边缘重新分配回中心来精确地反转该过程，从而恢复原始图像。作为概念证明，我们成功地演示了在幅度、相位和偏振的空间维度上对明文信息“LIGHT”的加密和解密。这项工作通过创新地将光差分应用于物理层加密和解密，引入了光信息安全的新范式，为保护多维光数据提供了强大且统一的方法。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41377-026-02197-6",
+            "title": "Experimental observation of topological Dirac vortex mode in terahertz photonic crystal fibers",
+            "link": "https://doi.org/10.1038/s41377-026-02197-6",
+            "published": "2026-01-30",
+            "author": "Hongyang Xing, Zhanqiang Xue, Perry Ping Shum, Longqing Cong",
+            "summary": "Abstract Photonic crystal fibers have significantly advanced optoelectronics, enabling a wide range of applications from communications to sensing and imaging. A long-standing challenge in these areas has been achieving pure single-polarization single-mode (SPSM) waveguiding for high-quality information transmission. Traditional approaches, however, inevitably introduce polarization dispersion and operate within a narrow bandwidth. Recent advancements in topological phases offer a promising opportunity to access previously unattainable mode properties, though experimental demonstrations remain scarce. In this work, we present the first experimental observation of a topologically protected photonic Dirac vortex mode that supports pure SPSM propagation in terahertz fibers. Utilizing terahertz scanning near-field microscopic spectroscopy, we map the temporal, spectral, and spatial characteristics of the topological mode, providing insights into its mode profile, dispersion, effective area, and numerical aperture. We demonstrate a single linearly dispersed Dirac vortex mode with a single vortex polarization and a broad 85.7% fractional bandwidth. This breakthrough fills a crucial gap in the development of SPSM fibers and introduces a comprehensive methodology for exploring mode properties, paving the way for advancements in terahertz optoelectronics, topological photonics, and specialty optical fibers.",
+            "journal": "Light: Science & Applications",
+            "title_cn": "太赫兹光子晶体光纤中拓扑狄拉克涡旋模式的实验观察",
+            "abstract_cn": "摘要 光子晶体光纤具有显着先进的光电学特性，可实现从通信到传感和成像的广泛应用。这些领域长期面临的挑战是实现纯单偏振单模（SPSM）波导以实现高质量信息传输。然而，传统方法不可避免地引入偏振色散并且在窄带宽内运行。尽管实验演示仍然很少，但拓扑相的最新进展为获得以前无法实现的模式属性提供了一个有希望的机会。在这项工作中，我们首次对拓扑保护的光子狄拉克涡旋模式进行了实验观察，该模式支持太赫兹光纤中的纯 SPSM 传播。利用太赫兹扫描近场显微光谱，我们绘制了拓扑模式的时间、光谱和空间特征，从而深入了解其模式轮廓、色散、有效面积和数值孔径。我们展示了具有单一涡旋偏振和宽 85.7% 分数带宽的单一线性分散狄拉克涡旋模式。这一突破填补了 SPSM 光纤发展的关键空白，并引入了探索模式特性的综合方法，为太赫兹光电子学、拓扑光子学和特种光纤的进步铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41377-025-02074-8",
+            "title": "Monolithic III–V membrane photonic crystal lasers on SOI using selective lateral heteroepitaxy",
+            "link": "https://doi.org/10.1038/s41377-025-02074-8",
+            "published": "2026-01-30",
+            "author": "Cong Zeng, Zhaojie Ren, Zili Lei, Donghui Fu, Yingzhi Zhao, Ying Yu, Yu Han, Siyuan Yu",
+            "summary": "Abstract III–V photonic crystal (PhC) lasers with small footprints and low power consumption are potential ultra-compact and power-efficient light sources for future on-chip optical interconnects. Conventional PhC lasers fabricated by vertical epitaxy require suspended air-bridge structures and air holes etched through the gain medium, severely compromising mechanical resistance to external impacts and pumping efficiency. While bonding and regrowth can mitigate these issues, their fabrication complexity substantially increases process costs and hinders mass production. Here, we address these issues using selective lateral heteroepitaxy and demonstrate monolithically integrated III–V membrane PhC lasers on (001) silicon-on-insulator (SOI). By leveraging selective lateral heteroepitaxy and metal organic chemical vapor deposition (MOCVD), we achieved the growth of dislocation-free InP membranes on SOI wafers patterned in Si-photonics foundries. The unique III-V-on-insulator avoids the formation of air-suspended structures and significantly enhances the mechanical stability of the devices. We also precisely positioned the laterally grown InGaAs/InP quantum wells (QWs) at the center of the InP membrane to avoid etching air holes through the gain medium, thus eliminating surface recombination and drastically improving pumping efficiency. We fabricated near-infrared and telecom PhC lasers using laterally grown III–V membranes, and achieved room-temperature lasing at 910 nm and 1430 nm with low thresholds of 17.5 μJ/cm² and 5.7 μJ/cm², respectively. Our results establish a novel approach for fabricating PhC lasers and provide an elegant solution for monolithically integrated PhC lasers in next-generation optical interconnects.",
+            "journal": "Light: Science & Applications",
+            "title_cn": "使用选择性横向异质外延的 SOI 上的单片 III-V 膜光子晶体激光器",
+            "abstract_cn": "摘要 具有小尺寸和低功耗的 III-V 光子晶体 (PhC) 激光器是未来片上光学互连潜在的超紧凑和高能效光源。通过垂直外延制造的传统 PhC 激光器需要悬浮空气桥结构和通过增益介质蚀刻的气孔，严重影响了对外部冲击的机械抵抗力和泵浦效率。虽然键合和再生长可以缓解这些问题，但它们的制造复杂性大大增加了工艺成本并阻碍了大规模生产。在这里，我们使用选择性横向异质外延来解决这些问题，并展示了 (001) 绝缘体上硅 (SOI) 上的单片集成 III-V 膜 PhC 激光器。通过利用选择性横向异质外延和金属有机化学气相沉积 (MOCVD)，我们在硅光子铸造厂图案化的 SOI 晶圆上实现了无位错 InP 膜的生长。独特的 III-V 绝缘体避免了空气悬浮结构的形成，并显着增强了器件的机械稳定性。我们还将横向生长的 InGaAs/InP 量子阱 (QW) 精确定位在 InP 膜的中心，以避免通过增益介质蚀刻气孔，从而消除表面复合并大幅提高泵浦效率。我们使用横向生长的 III-V 膜制造了近红外和电信 PhC 激光器，并在 910 nm 和 1430 nm 处实现了室温激光发射，阈值分别为 17.5 μJ/cm2 和 5.7 μJ/cm2。我们的研究结果建立了一种制造 PhC 激光器的新颖方法，并为下一代光学互连中的单片集成 PhC 激光器提供了优雅的解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02289",
+            "title": "An Optofluidic Platform Based on the Geometric Phase of Cholesteric Liquid Crystals for Dynamic Light Field Control",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02289",
+            "published": "2026-01-29",
+            "author": "Shi-Long Li, Wei-Xiang Xiu, Liang Liu, Sen-Sen Li, Xuejia Hu, Lu-Jian Chen",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "基于胆甾型液晶几何相位的动态光场控制光流控平台",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02359",
+            "title": "Photovoltaic Modulation of Magneto-Transport in Fe 3 GeTe 2 /n-Si van der Waals Heterostructures via Interfacial Photoelectron Transfer",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02359",
+            "published": "2026-01-30",
+            "author": "Nan Sun, Chang Niu, Zhibo Zhou, Qian Cao, Jican Hao, Hao Geng, Ning Fang, Han Zhang, Lei Wang, Ziyao Zhou",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "通过界面光电子转移对 Fe 3 GeTe 2 /n-Si 范德华异质结构中的磁传输进行光伏调制",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02338",
+            "title": "Depth-Resolved Volumetric Two-Photon Fluorescence Microscopy Based on Power-Exponent-Phase Vortex Autofocusing Beam",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02338",
+            "published": "2026-01-30",
+            "author": "Guangbo Zhang, Sisi Zhou, Ye Fang, Xuefeng Sun, Qianglong Yang, Chao Zhang, Rui Hu, Jiaqing Guo, Binglin Shen, Yuankai Guo, Can Zhao, Yan Huang, Weiguang Zheng, Zhixin Cong, Liwei Liu",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "基于功率指数相位涡旋自动聚焦光束的深度分辨体积双光子荧光显微镜",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

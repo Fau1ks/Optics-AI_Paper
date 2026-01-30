@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-30 13:27:35",
+    "update_time": "2026-01-30 15:27:36",
     "word_filename": "Optical_Papers_260130.docx",
-    "total_count": 115,
+    "total_count": 116,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlastec.2026.114790",
@@ -1267,6 +1267,17 @@
             "journal": "Applied Optics",
             "title_cn": "改进的 Sage–Husa 自适应卡尔曼滤波器，用于双梳测距中的多源噪声抑制",
             "abstract_cn": "双光梳测距具有测量精度高、更新速率快的优点；但在实际应用中容易受到环境干扰，其测量信息往往混杂着时变、非平稳的环境噪声，导致测距精度下降。在本文中，我们提出了一种结合残差和滑动窗口的改进的Sage-Husa自适应卡尔曼滤波（SHAKF）算法，用于双梳绝对距离测量系统中的多源降噪。此外，还引入了VMD-SWT算法来对干涉信号进行数字处理。该算法保留了Sage-Husa滤波器的遗忘因子，引入Q和R的指数加权更新来增强参数估计的实时性，提出滑动窗口策略来处理突变噪声，同时根据噪声自适应调整参数。经验证，我们的方法可以有效抑制多种类型的噪声，将测距精度提高一个数量级至微米级，并将五个测量集的平均绝对误差 (MAE) 和均方根误差 (RMSE) 降低 63% 以上。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132963",
+            "title": "Accurate capture and display of real-world three-dimensional scene using fringe projection and deep-learning",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132963",
+            "published": "2026-01-01",
+            "author": "Mengmeng Shen, Jiacheng Luo, Fengjuan Chen, Haihua Zhang, Yong Li",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "利用条纹投影和深度学习精确捕捉和显示真实世界的三维场景",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

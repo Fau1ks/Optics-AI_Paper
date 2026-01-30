@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-30 11:30:13",
+    "update_time": "2026-01-30 13:27:35",
     "word_filename": "Optical_Papers_260130.docx",
-    "total_count": 113,
+    "total_count": 115,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlastec.2026.114790",
@@ -1245,6 +1245,28 @@
             "journal": "arXiv: Nerf & Neural Fields",
             "title_cn": "从隐式模糊性到显式可靠性：诊断神经辐射场中的内部几何退化以实现密集 3D 场景理解",
             "abstract_cn": "神经辐射场 (NeRF) 已成为多视图重建的强大范例，补充了基于运动结构 (SfM) 和多视图立体 (MVS) 的经典摄影测量流程。然而，人们对它们在密集、自遮挡场景中进行定量 3D 分析的可靠性仍知之甚少。在这项研究中，我们确定了重度遮挡下隐式密度场的基本失效模式，我们将其称为内部几何退化（IGD）。我们表明，基于透射率的体积优化通过重建空心或碎片结构而不是实心内部来满足光度监督，从而导致系统的实例低估。通过对遮挡增加的合成数据集进行受控实验，我们证明了最先进的掩模监督 NeRF 在密集场景中的实例恢复率约为 89%，尽管表面相干性和掩模质量有所提高。为了克服这个限制，我们引入了一种基于稀疏体素光栅化（SVRaster）的显式几何管道，从 SfM 特征几何体初始化。通过将 2D 实例掩模投影到显式体素网格上并通过递归分裂强制几何分离，我们的方法保留了物理坚固性并在密集簇中实现了 95.8% 的恢复率。使用降级分割掩模的敏感性分析进一步表明，基于 SfM 的显式几何对于监督失败来说更加稳健，比隐式基线恢复的实例多 43%。这些结果表明，显式几何先验是在高度自遮挡 3D 场景中进行可靠定量分析的先决条件。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.585084",
+            "title": "Defects engineering of α-Al 2 O 3 via high-temperature annealing and Ti ion implantation for enhanced luminescence and thermometric applications",
+            "link": "https://doi.org/10.1364/ao.585084",
+            "published": "2026-01-26",
+            "author": "Yiming Hu, Yifan Zhao, Zhen Shang, Ye Yuan, Yongjian Gu",
+            "summary": "Aluminum oxide (Al 2 O 3 ) has garnered considerable interest owing to its defect characteristics, superior optoelectronic, and mechanical properties, enabling broad application prospects in chemical, sensing, and related technologies. Oxygen vacancies (F and F + center), as prevalent defects in Al 2 O 3 , have attracted considerable research attention due to their promising application prospects. In this study, oxygen vacancies and their aggregates (F 2 and F 2 2+ ) were efficiently and conveniently fabricated in Al 2 O 3 via high-temperature (1450 ∘ C) annealing under N 2 atmosphere. Subsequent low-energy and low-dose Ti ion implantation effectively sensitized the F 2 2+ luminescence, enhancing the fluorescence intensity by an order of magnitude. Temperature-dependent studies revealed that elevated temperatures attenuated the sensitization effect, resulting in progressive fluorescence quenching. Concurrently, spectral broadening (increased FWHM) accompanied a blueshift of the emission peaks. This synergistic thermal response suggests promising potential for thermometry applications.",
+            "journal": "Applied Optics",
+            "title_cn": "通过高温退火和 Ti 离子注入对 α-Al 2 O 3 进行缺陷工程，以增强发光和测温应用",
+            "abstract_cn": "氧化铝（Al 2 O 3 ）由于其缺陷特性、优异的光电和机械性能而引起了人们的广泛关注，在化学、传感和相关技术中具有广阔的应用前景。氧空位（F和F + 中心）作为Al 2 O 3 中普遍存在的缺陷，由于其良好的应用前景而引起了广泛的研究关注。本研究通过N 2 气氛下的高温（1450 ∘ C）退火，在Al 2 O 3 中高效、便捷地制备了氧空位及其聚集体（F 2 和F 2 2+ ）。随后的低能量和低剂量Ti离子注入有效地敏化了F 2 2+ 发光，将荧光强度增强了一个数量级。温度依赖性研究表明，升高的温度会减弱敏化效应，导致逐渐的荧光猝灭。同时，光谱展宽（半高宽增加）伴随着发射峰的蓝移。这种协同热响应表明测温应用具有广阔的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.582876",
+            "title": "Modified Sage–Husa adaptive Kalman filter for multi-source noise mitigation in dual-comb ranging",
+            "link": "https://doi.org/10.1364/ao.582876",
+            "published": "2026-01-26",
+            "author": "Le Xu, Zhehai Zhou, Aike Yu, Shiyu Yang",
+            "summary": "Dual optical comb ranging has the advantages of high measurement accuracy and fast update rate; however, it is susceptible to environmental disturbances in practical applications, and its measurement information is often mixed with time-varying and non-stationary environmental noise, which results in the decrease of ranging accuracy. In this paper, we proposed a modified Sage–Husa adaptive Kalman filtering (SHAKF) algorithm combining residuals and sliding windows for multi-source noise reduction in dual-comb absolute distance measurement systems. In addition, the VMD–SWT algorithm is introduced to digitally process the interferometric signals. The algorithm retains the Sage–Husa filter forgetting factor, introduces exponentially weighted updating of Q and R to enhance the real-time performance of parameter estimation, presenting a sliding window strategy to deal with sudden change noise while adaptively adjusting the parameters according to the noise. Our method has been verified to effectively suppress multiple types of noise, improving the ranging accuracy by an order of magnitude to the micrometer level and reducing both the mean absolute error (MAE) and root mean square error (RMSE) by more than 63% across five measurement sets.",
+            "journal": "Applied Optics",
+            "title_cn": "改进的 Sage–Husa 自适应卡尔曼滤波器，用于双梳测距中的多源噪声抑制",
+            "abstract_cn": "双光梳测距具有测量精度高、更新速率快的优点；但在实际应用中容易受到环境干扰，其测量信息往往混杂着时变、非平稳的环境噪声，导致测距精度下降。在本文中，我们提出了一种结合残差和滑动窗口的改进的Sage-Husa自适应卡尔曼滤波（SHAKF）算法，用于双梳绝对距离测量系统中的多源降噪。此外，还引入了VMD-SWT算法来对干涉信号进行数字处理。该算法保留了Sage-Husa滤波器的遗忘因子，引入Q和R的指数加权更新来增强参数估计的实时性，提出滑动窗口策略来处理突变噪声，同时根据噪声自适应调整参数。经验证，我们的方法可以有效抑制多种类型的噪声，将测距精度提高一个数量级至微米级，并将五个测量集的平均绝对误差 (MAE) 和均方根误差 (RMSE) 降低 63% 以上。"
         }
     ]
 }

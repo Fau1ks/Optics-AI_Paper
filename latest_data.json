@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-30 15:27:36",
+    "update_time": "2026-01-30 17:28:00",
     "word_filename": "Optical_Papers_260130.docx",
-    "total_count": 116,
+    "total_count": 121,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlastec.2026.114790",
@@ -1277,6 +1277,61 @@
             "summary": "Abstract not available.",
             "journal": "Optics Communications",
             "title_cn": "利用条纹投影和深度学习精确捕捉和显示真实世界的三维场景",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103369",
+            "title": "Eye-tracking-based perceptual performance evaluation for multi-screen spliced aircraft",
+            "link": "https://doi.org/10.1016/j.displa.2026.103369",
+            "published": "2026-01-01",
+            "author": "Peitong Han, Yan Zhao, Jian Wei, Shibo Wang, Shigang Wang",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "基于眼动追踪的多屏拼接飞行器感知性能评估",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132959",
+            "title": "One-shot optimal circular fringe projection profilometry",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132959",
+            "published": "2026-01-01",
+            "author": "Haiming Lu, Geyou Zhang, Rui Gao, Tong Zhou, Bo Zhang, Bin Xu, Kai Liu",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "一次性最佳圆条纹投影轮廓测量",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132975",
+            "title": "High-Q Mid-Infrared Refractive Index Sensor Based on Fano Resonance in an All-Dielectric Double-Rod Structure",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132975",
+            "published": "2026-01-01",
+            "author": "Wenwen Wang, Fuming Yang, Wenwen Sun, Zhe Wu, Xiaoyan Shi, Junying Liu, Yuetao Liu, Jizheng Geng, Xintong Wei, Xiangtao Chen, Shijia Zhu, Zhongzhu Liang",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "基于法诺共振的全电介质双杆结构高 Q 值中红外折射率传感器",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.572859",
+            "title": "100 GHz bandwidth ultra-thin germanium photodetectors with high responsivity on a 300 mm silicon photonics process",
+            "link": "https://doi.org/10.1364/optica.572859",
+            "published": "2026-01-13",
+            "author": "Xu Wang, Xiao Hu, Jinwen Song, Weihua Wang, Li Xu, Fengxin Yu, Chengkun Yang, Ting Xia, Xin Wang, Ruoyu Shen, Fenghe Yang, Haibin Zhao, Wei Chu, Haiwen Cai",
+            "summary": "Germanium photodetectors (Ge-PDs) are key components in silicon photonics (SiPh) to enable high-speed optical communications for various applications. Several works have been reported to improve the bandwidth, quantum efficiency, and manufacturing process of Ge-PDs. However, a significant trade-off between bandwidth and responsivity remains a major challenge in developing high-performance Ge-PDs for large-scale silicon photonic integrated circuits. Here, by co-optimizing the chemical mechanical polishing (CMP) process and device structure, ultra-thin Ge-PDs with high 3 dB bandwidth have been achieved. The dimensions of the Ge region and doping areas have also been optimized to attain a high-bandwidth, high-quantum-efficiency product. Consequently, we demonstrate lateral-PIN Ge-PDs with a high bandwidth of up to 100 GHz, 1.05 A/W responsivity at 1550 nm and <20nA dark current on 300 mm CMOS silicon-photonic process. Our work demonstrates that high-performance Ge-PDs with a simple fabrication process are feasible, which paves the way for developing next-generation 200 Gbaud intensity-modulated direct-detection (IMDD) and coherent optical systems.",
+            "journal": "Optica",
+            "title_cn": "100 GHz 带宽超薄锗光电探测器，采用 300 mm 硅光子工艺，具有高响应度",
+            "abstract_cn": "锗光电探测器 (Ge-PD) 是硅光子学 (SiPh) 中的关键组件，可实现各种应用的高速光通信。已经报道了一些改善 Ge-PD 的带宽、量子效率和制造工艺的工作。然而，带宽和响应率之间的重大权衡仍然是开发用于大规模硅光子集成电路的高性能Ge-PD的主要挑战。在这里，通过共同优化化学机械抛光（CMP）工艺和器件结构，实现了具有高3 dB带宽的超薄Ge-PD。 Ge 区域和掺杂区域的尺寸也经过优化，以获得高带宽、高量子效率的产品。因此，我们展示了横向 PIN Ge-PD，其带宽高达 100 GHz，在 1550 nm 处具有 1.05 A/W 响应度​​，在 300 mm CMOS 硅光子工艺上暗电流小于 20nA。我们的工作表明，制造工艺简单的高性能 Ge-PD 是可行的，这为开发下一代 200 Gbaud 强度调制直接检测 (IMDD) 和相干光学系统铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02627",
+            "title": "Enhancing Passive Radiative Cooling Performance on Solar Panels via Multiple Scattering Effects in Aggregated Silica Particles/Polydimethylsiloxane Films",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02627",
+            "published": "2026-01-29",
+            "author": "Hang Thi Nguyet Le, Eka Lutfi Septiani, Tomoyuki Hirano, Kiet Le Anh Cao, Takashi Ogi",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "通过聚集二氧化硅颗粒/聚二甲基硅氧烷薄膜的多重散射效应增强太阳能电池板的被动辐射冷却性能",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

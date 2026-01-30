@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-30 06:28:10",
+    "update_time": "2026-01-30 08:27:46",
     "word_filename": "Optical_Papers_260130.docx",
-    "total_count": 24,
+    "total_count": 25,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlastec.2026.114790",
@@ -266,6 +266,17 @@
             "journal": "Light: Science & Applications",
             "title_cn": "使用陷阱集成光子学从离子收集荧光",
             "abstract_cn": "摘要 自发发射的光子与发射原子的电子和核自由度纠缠在一起，因此这些光子的干涉和测量可以纠缠单独的基于物质的量子系统，作为量子信息处理的资源。由于单模限制有利于产生纠缠所需的光子干涉，因此与自发发射相关的偶极子发射模式提出了模式匹配的挑战。目前的演示依赖于大量光子收集和操纵光学器件，这些光学器件受到元件尺寸较大和系统间可变性的影响，这些因素阻碍了量子信息处理所需的大量纠缠对的扩展。为了解决这些限制，我们展示了一种收集方法，该方法能够实现被动相位稳定性、简单的光子操纵和固有的再现性。具体来说，我们设计了一种波导集成光栅，将捕获离子发射的光子耦合到微制造的离子捕获芯片内的单个光学模式中。使用集成收集光学器件，我们表征收集效率、对离子成像并检测离子的量子态。集成光学器件覆盖 2.18% 的立体角，并收集入射到光栅上的自发发射光的 1.97 ± 0.3%，将总收集效率达到 0.043% 到单模波导中。这一原理验证演示为利用集成光子学的固有稳定性和可重复性来创建、操纵和测量量子发射器阵列中的多部分量子态奠定了基础。"
+        },
+        {
+            "id": "https://doi.org/10.1364/josaa.574250",
+            "title": "Spectral element method for optical planar waveguide modal analysis",
+            "link": "https://doi.org/10.1364/josaa.574250",
+            "published": "2026-01-27",
+            "author": "Gérard Granet, Malalatiana Rinah Rasoamilanto, Karyl Raniriharinosy, Kofi Edee, Manjakavola Honoré Randriamihaja",
+            "summary": "A spectral element method is developed for determining the propagation constants of guided and leaky modes in planar multilayer waveguides. The originality of the technique lies in what we believe to be a novel combination of a hierarchical basis built with modified Legendre polynomials and a rational mapping that efficiently handles semi-infinite computational subdomains. To handle leaky waves, we extend the algebraic mapping to complex coordinates that act as perfectly matched layers (PMLs). The method thus naturally enforces both radiation conditions at infinity and boundary conditions at material interfaces, leading to improved convergence properties without additional constraints or numerical treatments. The efficiency and numerical precision of our method are demonstrated through comparisons with results from the literature for high-index-contrast dielectric and plasmonic waveguides, ARROW anisotropic structures, and quantum well waveguides.",
+            "journal": "J. Opt. Soc. Am. A",
+            "title_cn": "光学平面波导模态分析的谱元法",
+            "abstract_cn": "开发了一种谱元方法来确定平面多层波导中导模和漏模的传播常数。该技术的独创性在于我们认为这是用修改的勒让德多项式构建的层次基础和有效处理半无限计算子域的有理映射的新颖组合。为了处理漏波，我们将代数映射扩展到充当完美匹配层（PML）的复杂坐标。因此，该方法自然地强制无限远处的辐射条件和材料界面处的边界条件，从而无需额外的约束或数值处理即可改善收敛特性。通过与高折射率对比度电介质和等离子体波导、ARROW 各向异性结构和量子阱波导的文献结果进行比较，证明了我们方法的效率和数值精度。"
         }
     ]
 }

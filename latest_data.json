@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-31 06:28:26",
+    "update_time": "2026-01-31 08:27:36",
     "word_filename": "Optical_Papers_260131.docx",
-    "total_count": 48,
+    "total_count": 51,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.displa.2026.103362",
@@ -530,6 +530,39 @@
             "journal": "ACS Photonics",
             "title_cn": "基于功率指数相位涡旋自动聚焦光束的深度分辨体积双光子荧光显微镜",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114828",
+            "title": "Sensitivity enhancement of four-core fiber helical long-period gratings near dispersion turning point",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114828",
+            "published": "2026-05-01",
+            "author": "Yunhe Zhao, Yan Jiang, Xin Wang, Siyu Chen, Chengbo Mou, Yunqi Liu, Lin Ma, Zuyuan He",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "四芯光纤螺旋长周期光栅色散转折点附近灵敏度增强",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.584168",
+            "title": "High-performance microcavity sensing combining MgCo 2 O 4 modification with machine learning",
+            "link": "https://doi.org/10.1364/ao.584168",
+            "published": "2026-01-23",
+            "author": "Wang Xiaohui, Chen Huiyu, Wang Canjin, Yuan Xiaoming, Liu Wenyao, Tang Jun",
+            "summary": "The whispering gallery mode (WGM) microbottle resonators, with their natural liquid delivery channel structure and high-quality factor (Q), provide a crucial technical platform for precise microfluidic measurement. To further enhance the detection sensitivity, this research constructs a highly sensitive ethanol and acetone sensor by modifying the inner wall of a hollow microbottle resonator (HMR) with MgCo 2 O 4 nanomaterials. The results show that the sensitivity of the modified sensor is 0.0792 nm/% to ethanol solution, which is 2.1 times that of acetone. This indicates that the sensor has higher selectivity for ethanol. In addition, to further utilize the full-spectrum information, a multilayer perceptron (MLP) deep learning algorithm is introduced for intelligent analysis. The results indicate that the test accuracy for ethanol and acetone is 99.85% and 99.79%, respectively. With its high sensitivity and testing accuracy, this research provides support for the development of intelligent optical microcavity sensing.",
+            "journal": "Applied Optics",
+            "title_cn": "结合 MgCo 2 O 4 改性与机器学习的高性能微腔传感",
+            "abstract_cn": "回音壁模式（WGM）微瓶谐振器以其自然的液体输送通道结构和高品质因数（Q），为精确的微流体测量提供了关键的技术平台。为了进一步提高检测灵敏度，本研究通过用MgCo 2 O 4 纳米材料修饰空心微瓶谐振器（HMR）的内壁，构建了高灵敏度的乙醇和丙酮传感器。结果表明，改进后的传感器对乙醇溶液的灵敏度为0.0792 nm/%，是丙酮的2.1倍。这表明该传感器对乙醇具有较高的选择性。此外，为了进一步利用全谱信息，引入多层感知器（MLP）深度学习算法进行智能分析。结果表明，乙醇和丙酮的测试准确度分别为99.85%和99.79%。该研究以其高灵敏度和测试精度，为智能光学微腔传感的发展提供支持。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.582015",
+            "title": "Plenoptic wavefront sensor reconstruction algorithm tailored for sensing turbulence",
+            "link": "https://doi.org/10.1364/ao.582015",
+            "published": "2026-01-26",
+            "author": "Di Lin, Gregory P. DiComo, Steve J. Frawley, Abbie T. Watnik",
+            "summary": "We present a plenoptic wavefront sensor algorithm adapted for the recovery of turbulent wavefronts. Our approach employs a specialized consolidation technique for incoherently combining phase tilt contributions from the individual cells of the composite sensor image. Using a synthetic turbulent wavefront and a numerical model of the plenoptic wavefront sensor to emulate the measurement process, we demonstrate the efficacy of our technique by reconstructing the turbulent wavefront from the composite sensor image and evaluating the sensor’s overall performance. We identify the sources of error intrinsic to the sensor architecture and discuss prospects for improving its performance.",
+            "journal": "Applied Optics",
+            "title_cn": "专为传感湍流而定制的全光波前传感器重建算法",
+            "abstract_cn": "我们提出了一种适用于恢复湍流波前的全光波前传感器算法。我们的方法采用了一种专门的合并技术，用于不连贯地组合来自复合传感器图像的各个单元的相位倾斜贡献。使用合成湍流波前和全光波前传感器的数值模型来模拟测量过程，我们通过从复合传感器图像重建湍流波前并评估传感器的整体性能来证明我们的技术的有效性。我们确定了传感器架构固有的误差源，并讨论了改进其性能的前景。"
         }
     ]
 }

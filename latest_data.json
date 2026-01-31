@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-31 13:27:47",
+    "update_time": "2026-01-31 17:27:38",
     "word_filename": "Optical_Papers_260131.docx",
-    "total_count": 58,
+    "total_count": 59,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.displa.2026.103362",
@@ -640,6 +640,17 @@
             "journal": "J. Opt. Soc. Am. A",
             "title_cn": "中值剪切颜色量化算法：回顾性",
             "abstract_cn": "颜色量化以最小的失真减少给定图像中不同颜色的数量，是一种常见的图像处理操作，在视觉计算中有许多应用。 Heckbert 的中值切割算法可以追溯到 20 世纪 80 年代初，通常被认为是第一个真彩色量化算法。赫克伯特的开创性工作引发了大量后续研究，以各种方式扩展了他的算法。在本次回顾中，我们对中值切割算法进行了详细分析，并演示了它如何影响后来的颜色量化、矢量量化和数据聚类算法。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.581472",
+            "title": "Broadband reflectance spectral markers for monitoring PCL elongation under an arthroscopy-like configuration",
+            "link": "https://doi.org/10.1364/oe.581472",
+            "published": "2026-01-16",
+            "author": "Chia-Lin Yu, Jung-Chia Lin, Ying-Chun Chen",
+            "summary": "Posterior cruciate ligament (PCL) repair lacks real-time quantitative evaluation. This study explores broadband reflectance spectroscopy under arthroscopy-like geometry to assess ligament elongation. Porcine PCLs were loaded while spectra were recorded at probe angles of 0°, 30°, and 45°. Reflectance slope and 680/620 nm ratio increased with elongation and remained angle-resilient within 620–680 nm, thereby identifying elongation-sensitive yet probe-angle-tolerant spectral markers. Mie scattering analysis supported the geometry-dependent response. These results establish, to the best of our knowledge, a systematic spectral basis for potential quantitative feedback on PCL elongation in arthroscopy with minimal modification.",
+            "journal": "Optics Express",
+            "title_cn": "用于在类似关节镜配置下监测 PCL 伸长的宽带反射光谱标记",
+            "abstract_cn": "后十字韧带（PCL）修复缺乏实时定量评估。这项研究探索了类似关节镜几何形状下的宽带反射光谱，以评估韧带伸长率。加载猪 PCL，同时以 0°、30° 和 45° 的探头角度记录光谱。反射率斜率和 680/620 nm 比率随着伸长率的增加而增加，并在 620–680 nm 范围内保持角度弹性，从而识别伸长敏感但可耐受探头角度的光谱标记。米氏散射分析支持几何相关响应。据我们所知，这些结果为关节镜检查中 PCL 伸长的潜在定量反馈建立了系统的光谱基础，只需进行最小的修改。"
         }
     ]
 }

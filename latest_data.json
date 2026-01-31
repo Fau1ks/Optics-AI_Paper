@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-31 08:27:36",
+    "update_time": "2026-01-31 11:27:47",
     "word_filename": "Optical_Papers_260131.docx",
-    "total_count": 51,
+    "total_count": 57,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.displa.2026.103362",
@@ -563,6 +563,72 @@
             "journal": "Applied Optics",
             "title_cn": "专为传感湍流而定制的全光波前传感器重建算法",
             "abstract_cn": "我们提出了一种适用于恢复湍流波前的全光波前传感器算法。我们的方法采用了一种专门的合并技术，用于不连贯地组合来自复合传感器图像的各个单元的相位倾斜贡献。使用合成湍流波前和全光波前传感器的数值模型来模拟测量过程，我们通过从复合传感器图像重建湍流波前并评估传感器的整体性能来证明我们的技术的有效性。我们确定了传感器架构固有的误差源，并讨论了改进其性能的前景。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114834",
+            "title": "Silicon nitride on-chip C-band spontaneous emission generation based on lanthanide doped microparticles",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114834",
+            "published": "2026-05-01",
+            "author": "Dmitry V. Obydennov, Ilya M. Asharchuk, Alexander M. Mumlyakov, Maxim V. Shibalov, Nikolay A. Vovk, Ivan A. Filippov, Lidiya S. Volkova, Michael A. Tarkhov",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "基于镧系元素掺杂微粒的氮化硅片上C带自发发射发电",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.583408",
+            "title": "Simultaneous frequency locking of 1535 and 1562 nm lasers to a single Fabry–Pérot cavity",
+            "link": "https://doi.org/10.1364/ao.583408",
+            "published": "2026-01-27",
+            "author": "Xilun Gao, Leilei Lin, Fengfan Cai, Peipei Jiang, Yonghang Shen",
+            "summary": "We report the simultaneous frequency locking of two single frequency lasers around 1535 and 1562 nm to a single ultra-stable Fabry–Pérot cavity, respectively. Frequency stabilities up to 398 and 391 kHz are achieved for the lasers, respectively, through the Pound–Drever–Hall locking technique, producing a large synthesized frequency around 3.395 THz with high relative frequency stability of 5.8×10 −8 . Interferometric tests demonstrate that the phase fluctuation suppression is also realized for the lasers by two orders of magnitude. The results are especially beneficial for multi-wavelength interferometric measurement.",
+            "journal": "Applied Optics",
+            "title_cn": "将 1535 和 1562 nm 激光器同时锁频至单个法布里-珀罗腔",
+            "abstract_cn": "我们报告了两个单频激光器分别在 1535 nm 和 1562 nm 附近同时锁频到单个超稳定法布里-珀罗腔。通过 Pound-Drever-Hall 锁定技术，激光器的频率稳定性分别达到 398 kHz 和 391 kHz，产生约 3.395 THz 的大合成频率，具有 5.8×10 -8 的高相对频率稳定性。干涉测试表明，激光器的相位波动抑制也实现了两个数量级。结果对于多波长干涉测量特别有益。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.581206",
+            "title": "Compact laser interferometer for dynamic nanometer-level ranging",
+            "link": "https://doi.org/10.1364/ao.581206",
+            "published": "2026-01-26",
+            "author": "E. Germano, O. Mandel, A. Sell, D. Weise, C. Braxmaier",
+            "summary": "Hexapod positioning systems are employed in a variety of industrial and research applications, such as satellite sensor testing, optical metrology, and motion simulation. In the context of a testbed simulating spacecraft-to-spacecraft laser ranging interferometry, a hexapod is used to reproduce orbit dynamics, including spacecraft jitter. Due to the insufficient resolution of its internal sensors, what we believe to be a novel interferometer architecture with the capability for nm-level ranging is presented, to act as an external reference system. The simple optical layout is achieved through the direct bonding of the optical components to a titanium baseplate; an active alignment, based on a closed-loop controller, is performed to maximize the superimposition of the beams at the photodetector. The resulting device meets the performance requirements both in air and in vacuum, where the noise floor was evaluated as under 1nm/Hz in the 1 mHz–1 Hz range. Operating two interferometers in parallel enables a further reduction of the noise levels, identifying thermo-elastic variations as the main contributor to signal noise. The device effectively tracks the motion of the hexapod across its full range and at a maximum speed ≥5mm/s, and is able to identify inaccuracies of the internal sensors of the platform.",
+            "journal": "Applied Optics",
+            "title_cn": "用于动态纳米级测距的紧凑型激光干涉仪",
+            "abstract_cn": "六足定位系统用于各种工业和研究应用，例如卫星传感器测试、光学计量和运动模拟。在模拟航天器间激光测距干涉测量的测试台中，六足机构用于重现轨道动力学，包括航天器抖动。由于其内部传感器的分辨率不足，我们提出了一种具有纳米级测距能力的新型干涉仪架构，作为外部参考系统。通过将光学元件直接粘合到钛基板上，实现了简单的光学布局；执行基于闭环控制器的主动对准，以最大化光电探测器处光束的叠加。由此产生的器件满足空气和真空中的性能要求，其中本底噪声在 1 mHz–1 Hz 范围内评估为低于 1nm/Hz。并行操作两个干涉仪可以进一步降低噪声水平，从而确定热弹性变化是信号噪声的主要贡献者。该设备在整个范围内有效跟踪六足机器人的运动，最大速度≥5mm/s，并且能够识别平台内部传感器的不准确性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.572425",
+            "title": "Laser-stabilized ionizing transitions",
+            "link": "https://doi.org/10.1364/optica.572425",
+            "published": "2026-01-16",
+            "author": "Erika Cortese, Simone De Liberato",
+            "summary": "Stabilizing atoms exposed to intense laser fields has been a central topic in atomic physics for decades, inspiring several theoretical frameworks that describe the phenomenon under different resonance conditions and coupling regimes. Here, we theoretically investigate an ionizing electronic transition driven by a resonant pump field, in contrast to Kramers–Henneberger atoms, which are stabilized by non-perturbative, non-resonant laser pulses. We show that, above a critical pump intensity, the drive creates a metastable electronic bound state emerging from the continuum, which decays via two-photon ionization. We calculate the resulting resonant fluorescence spectrum and find a qualitatively different structure from the familiar Mollow triplet associated with bound-to-bound transitions. This fluorescence provides a time-resolved probe of the population in the metastable state. In analogy to how the AC Stark shift is a semiclassical counterpart of the single-photon Rabi splitting observed in optical cavities, the phenomenon we describe is best understood as a semiclassical analog of recently observed excitons bound by a single cavity photon.",
+            "journal": "Optica",
+            "title_cn": "激光稳定的电离跃迁",
+            "abstract_cn": "几十年来，稳定暴露在强激光场下的原子一直是原子物理学的中心话题，激发了一些描述不同共振条件和耦合机制下现象的理论框架。在这里，我们从理论上研究了由谐振泵浦场驱动的电离电子跃迁，这与由非微扰、非谐振激光脉冲稳定的克莱默斯-亨内伯格原子形成鲜明对比。我们表明，在临界泵浦强度之上，驱动器会从连续体中产生亚稳态电子束缚态，该束缚态通过双光子电离而衰变。我们计算了所得的共振荧光光谱，并发现了与熟悉的与结合到结合跃迁相关的莫洛三重态在质量上不同的结构。这种荧光提供了亚稳态群体的时间分辨探针。类似于 AC 斯塔克位移是光学腔中观察到的单光子拉比分裂的半经典对应物，我们描述的现象最好理解为最近观察到的由单腔光子束缚的激子的半经典模拟。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.581406",
+            "title": "Real-time all-optical overlapping time-lens array through nonlinear interference",
+            "link": "https://doi.org/10.1364/optica.581406",
+            "published": "2026-01-16",
+            "author": "Manuel P. Fernández, Benjamin Crockett, Connor Rowe, Laureano A. Bulus-Rossini, Pablo A. Costanzo-Caso, Jose Azaña",
+            "summary": "The space–time duality is a foundational principle in modern optical signal processing, enabling temporal analogues of spatial imaging systems. Among the key components in such systems are time-lenses, whose versatility remains limited when arranged in arrays. Yet such configurations are essential for enabling high-resolution, gap-free optical spectral analysis and photonic waveform generation, among other demanding applications. In this work, we introduce an overlapping time-lens array (oTLA) that exploits nonlinear interference via both degenerate and non-degenerate four-wave mixing. This design breaks the strict trade-off between aperture length and repetition rate inherent in conventional approaches. As a result, the oTLA enables the simultaneous achievement of high time-bandwidth products—beyond several thousand—along with high repetition rate and complete and redundant temporal coverage of the input optical signal, ensuring truly gap-free operation. We showcase the capabilities of the oTLA with overlapping factors exceeding 4 and a real-time gap-free optical spectrum analysis scheme with an analysis bandwidth of 400 GHz. This proposal opens avenues for temporal imaging systems in applications demanding seamless processing, such as in ultrafast spectroscopy, high-speed telecommunications, quantum optics, and the full-field measurement of broadband optical signals.",
+            "journal": "Optica",
+            "title_cn": "通过非线性干涉的实时全光重叠时间透镜阵列",
+            "abstract_cn": "时空二象性是现代光信号处理的基本原理，可以实现空间成像系统的时间模拟。此类系统的关键组件之一是时间透镜，当排列成阵列时，其多功能性仍然受到限制。然而，此类配置对于实现高分辨率、无间隙光谱分析和光子波形生成以及其他要求苛刻的应用至关重要。在这项工作中，我们引入了重叠时间透镜阵列（oTLA），它通过简并和非简并四波混频利用非线性干扰。这种设计打破了传统方法中固有的孔径长度和重复率之间的严格权衡。因此，oTLA 能够同时实现超过数千的高时间带宽乘积，以及输入光信号的高重复率和完整且冗余的时间覆盖，从而确保真正的无间隙操作。我们展示了 oTLA 的重叠因子超过 4 的功能以及分析带宽为 400 GHz 的实时无间隙光谱分析方案。该提案为时间成像系统在需要无缝处理的应用中开辟了道路，例如超快光谱、高速电信、量子光学和宽带光信号的全场测量。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.576385",
+            "title": "Control and scaling of nonlinear emission for super-resolution microscopy",
+            "link": "https://doi.org/10.1364/optica.576385",
+            "published": "2026-01-20",
+            "author": "Kevin Murzyn, Tanya W. P. van Horen, Peter M. Kraus",
+            "summary": "Super-resolution microscopy—imaging below the Abbe diffraction limit—was a resounding success in the development of optical far-field microscopy and revolutionized bioimaging. Yet most super-resolution techniques are based on fluorescence microscopy. However, fluorescent labels impose restrictions on implementing this technique in some fields of science. Label-free techniques such as third-harmonic generation (THG) microscopy are an alternative, but only provide limited resolution due to their infrared driver. In this work, we show how to optimize the point-spread function (PSF) of THG microscopes, first for a single-color harmonic driving laser, and then in a two-color field. For a single-color driver, a low input intensity leads to the smallest PSF. This occurs because an effective nonlinear order close to the order of the emitted harmonic leads to the maximum possible spot size reduction of the harmonic emission profile with respect to the incident intensity profile of the driver. In the two-color case, we utilize a second light pulse with a donut-shaped fluence profile in focus, which is generated by introducing orbital angular momentum. We show that this second pulse shrinks the PSF below the diffraction limit. Although there is no principal limit to this shrinkage, meaning that there is no principal limit to resolution in our approach, the current implementation is practically limited by sample damage. Currently, this promises a factor of 4 reduction of the PSF and a concomitant improvement of the resolution by a factor of 4 in a coherent harmonic microscopy imaging system. These findings open the pathway to implement super-resolution techniques in a broader scientific and industrial application, i.e., in condensed-matter physics and for semiconductor wafer metrology.",
+            "journal": "Optica",
+            "title_cn": "超分辨率显微镜非线性发射的控制和缩放",
+            "abstract_cn": "超分辨率显微镜（低于阿贝衍射极限的成像）在光学远场显微镜的发展和生物成像革命中取得了巨大成功。然而大多数超分辨率技术都是基于荧光显微镜。然而，荧光标记对该技术在某些科学领域的实施施加了限制。无标记技术（例如三次谐波发生 (THG) 显微镜）是一种替代技术，但由于其红外驱动器仅提供有限的分辨率。在这项工作中，我们展示了如何优化 THG 显微镜的点扩散函数 (PSF)，首先针对单色谐波驱动激光器，然后针对双色场。对于单色驱动器，低输入强度会导致最小的 PSF。发生这种情况是因为接近发射谐波阶次的有效非线性阶次导致谐波发射轮廓相对于驱动器的入射强度轮廓的光斑尺寸最大可能减小。在双色情况下，我们利用第二个光脉冲，其聚焦的圆环形注量分布是通过引入轨道角动量产生的。我们表明，第二个脉冲将 PSF 缩小到衍射极限以下。尽管这种收缩没有主要限制，这意味着我们的方法中的分辨率没有主要限制，但当前的实现实际上受到样本损坏的限制。目前，这有望将相干谐波显微成像系统的 PSF 降低 4 倍，同时将分辨率提高 4 倍。这些发现为在更广泛的科学和工业应用（即凝聚态物理和半导体晶圆计量学）中实施超分辨率技术开辟了道路。"
         }
     ]
 }

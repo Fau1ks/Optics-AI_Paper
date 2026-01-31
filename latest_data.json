@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-01-31 11:27:47",
+    "update_time": "2026-01-31 13:27:47",
     "word_filename": "Optical_Papers_260131.docx",
-    "total_count": 57,
+    "total_count": 58,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.displa.2026.103362",
@@ -629,6 +629,17 @@
             "journal": "Optica",
             "title_cn": "超分辨率显微镜非线性发射的控制和缩放",
             "abstract_cn": "超分辨率显微镜（低于阿贝衍射极限的成像）在光学远场显微镜的发展和生物成像革命中取得了巨大成功。然而大多数超分辨率技术都是基于荧光显微镜。然而，荧光标记对该技术在某些科学领域的实施施加了限制。无标记技术（例如三次谐波发生 (THG) 显微镜）是一种替代技术，但由于其红外驱动器仅提供有限的分辨率。在这项工作中，我们展示了如何优化 THG 显微镜的点扩散函数 (PSF)，首先针对单色谐波驱动激光器，然后针对双色场。对于单色驱动器，低输入强度会导致最小的 PSF。发生这种情况是因为接近发射谐波阶次的有效非线性阶次导致谐波发射轮廓相对于驱动器的入射强度轮廓的光斑尺寸最大可能减小。在双色情况下，我们利用第二个光脉冲，其聚焦的圆环形注量分布是通过引入轨道角动量产生的。我们表明，第二个脉冲将 PSF 缩小到衍射极限以下。尽管这种收缩没有主要限制，这意味着我们的方法中的分辨率没有主要限制，但当前的实现实际上受到样本损坏的限制。目前，这有望将相干谐波显微成像系统的 PSF 降低 4 倍，同时将分辨率提高 4 倍。这些发现为在更广泛的科学和工业应用（即凝聚态物理和半导体晶圆计量学）中实施超分辨率技术开辟了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1364/josaa.577058",
+            "title": "Median cut color quantization algorithm: retrospective",
+            "link": "https://doi.org/10.1364/josaa.577058",
+            "published": "2026-01-29",
+            "author": "M.\n\t\t\tEmre Celebi, María-Luisa Pérez-Delgado",
+            "summary": "Color quantization, reducing the number of distinct colors in a given image with minimal distortion, is a common image processing operation with many applications in visual computing. Heckbert’s median cut algorithm, which dates back to the early 1980s, is generally considered the first true color quantization algorithm. Heckbert’s seminal work generated numerous subsequent studies extending his algorithm in various ways. In this retrospective, we present a detailed analysis of the median cut algorithm and demonstrate how it influenced later color quantization, vector quantization, and data clustering algorithms.",
+            "journal": "J. Opt. Soc. Am. A",
+            "title_cn": "中值剪切颜色量化算法：回顾性",
+            "abstract_cn": "颜色量化以最小的失真减少给定图像中不同颜色的数量，是一种常见的图像处理操作，在视觉计算中有许多应用。 Heckbert 的中值切割算法可以追溯到 20 世纪 80 年代初，通常被认为是第一个真彩色量化算法。赫克伯特的开创性工作引发了大量后续研究，以各种方式扩展了他的算法。在本次回顾中，我们对中值切割算法进行了详细分析，并演示了它如何影响后来的颜色量化、矢量量化和数据聚类算法。"
         }
     ]
 }

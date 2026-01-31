@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-01 00:29:01",
+    "update_time": "2026-02-01 06:27:34",
     "word_filename": "Optical_Papers_260201.docx",
-    "total_count": 29,
+    "total_count": 33,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlastec.2026.114845",
@@ -321,6 +321,50 @@
             "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
             "title_cn": "NAP-Tuning：对抗性鲁棒视觉语言模型的神经增强提示调整",
             "abstract_cn": "CLIP 等视觉语言模型 (VLM) 在通过联合嵌入空间理解视觉和文本数据之间的关系方面表现出了卓越的能力。尽管它们很有效，但这些模型仍然容易受到对抗性攻击，特别是在图像模式中，从而带来重大的安全问题。基于我们之前关于对抗性提示调整 (AdvPT) 的工作，该工作引入了可学习的文本提示来增强 VLM 中的对抗性鲁棒性，而无需进行大量的参数训练，我们通过引入用于多模式对抗性提示调整 (NAP-Tuning) 的神经增强器框架来提供重要的扩展。作为一个重要的延伸，NAP-Tuning首先建立了一个全面的多模态（文本和视觉）、多层提示框架。该框架的核心是通过我们的神经增强器方法实现用于特征级纯化的有针对性的结构增强。该框架通过结合 TokenRefiners（轻量级神经模块，学习通过残差连接重建纯化的特征）来实现特征纯化，以直接解决特征空间中的扭曲问题。这种结构干预使得多模态和多层系统能够有效地执行特定于模态和特定于层的特征校正。综合实验表明，NAP-Tuning 在各种数据集和攻击类型上明显优于现有方法。值得注意的是，我们的方法在具有挑战性的 AutoAttack 基准测试下比最强基线有了显着改进，在 ViT-B16 上比它们高出 32.3%，在 ViT-B32 架构上比它们高出 31.3%，同时保持有竞争力的干净精度。这项工作强调了内部特征级干预在快速调整对抗性鲁棒性方面的有效性，超越输入侧对齐方法，创建一种自适应防御机制，可以识别和纠正嵌入空间中的对抗性扰动。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114847",
+            "title": "Comparison of QEPAS and BF-QEPAS approaches for methane and ethane sequential detection in the near-IR spectral range",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114847",
+            "published": "2026-05-01",
+            "author": "Luigi Melchiorre, Giansergio Menduni, Giovanni Magno, Liam O’Faolain, Pietro Patimisco, Vincenzo Spagnolo, Angelo Sampaolo",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "QEPAS 和 BF-QEPAS 方法在近红外光谱范围内连续检测甲烷和乙烷的比较",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132978",
+            "title": "High-Fidelity and Noise-Robust Fourier Ptychographic Microscopy for Low-Redundancy Imaging",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132978",
+            "published": "2026-01-01",
+            "author": "Na Liu, Wanjie Tang, Zhoubin Chen, Kai Zhu, Tianjun Wang, Jiaju Wu, Huanhuan Yu, Jianze Cai, Huazheng Wu, Shaowei Jiang",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "用于低冗余成像的高保真度和抗噪声傅立叶叠层显微镜",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132973",
+            "title": "Atmospheric transmittance modeling for spaceborne oceanic lidar: Global assessment and distribution characteristics at the Fraunhofer line of 486.1 nm",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132973",
+            "published": "2026-01-01",
+            "author": "Fuyou Wang, Shuning Zheng, Xiaoquan Song, Peizhi Zhu, Junwu Tang",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "星载海洋激光雷达大气透射率建模：486.1 nm弗劳恩霍夫线的全球评估和分布特征",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132980",
+            "title": "Analysis of Transmission Jitter in Amplitude-Type Optically Addressed Spatial Light Modulators",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132980",
+            "published": "2026-01-01",
+            "author": "YanTao Song, Wei Fan, DaJie Huang, ZiMu Li, He Cheng, Meng Teng",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "幅度型光学寻址空间光调制器中的传输抖动分析",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

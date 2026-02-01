@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-01 11:27:39",
+    "update_time": "2026-02-01 15:28:10",
     "word_filename": "Optical_Papers_260201.docx",
-    "total_count": 37,
+    "total_count": 43,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlastec.2026.114845",
@@ -408,6 +408,72 @@
             "summary": "Abstract not available.",
             "journal": "Optics and Lasers in Engineering",
             "title_cn": "基于 90–140 GHz 光子噪声源的噪声成像",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202501358",
+            "title": "Advances in Position‐Momentum Entanglement: A Versatile Tool for Quantum Technologies",
+            "link": "https://doi.org/10.1002/lpor.202501358",
+            "published": "2026-01-31",
+            "author": "Satyajeet Patil, Rajshree Swarnkar, Jonas L. Moos, Sebastian Töpfer, Sergio Tovar‐Pérez, Jorge Fuenzalida, Markus Gräfe",
+            "summary": "ABSTRACT Position‐momentum entanglement is a versatile high‐dimensional resource in quantum optics. From fundamental tests of reality to applications in quantum technologies, spatial entanglement has experienced significant growth in recent years. In this review, we explore these advances, beginning with the generation of spatial entanglement, followed by various types of measurements for certifying entanglement, and concluding with different quantum‐based applications. We conclude the review with a discussion and outlook of the field.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "位置动量纠缠的进展：量子技术的多功能工具",
+            "abstract_cn": "摘要 位置动量纠缠是量子光学中一种通用的高维资源。从现实的基本测试到量子技术的应用，空间纠缠近年来经历了显着的增长。在这篇综述中，我们探讨了这些进展，从空间纠缠的产生开始，然后是用于证明纠缠的各种类型的测量，最后以不同的基于量子的应用结束。我们通过对该领域的讨论和展望来结束评论。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502302",
+            "title": "Thermally Driven Eu 2+ Site‐Selective Occupation Enables Narrow‐Band Green Emission in an Oxolithoaluminate Phosphor for Backlight Display Applications",
+            "link": "https://doi.org/10.1002/lpor.202502302",
+            "published": "2026-01-31",
+            "author": "Chenyang Zhan, Zihao Wang, Sisi Liang, Haomiao Zhu",
+            "summary": "ABSTRACT Developing narrow‐band green phosphors via selective site occupancy engineering remains challenging for wide‐color‐gamut displays. While Eu 2+ ‐doped UCr 4 C 4 ‐type nitride and oxynitride lithoaluminates exhibit narrow‐band emission and high thermal stability, their emission spectra are confined to red–orange region due to the pronounced nephelauxetic effect of N 3− ions. To address this limitation, we design a nitrogen‐free oxolithoaluminate phosphor, Sr 5/6 Li 17/6‐ x Al 7/6‐ x Zn 2 x O 4 :Eu 2+ (SLAZO:Eu 2+ ), synthesized via a stepwise solid‐state reaction with Zn 2+ doping ensuring phase stabilization. Crucially, elevating the sintering temperature from 780°C to 870°C confined Eu 2+ occupancy from dispersed Sr1–Sr5 sites (distorted [SrO 8 ] cubes) to larger Sr2a/b and Sr3a/b sites, thereby transforming emission from dual‐band yellow–green to a singular narrow‐band green peak at 528 nm. The optimized phosphor exhibits a narrow full‐width‐at‐half‐maximum (FWHM) of 51 nm (1784 cm −1 ) under 400 nm excitation. It has an internal/external quantum yield of 41.6%/20.1% and maintains 54.2% of its emission intensity at 150°C relative to 25°C. A white LED device fabricated with SLAZO:Eu 2 + , K 2 TiF 6 :Mn 4 + , and a 450 nm blue chip achieves a color gamut covering 97.4% of the National Television System Committee standard. This study demonstrates thermally‐driven site‐selective occupation as an effective strategy for emission tuning and validates SLAZO:Eu 2+ as a promising narrow‐band green emitter for next‐generation displays.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "热驱动的 Eu 2+ 位点选择性占据可在用于背光显示应用的氧化硅铝酸盐磷光体中实现窄带绿光发射",
+            "abstract_cn": "摘要 对于宽色域显示器来说，通过选择性位点占用工程开发窄带绿色荧光粉仍然具有挑战性。虽然Eu 2+ 掺杂的UCr 4 C 4 型氮化物和氮氧化物锂铝酸盐表现出窄带发射和高热稳定性，但由于N 3− 离子的显着云吸效应，它们的发射光谱仅限于红橙色区域。为了解决这一限制，我们设计了一种无氮氧代铝酸盐荧光粉，Sr 5/6 Li 17/6- x Al 7/6- x Zn 2 x O 4 :Eu 2+ (SLAZO:Eu 2+ )，通过逐步固态反应合成，Zn 2+ 掺杂确保相稳定。至关重要的是，将烧结温度从780°C提高到870°C将Eu 2+ 占据从分散的Sr1-Sr5位点（扭曲的[SrO 8 ]立方体）限制到更大的Sr2a/b和Sr3a/b位点，从而将双波段黄绿光发射转变为528 nm处的单一窄带绿峰。优化后的荧光粉在 400 nm 激发下表现出 51 nm (1784 cm -1 ) 的窄半峰全宽 (FWHM)。它的内部/外部量子产率为41.6%/20.1%，并且在150°C时相对于25°C保持54.2%的发射强度。使用SLAZO:Eu 2 + 、K 2 TiF 6 :Mn 4 + 和450 nm蓝色芯片制造的白光LED器件实现了覆盖国家电视系统委员会标准的97.4%的色域。这项研究证明了热驱动的位点选择性占据是一种有效的发射调谐策略，并验证了 SLAZO:Eu 2+ 作为下一代显示器的有前途的窄带绿光发射体。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502756",
+            "title": "Programmable Dual‐Mode Ultrafast All‐Optical Switching via Symmetry‐Broken Plasmonic Metasurface",
+            "link": "https://doi.org/10.1002/lpor.202502756",
+            "published": "2026-01-31",
+            "author": "Renxian Gao, Yufei Wang, Yaxin Wang, Yongjun Zhang, Jiahong Wen, Wenbin Chen, Runhong He, Ming‐De Li, Xiaoyu Zhao",
+            "summary": "ABSTRACT All‐optical switches are fundamental to high‐speed information processing, yet their operational speeds are typically constrained by intrinsic material relaxation processes. Here, we demonstrate that the temporal trajectory of an ultrafast all‐optical switch can be deterministically programmed by pump polarization within a symmetry‐broken plasmonic metasurface. Femtosecond pump‐probe measurements identify two reversible operational regimes within a single meta‐atom, spanning a sub‐picosecond fast mode of 237 fs and a picosecond‐scale slow mode of 3.05 ps. A self‐consistent multiphysics framework, which couples electromagnetic field localization, nonequilibrium electron‐lattice energy exchange, and transient Drude renormalization, reveals that pump polarization dictates the nanoscale topology of optical absorption, thereby selectively activating distinct microscopic dielectric modulation pathways. Under one polarization state, absorption is strongly confined to nanoscale tips, triggering a localized, electron‐dominated nonequilibrium response that enables switching on a sub‐picosecond timescale. In contrast, orthogonal pumping redistributes energy toward extended regions of the meta‐atom, suppressing the tip‐confined electronic channel and promoting a lattice‐assisted relaxation process. These findings establish polarization‐controlled spatial mode engineering as a general principle for programming ultrafast optical dynamics, paving the way for reconfigurable photonic devices with in situ tunable temporal functionality.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "通过对称破缺等离子体超表面进行可编程双模超快全光切换",
+            "abstract_cn": "摘要 全光开关是高速信息处理的基础，但其运行速度通常受到固有材料弛豫过程的限制。在这里，我们证明超快全光开关的时间轨迹可以通过对称破缺的等离子体超表面内的泵浦偏振来确定性地编程。飞秒泵浦探针测量识别出单个元原子内的两种可逆操作状态，跨越 237 fs 的亚皮秒快速模式和 3.05 ps 的皮秒级慢速模式。一个自洽的多物理场框架耦合了电磁场局域化、非平衡电子晶格能量交换和瞬态德鲁德重整化，揭示了泵浦极化决定了光吸收的纳米级拓扑，从而选择性地激活不同的微观介电调制路径。在一种偏振态下，吸收被强烈限制在纳米级尖端，触发局部的、电子主导的非平衡响应，从而实现亚皮秒时间尺度的切换。相反，正交泵浦将能量重新分配到元原子的扩展区域，抑制尖端限制的电子通道并促进晶格辅助弛豫过程。这些发现将偏振控制的空间模式工程确立为超快光学动力学编程的一般原理，为具有原位可调谐时间功能的可重构光子器件铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202501880",
+            "title": "Tensorized Quantum Genetic Algorithm With Selective Evolution Strategy for Thin‐Film Optical Inverse Problems",
+            "link": "https://doi.org/10.1002/lpor.202501880",
+            "published": "2026-01-31",
+            "author": "Shuo Liu, Xiuguo Chen, Shiyuan Liu",
+            "summary": "ABSTRACT Multilayer thin films are fundamental components of photonic and optoelectronic technologies, yet their inverse design and characterization remain limited by the trade‐off between exploration of the solution space and computational cost. This paper proposes a tensorized quantum genetic algorithm (tQGA) with a selective evolution strategy, in which each individual evolves independently toward probabilistically chosen targets, maintaining diversity while ensuring stable convergence, and thereby enhancing optimization performance. A tensorized implementation further enables parallel updates of the population and simultaneous optical calculations for all solutions within each generation, achieving a 60–90× speedup over conventional frameworks, and up to 300–500× with GPU acceleration. The proposed tQGA is validated across three representative thin‐film design and characterization tasks, consistently demonstrating superior accuracy, robustness, and computational efficiency. These results clearly demonstrate the significant potential of tQGA as a general and efficient framework for addressing inverse problems in thin‐film optics.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "薄膜光学逆问题的具有选择性进化策略的张量量子遗传算法",
+            "abstract_cn": "摘要：多层薄膜是光子和光电技术的基本组成部分，但其逆向设计和表征仍然受到解决方案空间探索和计算成本之间权衡的限制。本文提出了一种具有选择性进化策略的张量量子遗传算法（tQGA），其中每个个体独立地朝着概率选择的目标进化，在保持多样性的同时确保稳定收敛，从而增强优化性能。张量化的实现进一步实现了每一代内所有解决方案的总体并行更新和同步光学计算，与传统框架相比实现了 60-90 倍的加速，在 GPU 加速的情况下高达 300-500 倍。所提出的 tQGA 在三个代表性薄膜设计和表征任务中进行了验证，一致证明了卓越的准确性、稳健性和计算效率。这些结果清楚地证明了 tQGA 作为解决薄膜光学逆问题的通用且有效的框架的巨大潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502525",
+            "title": "Plasmonic Hot‐Carrier Transfer in WO 3‐x –Bi 2 O 2 Se Heterostructures for Ultrafast Optical Switching",
+            "link": "https://doi.org/10.1002/lpor.202502525",
+            "published": "2026-01-31",
+            "author": "Junting Liu, Hongkun Nie, Yankai Cheng, Xinlei Zhang, Jiawen Lv, Lulu Dong, Shande Liu, Junpeng Lu, Zhenhua Ni, Baitao Zhang",
+            "summary": "ABSTRACT Bi 2 O 2 Se nanoplates, a semiconductor saturable absorber (SA) characterized by strong nonlinear absorption and excellent stability, are typically hindered by scattering losses introduced during defect modulation. In this study, by combining with a non‐metallic semiconductor WO 3‐x , the WO 3‐x /Bi 2 O 2 Se plasmonic heterostructure is developed to sufficiently overcome the aforementioned limitations. The as‐developed heterostructure SA is applied for 1040 nm Yb,Y:CaF 2 ‐SrF 2 mode‐locked lasers, realizing ultrashort pulses of ∼364 fs at a significantly reduced absorbed pump threshold of 2.02 W and an average output power of 424 mW. Finite‐difference time‐domain (FDTD) simulations, transient absorption spectroscopy, and open‐aperture Z‐scan measurements collectively reveal that hot‐carrier transfer mediated by localized surface plasmon resonance significantly promotes Auger recombination in Bi 2 O 2 Se, thereby shortening carrier lifetimes. This effect is particularly pronounced at 1050 nm, manifesting as a substantial increase in the nonlinear absorption coefficient from −(507 ± 4) to −(1587 ± 14) cm MW −1 . The resultant plasmon‐enhanced nonlinear optical response facilitates the realization of ultrafast pulses from a mode‐locked laser operating at lower thresholds and narrower pulse widths.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "用于超快光开关的 WO 3‐x –Bi 2 O 2 Se 异质结构中的等离子体热载流子转移",
+            "abstract_cn": "摘要 Bi 2 O 2 Se 纳米片是一种半导体可饱和吸收体（SA），具有强非线性吸收和优异的稳定性，通常会受到缺陷调制过程中引入的散射损耗的阻碍。在本研究中，通过与非金属半导体WO 3-x 结合，开发了WO 3-x /Bi 2 O 2 Se 等离子体异质结构，以充分克服上述限制。所开发的异质结构SA应用于1040 nm Yb,Y:CaF 2 -SrF 2 锁模激光器，在显着降低的吸收泵浦阈值2.02 W和424 mW的平均输出功率下实现~364 fs的超短脉冲。时域有限差分 (FDTD) 模拟、瞬态吸收光谱和开孔 Z 扫描测量共同表明，局域表面等离子体共振介导的热载流子转移显着促进 Bi 2 O 2 Se 中的俄歇复合，从而缩短载流子寿命。这种效应在 1050 nm 处尤其明显，表现为非线性吸收系数从 -(507 ± 4) cm MW -1 大幅增加到 -(1587 ± 14) cm MW -1 。由此产生的等离子体增强非线性光学响应有助于实现在较低阈值和较窄脉冲宽度下工作的锁模激光器的超快脉冲。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02501",
+            "title": "Digital Holography Using Harmonic Generation from Solids for Reconstruction of Subwavelength Nanostructures",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02501",
+            "published": "2026-01-31",
+            "author": "Leo Guery, Falco Bijloo, Peter M. Kraus",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "利用固体谐波产生的数字全息术重建亚波长纳米结构",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

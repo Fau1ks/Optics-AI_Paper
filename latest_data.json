@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-02 00:27:55",
+    "update_time": "2026-02-02 06:27:37",
     "word_filename": "Optical_Papers_260202.docx",
-    "total_count": 7,
+    "total_count": 11,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlastec.2026.114833",
@@ -79,6 +79,50 @@
             "journal": "ACM Trans. Graphics (TOG)",
             "title_cn": "将扩散模型的多样性引入语义引导的人脸资产生成",
             "abstract_cn": "由于依赖受控捕捉设置和手动处理，高质量 3D 人脸资产创建的成本仍然很高，限制了可扩展性和多样性。我们引入了一个完全自动化、语义可控的框架，用于生成 PBR 就绪的 3D 面部资产，而无需专门扫描。我们的流程从基于扩散的数据合成阶段开始，其中来自预训练扩散模型的 2D 肖像样本通过我们提出的几何恢复和纹理归一化算法转换为 44K 纹理 3D 面部重建，该算法将任意着色输出对齐到干净的反照率空间。使用该数据集，我们训练了一个解开的对抗生成器，将语义属性（年龄、性别、种族）映射到 UV 空间几何和反照率，从而在保留身份的同时实现直接采样和连续潜在编辑。精炼阶段进一步生产 PBR 材料和次级资产（眼球、牙齿、牙龈）。由此产生的系统支持实时可控面部生成和后期编辑，并直接导出到标准渲染和动画管道。我们广泛评估每个组件，并提供基于 Web 的交互界面来展示实际部署。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114859",
+            "title": "Graded-index anti-reflection coatings with high-power laser-induced damage resistance and high transmittance based on a SiO N layer deposited by PECVD",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114859",
+            "published": "2026-05-01",
+            "author": "Liangyi Hang, Yue You, Yuxin Yang, Shigeng Song, Yaqing Zhang, Jian Song, Jin Cheng, Yechuan Zhu, Haifeng Liang, Junqi Xu, Shun Zhou, Weiguo Liu",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "基于 PECVD 沉积 SiO N 层的具有高功率激光诱导损伤和高透光率的渐变折射率增透膜",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114831",
+            "title": "A robust topologically guided optical fiber with ultra-low confinement loss",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114831",
+            "published": "2026-05-01",
+            "author": "Somashreeta Roy, Abhijit Biswas, Bishnu P. Pal, Somnath Ghosh",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "具有超低限制损耗的稳健拓扑引导光纤",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109671",
+            "title": "A highly error-tolerant phase unwrapping method based on Gray-coded light for misalignment error scenarios",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109671",
+            "published": "2026-06-01",
+            "author": "Yexi Yang, Hubing Du, Yanjie Li, Tete Xu, Hui Wang, Gaopeng Zhang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "一种基于格雷编码光的高容错相位展开方法，用于未对准误差场景",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132982",
+            "title": "Enhancing brightfield microscopy for label-free quantitative phase microscopy via asymmetric illumination modulated by cylindrical lens",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132982",
+            "published": "2026-02-01",
+            "author": "Hongda Quan, Lingbao Kong, Shiqing Hua",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "通过柱面透镜调制的不对称照明增强明场显微镜，实现无标记定量相位显微镜",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

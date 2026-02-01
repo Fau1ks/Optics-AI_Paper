@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-01 06:27:34",
+    "update_time": "2026-02-01 11:27:39",
     "word_filename": "Optical_Papers_260201.docx",
-    "total_count": 33,
+    "total_count": 37,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlastec.2026.114845",
@@ -364,6 +364,50 @@
             "summary": "Abstract not available.",
             "journal": "Optics Communications",
             "title_cn": "幅度型光学寻址空间光调制器中的传输抖动分析",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114836",
+            "title": "Experimental study on CO2 laser drilling in ice and snow with different densities",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114836",
+            "published": "2026-05-01",
+            "author": "Nan Zhang, Bentao Yang, Yingyu Wang, Da Gong, Liang Wang, Shirui Ding, Pavel G. Talalay, Bo Han, Yunchen Liu, Yanji Chen, Xiaopeng Fan, Jialin Hong, Bing Li",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "不同密度冰雪中CO2激光打孔实验研究",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114844",
+            "title": "Superior second harmonic generation properties and triggered fluorescence responses in anhydrous sheet-like DAST nanofilms",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114844",
+            "published": "2026-05-01",
+            "author": "Mingang Zhang, Lin Zhang, Minghui Xu, Rui Wang, Wencong Li, You Li, Xiaoxuan Luo, Wenfeng Wang, Bo Zhang, Zhimei Li, Hao Yang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "无水片状 DAST 纳米薄膜具有优异的二次谐波产生特性并触发荧光响应",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109667",
+            "title": "CEDF-VSNLO: A novel computational-efficient denoising framework via variance stabilization and noise-adaptive low-rank optimization for fringe patterns",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109667",
+            "published": "2026-06-01",
+            "author": "Yuheng Li, Cixing Lv, Junwei Liang, Yi Qin, Jiale Li, Yunyao Zeng",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "CEDF-VSNLO：一种新颖的计算高效的去噪框架，通过方差稳定和条纹图案的噪声自适应低阶优化",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109668",
+            "title": "Noise imaging based on 90–140 GHz photonic noise source",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109668",
+            "published": "2026-06-01",
+            "author": "Jiayu Chen, Yuehui Sun, Shede Chen, Pu Li, Liyun Zhong, Jianglei Di, Yuncai Wang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "基于 90–140 GHz 光子噪声源的噪声成像",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

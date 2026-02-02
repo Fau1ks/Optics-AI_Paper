@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-02 11:30:32",
+    "update_time": "2026-02-02 17:27:34",
     "word_filename": "Optical_Papers_260202.docx",
-    "total_count": 108,
+    "total_count": 109,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlastec.2026.114833",
@@ -1190,6 +1190,17 @@
             "journal": "arXiv: Nerf & Neural Fields",
             "title_cn": "通过隐函数定理确保隐神经表示权重的语义",
             "abstract_cn": "权重空间学习（WSL）将神经网络权重构建为一种数据模态，是一个新兴领域，具有执行元学习或迁移学习等任务的潜力。特别是，隐式神经表示（INR）提供了一个方便的测试平台，其中每组权重将相应的单个数据样本确定为从坐标到上下文值的映射。到目前为止，对于将数据语义编码为网络权重的机制仍然缺乏精确的理论解释。在这项工作中，我们部署隐函数定理（IFT）来建立数据空间与其潜在权重表示空间之间的严格映射。我们分析了一个框架，该框架通过共享超网络将特定于实例的嵌入映射到 INR 权重，从而在跨 2D 和 3D 数据集的下游分类任务上实现与现有基线竞争的性能。这些发现为未来的网络权重研究提供了理论视角。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114852",
+            "title": "Exploiting deep network with adaptive learning rate framework to recognize scattering vortex beam OAM mode",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114852",
+            "published": "2026-05-01",
+            "author": "Chunchen Hu, Yuan Feng, Hanyu Pan, Feiyi Deng, Tong Li, Hanxu Zhang, Yu Lei, Junbao Hu",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "利用具有自适应学习率框架的深度网络来识别散射涡旋光束 OAM 模式",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

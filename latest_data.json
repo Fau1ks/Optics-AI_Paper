@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-04 00:28:14",
+    "update_time": "2026-02-04 06:28:04",
     "word_filename": "Optical_Papers_260204.docx",
-    "total_count": 14,
+    "total_count": 19,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109665",
@@ -156,6 +156,61 @@
             "journal": "Optica",
             "title_cn": "片上输入隐藏层简并光学衍射非线性神经网络",
             "abstract_cn": "集成光子计算具有引人注目的优势，包括超高带宽、超低延迟和固有的低功耗，使其成为人工智能 (AI) 应用的一个有前景的平台。然而，当前光子计算芯片的输入规模从根本上仍然受到其一维接口的限制。在这里，我们提出并通过实验演示了一种输入隐藏层简并光学衍射非线性神经网络（IHD-ODN 3 ），它将片上光学网络的输入维度从 N 扩展至 N 2 在紧凑的占地面积内。通过在结构上将输入层与线性衍射隐藏层合并，输入数据被直接编码到光学神经元中。利用衍射的固有特性，这些神经元之间的多层衍射相互作用促进了充分的数据混合，从而执行等效的非线性函数并将数据映射到占地面积为0.5mm 2 的高维空间中。我们通过四级螺旋和手写数字分类任务验证了 IHD-ODN 3 的非线性计算能力，分别实现了 88% 和 98% 的准确率。此外，我们还展示了高性能图像压缩和重建，压缩比高达256:1。这种输入隐藏层简并架构不仅解锁了 N 二维输入编码，而且还通过线性光子硬件提供低功耗、高度集成和可编程的光学非线性计算。我们的方法与主流线性光学神经网络架构完全兼容，为下一代大规模、高度集成的非线性光学深度神经网络铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132991",
+            "title": "Transition dynamics between Q-switched mode-locking and continuous wave mode-locking",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132991",
+            "published": "2026-02-01",
+            "author": "Xiaotong Wu, Jiajing Lang, Chenyue Lv, Jintao Bai, Baole Lu",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "Q开关锁模和连续波锁模之间的过渡动​​力学",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.586863",
+            "title": "Reversible pairwise switching of soliton states in a hybrid mode-locked Erbium-doped fiber laser",
+            "link": "https://doi.org/10.1364/oe.586863",
+            "published": "2026-01-23",
+            "author": "Hongbo Jiang, Kun Zhou, Chengbo Mou, Lilong Dai, Xiaoyun Tang, Lei Jin",
+            "summary": "Reliable and controllable state-switching capabilities are essential for the development of programmable and reconfigurable ultrafast laser sources. While conventional dual-state switching with various mode-locking mechanisms has been reported, the accessibility of multiple state-switching within a single cavity and the corresponding transient dynamics remain unexplored. Here, we investigate the state-switching characteristics of an Erbium-doped fiber laser using a hybrid scheme combining nonlinear polarization rotation (NPR) with a carbon nanotube saturable absorber (CNT-SA). We show that the hybrid scheme supports reversible switching among the third harmonic mode-locking, fundamental soliton, and bound states with high reproducibility. Real-time spectral characterizations confirm that the CNT-SA suppresses the intrinsic instability of the NPR counterpart during state transitions, as reflected in the extension of breathing oscillations. We experimentally demonstrate that the hybrid scheme effectively supports generation of multiple soliton states and mitigates the instabilities during the transition process, establishing a reversible pairwise state-switching platform for laser dynamics studies and intelligent laser source applications.",
+            "journal": "Optics Express",
+            "title_cn": "混合锁模掺铒光纤激光器中孤子态的可逆成对切换",
+            "abstract_cn": "可靠且可控的状态切换能力对于开发可编程和可重构超快激光源至关重要。虽然已经报道了具有各种锁模机制的传统双态切换，但单腔内多状态切换的可访问性以及相应的瞬态动力学仍未得到探索。在这里，我们使用非线性偏振旋转（NPR）与碳纳米管可饱和吸收器（CNT-SA）相结合的混合方案研究掺铒光纤激光器的状态切换特性。我们证明了混合方案支持三次谐波锁模、基波孤子和束缚态之间的可逆切换，并且具有高再现性。实时光谱表征证实，CNT-SA 抑制了 NPR 对应物在状态转换期间的内在不稳定性，正如呼吸振荡的扩展所反映的那样。我们通过实验证明，混合方案有效支持多个孤子态的生成并减轻过渡过程中的不稳定性，为激光动力学研究和智能激光源应用建立了可逆成对状态切换平台。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.581202",
+            "title": "Characterization of inner ear granular bodies by polarization-resolved second harmonic generation microscopy",
+            "link": "https://doi.org/10.1364/boe.581202",
+            "published": "2026-01-21",
+            "author": "Katherine Zinck, MacAulay Harvey, Richard Cisek, Saranyan Pillai, Sean D. Christie, Danielle Tokarz",
+            "summary": "Otoconia and corpuscles dissected from the inner ear of mice were investigated using polarization-resolved second harmonic generation microscopy (PSHG) to extract ultrastructural parameters. The PSHG parameter, ρ , typically related to helical tilt in collagen, was calculated for each image pixel, and the average ρ values were found to be 4.6 for corpuscles and -3.3 for otoconia. The negative ρ from otoconia was measured unambiguously, indicating that the symmetry of SHG emitters is not predominantly uniaxial, in contrast to typical biological SHG emitters such as collagen, myosin, or starch. The internal distribution of ρ values of corpuscles was radial and resembled the average ρ values of starch. Simulating otoconia structure as consisting of a biaxial system with two similar emitters > 90° apart predicts that disorder alters the measured ρ values, making them increasingly negative. An SHG measurement of otoconia during degradation was performed, revealing that the ρ values of otoconia significantly decrease with degradation in agreement with this model.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "偏振分辨二次谐波发生显微镜表征内耳颗粒体",
+            "abstract_cn": "使用偏振分辨二次谐波发生显微镜（PSHG）研究从小鼠内耳解剖的耳石和小体，以提取超微结构参数。针对每个图像像素计算 PSHG 参数 ρ（通常与胶原蛋白的螺旋倾斜相关），发现小体的平均 ρ 值为 4.6，耳石的平均 ρ 值为 -3.3。来自耳石的负 ρ 被明确测量，表明二次谐波发射体的对称性并非主要是单轴的，与典型的生物二次谐波发射体（例如胶原蛋白、肌球蛋白或淀粉）相反。粒细胞ρ值的内部分布呈放射状，类似于淀粉的平均ρ值。将耳石结构模拟为由具有两个相距 > 90° 的相似发射器的双轴系统组成，预测无序会改变测量的 ρ 值，使它们变得越来越负。对降解过程中的耳石进行了 SHG 测量，结果表明耳石的 ρ 值随着降解而显着降低，与该模型一致。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202501647",
+            "title": "Topological Spin‐Momentum Flows on a Silicon Chip",
+            "link": "https://doi.org/10.1002/lpor.202501647",
+            "published": "2026-02-02",
+            "author": "Peilin Liu, Jiayi Zhang, Jinman Chen, Qinjun Chen, Chujun Zhao, Liang Fang",
+            "summary": "ABSTRACT The emerging topological structures within electromagnetic fields have attracted great interest because of their unique properties and potential applications. Here, we introduce interesting electromagnetic spin‐momentum topologies on silicon‐based waveguides, characterized by spin skyrmion (meron‐antimeron) arrays overlapped with momentum vortices yielding local transverse orbital angular momentum. These composite textures, derived from Poynting vortex streets, are produced by vectorial superpositions of two counter‐propagating modes with different orders. Importantly, these topological structures can be dynamically controlled to transverse shift and longitudinal flow by modulating the relative amplitudes and phases (or frequencies) between the counter‐propagating modes, respectively. The controllable topological spin‐momentum flows uncovered here may open new doors to on‐chip optical manipulation, sorting, waveguide quantum electrodynamics, and optofluidic techniques.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "硅芯片上的拓扑自旋动量流",
+            "abstract_cn": "摘要 电磁场中新兴的拓扑结构因其独特的性质和潜在的应用而引起了人们的极大兴趣。在这里，我们介绍了硅基波导上有趣的电磁自旋动量拓扑，其特征是自旋斯格明子（meron-antitimeron）阵列与动量涡旋重叠，产生局部横向轨道角动量。这些复合纹理源自坡印廷涡街，是由两种不同阶的反向传播模式的矢量叠加产生的。重要的是，这些拓扑结构可以通过分别调制反向传播模式之间的相对振幅和相位（或频率）来​​动态控制横向位移和纵向流动。这里发现的可控拓扑自旋动量流可能为片上光学操纵、排序、波导量子电动力学和光流控技术打开新的大门。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41377-026-02199-4",
+            "title": "Flexible, stretchable, on-chip optical tweezers for high-throughput bioparticle manipulation",
+            "link": "https://doi.org/10.1038/s41377-026-02199-4",
+            "published": "2026-02-03",
+            "author": "Ziyi He, Jianyun Xiong, Yang Shi, Ting Pan, Shaobiao Chen, Xin Zhang, Yizhen Chen, Xiangxian Wang, Baojun Li, Hongbao Xin",
+            "summary": "Abstract High-throughput trapping and precision manipulation of individual pathogenic bioparticles in complex microenvironments are of great importance for in-vitro diagnostics and drug screening. Although optical tweezers have been widely used for bioparticle trapping and manipulation, the throughput, functionality, and adaptability are still limited for on-chip integrated bioparticle manipulation in complex and dynamic bioenvironments. Here, we report flexible, stretchable, on-chip optical tweezers (FSOT) based on large-scale orderly assembled microlenses for high-throughput manipulation of bioparticles in complex bio-environments and on flexible substrates, including soft bio-substrates such as skin and intestines. Large-scale (up to 1000) photonic nanojet effect of the microlenses enables high-throughput trapping, sorting, and modulation of individual bioparticles with sizes ranging from sub-100 nm to tens of micrometers, such as exosomes, bacteria and mammalian cells. Our FSOT exhibits high flexibility, which enables bioparticle trapping and sorting in complex and curved biological microenvironments. Importantly, our FSOT also exhibits high deformability and stretchability, which facilitates the control of inter-cellular distance between trapped neighboring cells, enabling real-time modulating and monitoring the interaction between single pathogenic bacteria and macrophage. Our FSOT represents a new class of on-chip optical tweezers for high-throughput bioparticle trapping and manipulation with the features of high flexibility and stretchability, and holds great promises as an integrated on-chip platform for high-throughput dynamic analysis of bioparticles, for revealing inter-cellular interactions between pathogenic bioparticles and host cells, and for precise drug screening.",
+            "journal": "Light: Science & Applications",
+            "title_cn": "用于高通量生物颗粒操作的灵活、可拉伸的片上光镊",
+            "abstract_cn": "摘要 复杂微环境中单个致病生物颗粒的高通量捕获和精确操作对于体外诊断和药物筛选具有重要意义。尽管光镊已广泛用于生物颗粒捕获和操纵，但其吞吐量、功能和适应性对于复杂和动态生物环境中的片上集成生物颗粒操纵仍然受到限制。在这里，我们报告了基于大规模有序组装的微透镜的柔性、可拉伸的片上光镊（FSOT），用于在复杂的生物环境和柔性基底（包括皮肤和肠道等软生物基底）上对生物颗粒进行高通量操纵。微透镜的大规模（高达 1000）光子纳米喷射效应能够对尺寸从亚 100 nm 到数十微米的单个生物颗粒（如外泌体、细菌和哺乳动物细胞）进行高通量捕获、分选和调制。我们的 FSOT 具有高度灵活性，可以在复杂且弯曲的生物微环境中捕获和分选生物颗粒。重要的是，我们的 FSOT 还表现出高可变形性和可拉伸性，这有助于控制被捕获的相邻细胞之间的细胞间距，从而能够实时调节和监测单个病原菌与巨噬细胞之间的相互作用。我们的 FSOT 代表了一种用于高通量生物颗粒捕获和操纵的新型片上光镊，具有高灵活性和可拉伸性，作为集成片上平台，用于生物颗粒的高通量动态分析、揭示致病性生物颗粒与宿主细胞之间的细胞间相互作用以及精确的药物筛选，具有广阔的前景。"
         }
     ]
 }

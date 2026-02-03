@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-03 10:23:51",
+    "update_time": "2026-02-03 10:37:29",
     "word_filename": "Optical_Papers_260203.docx",
-    "total_count": 244,
+    "total_count": 247,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109669",
@@ -2686,6 +2686,39 @@
             "journal": "arXiv: AI & Vision (Optics)",
             "title_cn": "CortiNet：一种物理感知混合皮质启发的双流网络，用于超声诊断胆囊疾病",
             "abstract_cn": "超声成像因其非侵入性、经济性和广泛可及性而成为检测胆囊疾病的主要诊断方式。然而，超声图像固有的低分辨率和斑点噪声阻碍了诊断的可靠性，促使使用难以在常规临床环境中部署的大型卷积神经网络。在这项工作中，我们提出了 CortiNet，这是一种轻量级的、受皮质启发的双流神经架构，用于胆囊疾病诊断，它将物理可解释的多尺度信号分解与感知驱动的特征学习相结合。受人类视觉皮层并行处理路径的启发，CortiNet 明确地将低频结构信息与高频感知细节分开，并通过专门的编码流对其进行处理。通过直接对结构化的频率选择性表示而不是原始像素强度进行操作，该架构嵌入了强大的基于物理的归纳偏置，从而能够在显着减少参数占用的情况下实现高效的特征学习。后期皮质式融合机制集成了互补的结构和纹理线索，同时保持了计算效率。此外，我们提出了一个结构感知的可解释性框架，其中梯度加权类激活映射仅应用于所提出的 CortiNet 架构的结构分支。这种选择允许模型仅关注结构特征，从而使其对散斑噪声具有鲁棒性。我们使用涵盖 9 个临床相关胆囊疾病类别的 10,692 张专家注释图像来评估 CortiNet。实验结果表明，CortiNet 只需传统深度卷积模型所需参数的一小部分即可实现较高的诊断准确率 (98.74%)。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583918",
+            "title": "Multiple high-quality quasi-bound states in the continuum based on terahertz all-metallic gradient slit arrays",
+            "link": "https://doi.org/10.1364/ol.583918",
+            "published": "2026-01-14",
+            "author": "Dejun Liu, Feng Wu, Lin Chen, Weijie Du",
+            "summary": "Here, we experimentally investigate multiple high-quality quasi-bound states in the continuum (BICs) in all-metal metasurfaces operating at terahertz frequencies. The metasurface integrates several slits with varying lengths, forming gradient slit arrays that enable the generation of multiple quasi-BICs induced by structural symmetry breaking. By tuning the geometric parameters of the slits, the performance of quasi-BICs can be precisely controlled. Experimental findings reveal that two resonances with quality exceeding 40 are induced in three-slit arrays. Results demonstrate that integrating multiple resonators of varying sizes enables the achievement of numerous resonant modes. Benefiting from their fully metallic architecture, such metasurfaces are highly suitable for wave manipulation in terahertz applications.",
+            "journal": "Optics Letters",
+            "title_cn": "基于太赫兹全金属梯度狭缝阵列的连续体中多个高质量准束缚态",
+            "abstract_cn": "在这里，我们通过实验研究了在太赫兹频率下工作的全金属超表面中的多个高质量连续体准束缚态（BIC）。超表面集成了多个不同长度的狭缝，形成梯度狭缝阵列，从而能够生成由结构对称性破缺引起的多个准BIC。通过调整狭缝的几何参数，可以精确控制准BIC的性能。实验结果表明，在三缝阵列中会引发两次质量超过 40 的共振。结果表明，集成多个不同尺寸的谐振器可以实现多种谐振模式。受益于其全金属结构，此类超表面非常适合太赫兹应用中的波操纵。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202503105",
+            "title": "Synergistic Control of Multi‐Type Polarization Singularities in a Lieb Photonic Crystal Slab",
+            "link": "https://doi.org/10.1002/lpor.202503105",
+            "published": "2026-02-02",
+            "author": "Ming Kang, Tianmeng Zhang, Ziru Geng, Xiuying Liu, Jing Chen",
+            "summary": "ABSTRACT Polarization singularities provide exceptional control over light, yet their potential is limited by challenges in ‌controllably‌ steering individual singularities and coordinating them collectively in the momentum space. We address this challenge by mapping the evolutionary pathways of multi‐type singularities from bound states in the continuums (BICs) to degeneracy‐associated polarization singularity in a dielectric Lieb‐lattice photonic crystal slab. We demonstrate that a single parameter can orchestrate the birth, motion, and interconversion of singularities across different classes and bands. This capability enables three fundamental control modalities: (1) deterministic topological charge switching of Γ‐BICs through bifurcation; (2) continuous trajectory control of off‐Γ BICs along symmetry directions; (3) precise positioning of Dirac‐type degeneracy‐bound singularities. Significantly, our approach overcomes the traditional confinement of Dirac‐type degeneracy‐linked polarization singularities to high‐symmetry locations, enabling their free migration throughout the momentum space. Our findings establish a new paradigm for synergistic singularity manipulation in planar photonics, and the underlying mechanism can be applied to other wave systems.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "Lieb 光子晶体板中多类型偏振奇点的协同控制",
+            "abstract_cn": "摘要 偏振奇点提供了对光的特殊控制，但它们的潜力受到可控引导单个奇点和在动量空间中集体协调它们的挑战的限制。我们通过绘制多类型奇点从连续体束缚态（BIC）到介电李布晶格光子晶体板中简并相关偏振奇点的演化路径来解决这一挑战。我们证明，单个参数可以协调不同类别和频带的奇点的诞生、运动和相互转换。该功能可实现三种基本控制模式：（1）通过分叉实现 Γ-BIC 的确定性拓扑电荷切换； (2) off-Γ BIC沿对称方向的连续轨迹控制； (3)狄拉克型简并束缚奇点的精确定位。值得注意的是，我们的方法克服了狄拉克型简并相关极化奇点对高对称位置的传统限制，使它们能够在整个动量空间中自由迁移。我们的研究结果为平面光子学中的协同奇点操纵建立了一个新的范式，并且其基本机制可以应用于其他波系统。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202503145",
+            "title": "Spatially Tailored 3D Cylindrical Vector Beams Array Generation Based on Metasurface",
+            "link": "https://doi.org/10.1002/lpor.202503145",
+            "published": "2026-02-02",
+            "author": "Yang Cui, Xue Zhang, Ruizhe Zhao, Shifei Zhang, Aoqi Ma, Guangzhou Geng, Junjie Li, Hao Sun, Yongtian Wang, Lingling Huang",
+            "summary": "ABSTRACT Cylindrical vector beams (CVBs) that possess inhomogeneous spatial polarization distributions exhibit exceptional orthogonality between different modes, facilitating advanced applications in optical trapping, communication and quantum information processing. Nevertheless, existing CVB modulation suffers from limited channel capacity and uniform spatial vectorial distribution across diffraction orders, lacking flexible 3D multi‐channel manipulation. Here, we investigate and experimentally demonstrate the spatially tailored 3D CVBs array generation via near‐field superposition of right circularly polarized and left circularly polarized components based on a single metasurface, where the two polarization channels simultaneously produce 3D vortex beams (VBs) array with spatially varying and opposite topological charges spreading in M × N × P diffraction orders. The resulting 3D CVBs array exhibits distinct vectorial properties at each spatial diffraction order. Furthermore, we perform a comprehensive vectorial characterization and topological charge measurement of the generated high‐capacity CVBs array and validate that the proposed method can be applied to construct complex vector vortex beams (VVBs) array. The engineered VVBs array incorporates multi‐dimensional information of spatial position, spatial polarization distribution, and topological charge, endowing each diffraction order with distinctive and unique identity. While, the generation of 3D singular beams array unlocks new possibilities in optical manipulation, optical information encryption, parallel laser manufacturing, and optical metrology.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "基于超表面的空间定制 3D 圆柱形矢量束阵列生成",
+            "abstract_cn": "摘要 具有不均匀空间偏振分布的柱面矢量光束（CVB）在不同模式之间表现出出色的正交性，促进了光捕获、通信和量子信息处理中的高级应用。然而，现有的 CVB 调制受限于通道容量和跨衍射级的均匀空间矢量分布，缺乏灵活的 3D 多通道操作。在这里，我们研究并实验演示了通过基于单个超表面的右圆偏振和左圆偏振分量的近场叠加生成空间定制的 3D CVB 阵列，其中两个偏振通道同时产生 3D 涡旋光束 (VB) 阵列，其具有空间变化且相反的拓扑电荷以 M × N × P 衍射级扩散。由此产生的 3D CVB 阵列在每个空间衍射级都表现出不同的矢量特性。此外，我们对生成的高容量 CVB 阵列进行了全面的矢量表征和拓扑电荷测量，并验证了所提出的方法可以应用于构造复杂矢量涡旋光束（VVB）阵列。工程化的 VVB 阵列融合了空间位置、空间偏振分布和拓扑电荷的多维信息，赋予每个衍射级独特的身份。同时，3D奇异光束阵列的产生为光学操纵、光学信息加密、并行激光制造和光学计量带来了新的可能性。"
         }
     ]
 }

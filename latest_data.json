@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-03 00:28:17",
+    "update_time": "2026-02-03 08:28:16",
     "word_filename": "Optical_Papers_260203.docx",
-    "total_count": 14,
+    "total_count": 29,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109669",
@@ -156,6 +156,171 @@
             "journal": "Light: Science & Applications",
             "title_cn": "通过协同水分和 BHT 双重策略，在钙钛矿中实现突破性的超低阈值放大自发发射",
             "abstract_cn": "摘要 微纳米激光器在片上集成光子学领域具有重大前景，尽管存在稳定性挑战，但钙钛矿材料仍成为引人注目的增益介质。虽然水分通常会降低钙钛矿结构，但其受控的整合却可以相反地增强结晶。在这里，我们展示了利用水分子和丁基羟基甲苯（BHT）添加剂的协同策略来获得具有低缺陷密度的高质量碘化铅铵（MAPbI₃）薄膜。通过优化的 BHT (4 wt%) 与 95% 相对湿度处理相结合，我们在纳秒脉冲激发下获得了前所未有的放大自发发射 (ASE) 阈值 8.987 μJ cm-2，这是迄今为止报道的最低值。这种双触发薄膜在 30 天的环境储存后仍能保持 ASE 强度。原位结构和光电表征表明，BHT 扩展了水-钙钛矿相互作用，促进有机阳离子垂直扩散和优先 (110) 取向结晶，垂直排列率为 53.02%。瞬态吸收 (TA) 光谱证实了非辐射复合受到抑制，载流子寿命延长了 11% (6145 ps)，而温度依赖性光致发光则表明激子结合能增强（73.50 meV 与 60.68 meV），有利于低阈值激光发射。这项工作将水分从降解剂转化为结晶促进剂，为同时具有效率和稳定性的高性能钙钛矿激光器建立了范例。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41566-025-01840-9",
+            "title": "Dissipative solitons in mode-locked parity–time-symmetric lasers",
+            "link": "https://doi.org/10.1038/s41566-025-01840-9",
+            "published": "2026-02-02",
+            "author": "Jesús Yelo-Sarrión, François Leo, Simon-Pierre Gorza",
+            "summary": "A mode-locked laser is achieved by coupling two ring resonators in a parity–time-symmetric configuration. Stable pulses emerge through a balance of gain in one cavity and loss in the other, combined with symmetry-breaking induced by the Kerr effect.",
+            "journal": "Nature Photonics",
+            "title_cn": "锁模奇偶校验时间对称激光器中的耗散孤子",
+            "abstract_cn": "锁模激光器是通过以奇偶时间对称配置耦合两个环形谐振器来实现的。稳定的脉冲是通过一个腔体中的增益和另一腔体中的损耗的平衡，以及克尔效应引起的对称性破缺而产生的。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103377",
+            "title": "Committee Elections with Candidate Attribute Constraints",
+            "link": "https://doi.org/10.1016/j.displa.2026.103377",
+            "published": "2026-07-01",
+            "author": "Aizhong Zhou, Fengbo Wang, Jiong Guo, Yutao Liu",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "具有候选人属性约束的委员会选举",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103374",
+            "title": "Change Detection of large-field-of-view video images in low-light environments with cross-scale feature fusion and pseudo-change mitigation",
+            "link": "https://doi.org/10.1016/j.displa.2026.103374",
+            "published": "2026-02-01",
+            "author": "Yani Guo, Zhenhong Jia, Gang Zhou, Xiaohui Huang, Yue Li, Mingyan Li, Guohong Chen, Junjie Li",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "低光环境下大视场视频图像的变化检测，具有跨尺度特征融合和伪变化抑制",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114819",
+            "title": "Research on the spatter controlling mechanism of pure copper welded by ring-core adjustable laser beams",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114819",
+            "published": "2026-05-01",
+            "author": "Yang Chen, Bing Wang, Peiping Chang, Yan Shi, Zhiqiang Yu, Yuan Liu, Weiyu Wang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "环芯可调激光束焊接纯铜飞溅控制机理研究",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114867",
+            "title": "Piezoelectric actuated planar lightwave circuits for quantum key distribution",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114867",
+            "published": "2026-05-01",
+            "author": "Jin You, Ping Yin, Qinghai Liu, Bowen Sheng, Pengle Cheng, Yipeng Lu",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "用于量子密钥分配的压电驱动平面光波电路",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114865",
+            "title": "Wide-angle visible light array communication based on intensity compressed single-pixel imaging",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114865",
+            "published": "2026-05-01",
+            "author": "Yi Kang, Fuzhuang Peng, Wenqing Zhao, Shucheng Lin, Shengli Pu, Dawei Zhang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "基于强度压缩单像素成像的广角可见光阵列通信",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109666",
+            "title": "A Photometric approach to Digital Image Correlation with a Super-Resolved digital twin (SR-PhDIC)",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109666",
+            "published": "2026-06-01",
+            "author": "Lucas Person, Théo Sentagne, Raphaël Fouque, Robin Bouclier, John-Eric Dufour, Jean-Charles Passieux, Jean-Noël Périé",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "使用超分辨率数字孪生 (SR-PhDIC) 进行数字图像关联的光度测量方法",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.581899",
+            "title": "Inverse design of deformed silicon waveguides for multimode cyclic conversion",
+            "link": "https://doi.org/10.1364/oe.581899",
+            "published": "2026-01-28",
+            "author": "Zikang Hu, Songya Liu, Mingying Lan, Yilin Wang, Lei Chen, Han Ye",
+            "summary": "Mode-division multiplexing has emerged as a powerful strategy for enhancing the capacity of photonic integrated circuits, where compact and versatile mode manipulation devices in bus waveguides play a central role. In this work, we present the inverse design of two ultra-compact mode cyclic converters with size of only 7 µm in length, enabled by the integration of the finite-element method, Bernstein polynomial–based deformation parameterization, and the gradient-based method of moving asymptotes. The first device, a dual-mode cyclic converter (DMCC) with efficient TE0/TE1 mutual conversion, is obtained within just 20 optimization iterations. Three-dimensional finite-difference time-domain simulations on a silicon-on-insulator platform confirm high conversion efficiencies of -0.053 dB (TE0-to-TE1) and -0.043 dB (TE1-to-TE0), with mode purities reaching 99.3%. Extending this approach, a triple-mode cyclic converter (TMCC) for TE0/TE1/TE2 cyclic conversion is realized through a two-stage optimization strategy, converging at around 100 iterations. The TMCC exhibits conversion efficiencies of -0.67 dB (TE0-to-TE1), -1.1 dB (TE1-to-TE2), and -0.67 dB (TE2-to-TE0), accompanied by high mode purities of 96.4%, 93.6%, and 98.3%, respectively. Robustness analyses further demonstrate tolerance to fabrication deviations of ±10 nm. These results highlight the potential of inverse design in deformed multimode silicon waveguides for realizing efficient mode cyclic conversion, thereby advancing mode-division multiplexing in photonic integrated circuits.",
+            "journal": "Optics Express",
+            "title_cn": "多模循环转换的变形硅波导逆向设计",
+            "abstract_cn": "模分复用已成为增强光子集成电路容量的强大策略，其中总线波导中紧凑且多功能的模式操纵器件发挥着核心作用。在这项工作中，我们提出了两个长度仅为 7 µm 的超紧凑模式循环转换器的逆向设计，通过有限元方法、基于伯恩斯坦多项式的变形参数化和基于梯度的移动渐近线方法的集成来实现。第一个器件是具有高效 TE0/TE1 相互转换的双模循环转换器 (DMCC)，只需 20 次优化迭代即可获得。绝缘体上硅平台上的三维有限差分时域仿真证实了 -0.053 dB（TE0 至 TE1）和 -0.043 dB（TE1 至 TE0）的高转换效率，模式纯度达到 99.3%。扩展这种方法，通过两级优化策略实现了用于 TE0/TE1/TE2 循环转换的三模式循环转换器 (TMCC)，在大约 100 次迭代时收敛。 TMCC 的转换效率为 -0.67 dB（TE0 至 TE1）、-1.1 dB（TE1 至 TE2）和 -0.67 dB（TE2 至 TE0），同时模式纯度分别为 96.4%、93.6% 和 98.3%。稳健性分析进一步证明了对 ±10 nm 制造偏差的容忍度。这些结果凸显了变形多模硅波导逆向设计实现高效模式循环转换的潜力，从而推进光子集成电路中的模分复用。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.583451",
+            "title": "Correlation between diffuse correlation spectroscopy and transcranial Doppler ultrasound in pediatric sickle cell disease",
+            "link": "https://doi.org/10.1364/boe.583451",
+            "published": "2026-01-21",
+            "author": "Giovani G. Martins, Rowan O. Brothers, Tisha Boodooram, Jada Oriahi, Tara M. Urner, Labeausha Harris, Mariam Akbar, Shasha Bai, Beatrice E. Gee, Clinton H. Joiner, Amy Tang, R. Clark Brown, Erin M. Buckley",
+            "summary": "Sickle cell disease causes alterations in cerebral blood flow (CBF) and a high risk of stroke. Monitoring CBF in these patients may provide valuable information about neurovascular compromise. Diffuse correlation spectroscopy (DCS) is a promising approach for non-invasively estimating an index of regional CBF; however, foundational studies are needed to validate DCS against clinical standards for estimating CBF in this clinical population. Here, we demonstrate that DCS significantly correlates with transcranial Doppler ultrasound-measured blood flow velocity in the anterior cerebral artery in 16 children with sickle cell disease (r = 0.82, p < 0.001). Correction for the influence of hematocrit on BFI did not significantly change this correction.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "弥散相关光谱与经颅多普勒超声在小儿镰状细胞病中的相关性",
+            "abstract_cn": "镰状细胞病会导致脑血流 (CBF) 改变和中风的高风险。监测这些患者的 CBF 可能会提供有关神经血管损害的有价值的信息。漫相关光谱 (DCS) 是一种有前途的非侵入性估计区域 CBF 指数的方法；然而，需要基础研究来根据临床标准验证 DCS，以估计该临床人群的 CBF。在这里，我们证明 DCS 与 16 名镰状细胞病儿童经颅多普勒超声测量的大脑前动脉血流速度显着相关（r = 0.82，p < 0.001）。血细胞比容对 BFI 影响的校正并没有显着改变这种校正​​。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.583173",
+            "title": "WTe 2 -coated cross-shaped rotatable metasurface terahertz biosensor for high-sensitivity blood iron ion detection at 0.1 THz",
+            "link": "https://doi.org/10.1364/boe.583173",
+            "published": "2026-01-15",
+            "author": "Chuanxiang Ye, Jintao Wang",
+            "summary": "This study introduces a terahertz (THz) biosensor for detecting blood Fe 3+ , addressing the limitations of conventional methods such as spectrophotometry, atomic absorption spectrometry, and electrochemical assays, which often suffer from matrix interference, high cost, and electrode fouling. The core innovation of our approach lies in the synergistic integration of a rotatable cross-shaped metasurface with a tungsten ditelluride (WTe 2 ) coating. This design distinctively enhances sensitivity through polarization-dependent resonant absorption at 0.1 THz, a frequency specifically matched to the ligand-field vibrational modes of Fe 3+ -containing complexes (e.g., transferrin-bound Fe 3+ ). The WTe 2 layer, a type-II Weyl semimetal, transduces the enhanced THz absorption into measurable photocurrent changes with high efficiency due to its ultrahigh carrier mobility (>10,000 cm 2 V −1 s −1 ). Experimental results provide concrete evidence of superior performance: a wide linear detection range from 0.1 to 1000 μg/L (with ΔI/I 0 showing excellent linearity against log(concentration), R 2 =0.994), an ultra-low detection limit of 0.05 μg/L, and minimal interference from common blood components like glucose and Ca 2+ , which exhibit negligible absorption at 0.1 THz. These specific metrics demonstrate a significant advancement over traditional techniques, particularly in sensitivity and compatibility with complex biological matrices. Furthermore, the THz-based method enables non-destructive detection. This work establishes a highly accurate, label-free strategy for quantifying blood Fe 3+ , offering substantial potential for clinical monitoring applications.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "WTe 2 涂层十字形可旋转超表面太赫兹生物传感器，用于 0.1 THz 的高灵敏度血铁离子检测",
+            "abstract_cn": "本研究介绍了一种用于检测血液Fe 3+ 的太赫兹（THz）生物传感器，解决了分光光度法、原子吸收光谱法和电化学测定等传统方法经常遭受基质干扰、成本高和电极污染等问题的局限性。我们方法的核心创新在于可旋转十字形超表面与二碲化钨（WTe 2 ）涂层的协同集成。该设计通过 0.1 THz 处的偏振依赖性共振吸收显着增强了灵敏度，该频率与含 Fe 3+ 的复合物（例如转铁蛋白结合的 Fe 3+ ）的配体场振动模式特别匹配。 WTe 2 层是一种II型Weyl半金属，由于其超高载流子迁移率（>10,000 cm 2 V -1 s -1 ），可以将增强的太赫兹吸收高效地转换为可测量的光电流变化。实验结果提供了优越性能的具体证据：0.1至1000 μg/L的宽线性检测范围（ΔI/I 0 对log（浓度）表现出优异的线性，R 2 =0.994），0.05 μg/L的超低检测限，以及葡萄糖和Ca 2+ 等常见血液成分的干扰最小，在0.1 THz下的吸收可以忽略不计。这些具体指标证明了相对于传统技术的显着进步，特别是在灵敏度和与复杂生物基质的兼容性方面。此外，基于太赫兹的方法可以实现无损检测。这项工作建立了一种高精度、无标记的定量血液 Fe 3+ 的策略，为临床监测应用提供了巨大的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.578132",
+            "title": "Transverse mode beating in high-Q pulsed dye lasers",
+            "link": "https://doi.org/10.1364/optcon.578132",
+            "published": "2026-01-22",
+            "author": "Sara García-Revilla, Ignacio Iparraguirre, Joaquín Fernández, Jon Azkargorta, Rolindes Balda",
+            "summary": "This work provides a detailed analysis of transverse mode beating in high-Q pulsed dye lasers, achieved without the use of intra-cavity tuning elements, pinhole apertures, or external modulators. Various resonator configurations were tested, and the effects of the pump beam size on the laser emission were explored. Depending on the resonator configuration and pumping conditions, the emission could be single mode, with no beating, exhibit beating of a few transverse modes, or become multimodal with lost coherence. The simultaneous acquisition of the spatial, spectral, and temporal profiles of each output laser pulse reveals that mode beating is established from the onset of laser operation.",
+            "journal": "Optics Continuum",
+            "title_cn": "高 Q 值脉冲染料激光器中的横向模式跳动",
+            "abstract_cn": "这项工作对高 Q 值脉冲染料激光器中的横模跳动进行了详细分析，无需使用腔内调谐元件、针孔孔径或外部调制器即可实现。测试了各种谐振器配置，并探讨了泵浦光束尺寸对激光发射的影响。根据谐振器配置和泵浦条件，发射可能是单模，没有拍频，表现出一些横模的拍频，或者变成失去相干性的多模态。同时采集每个输出激光脉冲的空间、光谱和时间分布表明，模式跳动是从激光操作开始就建立的。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.583203",
+            "title": "M-TRACE: a MATLAB toolkit for animated raytracing based on scalable vector graphics illustration",
+            "link": "https://doi.org/10.1364/optcon.583203",
+            "published": "2026-01-12",
+            "author": "Patrick Kilcullen, Tsuneyuki Ozaki, Jinyang Liang",
+            "summary": "Modern optical design and simulation software, while both powerful and feature-rich, requires significant training investment for effective use, even for simple optical design tasks. By contrast, software for two-dimensional (2D) non-sequential raytracing, while sufficient for many optical design tasks and popular for educational purposes, has remained without the benefit of mature computer-aided design (CAD) technologies that are now a key feature of software dedicated to three-dimensional (3D) optical design. To overcome this limitation, we introduce M-TRACE—an open source toolkit for non-sequential 2D raytracing with scripting-based customization and animation capabilities implemented in MATLAB. This toolkit allows users to specify optical designs using tools compatible with free-form 2D illustration via scalable vector graphics (SVG), analogous to the integration of 3D CAD technologies with enterprise optical design software. The intuitive and precise drawing features of SVG illustration software (e.g., Adobe Illustrator, Inkscape) allow for a straightforward means for the creation of system designs. We intend M-TRACE to complement the spectrum of available optical design software for research, development, and education, specifically targeting design cases requiring rich visualization and/or rapid exploration.",
+            "journal": "Optics Continuum",
+            "title_cn": "M-TRACE：基于可缩放矢量图形插图的动画光线追踪 MATLAB 工具包",
+            "abstract_cn": "现代光学设计和仿真软件虽然功能强大且功能丰富，但即使对于简单的光学设计任务，也需要大量的培训投资才能有效使用。相比之下，二维 (2D) 非顺序光线追踪软件虽然足以完成许多光学设计任务并且在教育目的中很受欢迎，但仍然没有成熟的计算机辅助设计 (CAD) 技术的优势，而成熟的计算机辅助设计 (CAD) 技术现在是专用于三维 (3D) 光学设计的软件的关键功能。为了克服这一限制，我们引入了 M-TRACE——一种用于非顺序 2D 光线追踪的开源工具包，具有在 MATLAB 中实现的基于脚本的自定义和动画功能。该工具包允许用户使用与可扩展矢量图形 (SVG) 的自由形式 2D 插图兼容的工具来指定光学设计，类似于 3D CAD 技术与企业光学设计软件的集成。 SVG 插图软件（例如 Adob​​e Illustrator、Inkscape）直观且精确的绘图功能允许以简单的方式创建系统设计。我们希望 M-TRACE 能够补充用于研究、开发和教育的可用光学设计软件的范围，特别针对需要丰富可视化和/或快速探索的设计案例。"
+        },
+        {
+            "id": "https://doi.org/10.1063/5.0299808",
+            "title": "Near-unity quantum interference of transverse spatial modes in an ultra-compact inverse-designed photonic device",
+            "link": "https://doi.org/10.1063/5.0299808",
+            "published": "2026-02-02",
+            "author": "Jamika Ann Roque, Daniel Peace, Simon White, Emanuele Polino, Sayantan Das, Farzad Ghafari, Sergei Slussarenko, Nora Tischler, Jacquiline Romero",
+            "summary": "Transverse spatial modes as a degree of freedom is an untapped resource for scaling up integrated photonic quantum computing. To be practically useful for improving scalability, reliable and high-visibility quantum interference between transverse spatial modes on-chip needs to be demonstrated. We show repeatable quantum interference using inverse-designed transverse mode beam splitters that have an ultra-compact footprint of 3 × 3 μm2—the smallest transverse mode beam splitters for 1550 nm photons to date. We measure a Hong–Ou–Mandel visibility of up to 99.56% ± 0.62% from a single device, with an average visibility across three identical devices of 99.38% ± 0.41%, indicating a high degree of reproducibility. Our work demonstrates that inverse-designed components are suitable for engineering quantum interference on-chip of multimode devices, paving the way for future compact integrated quantum photonic devices that exploit transverse spatial modes as a degree of freedom for high-dimensional quantum information.",
+            "journal": "APL Photonics",
+            "title_cn": "超紧凑逆向设计光子器件中横向空间模式的近统一量子干涉",
+            "abstract_cn": "横向空间模式作为一种自由度是用于扩展集成光子量子计算的未开发资源。为了在提高可扩展性方面发挥实际作用，需要证明片上横向空间模式之间的可靠且高可见度的量子干涉。我们使用逆向设计的横模分束器展示了可重复的量子干涉，该分束器具有 3 × 3 μm2 的超紧凑占地面积，这是迄今为止适用于 1550 nm 光子的最小横模分束器。我们测量单个设备的 Hong-Ou-Mandel 能见度高达 99.56% ± 0.62%，三个相同设备的平均能见度为 99.38% ± 0.41%，表明具有高度的可重复性。我们的工作表明，逆向设计的组件适用于设计多模器件的片上量子干涉，为未来利用横向空间模式作为高维量子信息的自由度的紧凑型集成量子光子器件铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202501543",
+            "title": "Bilayer Interfacial Engineering Enabling Highly Sensitive Organic Photomultiplication Photodetector Across to Short‐Wave Infrared via Charge Transfer",
+            "link": "https://doi.org/10.1002/lpor.202501543",
+            "published": "2026-02-01",
+            "author": "Linlin Shi, Zuoxin Shi, Mingru Chang, Zhiyuan Gao, Yanxia Cui, Ting Ji, Guohui Li",
+            "summary": "ABSTRACT Highly sensitive organic photomultiplication photodetectors (PM‐OPDs) have important applications in the fields of communications, medicine, and environment. However, the prevalent use of acidity poly(3,4‐ethylenedioxythiophene):poly(styrenesulfonate) (PEDOT: PSS) hole transport layer (HTL) in PM‐OPDs yields undesirable interfacial defects, resulting in the compromise of device performances. To avoid this, the bilayer interfacial engineering is introduced by incorporating an atomically‐thick Al 2 O 3 interlayer with MoO 3 HTL. It reveals that engineering the bilayer is crucial for the high‐quality MoO 3 HTL and adjusts Ohmic contact to Schottky contact near anode, which facilitates the suppressed dark current and maximized photocurrent of the device. Besides, the device exhibits the photoresponse to short‐wave infrared by P3HT:Y6 complex, because of the intermolecular charge transfer transition at the interface of P3HT and Y6. The results show that the bilayer‐PM‐OPDs manifest the high external quantum efficiency and responsivity of 5.94 × 10 3 % and 57 A/W at 1200 nm, superior to the MoO 3 control device (19.3%, 0.19 A/W, respectively). Simultaneously, the proposed device exhibits the detectivity of 1.28 × 10 13 Jones at 1200 nm and a broad dynamic range of 105 and 45 dB at 850 and 1310 nm. This work opens new horizons for high‐performance SWIR PM‐OPDs in various applications.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "双层界面工程通过电荷转移实现短波红外高灵敏度有机光电倍增光电探测器",
+            "abstract_cn": "摘要 高灵敏度有机光电倍增光电探测器（PM-OPD）在通信、医学和环境领域具有重要应用。然而，PM-OPD 中普遍使用酸性聚（3,4-乙烯二氧噻吩）：聚（苯乙烯磺酸）（PEDOT：PSS）空穴传输层（HTL）会产生不良的界面缺陷，导致器件性能受到影响。为了避免这种情况，通过将原子厚的 Al 2 O 3 中间层与 MoO 3 HTL 结合，引入了双层界面工程。结果表明，设计双层对于高质量 MoO 3 HTL 至关重要，并将阳极附近的欧姆接触调整为肖特基接触，这有利于抑制暗电流并最大化器件的光电流。此外，由于P3HT和Y6界面处的分子间电荷转移跃迁，该器件表现出P3HT:Y6配合物对短波红外的光响应。结果表明，双层-PM-OPD在1200 nm处表现出高外量子效率和响应度，分别为5.94 × 10 3 %和57 A/W，优于MoO 3 控制器件（分别为19.3%、0.19 A/W）。同时，所提出的装置在 1200 nm 处表现出 1.28 × 10 13 Jones 的探测灵敏度，在 850 nm 和 1310 nm 处表现出 105 和 45 dB 的宽动态范围。这项工作为高性能 SWIR PM-OPD 在各种应用中的应用开辟了新的视野。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41377-025-02125-0",
+            "title": "Polarization-sensitive neuromorphic vision sensing enabled by pristine black arsenic-phosphorus",
+            "link": "https://doi.org/10.1038/s41377-025-02125-0",
+            "published": "2026-02-02",
+            "author": "Shi Zhang, Shuguang Zhu, Shijian Tian, Libo Zhang, Cheng Chen, Kening Xiao, Wenqi Mo, Shicong Hou, Yunduo Zhang, Yuanfeng Wen, Yiran Tan, Kaixuan Zhang, Jiayue Han, Changlong Liu, Jiale He, Weiwei Tang, Jun Wang, Guanhai Li, Kai Zhang, Lin Wang, Xiaoshuang Chen",
+            "summary": "Abstract Polarization-sensitive neuromorphic vision sensing excels in distinguishing light polarization states, offering intrinsic advantages in reducing glare and enhancing visual clarity in complex lighting environments, enabling advanced applications in autonomous driving, optical communication, and bioinspired imaging across the visible-to-infrared spectrum. Here, we present a polarization-sensitive neuromorphic phototransistor based on a high-quality, intrinsically anisotropic two-dimensional black arsenic-phosphorus nanosheet, which exhibits exceptional optoelectronic performance with a peak responsivity of 2.88 A W -1 , a polarization ratio of 4.7 and a dynamic range of 40 dB within the near-infrared communication band. Through multidimensional input control, including polarization and gate voltage, the phototransistor successfully simulates synaptic behaviors analogous to human neural responses to visual stimuli, with paired-pulse facilitation values reaching 201%. Critically, the device demonstrates gate-tunable short-term plasticity, with optical persistence triggering stable long-term plasticity states that underpin memory consolidation. The neuromorphic properties enable the development of a hybrid optical-electronic neural network which achieves a classification accuracy of over 90% on the Fashion-MNIST dataset and a reconstruction accuracy of 71.38% using data from the Yale Face Database under 0º linear polarization. We demonstrate a polarization-resolved imaging approach utilizing the black arsenic-phosphorus phototransistor to reconstruct hidden targets with high fidelity through Stokes parameter extraction and degree of linear polarization mapping, revealing intricate polarization features invisible to conventional imaging systems. Our work establishes a foundational platform for high-performance neuromorphic vision systems with integrated polarization imaging, computation, and communication functionalities, addressing critical challenges in scalable brain-inspired optoelectronic technologies.",
+            "journal": "Light: Science & Applications",
+            "title_cn": "由原始黑砷磷实现的偏振敏感神经形态视觉传感",
+            "abstract_cn": "摘要：偏振敏感神经形态视觉传感擅长区分光偏振态，在复杂照明环境下减少眩光和增强视觉清晰度方面具有内在优势，从而在可见光到红外光谱范围内实现自动驾驶、光通信和仿生成像等高级应用。在这里，我们提出了一种基于高质量、本质上各向异性二维黑砷磷纳米片的偏振敏感神经形态光电晶体管，它表现出卓越的光电性能，峰值响应率为2.88 A W -1 ，偏振比为4.7，在近红外通信频段内动态范围为40 dB。通过偏振和栅极电压等多维输入控制，光电晶体管成功模拟了类似于人类神经对视觉刺激的反应的突触行为，配对脉冲促进值达到201%。至关重要的是，该设备展示了栅极可调的短期可塑性，光学余辉触发稳定的长期可塑性状态，从而支撑记忆巩固。神经形态特性使得混合光电神经网络的开发成为可能，该网络在 Fashion-MNIST 数据集上实现了超过 90% 的分类精度，并使用来自耶鲁人脸数据库的数据在 0° 线性偏振下实现了 71.38% 的重建精度。我们展示了一种偏振分辨成像方法，利用黑色砷磷光电晶体管通过斯托克斯参数提取和线性偏振映射程度以高保真度重建隐藏目标，揭示传统成像系统不可见的复杂偏振特征。我们的工作为高性能神经形态视觉系统建立了一个基础平台，具有集成的偏振成像、计算和通信功能，解决了可扩展的大脑启发光电技术中的关键挑战。"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-03 13:29:32",
+    "update_time": "2026-02-03 15:28:36",
     "word_filename": "Optical_Papers_260203.docx",
-    "total_count": 390,
+    "total_count": 395,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109669",
@@ -4292,6 +4292,61 @@
             "journal": "arXiv: Nerf & Neural Fields",
             "title_cn": "NAB：用于稀疏视图 CT 重建的神经自适应分箱",
             "abstract_cn": "计算机断层扫描 (CT) 在检查工业物体的内部结构方面发挥着至关重要的作用。此外，从稀疏视图中实现高质量的 CT 重建对于降低生产成本至关重要。虽然经典的隐式神经网络在稀疏重建方面显示出了有希望的结果，但它们无法利用对象的形状先验。受到大量工业对象呈现矩形结构的观察的启发，我们提出了一种新颖的 \\textbf{N}eural \\textbf{A}daptive \\textbf{B}inning (\\textbf{NAB}) 方法，该方法有效地将矩形先验集成到重建过程中。具体来说，我们的方法首先将坐标空间映射到分箱向量空间。这种映射依赖于基于移位双曲正切函数之间差异的创新分箱机制，我们的扩展可以围绕输入平面法向量进行旋转。然后由神经网络处理所得的表示以预测 CT 衰减系数。这种设计可以通过投影数据的梯度流对编码参数（包括位置、大小、陡度和旋转）进行端到端优化，从而提高重建精度。通过调整分箱函数的平滑度，NAB 可以推广到具有更复杂几何形状的对象。这项研究提供了将形状先验整合到基于神经网络的重建中的新视角。大量实验表明 NAB 在两个工业数据集上实现了卓越的性能。当分箱函数扩展到更通用的表达时，它还可以在医学数据集上保持稳健。该代码将可供使用。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114842",
+            "title": "Long-distance and high-spatial-resolution phase-sensitive OTDR with constant amplitude zero autocorrelation sequence",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114842",
+            "published": "2026-05-01",
+            "author": "Weidong Bai, Li Liu, Yu Wang, Xuan Wang, Tingting Wang, Xuehui Lu, Pengfei Wang, Xin Liu, Baoquan Jin",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "具有恒幅零自相关序列的长距离、高空间分辨率相敏OTDR",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109670",
+            "title": "Alignment method for reflective focusing systems in high-power laser-generated plasma light sources",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109670",
+            "published": "2026-06-01",
+            "author": "Yujun Ma, Xueshi Zhang, Yesheng Wang, Fusheng Li, Qiuyi Han, Shanduan Zhang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "高功率激光等离子体光源反射聚焦系统的对准方法",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1117/1.apn.5.1.014002",
+            "title": "Machine learning driven inverse design of devices and components for optical communication and sensing systems: a comprehensive review",
+            "link": "https://doi.org/10.1117/1.apn.5.1.014002",
+            "published": "2026-02-02",
+            "author": "Md Moinul Islam Khan, Md Hosne Mobarok Shamim, Abdullah Nafis Khan, Md Saifuddin Faruk, Mudassir Masood, Mohammed Zahed Mustafa Khan",
+            "summary": "We discuss recent progress in using machine-learning (ML)-enabled inverse design techniques applied to photonic devices and components. Specifically, we highlight the design of optical sources, including fiber and semiconductor lasers, as well as Raman and semiconductor optical amplifiers. Although inverse design approaches for optical detectors remain relatively underexplored, we examine optical layers, particularly metamaterial absorbers, as promising candidates for high-performance optical detection. In addition, we underscore advancements in inverse designing passive optical components, including beam splitters, gratings, and optical fibers. These optical blocks are fundamental in developing next-generation standalone optical communication systems and optical sensing networks, including integrated sensing and communication technologies. While categorizing various reported deep learning architectures across five paradigms, we offer a paradigm-based perspective that reveals how different ML techniques function within modern inverse design methods and enable fast, data-driven solutions that significantly reduce design time and computational demands compared with traditional optimization methods.",
+            "journal": "Advanced Photonics Nexus",
+            "title_cn": "机器学习驱动的光通信和传感系统设备和组件的逆向设计：全面回顾",
+            "abstract_cn": "我们讨论了将机器学习 (ML) 支持的逆向设计技术应用于光子器件和组件的最新进展。具体来说，我们重点介绍光源的设计，包括光纤和半导体激光器，以及拉曼和半导体光放大器。尽管光学探测器的逆向设计方法仍然相对未得到充分探索，但我们研究了光学层，特别是超材料吸收器，作为高性能光学探测的有希望的候选者。此外，我们还强调逆向设计无源光学元件的进步，包括分束器、光栅和光纤。这些光学模块是开发下一代独立光通信系统和光学传感网络（包括集成传感和通信技术）的基础。在对跨五种范式的各种报告的深度学习架构进行分类的同时，我们提供了基于范式的视角，揭示了不同的机器学习技术如何在现代逆向设计方法中发挥作用，并实现快速、数据驱动的解决方案，与传统优化方法相比，这些解决方案可显着减少设计时间和计算需求。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tci.2026.3660011",
+            "title": "Scale-Equivariant Imaging: Self-Supervised Learning for Image Super-Resolution and Deblurring",
+            "link": "https://doi.org/10.1109/tci.2026.3660011",
+            "published": "2026",
+            "author": "Jérémy Scanvic, Mike Davies, Patrice Abry, Julián Tachella",
+            "summary": "Self-supervised methods have recently proved to be nearly as effective as supervised ones in various imaging inverse problems, paving the way for learning-based approaches in scientific and medical imaging applications where ground truth data is hard or expensive to obtain. These methods critically rely on invariance to translations and/or rotations of the image distribution to learn from incomplete measurement data alone. However, existing approaches fail to obtain competitive performances in the problems of image super-resolution and deblurring, which play a key role in most imaging systems. In this work, we show that invariance to roto-translations is insufficient to learn from measurements that only contain low-frequency information. Instead, we propose scale-equivariant imaging, a new self-supervised approach that leverages the fact that many image distributions are approximately scale-invariant, enabling the recovery of high-frequency information lost in the measurement process. We demonstrate throughout a series of experiments on real datasets that the proposed method outperforms other self-supervised approaches, and obtains performances on par with fully supervised learning.",
+            "journal": "IEEE Trans. Comp. Imaging",
+            "title_cn": "尺度等变成像：图像超分辨率和去模糊的自监督学习",
+            "abstract_cn": "最近证明，在各种成像反问题中，自监督方法几乎与监督方法一样有效，这为科学和医学成像应用中基于学习的方法铺平了道路，在这些应用中，获取地面实况数据是困难或昂贵的。这些方法主要依赖于图像分布的平移和/或旋转的不变性来仅从不完整的测量数据中学习。然而，现有的方法无法在图像超分辨率和去模糊问题上获得有竞争力的性能，而这些问题在大多数成像系统中起着关键作用。在这项工作中，我们表明旋转平移的不变性不足以从仅包含低频信息的测量中学习。相反，我们提出了尺度等变成像，这是一种新的自监督方法，它利用许多图像分布近似尺度不变的事实，从而能够恢复测量过程中丢失的高频信息。我们通过对真实数据集的一系列实验证明，所提出的方法优于其他自监督方法，并且获得了与完全监督学习相当的性能。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tpami.2026.3660020",
+            "title": "EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution",
+            "link": "https://doi.org/10.1109/tpami.2026.3660020",
+            "published": "2026",
+            "author": "Dachun Kai, Jiayao Lu, Yueyi Zhang, Xiaoyan Sun",
+            "summary": "Event-based vision has drawn increasing attention owing to its distinctive properties, including ultra-high temporal resolution and extreme dynamic range. Recent works have introduced it to video super-resolution (VSR) to enhance flow estimation and temporal alignment. In contrast, this paper shifts the focus of event signals from motion refinement to texture enhancement in VSR. We propose EvTexture++, the first event-driven framework dedicated to texture enhancement in VSR. It leverages high-frequency spatiotemporal details from events to improve texture recovery. EvTexture++ incorporates a customized texture enhancement branch, along with an iterative texture enhancement module that progressively exploits high-temporal-resolution event information for texture restoration. This enables gradual refinement of texture regions across iterations, yielding more accurate and detailed high-resolution outputs. Besides intra-frame texture recovery, large motions could degrade inter-frame temporal consistency, particularly in texture regions, leading to texture flickering. To mitigate this, we further exploit the continuous-time motion cues of events to enhance temporal consistency, introducing a temporal texture alignment module that estimates event-guided texture-aware flow for precise inter-frame texture alignment. Moreover, EvTexture++ is designed as a plug-and-play tool to flexibly boost the performance of existing VSR models. Experiments on five datasets demonstrate that EvTexture++ achieves state-of-the-art performance. When integrated into recent VSR models, it yields significant improvements, with gains of up to 1.55 dB in PSNR on the texture-rich Vid4 dataset.",
+            "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
+            "title_cn": "EvTexture++：事件驱动的视频超分辨率纹理增强",
+            "abstract_cn": "基于事件的视觉因其独特的特性（包括超高时间分辨率和极端动态范围）而引起了越来越多的关注。最近的工作将其引入视频超分辨率（VSR）以增强流量估计和时间对齐。相比之下，本文将事件信号的焦点从运动细化转移到 VSR 中的纹理增强。我们提出了 EvTexture++，这是第一个致力于 VSR 纹理增强的事件驱动框架。它利用事件中的高频时空细节来改善纹理恢复。 EvTexture++ 结合了定制的纹理增强分支以及迭代纹理增强模块，该模块逐步利用高时间分辨率事件信息进行纹理恢复。这使得能够在迭代过程中逐步细化纹理区域，从而产生更准确和详细的高分辨率输出。除了帧内纹理恢复之外，大的运动可能会降低帧间时间一致性，特别是在纹理区域，导致纹理闪烁。为了缓解这个问题，我们进一步利用事件的连续时间运动线索来增强时间一致性，引入时间纹理对齐模块，该模块可以估计事件引导的纹理感知流，以实现精确的帧间纹理对齐。此外，EvTexture++被设计为即插即用工具，可以灵活地提升现有VSR模型的性能。对五个数据集的实验表明 EvTexture++ 实现了最先进的性能。当集成到最新的 VSR 模型中时，它会产生显着的改进，在纹理丰富的 Vid4 数据集上的 PSNR 增益高达 1.55 dB。"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-03 15:28:36",
+    "update_time": "2026-02-03 17:28:42",
     "word_filename": "Optical_Papers_260203.docx",
-    "total_count": 395,
+    "total_count": 405,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109669",
@@ -4347,6 +4347,116 @@
             "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
             "title_cn": "EvTexture++：事件驱动的视频超分辨率纹理增强",
             "abstract_cn": "基于事件的视觉因其独特的特性（包括超高时间分辨率和极端动态范围）而引起了越来越多的关注。最近的工作将其引入视频超分辨率（VSR）以增强流量估计和时间对齐。相比之下，本文将事件信号的焦点从运动细化转移到 VSR 中的纹理增强。我们提出了 EvTexture++，这是第一个致力于 VSR 纹理增强的事件驱动框架。它利用事件中的高频时空细节来改善纹理恢复。 EvTexture++ 结合了定制的纹理增强分支以及迭代纹理增强模块，该模块逐步利用高时间分辨率事件信息进行纹理恢复。这使得能够在迭代过程中逐步细化纹理区域，从而产生更准确和详细的高分辨率输出。除了帧内纹理恢复之外，大的运动可能会降低帧间时间一致性，特别是在纹理区域，导致纹理闪烁。为了缓解这个问题，我们进一步利用事件的连续时间运动线索来增强时间一致性，引入时间纹理对齐模块，该模块可以估计事件引导的纹理感知流，以实现精确的帧间纹理对齐。此外，EvTexture++被设计为即插即用工具，可以灵活地提升现有VSR模型的性能。对五个数据集的实验表明 EvTexture++ 实现了最先进的性能。当集成到最新的 VSR 模型中时，它会产生显着的改进，在纹理丰富的 Vid4 数据集上的 PSNR 增益高达 1.55 dB。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114860",
+            "title": "Ultrahigh-quality broadband metasurface holograms enabled by the integrated feature matrix-based framework",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114860",
+            "published": "2026-05-01",
+            "author": "Fengyuan Gan, Xiaoling Ge, Dun Lan, Wang Luo, Xinrui Lei, Jiagui Wu, Junbo Yang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "基于集成特征矩阵的框架实现超高质量宽带超表面全息图",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.575770",
+            "title": "Optical atomic clocks: defining the future of time and frequency metrology",
+            "link": "https://doi.org/10.1364/optica.575770",
+            "published": "2026-01-16",
+            "author": "Tara M. Fortier, Andre N. Luiten, Helen S. Margolis",
+            "summary": "Optical atomic clocks based on laser-cooled trapped ions and atoms have advanced rapidly over the past decade. With fractional frequency uncertainties now surpassing 10 −18 , they are some of the most precise measurement tools ever built. Yet researchers are still pursuing new avenues of research to explore the fundamental limits to their stability, accuracy, and reproducibility. In this mini-review, we provide a survey of the current state of the art by describing the fundamental principles and techniques that underpin this progress, the architectures used to realize optical clocks, and the supporting laser technologies that are essential to their operation. We also examine the progress that has been made toward a redefinition of the second in the International System of Units and the inclusion of optical clocks into the global time and frequency metrology infrastructure. Finally, we discuss emerging applications of optical clocks and look at the prospects for making their precision more readily accessible to end users.",
+            "journal": "Optica",
+            "title_cn": "光学原子钟：定义时间和频率计量的未来",
+            "abstract_cn": "基于激光冷却捕获离子和原子的光学原子钟在过去十年中发展迅速。由于分数频率不确定性现已超过 10 -18 ，它们是有史以来最精确的测量工具之一。然而，研究人员仍在寻求新的研究途径，以探索其稳定性、准确性和可重复性的根本限制。在这篇小型评论中，我们通过描述支持这一进步的基本原理和技术、用于实现光学时钟的架构以及对其运行至关重要的支持激光技术，对当前技术水平进行了调查。我们还研究了国际单位制中秒的重新定义以及将光学时钟纳入全球时间和频率计量基础设施方面所取得的进展。最后，我们讨论光学时钟的新兴应用，并展望最终用户更容易获得其精度的前景。"
+        },
+        {
+            "id": "https://doi.org/10.1364/josaa.580584",
+            "title": "Error correction method based on projection transformation for rail wear measurement using line-structured light",
+            "link": "https://doi.org/10.1364/josaa.580584",
+            "published": "2026-01-29",
+            "author": "Bo Han, Yue Jin, Wenming Yang, Beiying Liu",
+            "summary": "The maintenance of railway rails relies heavily on accurate profiling and wear assessment. In this research, a rail profile detection system using line-structured light machine vision technology is developed. Traditional image processing algorithms for rail profile measurement involve Zhang’s camera calibration, radial distortion correction, Gaussian filtering, and the iterative closest point (ICP) algorithm for point cloud registration. Building upon these conventional algorithms, an integrated error correction framework comprising projective transformation and system offset compensation is proposed. We introduce a method to dynamically determine the direction vector of the rail alignment and the angle between the laser plane and the rail cross-section for the projective transformation. Compared to the same hardware system without error correction, this method improves measurement accuracy from 0.0686 to ±0.015mm at the lateral wear measurement points and from 0.0678 to ±0.020mm at the vertical wear measurement points in profile detection.",
+            "journal": "J. Opt. Soc. Am. A",
+            "title_cn": "基于投影变换的线结构光钢轨磨损测量误差修正方法",
+            "abstract_cn": "铁路钢轨的维护在很大程度上依赖于准确的分析和磨损评估。本研究开发了一种利用线结构光机器视觉技术的钢轨轮廓检测系统。轨道轮廓测量的传统图像处理算法包括张氏相机标定、径向畸变校正、高斯滤波和点云配准的迭代最近点（ICP）算法。基于这些传统算法，提出了一种包括投影变换和系统偏移补偿的集成误差校正框架。我们介绍了一种动态确定钢轨对准的方向矢量以及激光平面与钢轨横截面之间的角度以进行投影变换的方法。与未进行误差修正的相同硬件系统相比，该方法在轮廓检测中横向磨损测量点的测量精度从0.0686提高到±0.015mm，垂直磨损测量点的测量精度从0.0678提高到±0.020mm。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tvcg.2026.3659985",
+            "title": "DrainScope: Visual Analytics of Urban Drainage System",
+            "link": "https://doi.org/10.1109/tvcg.2026.3659985",
+            "published": "2026",
+            "author": "Mingwei Lin, Zikun Deng, Qin Huang, Yiyi Ma, Lin-Ping Yuan, Jie Bao, Yu Zheng, Yi Cai",
+            "summary": "Urban drainage systems, often designed for out dated rainfall assumptions, are increasingly unable to cope with extreme rainfall events. This leads to flooding, infrastructure damage, and economic losses, necessitating effective diagnostic and improvement strategies. In current practice, conventional analysis platforms built on hydrological–hydraulic models provide only limited analytical support, making it difficult to pin point defects, inspect causal mechanisms, or evaluate alternative design options in an integrated manner. In this paper, we develop DrainScope, to our knowledge, the first visual analytics approach for comprehensive diagnosis and iterative improvement of urban drainage systems. Defects are initially observed in the map view, after which DrainScope extracts the critical sub-systems associated with them using a rule-based search strategy, enabling focused analysis. It introduces a novel drainage-oriented Sankey diagram to visualize internal flow dynamics within the focused, static drainage system, revealing the causes of identified system defects. Furthermore, it enables flexible modification of drainage components corresponding to identified defects, coupled with a comparison view for rapid, iterative evaluation of improvement plans. We evaluate DrainScope through a real-world case study and positive feedback collected from domain experts.",
+            "journal": "IEEE Trans. Vis. Comput. Graph",
+            "title_cn": "DrainScope：城市排水系统的可视化分析",
+            "abstract_cn": "城市排水系统通常是根据过时的降雨假设而设计的，越来越无法应对极端降雨事件。这会导致洪水、基础设施损坏和经济损失，因此需要有效的诊断和改进策略。在目前的实践中，基于水文水力模型的传统分析平台仅提供有限的分析支持，因此很难查明缺陷、检查因果机制或以综合方式评估替代设计方案。在本文中，据我们所知，我们开发了 DrainScope，这是第一个用于城市排水系统综合诊断和迭代改进的可视化分析方法。首先在地图视图中观察缺陷，然后 DrainScope 使用基于规则的搜索策略提取与其关联的关键子系统，从而实现集中分析。它引入了一种新颖的面向排水的桑基图，以可视化集中的静态排水系统内的内部流动动力学，揭示已识别的系统缺陷的原因。此外，它还可以根据已识别的缺陷灵活修改排水组件，并提供比较视图，以便对改进计划进行快速、迭代评估。我们通过真实案例研究和从领域专家收集的积极反馈来评估 DrainScope。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tvcg.2026.3659810",
+            "title": "Cybersickness Abatement from Repeated Exposure Generalizes across Experiences",
+            "link": "https://doi.org/10.1109/tvcg.2026.3659810",
+            "published": "2026",
+            "author": "Jonathan W. Kelly, Taylor A. Doty, Michael C. Dorneich, Stephen B. Gilbert",
+            "summary": "Cybersickness, or sickness caused by virtual reality (VR), represents a significant threat to the usability of VR applications. Repeated exposure to the same VR stimulus causes a reduction in cybersickness, referred to as Cybersickness Abatement from Repeated Exposure (CARE). This study examined whether the benefits of CARE generalize across distinct VR contexts, which was operationalized as three distinct games (a climbing game, a puzzle game, and a stealth survival game). Participants played a VR game for up to 20 minutes. Those in the Repeated Exposure condition played one VR game (either a puzzle game or a climbing game) on three separate days followed by a different VR game (a survival game) on the fourth day. Those in the Single Exposure condition played the survival game once. The three games all differed in several ways, including environment and task, whereas the puzzle and survival games shared a similar joystick locomotion interface that differed from the locomotion interface in the climbing game. Results indicate that cybersickness on Day 4 of the Repeated Exposure condition was significantly lower than that in the Single Exposure condition, regardless of which game was experienced on Days 1-3. The practical implication of this finding is that CARE that occurs in one VR context can generalize to a novel context with a distinct environment, task, and locomotion interface. Results are considered in the context of multiple theoretical explanations for CARE, including sensory rearrangement and habituation. These results support systematic exposure as an approach to reducing cybersickness.",
+            "journal": "IEEE Trans. Vis. Comput. Graph",
+            "title_cn": "重复接触带来的网络晕眩感的减轻普遍存在于不同的经历中",
+            "abstract_cn": "晕机症或由虚拟现实 (VR) 引起的疾病对 VR 应用程序的可用性构成了重大威胁。重复接触相同的 VR 刺激会减少晕眩症，称为重复暴露引起的晕眩症减轻 (CARE)。这项研究检验了 CARE 的好处是否可以推广到不同的 VR 环境中，该环境被操作为三种不同的游戏（攀岩游戏、益智游戏和潜行生存游戏）。参与者玩了长达 20 分钟的 VR 游戏。处于重复暴露条件下的受试者在三天内玩一款 VR 游戏（益智游戏或攀岩游戏），然后在第四天玩另一款 VR 游戏（生存游戏）。处于单次曝光条件下的人玩过一次生存游戏。这三款游戏在环境和任务等方面都有所不同，而益智游戏和生存游戏共享相似的操纵杆运动界面，与攀爬游戏中的运动界面不同。结果表明，无论第 1-3 天玩的是哪款游戏，重复暴露条件下第 4 天的晕机症状均显着低于单次暴露条件下的晕机症状。这一发现的实际意义是，在一个 VR 环境中发生的 CARE 可以推广到具有不同环境、任务和运动界面的新环境。结果是在 CARE 的多种理论解释的背景下考虑的，包括感觉重新排列和习惯化。这些结果支持系统暴露作为减少晕机症的一种方法。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tvcg.2026.3659931",
+            "title": "Dynamic Scheduling for Data-Parallel Path Tracing of Large-Scale Instanced Scenes",
+            "link": "https://doi.org/10.1109/tvcg.2026.3659931",
+            "published": "2026",
+            "author": "Xiang Xu, Huiyu Li, Linwei Fan, Lu Wang",
+            "summary": "Data-parallel ray tracing is a crucial technique for rendering large-scale scenes that exceed the memory capacity of a single compute node. It partitions scene data across multiple nodes and accesses remote data through inter-node communication. However, the resulting communication overhead remains a significant bottleneck for practical performance. Existing approaches mitigate this bottleneck by enhancing data locality through dynamic scheduling during rendering, typically employing spatial partitioning to enable access prediction. Although effective in some scenarios, these methods incur significant redundancy in base geometry when applied to large-scale instanced scenes. In this paper, we introduce the first object-space-based dynamic scheduling algorithm, which uses object groups as the scheduling units to eliminate redundant storage of base data in instanced scenes. Additionally, we propose two data access frequency prediction methods to guide asynchronous data prefetching, enhancing rendering efficiency. Compared to the state-of-the-art method, our approach achieves an average rendering speedup of 77.6%, with a maximum improvement of up to 146.1%, while incurring only a 5% increase in scene memory consumption.",
+            "journal": "IEEE Trans. Vis. Comput. Graph",
+            "title_cn": "大规模实例化场景数据并行路径追踪的动态调度",
+            "abstract_cn": "数据并行光线追踪是渲染超出单个计算节点内存容量的大规模场景的关键技术。它将场景数据跨多个节点进行分区，并通过节点间通信访问远程数据。然而，由此产生的通信开销仍然是实际性能的一个重要瓶颈。现有方法通过渲染期间的动态调度增强数据局部性来缓解这一瓶颈，通常采用空间分区来实现访问预测。尽管在某些情况下有效，但这些方法在应用于大规模实例场景时会在基础几何体中产生大量冗余。在本文中，我们介绍了第一个基于对象空间的动态调度算法，该算法使用对象组作为调度单元来消除实例场景中基础数据的冗余存储。此外，我们提出了两种数据访问频率预测方法来指导异步数据预取，提高渲染效率。与最先进的方法相比，我们的方法实现了 77.6% 的平均渲染加速，最大提升高达 146.1%，而场景内存消耗仅增加 5%。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tip.2026.3658219",
+            "title": "Frequency-Decomposed Interaction Network for Stereo Image Restoration",
+            "link": "https://doi.org/10.1109/tip.2026.3658219",
+            "published": "2026",
+            "author": "Xianmin Tian, Jin Xie, Ronghua Xu, Jing Nie, Jiale Cao, Yanwei Pang, Xuelong Li",
+            "summary": "Stereo image restoration in adverse environments, such as low-light conditions, rain, and low resolution, requires effective exploitation of cross-view complementary information to recover degraded visual content. In monocular image restoration, frequency decomposition has proven effective, where high-frequency components aid in recovering fine textures and reducing blur, while low-frequency components facilitate noise suppression and illumination correction. However, existing stereo restoration methods have yet to explore cross-view interactions by frequency decomposition, which is a promising direction for enhancing restoration quality. To address this, we propose a frequency-aware framework comprising a Frequency Decomposition Module (FDM), Detail Interaction Module (DIM), Structural Interaction Module (SIM), and Adaptive Fusion Module (AFM). FDM employs learnable filters to decompose the image into high- and low-frequency components. DIM enhances the high-frequency branch by capturing local detail cues through deformable convolution. SIM processes the low-frequency branch by modeling global structural correlations via a cross-view row-wise attention mechanism. Finally, AFM adaptively fuses the complementary frequency-specific information to generate high-quality restored images. Extensive experiments demonstrate the efficacy and generalizability of our framework across three diverse stereo restoration tasks, where it achieves state-of-the-art performance in low-light enhancement, rain removal, alongside highly competitive results in super-resolution.",
+            "journal": "IEEE Trans. Image Processing",
+            "title_cn": "用于立体图像恢复的频率分解交互网络",
+            "abstract_cn": "恶劣环境下的立体图像恢复，例如弱光条件、下雨和低分辨率，需要有效利用跨视图互补信息来恢复退化的视觉内容。在单目图像恢复中，频率分解已被证明是有效的，其中高频分量有助于恢复精细纹理并减少模糊，而低频分量则有助于噪声抑制和照明校正。然而，现有的立体恢复方法尚未通过频率分解来探索跨视图交互，这是提高恢复质量的一个有希望的方向。为了解决这个问题，我们提出了一个频率感知框架，包括频率分解模块（FDM）、细节交互模块（DIM）、结构交互模块（SIM）和自适应融合模块（AFM）。 FDM 采用可学习滤波器将图像分解为高频和低频分量。 DIM 通过可变形卷积捕获局部细节线索来增强高频分支。 SIM 通过跨视图行注意机制对全局结构相关性进行建模来处理低频分支。最后，AFM 自适应地融合互补的频率特定信息以生成高质量的恢复图像。大量的实验证明了我们的框架在三个不同的立体恢复任务中的有效性和通用性，它在低光增强、除雨方面实现了最先进的性能，同时在超分辨率方面也取得了极具竞争力的结果。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tip.2026.3658223",
+            "title": "MDA-MAA: A Collaborative Augmentation Approach for Generalizing Cross-Domain Retrieval",
+            "link": "https://doi.org/10.1109/tip.2026.3658223",
+            "published": "2026",
+            "author": "Ming Jin, Richang Hong",
+            "summary": "In video-text cross-domain retrieval tasks, the generalization ability of the retrieval models is key to improving their performance and is crucial for enhancing their practical applicability. However, existing retrieval models exhibit significant deficiencies in cross-domain generalization. On one hand, models tend to overfit specific training domain data, resulting in poor cross-domain matching and significantly reduced retrieval accuracy when dealing with data from different, new, or mixed domains. On the other hand, although data augmentation is a vital strategy for enhancing model generalization, most existing methods focus on unimodal augmentation and fail to fully exploit the multimodal correlations between video and text. As a result, the augmented data lack semantic diversity, which further limits the model’s ability to understand and perform in complex cross-domain scenarios. To address these challenges, this paper proposes an innovative collaborative augmentation approach named MDA-MAA, which includes two core modules: the Masked Attention Augmentation (MAA) module and the Multimodal Diffusion Augmentation (MDA) module. The MAA module applies masking to the original video frame features and uses an attention mechanism to predict the masked features, effectively reducing overfitting to training data and enhancing model generalization. The MDA module generates subtitles from video frames and uses the LLaMA model to infer comprehensive video captions. These captions, combined with the original video frames, are integrated into a diffusion model for joint learning, ultimately generating semantically enriched augmented video frames. This process leverages the multimodal relationship between video and text to increase the diversity of the training data distribution. Experimental results demonstrate that this collaborative augmentation method significantly improves the performance of video-text cross-domain retrieval models, validating its effectiveness in enhancing model generalization.",
+            "journal": "IEEE Trans. Image Processing",
+            "title_cn": "MDA-MAA：一种泛化跨域检索的协作增强方法",
+            "abstract_cn": "在视频文本跨域检索任务中，检索模型的泛化能力是提高其性能的关键，对于增强其实际适用性至关重要。然而，现有的检索模型在跨领域泛化方面表现出明显的缺陷。一方面，模型往往会过度拟合特定的训练域数据，导致跨域匹配较差，并且在处理来自不同域、新域或混合域的数据时显着降低检索精度。另一方面，虽然数据增强是增强模型泛化的重要策略，但大多数现有方法侧重于单模态增强，未能充分利用视频和文本之间的多模态相关性。因此，增强后的数据缺乏语义多样性，这进一步限制了模型在复杂的跨域场景中理解和执行的能力。为了应对这些挑战，本文提出了一种名为MDA-MAA的创新协作增强方法，该方法包括两个核心模块：掩模注意力增强（MAA）模块和多模态扩散增强（MDA）模块。 MAA模块对原始视频帧特征进行掩蔽，并利用注意力机制来预测被掩蔽的特征，有效减少对训练数据的过拟合，增强模型泛化能力。 MDA 模块从视频帧生成字幕，并使用 LLaMA 模型推断综合视频字幕。这些字幕与原始视频帧相结合，被集成到用于联合学习的扩散模型中，最终生成语义丰富的增强视频帧。该过程利用视频和文本之间的多模态关系来增加训练数据分布的多样性。实验结果表明，这种协作增强方法显着提高了视频文本跨域检索模型的性能，验证了其在增强模型泛化方面的有效性。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tip.2026.3658218",
+            "title": "Bidirectional Cross-Modal Collaborative Alignment via Semantic-Guided Visual Embeddings for Partially Relevant Video Retrieval",
+            "link": "https://doi.org/10.1109/tip.2026.3658218",
+            "published": "2026",
+            "author": "Huafeng Li, Jialong Zhao, Yafei Zhang, Jie Wen",
+            "summary": "Partially Relevant Video Retrieval (PRVR) aims to retrieve videos that match a given textual query only partially. This task is inherently challenging due to the modality gap between text and video, which is further exacerbated by the partial semantic correspondence between linguistic descriptions and visual content. To address these challenges, we propose a bidirectional cross-modal alignment mechanism that collaboratively optimizes both visual and textual modalities. In the visual modality, a major difficulty lies in the absence of visual cues that directly correspond to textual semantics, limiting the models ability to align visual representations with textual meanings under unsupervised conditions. To overcome this issue, we construct a semantic-visual association library, which stores paired visual and textual features with semantic annotations. During training, the model dynamically retrieves the most semantically similar visual samples from this library based on the current visual feature vector. These retrieved samples, preliminarily associated with semantics via cross-modal matching, are used to form dynamic anchors that guide visual representation learning. By leveraging these enriched visual features, the model progressively refines the visual representations to achieve better alignment with the corresponding textual inputs, thereby enhancing cross-modal consistency. In the textual modality, we enhance textual representations by integrating semantically aligned visual features selected from the same association library, further narrowing the modality gap. Extensive experiments on benchmark datasets under partial semantic correspondence scenarios demonstrate that our method achieves state-of-the-art performance. The source code of the paper is available at https://github.com/cyanlll/BOA.",
+            "journal": "IEEE Trans. Image Processing",
+            "title_cn": "通过语义引导视觉嵌入进行双向跨模态协作对齐，以实现部分相关的视频检索",
+            "abstract_cn": "部分相关视频检索 (PRVR) 旨在检索仅部分匹配给定文本查询的视频。由于文本和视频之间的模态差距，这项任务本质上具有挑战性，而语言描述和视觉内容之间的部分语义对应进一步加剧了这种差距。为了应对这些挑战，我们提出了一种双向跨模态对齐机制，可以协同优化视觉和文本模态。在视觉模态中，一个主要困难在于缺乏与文本语义直接对应的视觉线索，限制了模型在无监督条件下将视觉表示与文本含义对齐的能力。为了克服这个问题，我们构建了一个语义视觉关联库，它存储配对的视觉和文本特征以及语义注释。在训练过程中，模型根据当前的视觉特征向量，动态地从该库中检索语义最相似的视觉样本。这些检索到的样本通过跨模态匹配初步与语义相关联，用于形成指导视觉表示学习的动态锚点。通过利用这些丰富的视觉特征，模型逐步细化视觉表示，以实现与相应文本输入的更好对齐，从而增强跨模式一致性。在文本模态中，我们通过集成从同一关联库中选择的语义对齐的视觉特征来增强文本表示，进一步缩小模态差距。在部分语义对应场景下对基准数据集进行的大量实验表明，我们的方法实现了最先进的性能。论文源代码可在https://github.com/cyanlll/BOA获取。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tpami.2026.3660147",
+            "title": "Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations",
+            "link": "https://doi.org/10.1109/tpami.2026.3660147",
+            "published": "2026",
+            "author": "Zeming Wei, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang",
+            "summary": "Large Language Models (LLMs) have demonstrated remarkable success across diverse applications, yet their susceptibility to malicious exploitation remains a critical challenge. Notably, LLMs are known to be vulnerable to jailbreaking attacks, where adversaries craft malicious inputs to induce harmful or unethical outputs. In this paper, motivated by the unique effectiveness and scalability of In-Context Learning (ICL) in LLMs, we explore its potential to modulate the safety alignment of LLMs. Specifically, we propose the In-Context Attack (ICA), which employs harmful demonstrations to subvert LLMs' safety, and the In-Context Defense (ICD), which bolsters their resilience through examples that demonstrate refusal to produce harmful responses. By adjusting the distribution of safety in LLM outputs through adversarial demonstrations, our proposed in-context attack and defense facilitate effective manipulation of their alignment. We first provide theoretical insights to illustrate how minimal in-context demonstrations can efficiently alter safety alignment. Empirically, we validate ICA and ICD across multiple models, datasets, and attack baselines, showing their efficacy and scalability for red-teaming evaluations and robust safeguards for real-world deployment. Overall, our work unveils the pivotal yet understudied role of ICL in LLM safety, opening new avenues for understanding and improving them.",
+            "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
+            "title_cn": "越狱和防护一致的语言模型，只有很少的上下文演示",
+            "abstract_cn": "大型语言模型 (LLM) 在不同的应用程序中取得了显着的成功，但它们对恶意利用的敏感性仍然是一个严峻的挑战。值得注意的是，众所周知，法学硕士很容易受到越狱攻击，对手会制作恶意输入以诱导有害或不道德的输出。在本文中，受法学硕士情境学习（ICL）独特的有效性和可扩展性的启发，我们探索了其调节法学硕士安全一致性的潜力。具体来说，我们提出了上下文攻击（ICA）和上下文防御（ICD），前者利用有害的演示来破坏法学硕士的安全，后者通过证明拒绝产生有害响应的例子来增强他们的弹性。通过对抗性演示来调整 LLM 输出中的安全性分布，我们提出的上下文攻击和防御有助于有效操纵其对齐。我们首先提供理论见解，以说明最少的情境演示如何有效地改变安全调整。根据经验，我们跨多个模型、数据集和攻击基线验证 ICA 和 ICD，展示其红队评估的有效性和可扩展性以及实际部署的强大保障措施。总的来说，我们的工作揭示了 ICL 在 LLM 安全性中的关键但尚未得到充分研究的作用，为理解和改进它们开辟了新的途径。"
         }
     ]
 }

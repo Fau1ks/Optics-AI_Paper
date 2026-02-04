@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-04 13:28:05",
+    "update_time": "2026-02-04 15:28:53",
     "word_filename": "Optical_Papers_260204.docx",
-    "total_count": 325,
+    "total_count": 335,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109665",
@@ -3577,6 +3577,116 @@
             "journal": "J. Opt. Soc. Am. A",
             "title_cn": "螺旋圆锥相位调制下方位偏振洛伦兹-高斯光束焦点场中能量流的演化",
             "abstract_cn": "本文研究了螺旋圆锥调制下洛伦兹-高斯光束中能量流分布的演变。基于Richards-Wolf矢量衍射理论，我们推导了方位偏振洛伦兹-高斯光束的电磁场表达式。通过坡印廷矢量获得纵向和横向能量流分布。随后，应用螺旋锥形调制来系统地研究各种参数对能量流分布的影响。通过多个参数的协调调制，实现了纵向和横向能量流分量的多向扩散。这种能量流分布可以在多向光信息传输和相关领域提供潜在的应用。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-025-67398-w",
+            "title": "Neurocognitive characterization of behaviour and mental illness through time-varying brain network analysis",
+            "link": "https://doi.org/10.1038/s41467-025-67398-w",
+            "published": "2026-02-03",
+            "author": "Xiao Chang, Tianye Jia, Zening Fu, Shitong Xiang, Yunman Xia, Chao Xie, Jiyan Zou, Miao Cao, Jie Zhang, Tobias Banaschewski, Arun L. W. Bokde, Sylvane Desrivières, Herta Flor, Antoine Grigis, Hugh Garavan, Penny Gowland, Andreas Heinz, Rüdiger Brühl, Jean-Luc Martinot, Marie-Laure Paillère Martinot, Eric Artiges, Frauke Nees, Dimitri Papadopoulos Orfanos, Vincent Frouin, Luise Poustka, Sarah Hohmann, Christian Baeuchl, Michael N. Smolka, Nilakshi Vaidya, Henrik Walter, Robert Whelan, Jianfeng Feng, Vince D. Calhoun, Gunter Schumann, Luise Poustka, Michael N. Smolka, Nilakshi Vaidya, Henrik Walter, Robert Whelan, Jianfeng Feng, Gunter Schumann",
+            "summary": "Abstract Human cognitive processing involves dynamic interactions across brain regions, evolving over time. Traditional neuroimaging analysis often overlooks this temporal aspect, limiting insights into how functional network connectivity (FNC) supports ongoing cognition and behaviour. Using sliding window analysis, we captured FNC changes during tasks, reflecting network reconfiguration in cognitive processes. We further determined behavioural relevance of time-varying FNC by relating network measurements with task performances and psychopathology. We found that several whole-brain FNC patterns, or states, persist across resting and task-based fMRI, with state occurrences fluctuating with the most prominent task stimuli. Regional FNC distinguishes specific task conditions, and time-varying FNC explains more variance in psychopathology symptoms compared to static connectivity. These findings highlight that cognitive tasks reshape regional and whole-brain connectivity. By considering the different FNC states, time-varying connectivity provides a more comprehensive representation of brain interactions and thus may represent a better neural proxy for cognition and behaviour.",
+            "journal": "Nature Communications",
+            "title_cn": "通过时变大脑网络分析行为和精神疾病的神经认知特征",
+            "abstract_cn": "摘要 人类认知处理涉及大脑区域之间的动态相互作用，并随着时间的推移而演变。传统的神经影像分析经常忽视这个时间方面，限制了对功能网络连接（FNC）如何支持持续认知和行为的深入了解。使用滑动窗口分析，我们捕获了任务期间 FNC 的变化，反映了认知过程中的网络重新配置。我们通过将网络测量与任务表现和精神病理学联系起来，进一步确定了时变 FNC 的行为相关性。我们发现，几种全脑 FNC 模式或状态在静息和基于任务的 fMRI 中持续存在，状态发生随着最突出的任务刺激而波动。区域 FNC 区分特定的任务条件，与静态连接相比，时变 FNC 解释了精神病理学症状的更多差异。这些发现强调认知任务重塑区域和全脑连接。通过考虑不同的 FNC 状态，时变连接提供了大脑交互的更全面的表示，因此可能代表认知和行为的更好的神经代理。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38589-2",
+            "title": "Activated T cells induce apoptosis in A549 lung adenocarcinoma cells via TRPV4-mediated calcium influx",
+            "link": "https://doi.org/10.1038/s41598-026-38589-2",
+            "published": "2026-02-03",
+            "author": "Fatemeh Alavi, Fatemeh Kazemi-Lomedasht, Zohre Eftekhari, Ali Chitgar",
+            "summary": "Lung cancer remains the most commonly diagnosed malignancy worldwide and is a leading cause of cancer-related mortality. Conventional therapies, including chemotherapy and radiotherapy, are often limited by treatment resistance and disease recurrence, highlighting the need for alternative approaches such as immunotherapy. In this study, we investigated the pro-apoptotic effects of activated T cells on A549 lung cancer cells, with a particular focus on TRPV4-mediated calcium signaling. A549 cells were co-cultured with Jurkat T cells in the presence of calcium to evaluate T cell-mediated cytotoxicity. Cell viability was assessed using the MTT assay at 24 and 72 h, while apoptosis and necrosis were quantified by Annexin V staining and flow cytometry. T cell activation was confirmed through immunophenotyping for CD3 expression. We further evaluated oxidative stress markers, including total antioxidant capacity (TAC) and total oxidant status (TOS), alongside TRPV4 protein expression. Activated T cells significantly decreased A549 cell viability in a dose-dependent manner. Notably, calcium alone enhanced cell viability, whereas its combination with activated T cells markedly increased cytotoxicity and necrosis. TRPV4 expression was upregulated in cells treated with both calcium and activated T cells, suggesting a key role in mediating calcium influx and subsequent apoptosis. Additionally, combinatorial treatment led to decreased TAC and elevated TOS levels, indicating enhanced oxidative stress. These findings reveal a novel immunotherapeutic mechanism whereby activated T cells induce apoptosis through TRPV4-dependent calcium signaling, offering a potential strategy to improve lung cancer treatment efficacy. Further studies are warranted to elucidate the modulation of calcium pathways in T cell-driven anti-tumor responses.",
+            "journal": "Scientific Reports",
+            "title_cn": "激活的 T 细胞通过 TRPV4 介导的钙内流诱导 A549 肺腺癌细胞凋亡",
+            "abstract_cn": "肺癌仍然是全世界最常诊断的恶性肿瘤，也是癌症相关死亡的主要原因。包括化疗和放疗在内的常规疗法往往受到治疗耐药性和疾病复发的限制，这凸显了对免疫疗法等替代方法的需求。在这项研究中，我们研究了活化 T 细胞对 A549 肺癌细胞的促凋亡作用，特别关注 TRPV4 介导的钙信号传导。 A549 细胞与 Jurkat T 细胞在钙存在下共培养，以评估 T 细胞介导的细胞毒性。在 24 小时和 72 小时时使用 MTT 测定评估细胞活力，同时通过膜联蛋白 V 染色和流式细胞术定量细胞凋亡和坏死。通过 CD3 表达的免疫表型分析证实了 T 细胞的激活。我们进一步评估了氧化应激标志物，包括总抗氧化能力 (TAC) 和总氧化状态 (TOS)，以及 TRPV4 蛋白表达。激活的 T 细胞以剂量依赖性方式显着降低 A549 细胞活力。值得注意的是，单独使用钙可以增强细胞活力，而与活化的 T 细胞结合则可以显着增加细胞毒性和坏死。在用钙和活化的 T 细胞处理的细胞中，TRPV4 表达上调，表明在介导钙流入和随后的细胞凋亡中发挥关键作用。此外，组合治疗导致 TAC 降低和 TOS 水平升高，表明氧化应激增强。这些发现揭示了一种新的免疫治疗机制，即激活的 T 细胞通过 TRPV4 依赖性钙信号传导诱导细胞凋亡，为提高肺癌治疗效果提供了潜在的策略。需要进一步的研究来阐明 T 细胞驱动的抗肿瘤反应中钙途径的调节。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-35213-1",
+            "title": "Genetic polymorphisms in DNA repair gene XRCC1 and the risk of diabetic polyneuropathy",
+            "link": "https://doi.org/10.1038/s41598-026-35213-1",
+            "published": "2026-02-03",
+            "author": "Noha A. Hashim, Hatim A. El-Baz, Zahraa I. Abo Afya, Hagar F. Gouda, Noha M. Bakr",
+            "summary": "This study aimed to investigate the association between XRCC1 Arg399Gln and Arg194Trp single nucleotide polymorphisms (SNPs) and the risk and severity of polyneuropathy (DPN) in patients with type 2 diabetes mellitus (T2DM). The genotyping of SNPs was achieved in 732 contributors, including diabetic subjects with and without polyneuropathy and controls, using polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP). In addition, by using advanced statistical techniques, including machine learning methodologies, to analyze the data.The results indicated a significant link between both SNPs and DPN risk under both codominant and dominant models, respectively, with the A and T alleles as risk variants. Haplotype analysis further established the A-T haplotype as a prominent risk factor. The disease severity was associated with the 399 A/A and combined (G/A + A/A) genotypes, as well as the 194 C/T and combined (C/T + T/T) genotypes. In advanced DPN stages, random Forest (RF) highlighted both XRCC1 SNPs, and disease duration as the top three contributing factors. SHAP analysis corroborated the 194 C/T genotype of and the 399 A/A genotype were strongly linked to severe disease manifestations, particularly when coexisting with prolonged illness duration, advanced age, elevated HDL, and reduced LDL levels. Our findings substantiate the association of XRCC1 Arg399Gln and Arg194Trp SNPs with both susceptibility to and progression of DPN in T2DM patients. The integration of machine learning methodologies augments clinical decision-making by refining diagnostic precision and facilitating personalized treatment strategies.",
+            "journal": "Scientific Reports",
+            "title_cn": "DNA修复基因XRCC1的遗传多态性与糖尿病多发性神经病的风险",
+            "abstract_cn": "本研究旨在探讨 XRCC1 Arg399Gln 和 Arg194Trp 单核苷酸多态性 (SNP) 与 2 型糖尿病 (T2DM) 患者多发性神经病 (DPN) 的风险和严重程度之间的关联。使用聚合酶链反应-限制性片段长度多态性 (PCR-RFLP) 对 732 名贡献者进行了 SNP 基因分型，其中包括患有或不患有多发性神经病的糖尿病受试者和对照。此外，通过使用包括机器学习方法在内的先进统计技术来分析数据。结果表明，在以 A 和 T 等位基因作为风险变异的共显性和显性模型下，SNP 和 DPN 风险之间均存在显着联系。单倍型分析进一步确定 A-T 单倍型是一个突出的危险因素。疾病严重程度与 399 A/A 和组合 (G/A + A/A) 基因型以及 194 C/T 和组合 (C/T + T/T) 基因型相关。在高级 DPN 阶段，随机森林 (RF) 强调 XRCC1 SNP 和疾病持续时间是三大影响因素。 SHAP 分析证实 194 C/T 基因型和 399 A/A 基因型与严重疾病表现密切相关，特别是当与病程延长、高龄、HDL 升高和 LDL 水平降低共存时。我们的研究结果证实了 XRCC1 Arg399Gln 和 Arg194Trp SNP 与 T2DM 患者 DPN 易感性​​和进展之间的关联。机器学习方法的集成通过提高诊断精度和促进个性化治疗策略来增强临床决策。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38333-w",
+            "title": "Molecular dynamics simulation of atomic layer etching for sidewall damage recovery in GaN-based structures",
+            "link": "https://doi.org/10.1038/s41598-026-38333-w",
+            "published": "2026-02-03",
+            "author": "Eun Koo Kim, Jong Woo Hong, Woong Sun Lim, Ja Yeon Kim, Kyung Lim Kim, Jong Soon Park, Yun Jae Park, Chan Ho Kim, Hyeong Joon Eoh, Jun Won Jeong, Sung Hyun Kim, Young Woo Jeon, Dong Woo Kim, Geun Young Yeom",
+            "summary": "Today, as GaN-based devices are becoming increasingly smaller, dry etching has been employed, but it has caused damage, particularly in InGaN/GaN multiple quantum well (MQW) structures exposed to Cl2-based reactive ion etching (RIE). Attempts to remove this damage with wet etching have had limitations. Therefore, atomic layer etching (ALE) has emerged as a promising technique to overcome the sidewall damage issues in GaN-based devices. This study utilized molecular dynamics (MD) simulations to investigate the optimal ALE process conditions for recovering plasma-induced damage at the atomic scale. The simulations systematically analyzed the effect of the Ar⁺ ion incidence angle on etching behavior and recovery efficiency. Three surfaces with initial damage conditions high, middle, and low were generated and then subjected to the ALE process. As a result, the ALE process was found to effectively remove both surface and subsurface amorphized regions, with more than ~47% reduction in damaged atoms observed across all damage levels, and ultimately converging to a comparable level of residual surface damage. Furthermore, a dual-angle approach using 60°~70° for deep damage removal followed by 80° for surface smoothing was identified as the most effective strategy for maximizing recovery while minimizing roughness. These findings highlight the strong potential of ALE to fundamentally recover MQW sidewall damage regardless of the initial damage level, while also providing critical physical insights and practical guidelines for optimizing the manufacturing processes of next-generation vertical GaN-based devices.",
+            "journal": "Scientific Reports",
+            "title_cn": "GaN基结构侧壁损伤恢复原子层蚀刻的分子动力学模拟",
+            "abstract_cn": "如今，随着 GaN 基器件变得越来越小，人们开始采用干法刻蚀，但它造成了损坏，特别是在暴露于 Cl2 基反应离子刻蚀 (RIE) 的 InGaN/GaN 多量子阱 (MQW) 结构中。用湿法蚀刻去除这种损伤的尝试存在局限性。因此，原子层蚀刻 (ALE) 已成为克服 GaN 器件侧壁损伤问题的一种有前途的技术。本研究利用分子动力学 (MD) 模拟来研究在原子尺度上恢复等离子体引起的损伤的最佳 ALE 工艺条件。模拟系统地分析了Ar⁺离子入射角对刻蚀行为和恢复效率的影响。生成初始损伤条件高、中、低的三个表面，然后进行 ALE 处理。结果发现，ALE 工艺可以有效去除表面和次表面非晶化区域，在所有损伤水平上观察到的损伤原子减少了约 47%，并最终收敛到相当水平的残余表面损伤。此外，使用 60°~70° 进行深度损伤去除，然后使用 80° 进行表面平滑的双角度方法被认为是最大化恢复同时最小化粗糙度的最有效策略。这些发现凸显了 ALE 从根本上恢复 MQW 侧壁损伤（无论初始损伤程度如何）的强大潜力，同时还为优化下一代垂直 GaN 器件的制造工艺提供了关键的物理见解和实用指南。"
+        },
+        {
+            "id": "https://doi.org/10.1103/31w7-69c8",
+            "title": "Phase-dependent squeezing in dual-comb interferometry",
+            "link": "https://doi.org/10.1103/31w7-69c8",
+            "published": "2026-02-03",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "双梳干涉测量中的相位相关挤压",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132984",
+            "title": "Tunable decoherence of quantum polarization states via birefringence-frequency coupling using liquid crystal",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132984",
+            "published": "2026-02-01",
+            "author": "Gyaprasad, Rajneesh Joshi",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "使用液晶通过双折射频率耦合实现量子偏振态的可调谐退相干",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.574770",
+            "title": "Orthogonal anisotropy-programmable metasurface for simultaneous polarization and deflection control of reflected waves",
+            "link": "https://doi.org/10.1364/prj.574770",
+            "published": "2026-01-28",
+            "author": "Shulei Zhang, Ruichao Zhu, Chang Ding, Zuntian Chu, Shaojie Wang, Yuxi Li, Fangyuan Qi, Yuxiang Jia, Jiafu Wang",
+            "summary": "Coding metasurfaces offer dynamic electromagnetic wave control, but existing multi-polarization designs often exhibit narrow bandwidths or limited polarization states. This work proposes a broadband orthogonal anisotropy-programmable metasurface operating within 6.0–9.5 GHz, enabling multi-polarization manipulation and efficient circular-to-linear polarization conversion. By introducing isotropic metallic structures and tunable PIN diodes, the unit cell can achieve switchable isotropic and anisotropic states. This enables 1-bit phase encoding for co-polarized reflected waves of arbitrary polarization, derived from the orthogonal x - and y -polarization basis. Conversely, the 1-bit phase encoded cross-polarized reflection, resulting from the unit cell’s anisotropy, is suitable for circularly polarized (CP) and 45° polarized incident waves. Key performance metrics include a 180° phase difference between ON/OFF states and insertion losses under 3 dB across the bandwidth. Furthermore, adjusting the coding sequence under circularly polarized wave incidence generates x - or y -polarized reflected waves with robust beam-steering capabilities. Measurement results validate the beam deflection performance under both reflection modes, showing excellent agreement with simulations through periodic coding adjustments. This reconfigurable framework for simultaneous polarization and deflection manipulation is crucial for next-generation wireless communication and radar.",
+            "journal": "Photonics Research",
+            "title_cn": "正交各向异性可编程超表面，用于同时控制反射波的偏振和偏转",
+            "abstract_cn": "编码超表面提供动态电磁波控制，但现有的多极化设计通常表现出窄带宽或有限的极化状态。这项工作提出了一种在 6.0-9.5 GHz 范围内工作的宽带正交各向异性可编程超表面，能够实现多偏振操纵和高效的圆偏振到线偏振转换。通过引入各向同性金属结构和可调谐PIN二极管，单元电池可以实现可切换的各向同性和各向异性状态。这使得能够对从正交 x 和 y 偏振基础导出的任意偏振的同偏振反射波进行 1 位相位编码。相反，由于晶胞的各向异性而产生的 1 位相位编码交叉偏振反射适用于圆偏振 (CP) 和 45° 偏振入射波。关键性能指标包括开/关状态之间的 180° 相位差以及整个带宽内低于 3 dB 的插入损耗。此外，在圆偏振波入射下调整编码序列会生成具有强大光束控制能力的 x 或 y 偏振反射波。测量结果验证了两种反射模式下的光束偏转性能，通过定期编码调整与模拟显示出良好的一致性。这种用于同时偏振和偏转操纵的可重构框架对于下一代无线通信和雷达至关重要。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02577",
+            "title": "Exceptional Point-Driven Multi-Channel Electron Spin Polarization",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02577",
+            "published": "2026-02-03",
+            "author": "Yuting Xu, Zhen Chai, Xinran Su",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "卓越的点驱动多通道电子自旋极化",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1109/tip.2026.3657233",
+            "title": "SuperCL: Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-training",
+            "link": "https://doi.org/10.1109/tip.2026.3657233",
+            "published": "2026",
+            "author": "Shuang Zeng, Lei Zhu, Xinliang Zhang, Hangzhou He, Yanye Lu",
+            "summary": "Medical image segmentation is a critical yet challenging task, primarily due to the difficulty of obtaining extensive datasets of high-quality, expert-annotated images. Contrastive learning presents a potential but still problematic solution to this issue. Because most existing methods focus on extracting instance-level or pixel-to-pixel representation, which ignores the characteristics between intra-image similar pixel groups. Moreover, when considering contrastive pairs generation, most SOTA methods mainly rely on manually setting thresholds, which requires a large number of gradient experiments and lacks efficiency and generalization. To address these issues, we propose a novel contrastive learning approach named SuperCL for medical image segmentation pre-training. Specifically, our SuperCL exploits the structural prior and pixel correlation of images by introducing two novel contrastive pairs generation strategies: Intra-image Local Contrastive Pairs (ILCP) Generation and Inter-image Global Contrastive Pairs (IGCP) Generation. Considering superpixel cluster aligns well with the concept of contrastive pairs generation, we utilize the superpixel map to generate pseudo masks for both ILCP and IGCP to guide supervised contrastive learning. Moreover, we also propose two modules named Average SuperPixel Feature Map Generation (ASP) and Connected Components Label Generation (CCL) to better exploit the prior structural information for IGCP. Finally, experiments on 8 medical image datasets indicate our SuperCL outperforms existing 12 methods. i.e. Our SuperCL achieves a superior performance with more precise predictions from visualization figures and 3.15%, 5.44%, 7.89% DSC higher than the previous best results on MMWHS, CHAOS, Spleen with 10% annotations. Our code is released at https://github.com/stevezs315/SuperCL.",
+            "journal": "IEEE Trans. Image Processing",
+            "title_cn": "SuperCL：用于医学图像分割预训练的超像素引导对比学习",
+            "abstract_cn": "医学图像分割是一项关键但具有挑战性的任务，主要是因为很难获得大量高质量、专家注释图像的数据集。对比学习为这个问题提供了一个潜在但仍然存在问题的解决方案。因为大多数现有方法专注于提取实例级或像素到像素的表示，而忽略了图像内相似像素组之间的特征。此外，在考虑对比对生成时，大多数SOTA方法主要依赖于手动设置阈值，这需要大量的梯度实验，缺乏效率和泛化性。为了解决这些问题，我们提出了一种名为 SuperCL 的新型对比学习方法，用于医学图像分割预训练。具体来说，我们的 SuperCL 通过引入两种新颖的对比对生成策略来利用图像的结构先验和像素相关性：图像内局部对比对（ILCP）生成和图像间全局对比对（IGCP）生成。考虑到超像素簇与对比对生成的概念非常吻合，我们利用超像素图为 ILCP 和 IGCP 生成伪掩模来指导监督对比学习。此外，我们还提出了两个模块，名为平均超像素特征图生成（ASP）和连通分量标签生成（CCL），以更好地利用 IGCP 的先验结构信息。最后，对 8 个医学图像数据集的实验表明我们的 SuperCL 优于现有的 12 种方法。即我们的 SuperCL 实现了卓越的性能，通过可视化图形进行更精确的预测，并且比之前在 MMWHS、CHAOS、Spleen 上具有 10% 注释的最佳结果高出 3.15%、5.44%、7.89% DSC。我们的代码发布于 https://github.com/stevezs315/SuperCL。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tpami.2026.3660934",
+            "title": "Full-Scope Vectorization of Geographical Elements from Large-Size Remote Sensing Imagery",
+            "link": "https://doi.org/10.1109/tpami.2026.3660934",
+            "published": "2026",
+            "author": "Yansheng Li, Wanchun Li, Bo Dang, Yu Wang, Wei Chen, Lei Wang, Bingnan Yang, Yongjun Zhang",
+            "summary": "Large-size very-high-resolution (VHR) remote sensing imagery has emerged as a critical data source for high-precision vector mapping of multi-scale geographical elements such as building, water, road and etc. When dealing with the large-size image, due to the limited memory of GPU, the deep learning-based vector mapping methods often employ the sliding block strategy. This inevitably leads to the degenerated performance because of the stitching difficulty of the sliding blocks' vector mapping results. Therefore, it is necessary to conduct full-scope vector mapping via mining the consistent cue in large-size remote sensing imagery. To this end, this paper presents a novel global context-aware local point optimization method. To leverage the global context, this paper proposes a novel pyramid fusion network (PFNet) to conduct semantic segmentation of the large-size image in an end-to-end manner. Under the constraint of the global semantic segmentation result, a new inflection-point perception network (IPNet) is proposed to generate a set of stable points to depict the boundary of each element. Extensive experiments on building, water and road datasets, where each image has over 100 million pixels, show that our method obviously outperforms the existing methods. The project page is at https://li-99.github.io/project/Vectorization.html .",
+            "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
+            "title_cn": "大尺寸遥感影像地理要素的全范围矢量化",
+            "abstract_cn": "大尺寸超高分辨率遥感影像已成为建筑物、水体、道路等多尺度地理要素高精度矢量测绘的关键数据源。在处理大尺寸影像时，由于GPU内存有限，基于深度学习的矢量测绘方法往往采用滑块策略。由于滑块矢量映射结果的拼接困难，这不可避免地导致性能下降。因此，有必要通过挖掘大尺寸遥感影像的一致线索来进行全范围矢量制图。为此，本文提出了一种新颖的全局上下文感知局部点优化方法。为了利用全局上下文，本文提出了一种新颖的金字塔融合网络（PFNet），以端到端的方式对大尺寸图像进行语义分割。在全局语义分割结果的约束下，提出了一种新的拐点感知网络（IPNet）来生成一组稳定点来描绘每个元素的边界。对建筑、水和道路数据集（每张图像都有超过 1 亿像素）的大量实验表明，我们的方法明显优于现有方法。项目页面位于 https://li-99.github.io/project/Vectorization.html 。"
         }
     ]
 }

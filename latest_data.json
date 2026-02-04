@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-04 12:57:27",
+    "update_time": "2026-02-04 13:06:23",
     "word_filename": "Optical_Papers_260204.docx",
-    "total_count": 300,
+    "total_count": 324,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109665",
@@ -3302,6 +3302,270 @@
             "journal": "Physical Review X",
             "title_cn": "使用磁振子模拟 2D 材料",
             "abstract_cn": "二维材料中的自旋波（磁振子）由于其独特的状态和可调谐潜力而受到越来越多的关注。然而，这些系统的许多有趣的特征，包括狄拉克点和拓扑状态，都在高频下出现，而实验探针是有限的。在这里，我们研究了通过在垂直磁化薄膜中形成六边形孔阵列图案而形成的晶体。通过模拟，我们发现波能带结构模仿了石墨烯的能带结构，但还具有一些类似 kagome 的特征，并包含一些平带。令人惊讶的是，它的性质可以使用 9 频带紧束缚哈密顿量来理解。这种与 2D 材料的清晰类比使得 2D 中的带隙工程、沿 1D 相边界的拓扑磁振子以及 0D 点缺陷处的光谱隔离模式成为可能。有趣的是，一维相边界允许通过量子谷霍尔绝缘体的波角模拟来获得谷自由度。这些方法可以扩展到其他磁波系统，但由于模型的简单性，它可​​能更通用，类似于电子、声子、光子和冷原子系统的现有结果。这一发现将二维材料中的自旋波物理学带到了更容易通过实验获得的尺度，对其进行了增强，并概述了控制波角态的一些原则。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41586-025-10029-7",
+            "title": "Structures of Ostα/β reveal a unique fold and bile acid transport mechanism",
+            "link": "https://doi.org/10.1038/s41586-025-10029-7",
+            "published": "2026-01-28",
+            "author": "Xuemei Yang, Nana Cui, Tianyu Li, Xinheng He, Heng Zhang, Canrong Wu, Yang Li, Xiong Ma, H. Eric Xu",
+            "summary": "Cryogenic electron microscopy structures of human Ostα/β uncover a unique transport pathway featuring two substrate-binding sites connected by an amphipathic helix-gated conduit, and electrophysiological studies demonstrate voltage-sensitive, bidirectional transport, showing its efflux role in vivo.",
+            "journal": "Nature",
+            "title_cn": "Ostα/β 的结构揭示了独特的折叠和胆汁酸转运机制",
+            "abstract_cn": "人类 Ostα/β 的低温电子显微镜结构揭示了一种独特的转运途径，该途径具有通过两亲性螺旋门控导管连接的两个底物结合位点，电生理学研究证明了电压敏感的双向转运，显示了其在体内的流出作用。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41586-025-09973-1",
+            "title": "An X-ray-emitting protocluster at z ≈ 5.7 reveals rapid structure growth",
+            "link": "https://doi.org/10.1038/s41586-025-09973-1",
+            "published": "2026-01-28",
+            "author": "Ákos Bogdán, Gerrit Schellenberger, Qiong Li, Christopher J. Conselice",
+            "summary": "Galaxy clusters are the most massive gravitationally bound structures in the universe and serve as tracers of the assembly of large-scale structure1. Studying their progenitors, protoclusters, sheds light on the earliest stages of cluster formation. However, detecting protoclusters is demanding: their member galaxies are loosely bound and the emerging hot intracluster medium (ICM) may only be in the initial stages of virialization2, 3–4. Recent James Webb Space Telescope (JWST) observations located several protocluster candidates by identifying overdensities of z ≳ 5 galaxies5, 6, 7, 8–9. However, none of these candidates was detected by X-ray observations, which offer a powerful way to unveil the hot ICM. Here we report the combined Chandra and JWST detection of a protocluster, JADES-ID1, at z ≈ 5.68, merely one billion years after the Big Bang. We measure a bolometric X-ray luminosity of Lbol=(1.5−0.6+0.5)×1044ergs−1\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${L}_{{\\rm{bol}}}=(1.{5}_{-0.6}^{+0.5})\\times 1{0}^{44}\\,{\\rm{erg}}\\,{{\\rm{s}}}^{-1}$$\\end{document} and infer a total gravitating mass of M500=(1.8−0.7+0.6)×1013M⊙\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${M}_{500}=(1.{8}_{-0.7}^{+0.6})\\times 1{0}^{13}\\,{M}_{\\odot }$$\\end{document}, making this system a progenitor of today’s most massive galaxy clusters. The detection of extended, shock-heated gas indicates that substantial ICM heating can occur in massive halos as early as z ≈ 5.7. Also, given the limited survey volume, the discovery of such a massive cluster is statistically unlikely10, implying that the formation of the large-scale structure must have occurred more rapidly in some regions of the early universe than standard cosmological models predict. Discovery of a protocluster at z = 5.68, merely one billion years after the Big Bang, suggests that large-scale structure must have formed more rapidly in some regions of the early universe than previously thought.",
+            "journal": "Nature",
+            "title_cn": "z ≈ 5.7 处发射 X 射线的原星团揭示了快速的结构生长",
+            "abstract_cn": "星系团是宇宙中质量最大的引力束缚结构，可作为大规模结构组装的示踪剂1。研究它们的祖先，原星团，揭示了星团形成的最早阶段。然而，检测原星系团的要求很高：它们的成员星系是松散束缚的，并且新兴的热星系团内介质（ICM）可能仅处于病毒化的初始阶段2、3-4。最近的詹姆斯·韦伯太空望远镜 (JWST) 观测通过识别 z ≳ 5 星系 5、6、7、8-9 的过密度，找到了几个候选原星系团。然而，这些候选者都没有被 X 射线观测发现，而 X 射线观测提供了揭示热 ICM 的有力方法。在这里，我们报告了钱德拉和 JWST 对原星团 JADES-ID1 的联合检测，其 z ≈ 5.68，距离大爆炸仅 10 亿年。我们测量辐射热X射线光度 Lbol=(1.5−0.6+0.5)×1044ergs−1\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${L}_{{\\rm{bol}}}=(1.{5}_{-0.6}^{+0.5})\\times 1{0}^{44}\\,{\\rm{erg}}\\,{{\\rm{s}}}^{-1}$$\\end{document} 并推断总引力质量为M500=(1.8−0.7+0.6)×1013M⊙\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${M}_{500}=(1.{8}_{-0.7}^{+0.6})\\times 1{0}^{13}\\,{M}_{\\odot }$$\\end{document}，使该系统成为当今最大质量星系团的祖先。对扩展的冲击加热气体的检测表明，早在 z ≈ 5.7 时，大量的 ICM 加热就可能在大质量晕中发生。此外，鉴于调查量有限，从统计上来说，发现如此巨大的星团是不可能的10，这意味着在早期宇宙的某些区域，大规模结构的形成一定比标准宇宙学模型预测的要快。在大爆炸后仅仅十亿年，在 z = 5.68 处发现了一个原星团，这表明早期宇宙的某些区域中大规模结构的形成速度一定比之前认为的要快。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41586-025-10049-3",
+            "title": "Bandwidth-tuned Mott transition and superconductivity in moiré WSe2",
+            "link": "https://doi.org/10.1038/s41586-025-10049-3",
+            "published": "2026-01-28",
+            "author": "Yiyu Xia, Zhongdong Han, Jiacheng Zhu, Yichi Zhang, Patrick Knüppel, Kenji Watanabe, Takashi Taniguchi, Kin Fai Mak, Jie Shan",
+            "summary": "Abstract The emergence of high-transition-temperature ( T c ) superconductivity in strongly correlated materials remains the main unsolved problem in physics. High- T c materials, such as cuprates, are generally complex and not easily tunable, making theoretical modelling difficult. Although the Hubbard model—a simple theoretical model of interacting electrons on a lattice—is believed to capture the essential physics of high- T c materials 1–5 , obtaining accurate solutions of the model, especially in the relevant regime of moderate correlation, is challenging 6 . The recent demonstration of robust superconductivity in moiré WSe 2 (refs. 7,8 ), in which low-energy electronic bands can be described by the Hubbard model and are highly tunable 9–11 , presents a new platform for studying the high- T c problem. Here we tune moiré WSe 2 bilayers to the moderate correlation regime through the twist angle and map the phase diagram around one hole per moiré unit cell ( ν = 1) by electrostatic gating and electrical transport and magneto-optical measurements. We observe a range of high- T c phenomenology, including an antiferromagnetic insulator at ν = 1, superconducting domes on electron and hole doping, and unusual metallic states such as strange metals 12–14 . Twist-angle dependence studies further show that the highest T c always occurs adjacent to the Mott transition 3,15 . Our results indicate strong correlation as the key to superconductivity in moiré WSe 2 and establish a new material system for studying high- T c superconductivity in a controllable manner.",
+            "journal": "Nature",
+            "title_cn": "莫尔条纹 WSe2 中的带宽调谐莫特跃迁和超导性",
+            "abstract_cn": "摘要 强相关材料中高转变温度（T c ）超导的出现仍然是物理学中未解决的主要问题。铜酸盐等高温材料通常很复杂且不易调节，这使得理论建模变得困难。尽管哈伯德模型（晶格上电子相互作用的简单理论模型）被认为捕获了高温 c 材料的基本物理特性 1-5，但获得该模型的精确解（特别是在中等相关性的相关范围内）具有挑战性 6 。最近演示了莫尔 WSe 2 中的鲁棒超导性（参考文献 7,8），其中低能电子带可以通过哈伯德模型描述并且高度可调 9-11 ，为研究高温 c 问题提供了一个新平台。在这里，我们通过扭转角将莫尔条纹 WSe 2 双层调整到中等相关状态，并通过静电门控、电传输和磁光测量来绘制每个莫尔晶胞一个孔 (ν = 1) 周围的相图。我们观察到一系列高温现象，包括 ν = 1 时的反铁磁绝缘体、电子和空穴掺杂的超导圆顶，以及不寻常的金属态，例如奇怪的金属 12-14 。扭转角度依赖性研究进一步表明，最高 T c 总是出现在莫特跃迁附近 3,15 。我们的结果表明强相关性是莫尔纹WSe 2 超导性的关键，并建立了一种以可控方式研究高温超导性的新材料系统。"
+        },
+        {
+            "id": "https://doi.org/10.1038/d41586-026-00275-8",
+            "title": "Light-powered bacteria become living chemical factories",
+            "link": "https://doi.org/10.1038/d41586-026-00275-8",
+            "published": "2026-01-30",
+            "author": "Unknown",
+            "summary": "Engineered Escherichia coli could open the door to more sustainable routes to new drugs and other chemicals.",
+            "journal": "Nature",
+            "title_cn": "光动力细菌成为活的化学工厂",
+            "abstract_cn": "工程大肠杆菌可以为新药和其他化学品的更可持续途径打开大门。"
+        },
+        {
+            "id": "https://doi.org/10.1038/d41586-026-00274-9",
+            "title": "China is betting on ‘optical’ computer chips — will they power AI?",
+            "link": "https://doi.org/10.1038/d41586-026-00274-9",
+            "published": "2026-01-30",
+            "author": "Mohana Basu",
+            "summary": "Semiconductor chips that process light rather than electricity could boost processing speeds and reduce energy use.",
+            "journal": "Nature",
+            "title_cn": "中国正在押注“光学”计算机芯片——它们会为人工智能提供动力吗？",
+            "abstract_cn": "处理光而不是电的半导体芯片可以提高处理速度并减少能源消耗。"
+        },
+        {
+            "id": "https://doi.org/10.1038/d41586-026-00276-7",
+            "title": "Largest galaxy survey yet confirms that the Universe is not clumpy enough",
+            "link": "https://doi.org/10.1038/d41586-026-00276-7",
+            "published": "2026-01-30",
+            "author": "Unknown",
+            "summary": "The six-year results from the Dark Energy Survey highlight unresolved tensions in standard cosmological theory.",
+            "journal": "Nature",
+            "title_cn": "最大的星系调查证实宇宙还不够块状",
+            "abstract_cn": "暗能量调查的六年结果凸显了标准宇宙学理论中尚未解决的紧张局势。"
+        },
+        {
+            "id": "https://doi.org/10.1038/d41586-026-00307-3",
+            "title": "See the Sun expand and contract like a pufferfish — January’s best science images",
+            "link": "https://doi.org/10.1038/d41586-026-00307-3",
+            "published": "2026-02-02",
+            "author": "Fred Schwaller",
+            "summary": "Abstract not available.",
+            "journal": "Nature",
+            "title_cn": "观察太阳像河豚一样膨胀和收缩——一月最佳科学图片",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41586-026-10177-4",
+            "title": "Long-lived remote ion-ion entanglement for scalable quantum repeaters",
+            "link": "https://doi.org/10.1038/s41586-026-10177-4",
+            "published": "2026-02-02",
+            "author": "Wen-Zhao Liu, Ya-Bin Zhou, Jiu-Peng Chen, Bin Wang, Ao Teng, Xiao-Wen Han, Guang-Cheng Liu, Zhi-Jiong Zhang, Yi Yang, Feng-Guang Liu, Chao-Hui Xue, Bo-Wen Yang, Jin Yang, Chao Zeng, Du-Ruo Pan, Ming-Yang Zheng, Xingjian Zhang, Shen Cao, Yi-Zheng Zhen, You Xiao, Hao Li, Lixing You, Xiongfeng Ma, Qi Zhao, Feihu Xu, Ye Wang, Yong Wan, Qiang Zhang, Jian-Wei Pan",
+            "summary": "Quantum networks, integrating quantum communication, quantum metrology, and distributed quantum computing, could provide secure and efficient information transfer, high-resolution sensing, and an exponential speed-up in information processing1. Deterministic entanglement distribution over long distances is a prerequisite for scalable quantum networks2–5. However, the exponential photon loss in optical fibres prohibits efficient and deterministic entanglement distribution. Quantum repeaters6, incorporating entanglement swapping4,7,8 and entanglement purification9–11 with quantum memories, offer the most promising means to overcome this limitation in fibre-based quantum networks. Despite numerous pioneering efforts12–25, a critical bottleneck remains, as remote memory-memory entanglement suffers from decoherence more rapidly than it can be established and purified over long distances. Here, we demonstrate memory-memory entanglement between two nodes connected by 10 km of spooled fibre surviving beyond the average entanglement establishment time. This is enabled by the development of long-lived trapped-ion memories, an efficient telecom interface, and a high-visibility single-photon entanglement protocol26,27. As an application, we report a proof-of-principle device-independent quantum key distributio (DI-QKD) demonstration with finite-size analysis over 10 km and a positive key rate over 101 km in the asymptotic limit, with both distances exceeding previous work by more than two orders of magnitude28–30. Our work provides a critical building block for quantum repeaters and marks an important step toward scalable quantum networks.",
+            "journal": "Nature",
+            "title_cn": "用于可扩展量子中继器的长寿命远程离子纠缠",
+            "abstract_cn": "量子网络集成了量子通信、量子计量和分布式量子计算，可以提供安全高效的信息传输、高分辨率传感和信息处理的指数级加速1。长距离确定性纠缠分布是可扩展量子网络的先决条件2-5。然而，光纤中的指数光子损耗阻碍了有效且确定性的纠缠分布。量子中继器6将纠缠交换4、7、8和纠缠净化9-11与量子存储器相结合，为克服基于光纤的量子网络中的这一限制提供了最有前途的方法。尽管做出了许多开创性的努力12-25，但一个关键的瓶颈仍然存在，因为远程记忆-记忆纠缠发生退相干的速度比长距离建立和净化的速度更快。在这里，我们演示了由 10 公里缠绕光纤连接的两个节点之间的内存-内存纠缠，其存活时间超出了平均纠缠建立时间。这是通过长寿命俘获离子存储器、高效电信接口和高可见度单光子纠缠协议的开发来实现的26,27。作为一个应用，我们报告了原理验证的设备无关量子密钥分配（DI-QKD）演示，在渐近极限下进行了超过 10 公里的有限尺寸分析和超过 101 公里的正密钥率，这两个距离都超出了之前的工作两个数量级以上28-30。我们的工作为量子中继器提供了关键的构建模块，标志着迈向可扩展量子网络的重要一步。"
+        },
+        {
+            "id": "https://doi.org/10.1038/d41586-026-00311-7",
+            "title": "Many people have no mental imagery. What’s going on in their brains?",
+            "link": "https://doi.org/10.1038/d41586-026-00311-7",
+            "published": "2026-02-03",
+            "author": "Elizabeth Quill",
+            "summary": "Abstract not available.",
+            "journal": "Nature",
+            "title_cn": "许多人没有心理意象。他们的脑子里在想什么？",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/d41586-026-00353-x",
+            "title": "Daily briefing: Scientists delve into the smells of history",
+            "link": "https://doi.org/10.1038/d41586-026-00353-x",
+            "published": "2026-02-02",
+            "author": "Flora Graham",
+            "summary": "Researchers are working to reproduce the smells of heritage and history, from mummies to the Battle of Waterloo. Plus, the best science images of the month and whether we’ve already achieved ‘artificial general intelligence’.",
+            "journal": "Nature",
+            "title_cn": "每日简报：科学家深入研究历史的味道",
+            "abstract_cn": "研究人员正在努力重现从木乃伊到滑铁卢战役的遗产和历史的气味。另外，本月最佳科学图像以及我们是否已经实现了“通用人工智能”。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.adw8301",
+            "title": "143–million-year seawater osmium isotopic record: Trends, rhythms, and dynamics of volcanism and tectonics",
+            "link": "https://doi.org/10.1126/science.adw8301",
+            "published": "2026-01-22",
+            "author": "Hironao Matsumoto, Yasuto Watanabe, Rodolfo Coccioni, Fabrizio Frontalini, Toshihiro Yoshimura, Junichiro Kuroda, Katsuhiko Suzuki",
+            "summary": "Tectonic events and volcanic pulses forming large igneous provinces (LIPs) have altered Earth’s paleoclimate. Osmium (Os) and strontium (Sr) isotopic ratios are key tracers of past continental weathering and LIP eruptions. However, limited Cretaceous seawater Os and riverine Os–Sr data have hindered quantitative reconstructions. In this study, we present a long-term Os isotopic record from the Cretaceous to the present, revealing ~10– to 20–million-year cycles during the Cretaceous that align with rhythmic LIP eruptions. Seawater Os–Sr isotopic trends indicate transitions in continental weathering patterns during the Late Cretaceous [~90 million years ago (Ma)] and Paleogene (~35 Ma) ascribed to intensified weathering of interior Gondwana during the opening of the Atlantic Ocean and the uplift and glaciation of the Himalaya, respectively. Our Os isotopic record highlights its utility in tracing long-term LIP cycles and identifying major paleogeographic turning points.",
+            "journal": "Science",
+            "title_cn": "1.43亿年海水锇同位素记录：火山活动和构造的趋势、节奏和动态",
+            "abstract_cn": "构造事件和形成大型火成岩省（LIP）的火山脉冲改变了地球的古气候。锇 (Os) 和锶 (Sr) 同位素比是过去大陆风化和 LIP 喷发的关键示踪剂。然而，有限的白垩纪海水 Os 和河流 Os-Sr 数据阻碍了定量重建。在这项研究中，我们提出了从白垩纪至今的长期锇同位素记录，揭示了白垩纪期间约 10 至 2000 万年的周期，与有节奏的 LIP 喷发一致。海水Os-Sr同位素趋势表明，白垩纪晚期[约9000万年前(Ma)]和古近纪(约35 Ma)期间大陆风化模式的转变分别归因于大西洋张开和喜马拉雅山隆起和冰川作用期间冈瓦纳内陆风化的加剧。我们的骨同位素记录强调了其在追踪长期 LIP 周期和识别主要古地理转折点方面的实用性。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.aef5688",
+            "title": "In Science Journals",
+            "link": "https://doi.org/10.1126/science.aef5688",
+            "published": "2026-01-22",
+            "author": "Angela Hessler, Jelena Stajic, Keith T. Smith, Jake S. Yeston, Phil Szuromi, Yikyung Park, Annalisa VanHook, Courtney Malo, Madeleine Seale, Stella M. Hurtley, Mattia Maroso, Sarah H. Ross, Corinne Simonti, Leoma Bere",
+            "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+            "journal": "Science",
+            "title_cn": "在科学期刊中",
+            "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.adx2872",
+            "title": "Observation of the Einstein–de Haas effect in a Bose–Einstein condensate",
+            "link": "https://doi.org/10.1126/science.adx2872",
+            "published": "2026-01-22",
+            "author": "Hiroki Matsui, Yuki Miyazawa, Ryoto Goto, Chihiro Nakano, Yuki Kawaguchi, Masahito Ueda, Mikio Kozuma",
+            "summary": "The Einstein–de Haas effect is a phenomenon in which angular momentum is transferred from microscopic spins to mechanical rotation of a macroscopic rigid body. We report an observation of the Einstein–de Haas effect in a spinor-dipolar Bose–Einstein condensate, in which the intrinsic magnetic dipole-dipole interaction mediates coherent transfer of angular momentum from atomic spins to collective circulation of a quantum fluid. The depolarized spinor components displayed ring-shaped density distributions that were confirmed as quantized vortices through matter-wave interferometry, revealing a coherent conversion between spin and orbital angular momentum. This observation opens a pathway to exploring ground-state phases with broken chiral symmetry, spin textures, and mass circulation, as well as the Barnett effect in dipolar quantum gases.",
+            "journal": "Science",
+            "title_cn": "玻色-爱因斯坦凝聚体中爱因斯坦-德哈斯效应的观察",
+            "abstract_cn": "爱因斯坦-德哈斯效应是一种角动量从微观自旋转移到宏观刚体机械旋转的现象。我们报告了在自旋偶极玻色-爱因斯坦凝聚体中观察到的爱因斯坦-德哈斯效应，其中固有的磁偶极子-偶极子相互作用介导了角动量从原子自旋到量子流体集体循环的相干转移。去偏振的旋量分量显示出环形密度分布，通过物质波干涉测量证实其为量子化涡旋，揭示了自旋和轨道角动量之间的相干转换。这一观察结果为探索手性对称性破缺、自旋结构和质量循环以及偶极量子气体中的巴尼特效应的基态相开辟了一条途径。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.adx1736",
+            "title": "Targeting modulated vascular smooth muscle cells in atherosclerosis via FAP-directed immunotherapy",
+            "link": "https://doi.org/10.1126/science.adx1736",
+            "published": "2026-01-29",
+            "author": "Junedh M. Amrute, In-Hyuk Jung, Tracy Yamawaki, Wen-Ling Lin, Andrea Bredemeyer, Johanna Diekmann, Sikander Hayat, Xianglong Zhang, Devin L. Wakefield, Xin Luo, Sidrah Maryam, Gyu Seong Heo, Steven Yang, Chang Jie Mick Lee, Chen Wang, Caroline Chou, Christoph Kuppe, Kevin D. Cook, Atilla Kovacs, Vishnu Chintalgattu, Danielle Pruitt, Jose Barreda, Nathan O. Stitziel, Paul Cheng, Yongjian Liu, Rafael Kramann, Daniel Kreisel, Roger S-Y Foo, Ingrid C. Rulifson, Scott Martin, David Grunert, Melissa Thomas, Jixin Cui, Thomas Quertermous, Frank M. Bengel, Simon Jackson, Chi-Ming Li, Brandon Ason, Kory J. Lavine",
+            "summary": "Vascular smooth muscle cell (VSMC) diversification drives atherosclerotic coronary artery disease (CAD). Mechanisms governing these cell state transitions remain unclear. We applied multiomic single-cell profiling, epitope mapping, and spatial transcriptomics across 27 human coronary arteries, identifying fibroblast activation protein (FAP) as a marker of modulated VSMCs. Lineage tracing in mice indicated that FAP + cells originate from Myh11 + VSMCs, and FAP PET imaging in CAD patients showed plaque uptake. FAP + cells states resided in the macrophage-rich neo-intima. Therapeutically, we developed an anti-FAP bispecific T-cell engager, which reduced plaque burden and remodeled the stromal–immune microenvironment through T-cell clonal expansion. Our study delivers a single-cell and spatial atlas of human CAD, establishes FAP as a marker of modulated VSMCs, and highlights immunotherapy for lipid-independent targets.",
+            "journal": "Science",
+            "title_cn": "通过 FAP 定向免疫疗法靶向调节动脉粥样硬化中的血管平滑肌细胞",
+            "abstract_cn": "血管平滑肌细胞 (VSMC) 多样化导致动脉粥样硬化性冠状动脉疾病 (CAD)。控制这些细胞状态转变的机制仍不清楚。我们在 27 条人类冠状动脉中应用了多组学单细胞分析、表位作图和空间转录组学，确定成纤维细胞激活蛋白 (FAP) 作为调节 VSMC 的标记物。小鼠谱系追踪表明 FAP + 细胞源自 Myh11 + VSMC，CAD 患者的 FAP PET 成像显示斑块摄取。 FAP + 细胞状态位于富含巨噬细胞的新内膜中。在治疗上，我们开发了一种抗 FAP 双特异性 T 细胞接合剂，它可以减少斑块负担并通过 T 细胞克隆扩张重塑基质免疫微环境。我们的研究提供了人类 CAD 的单细胞和空间图谱，将 FAP 确立为调节 VSMC 的标记，并强调了针对脂质独立靶标的免疫治疗。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.adx9445",
+            "title": "DNA-protein cross-links promote cGAS-STING–driven premature aging and embryonic lethality",
+            "link": "https://doi.org/10.1126/science.adx9445",
+            "published": "2026-01-29",
+            "author": "Ines Tomaskovic, Cristian Prieto-Garcia, Maria Boskovic, Mateo Glumac, Tsung-Lin Tsai, Thorsten Mosler, Rubina Kazi, Rajeshwari Rathore, Jorge Andrade, Marina Hoffmann, Giulio Giuliani, Anne-Claire Jacomin, Raquel S. Pereira, Elias Knop, Laurens Wachsmuth, Petra Beli, Koraljka Husnjak, Manolis Pasparakis, Andrea Ablasser, Daniela S. Krause, Michael Potente, Stamatis Papathanasiou, Janos Terzic, Ivan Dikic",
+            "summary": "DNA-protein cross-links (DPCs) are highly toxic DNA lesions that block replication and transcription, but their impact on organismal physiology is unclear. We identified a role for the metalloprotease SPRTN in preventing DPC-driven immunity and its pathological consequences. Loss of SPRTN activity during replication and mitosis lead to unresolved DNA damage, chromosome segregation errors, micronuclei formation, and cytosolic DNA release that activates the cyclic GMP-AMP synthase (cGAS)–stimulator of interferon genes (STING) pathway. In a Sprtn knock-in mouse model of Ruijs-Aalfs progeria syndrome, chronic cGas-Sting signaling caused embryonic lethality through inflammation and innate immune responses. Surviving mice displayed aging phenotypes beginning in embryogenesis, which persisted into adulthood. Genetic or pharmacological inhibition of cGas-Sting rescued embryonic lethality and alleviated progeroid phenotypes.",
+            "journal": "Science",
+            "title_cn": "DNA-蛋白质交联促进 cGAS-STING 驱动的过早衰老和胚胎致死",
+            "abstract_cn": "DNA-蛋白质交联 (DPC) 是一种剧毒 DNA 损伤，可阻止复制和转录，但其对生物体生理学的影响尚不清楚。我们确定了金属蛋白酶 SPRTN 在预防 DPC 驱动的免疫及其病理后果中的作用。复制和有丝分裂期间 SPRTN 活性的丧失会导致未解决的 DNA 损伤、染色体分离错误、微核形成和胞质 DNA 释放，从而激活环 GMP-AMP 合酶 (cGAS)——干扰素基因刺激剂 (STING) 途径。在 Ruijs-Aalfs 早衰综合征的 Sprtn 敲入小鼠模型中，慢性 cGas-Sting 信号通过炎症和先天免疫反应导致胚胎死亡。幸存的小鼠从胚胎发生开始就表现出衰老表型，并一直持续到成年。 cGas-Sting 的遗传或药理学抑制可挽救胚胎致死性并减轻早衰表型。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.aee7263",
+            "title": "Controlling plastic behavior with light",
+            "link": "https://doi.org/10.1126/science.aee7263",
+            "published": "2026-01-29",
+            "author": "Jake L. Nicholson, Quentin Michaudel",
+            "summary": "Thermoplastic properties are spatially tuned with light intensity during three-dimensional (3D) printing",
+            "journal": "Science",
+            "title_cn": "用光控制塑料行为",
+            "abstract_cn": "在三维 (3D) 打印过程中，热塑性塑料的特性会随着光强度进行空间调节"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.adv4503",
+            "title": "From sequence to function: Bridging single-molecule kinetics and molecular diversity",
+            "link": "https://doi.org/10.1126/science.adv4503",
+            "published": "2026-01-29",
+            "author": "A. N. Kapanidis, L. Muras, K. Sreenivasa, J. P. Hazra, J. van Noort, C. Joo, S. Deindl",
+            "summary": "Biological function is fundamentally determined by nucleic acid and protein sequence. Beyond encoding genetic information, nucleic acids also display complex physicochemical parameters that shape structure, dynamics, and interactions. Understanding how sequence variation sculpts the energetic landscapes underlying these properties requires methods that capture both molecular diversity and dynamic behavior. Single-molecule techniques are ideally suited to this task, but conventional formats remain time and cost intensive. Recent breakthroughs have enabled highly multiplexed approaches for observing molecular dynamics across millions of individual molecules representing thousands of sequences or barcoded entities. Though still in development, these methods have begun to bridge sequence, structure, dynamics, and function at scale, opening new opportunities in drug discovery, molecular diagnostics, and functional genomics.",
+            "journal": "Science",
+            "title_cn": "从序列到功能：连接单分子动力学和分子多样性",
+            "abstract_cn": "生物学功能从根本上是由核酸和蛋白质序列决定的。除了编码遗传信息之外，核酸还显示出影响结构、动力学和相互作用的复杂物理化学参数。了解序列变异如何塑造这些特性背后的能量景观需要捕获分子多样性和动态行为的方法。单分子技术非常适合这项任务，但传统格式仍然需要大量时间和成本。最近的突破使得高度多元化的方法能够用于观察代表数千个序列或条形码实体的数百万个单个分子的分子动力学。尽管仍在开发中，这些方法已经开始大规模连接序列、结构、动力学和功能，为药物发现、分子诊断和功能基因组学开辟了新的机遇。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.adu2392",
+            "title": "Aging drives a program of DNA methylation decay in plant organs",
+            "link": "https://doi.org/10.1126/science.adu2392",
+            "published": "2026-01-29",
+            "author": "Dawei Dai, Ken Chen, Jingwen Tao, Ben P. Williams",
+            "summary": "Plants display a wide range of life spans and aging rates. Although dynamic changes to DNA methylation are a hallmark of aging in mammals, it is unclear whether similar molecular signatures reflect rates of aging and organism life span in plants. In this work, we show that the short-lived model plant Arabidopsis thaliana exhibits a loss of epigenetic integrity during aging, which causes DNA methylation decay and the expression of transposable elements. We show that the rate of epigenetic aging can be manipulated by extending or curtailing life span and that shoot apical meristems are protected from these epigenetic changes. We demonstrate that a program of transcriptional repression suppresses DNA methylation maintenance pathways during aging and that mutants of this program display a complete absence of epigenetic decay while physical aging remains unaffected.",
+            "journal": "Science",
+            "title_cn": "衰老驱动植物器官 DNA 甲基化衰变程序",
+            "abstract_cn": "植物的寿命和衰老速度各不相同。尽管DNA甲基化的动态变化是哺乳动物衰老的标志，但尚不清楚类似的分子特征是否反映了植物的衰老速度和有机体寿命。在这项工作中，我们发现寿命较短的模式植物拟南芥在衰老过程中表现出表观遗传完整性的丧失，从而导致 DNA 甲基化衰退和转座元件的表达。我们表明，表观遗传衰老的速度可以通过延长或缩短寿命来控制，并且茎尖分生组织免受这些表观遗传变化的影响。我们证明了转录抑制程序在衰老过程中抑制了 DNA 甲基化维持途径，并且该程序的突变体表现出完全不存在表观遗传衰退，而物理衰老不受影响。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.aef8478",
+            "title": "In Science Journals",
+            "link": "https://doi.org/10.1126/science.aef8478",
+            "published": "2026-01-29",
+            "author": "Angela Hessler, Stella M. Hurtley, Madeleine Seale, Michael A. Funk, Yevgeniya Nusinovich, Jelena Stajic, Phil Szuromi, Seth Thomas Scanlon, Di Jiang, Bianca Lopez, Marc S. Lavine, L. Bryan Ray, Mattia Maroso, Daniela Neuhofer, Leslie Ferrarelli",
+            "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+            "journal": "Science",
+            "title_cn": "在科学期刊中",
+            "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.ads6733",
+            "title": "Multiple protein structure alignment at scale with FoldMason",
+            "link": "https://doi.org/10.1126/science.ads6733",
+            "published": "2026-01-29",
+            "author": "Cameron L. M. Gilchrist, Milot Mirdita, Martin Steinegger",
+            "summary": "Protein structure is conserved beyond sequence, making multiple structural alignment (MSTA) essential for analyzing distantly related proteins. Computational prediction methods have vastly extended our repository of available protein structures, requiring fast and accurate MSTA methods. We introduce FoldMason, a progressive MSTA method that leverages the pairwise structural aligners Foldseek and TM-align for the multiple alignment of hundreds of thousands of protein structures, matching or exceeding the alignment quality of state-of-the-art MSTA methods while being two orders of magnitude faster. Using Flaviviridae glycoproteins, we demonstrate that FoldMason’s MSTAs support phylogenetic analysis beyond the “twilight zone.” FoldMason computes confidence scores, offers interactive visualizations, and provides essential speed and accuracy for large-scale protein structure analysis in the era of accurate structure prediction. FoldMason is free, open-source software.",
+            "journal": "Science",
+            "title_cn": "使用 FoldMason 进行大规模多蛋白质结构比对",
+            "abstract_cn": "蛋白质结构在序列之外是保守的，因此多重结构比对 (MSTA) 对于分析关系较远的蛋白质至关重要。计算预测方法极大地扩展了我们可用蛋白质结构的存储库，需要快速准确的 MSTA 方法。我们推出了 FoldMason，这是一种先进的 MSTA 方法，它利用成对结构对准器 Foldseek 和 TM-align 对数十万个蛋白质结构进行多重比对，匹配或超过最先进的 MSTA 方法的比对质量，同时速度提高两个数量级。使用黄病毒科糖蛋白，我们证明了 FoldMason 的 MSTA 支持“暮光区”之外的系统发育分析。 FoldMason 计算置信度分数，提供交互式可视化，并为精确结构预测时代的大规模蛋白质结构分析提供必要的速度和准确性。 FoldMason 是免费的开源软件。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.aeb3637",
+            "title": "Lithographic crystallinity regulation in additive fabrication of thermoplastics (CRAFT)",
+            "link": "https://doi.org/10.1126/science.aeb3637",
+            "published": "2026-01-29",
+            "author": "Alex J. Commisso, Eric M. Nagel, Meghan T. Kiker, Elizabeth A. Recker, Adam Bischoff, Michael J. Holzmann, Hayden E. Fowler, Minh Nhat Pham, Chi Phuong H. Nguyen, Esteban Baca, Hernán Villanueva, Nirvana T. Almada, Keldy S. Mason, Claire Jolowsky, Guddi Suman, Keith J. Fritzsching, Bryan Kaehr, Johanna J. Schwartz, Leah N. Appelhans, Brad H. Jones, Caitlin S. Sample, Devin J. Roach, Zachariah A. Page, Samuel C. Leguizamon",
+            "summary": "For semicrystalline polyolefin thermoplastics, the balance between interconnected ordered crystalline and disordered amorphous regions is paramount to their performance and processability. However, contemporary manufacturing strategies, from injection molding to three-dimensional (3D) printing, result in monolithic objects, unable to spatially encode crystallinity. We develop a light-based approach for fabricating mechanically robust polyolefin thermoplastics with microscopic control over crystallinity in 3D space. Light dosage governs polymer stereochemistry giving access to a continuum of materials, from strong rigid plastics, such as high-density polyethylene, to more extensible materials akin to low-density polyethylene, all at the flick of a switch. Leveraging this finding in lithographic grayscale 3D printing enables rapid multimaterial fabrication with voxel-level control over optical and mechanical properties, opening avenues in information storage, soft robotics, and energy damping.",
+            "journal": "Science",
+            "title_cn": "热塑性塑料增材制造 (CRAFT) 中的光刻结晶度调节",
+            "abstract_cn": "对于半结晶聚烯烃热塑性塑料，互连有序结晶区域和无序无定形区域之间的平衡对其性能和加工性能至关重要。然而，从注塑成型到三维 (3D) 打印的当代制造策略会导致整体物体无法对结晶度进行空间编码。我们开发了一种基于光的方法，用于制造机械坚固的聚烯烃热塑性塑料，并在 3D 空间中对结晶度进行微观控制。轻剂量控制聚合物立体化学，从而获得一系列材料，从坚固的刚性塑料（例如高密度聚乙烯）到更具延展性的材料（例如低密度聚乙烯），所有这些都只需轻按一下开关即可。利用平版灰度 3D 打印中的这一发现，可以通过对光学和机械特性进行体素级控制来实现快速多材料制造，从而在信息存储、软机器人和能量阻尼方面开辟新途径。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.adw3365",
+            "title": "Engineered aldehyde dehydrogenases for amide bond formation",
+            "link": "https://doi.org/10.1126/science.adw3365",
+            "published": "2026-01-29",
+            "author": "Lei Gao, Xiang Qiu, Jun Yang, Kangdelong Hu, Peilin Li, Wei Li, Feng Gao, Fabrice Gallou, Florian Kleinbeck, Xiaoguang Lei",
+            "summary": "Amide bond formation is widely used in pharmaceutical synthesis, typically involving stoichiometric coupling reagents to activate carboxylic acid substrates for a condensation reaction. As an alternative approach, we repurposed aldehyde dehydrogenases into oxidative amidases by creating a more hydrophobic and spacious catalytic pocket for amines to capture the thioester intermediate. This biocatalyst efficiently facilitates the formation of amide bonds between diverse aldehydes and amines. We also developed a two-step enzymatic cascade to synthesize amides from broadly available aliphatic alcohols. This biocatalytic strategy enabled the redesign of synthetic routes for five drug molecules. Our findings highlight the potential of oxidative amidases in advancing the synthesis of structurally diverse drug molecules through efficient amide bond formation.",
+            "journal": "Science",
+            "title_cn": "用于酰胺键形成的工程醛脱氢酶",
+            "abstract_cn": "酰胺键的形成广泛用于药物合成，通常涉及化学计量偶联试剂来激活羧酸底物以进行缩合反应。作为一种替代方法，我们通过为胺创建一个更疏水、更宽敞的催化口袋来捕获硫酯中间体，将醛脱氢酶重新转变为氧化酰胺酶。这种生物催化剂有效地促进了不同醛和胺之间酰胺键的形成。我们还开发了一种两步酶级联，从广泛可用的脂肪醇中合成酰胺。这种生物催化策略使得能够重新设计五种药物分子的合成路线。我们的研究结果强调了氧化酰胺酶通过有效的酰胺键形成促进结构多样的药物分子合成的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.adv1209",
+            "title": "Probing supersolidity through excitations in a spin-orbit–coupled Bose-Einstein condensate",
+            "link": "https://doi.org/10.1126/science.adv1209",
+            "published": "2026-01-29",
+            "author": "C. S. Chisholm, S. Hirthe, V. B. Makhalov, R. Ramos, R. Vatré, J. Cabedo, A. Celi, L. Tarruell",
+            "summary": "Spin-orbit–coupled Bose-Einstein condensates are a flexible experimental platform to engineer synthetic quantum many-body systems. In particular, they host the so-called stripe phase, an instance of a supersolid state of matter. The peculiar excitation spectrum of the stripe phase, a definite footprint of its supersolidity, has been difficult to measure experimentally. In this work, we performed in situ imaging of the stripes and directly observed both superfluid and crystal excitations. We investigated superfluid hydrodynamics and revealed a stripe compression mode, thus demonstrating that the system possesses a compressible crystalline structure. Through the frequency softening of this mode, we located the supersolid transition point. Our results establish spin-orbit–coupled supersolids as ideal systems to investigate supersolidity and its rich dynamics.",
+            "journal": "Science",
+            "title_cn": "通过自旋轨道耦合玻色-爱因斯坦凝聚体中的激发探测超固体",
+            "abstract_cn": "自旋轨道耦合玻色-爱因斯坦凝聚体是设计合成量子多体系统的灵活实验平台。特别是，它们具有所谓的条纹相，这是物质超固态的一个例子。条纹相的特殊激发光谱是其超固体的明确足迹，很难通过实验测量。在这项工作中，我们对条纹进行了原位成像，并直接观察了超流体和晶体激发。我们研究了超流体流体动力学并揭示了条带压缩模式，从而证明该系统具有可压缩的晶体结构。通过该模式的频率软化，我们找到了超固体转变点。我们的结果将自旋轨道耦合超固体确立为研究超固体及其丰富动力学的理想系统。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114848",
+            "title": "Spectrum-guided excitation compensation of LEDs for stabilizing fluorescence emission",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114848",
+            "published": "2026-05-01",
+            "author": "Huan Zuo, Qian Zhao, Yong Liu, Beini Sun, Zhengfei Zhuang, Tongsheng Chen",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "用于稳定荧光发射的 LED 光谱引导激发补偿",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

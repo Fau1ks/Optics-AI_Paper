@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-04 13:06:23",
+    "update_time": "2026-02-04 13:28:05",
     "word_filename": "Optical_Papers_260204.docx",
-    "total_count": 324,
+    "total_count": 325,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109665",
@@ -3566,6 +3566,17 @@
             "journal": "Optics and Laser Technology",
             "title_cn": "用于稳定荧光发射的 LED 光谱引导激发补偿",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/josaa.585628",
+            "title": "Evolution of energy flow in the focal field of azimuthally polarized Lorentz–Gauss beams under helico-conical phase modulation",
+            "link": "https://doi.org/10.1364/josaa.585628",
+            "published": "2026-02-02",
+            "author": "Shuo Yu, Jinsong Li, Chundi Zheng, Shuo Jia, Hao Wang",
+            "summary": "This paper investigates the evolution of energy flow distribution in Lorentz–Gauss beams under helico-conical modulation. Based on the Richards–Wolf vector diffraction theory, we derived the electromagnetic field expressions for azimuthally polarized Lorentz–Gauss beams. The longitudinal and transverse energy flow distributions were obtained via the Poynting vector. Subsequently, helico-conical modulation was applied to systematically examine the influence of various parameters on the energy flow distribution. Through coordinated modulation of multiple parameters, we achieved multi-directional spreading of both longitudinal and transverse energy flow components. Such energy flow distributions may offer potential applications in multi-directional optical information transfer and related fields.",
+            "journal": "J. Opt. Soc. Am. A",
+            "title_cn": "螺旋圆锥相位调制下方位偏振洛伦兹-高斯光束焦点场中能量流的演化",
+            "abstract_cn": "本文研究了螺旋圆锥调制下洛伦兹-高斯光束中能量流分布的演变。基于Richards-Wolf矢量衍射理论，我们推导了方位偏振洛伦兹-高斯光束的电磁场表达式。通过坡印廷矢量获得纵向和横向能量流分布。随后，应用螺旋锥形调制来系统地研究各种参数对能量流分布的影响。通过多个参数的协调调制，实现了纵向和横向能量流分量的多向扩散。这种能量流分布可以在多向光信息传输和相关领域提供潜在的应用。"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-04 15:28:53",
+    "update_time": "2026-02-04 17:29:51",
     "word_filename": "Optical_Papers_260204.docx",
-    "total_count": 335,
+    "total_count": 355,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109665",
@@ -3687,6 +3687,226 @@
             "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
             "title_cn": "大尺寸遥感影像地理要素的全范围矢量化",
             "abstract_cn": "大尺寸超高分辨率遥感影像已成为建筑物、水体、道路等多尺度地理要素高精度矢量测绘的关键数据源。在处理大尺寸影像时，由于GPU内存有限，基于深度学习的矢量测绘方法往往采用滑块策略。由于滑块矢量映射结果的拼接困难，这不可避免地导致性能下降。因此，有必要通过挖掘大尺寸遥感影像的一致线索来进行全范围矢量制图。为此，本文提出了一种新颖的全局上下文感知局部点优化方法。为了利用全局上下文，本文提出了一种新颖的金字塔融合网络（PFNet），以端到端的方式对大尺寸图像进行语义分割。在全局语义分割结果的约束下，提出了一种新的拐点感知网络（IPNet）来生成一组稳定点来描绘每个元素的边界。对建筑、水和道路数据集（每张图像都有超过 1 亿像素）的大量实验表明，我们的方法明显优于现有方法。项目页面位于 https://li-99.github.io/project/Vectorization.html 。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69093-w",
+            "title": "Use of 3D and multidimensional X-ray imaging to see beneath the surface",
+            "link": "https://doi.org/10.1038/s41467-026-69093-w",
+            "published": "2026-02-03",
+            "author": "Wendy L. Mao, Yijin Liu",
+            "summary": "Modern 3D X-ray imaging reveals internal structure, density, and dynamics across multiple scales, overcoming fundamental limitations of 2D projections. These 3D and multidimensional imaging techniques are transforming materials characterization in disciplines from medical diagnostics to electronics and planetary science.",
+            "journal": "Nature Communications",
+            "title_cn": "使用 3D 和多维 X 射线成像观察地表以下情况",
+            "abstract_cn": "现代 3D X 射线成像揭示了多个尺度的内部结构、密度和动态，克服了 2D 投影的基本限制。这些 3D 和多维成像技术正在改变从医学诊断到电子和行星科学等学科的材料表征。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37845-9",
+            "title": "The effect of light quality on growth, photosynthetic performance and essential oil content of Dracocephalum moldavica in indoor cultivation production",
+            "link": "https://doi.org/10.1038/s41598-026-37845-9",
+            "published": "2026-02-03",
+            "author": "Hossein Nastari Nasrabadi, Mahboubeh Zamanipour, Mahdi Moradi",
+            "summary": "Various aspects of light, including intensity, quality, and the period of light irradiation, affect plant growth and development, as well as their response to gas relations. In this study, the effect of different light spectra on growth characteristics, photosynthetic performance, and phenolic content of the D. moldavica plant was investigated. To this end, six light treatments including white light (w), red light (R), blue light (B) and three combined lights (R70B30, R50B50, and R30B70) emitted from LED lamps were used in a completely randomized design with three replications. The results revealed a significant effect of different light spectra on the studied traits at the 5% and 1% levels. The combined light of R70B30 improved plant growth characteristics. The height of plants grown in the red light treatment was the highest compared to other treatments. The highest fresh and dry weights of the shoot were observed in the R70B30 light spectrum, and the lowest in the blue light spectrum. Growth indices decreased with increasing proportions of blue light and improved with increasing proportions of red light. The maximum content of photosynthetic pigments was recorded in the combination of red and blue light treatments. The highest fluorescence intensity in all stages of the OJIP test was observed with red light, and the lowest fluorescence value was recorded with the combined lights of R50B50 and R70B30. The efficiency of the photosystem II water splitting system (Fv/F0) and the maximum efficiency of the photosystem (Fv/Fm) were minimal in the red light treatment. Red light lowered the efficiency index of the system per absorbed light (PIABS) and increased the quantum yield of energy loss (ΦD0), the light absorption rate per reaction center (ABS/RC), and the electron capture rate (TR0/RC). The highest total phenolic content (136.94 µg gallic acid/g wet weight) and antioxidant capacity (42.51%) were observed in plants grown under the R70B30 light conditions. The highest essential oil content (2.07% vol/wt) was observed in the R70B30 light environment, showing a 113.4% increase compared to white light.",
+            "journal": "Scientific Reports",
+            "title_cn": "室内栽培生产中光质对摩尔达青兰生长、光合性能及精油含量的影响",
+            "abstract_cn": "光的各个方面，包括强度、质量和光照射的时间，都会影响植物的生长和发育以及它们对气体关系的反应。本研究研究了不同光谱对摩尔达维植物生长特性、光合性能和酚类含量的影响。为此，在完全随机设计中使用了六种光处理，包括白光（w）、红光（R）、蓝光（B）和LED灯发出的三种组合光（R70B30、R50B50和R30B70），并进行了三次重复。结果表明，5% 和 1% 水平的不同光谱对研究性状有显着影响。 R70B30 的组合光改善了植物生长特性。与其他处理相比，红光处理中生长的植物高度最高。在 R70B30 光谱中观察到芽的鲜重和干重最高，在蓝光光谱中观察到最低。生长指数随着蓝光比例的增加而降低，并随着红光比例的增加而提高。在红光和蓝光处理的组合中记录了光合色素的最大含量。 OJIP测试各阶段的最高荧光强度均以红光观察，最低荧光值以R50B50和R70B30的组合光记录。光系统II水分解系统的效率(Fv/F0)和光系统的最大效率(Fv/Fm)在红光处理中是最小的。红光降低了系统单位吸收光的效率指数（PIABS），并增加了能量损失的量子产率（ΦD0）、每个反应中心的光吸收率（ABS/RC）和电子捕获率（TR0/RC）。在 R70B30 光照条件下生长的植物中观察到最高的总酚含量（136.94 µg 没食子酸/g 湿重）和抗氧化能力（42.51%）。在R70B30光环境中观察到最高的精油含量（2.07％vol/wt），与白光相比增加了113.4％。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38101-w",
+            "title": "Correlational analysis of halotolerant palynomorphs peculiarities by integrating morphological and morphometric characterization using scanning electron microscopy",
+            "link": "https://doi.org/10.1038/s41598-026-38101-w",
+            "published": "2026-02-03",
+            "author": "Moona Nazish, Muhammad Zubair, Masood Hussain Shah, Musadiq Manzoor, Rabia Masood, Fozia Bibi, Asif Kamal, Manal Abdulaziz Binobead, Muhammad Tahir Naseem",
+            "summary": "Pollen analysis of halophytes is crucial for their accurate identification and taxonomic classification within respective families. This study aimed to highlight the systematic pollen analysis of 15 dominant halotolerant species from twelve families collected in the Kalabagh Salt Range, Pakistan. Light microscopic (LM) and scanning electron microscopic (SEM) techniques were used to examine the pollen’s discriminative traits that support the phenetic grouping and morphometric differentiation among halotolerant taxa. Pollen exine sculpture varied from punctate, verrucate, microechinate, perforate, to reticulate. Pollen shape also exhibited variance ranging from oblate-spheroidal (4 spp.), prolate (3 spp.), prolate-spheroidal (3 spp.), subprolate (3 spp.), Oblate (1 sp.) to spheroidal (1 sp.). The high pollen viability value of Euphorbia caducifolia (92.75%) describes its ecological adaptation to a saline environment. Principal component (PCA) and cluster analysis were used to analyze pollen morphometric data, revealing strong affinities among the studied halotolerant. Morpho pollinic traits, combined with advanced systematic tools, are crucial for identifying lineages within morphogroup taxa and may contribute to the taxonomic position of halotolerant plant species.",
+            "journal": "Scientific Reports",
+            "title_cn": "使用扫描电子显微镜整合形态和形态测量表征，对耐盐孢粉形态特性进行相关分析",
+            "abstract_cn": "盐生植物的花粉分析对于盐生植物在各个科内的准确识别和分类学分类至关重要。本研究旨在重点介绍对巴基斯坦卡拉巴格盐岭采集的 12 个科 15 个主要耐盐物种的花粉系统分析。使用光学显微镜（LM）和扫描电子显微镜（SEM）技术来检查花粉的辨别性状，这些性状支持耐盐类群之间的表型分组和形态差异。花粉外壁的形状多种多样，有点状、疣状、微刺状、穿孔状和网状。花粉形状也表现出变化，范围从扁球形（4 spp.）、长球形（3 spp.）、长球形（3 spp.）、近扁形（3 spp.）、扁球形（1 sp.）到球形（1 sp.）。大戟的高花粉活力值（92.75%）描述了其对盐碱环境的生态适应。主成分（PCA）和聚类分析用于分析花粉形态测量数据，揭示了所研究的耐盐性之间的强亲和力。形态花粉性状与先进的系统工具相结合，对于识别形态类群内的谱系至关重要，并可能有助于确定耐盐植物物种的分类地位。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114780",
+            "title": "Characterization of impurity deposition on carbon fiber composite movable limiter for EAST by fiber-optic LIBS system",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114780",
+            "published": "2026-05-01",
+            "author": "Hao Sun, Zhenhua Hu, Jian Wu, Jinghui Li, Xinyu Guo, Fang Ding, Huace Wu, Haishan Zhou, Rui Ding, Huantong Shi, Xingwen Li, Jiangang Li",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "光纤LIBS系统表征EAST碳纤维复合材料活动限位器上的杂质沉积",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.581346",
+            "title": "Laser protection thin film compatible with multiband stealth based on metal–dielectric structure",
+            "link": "https://doi.org/10.1364/ol.581346",
+            "published": "2026-01-21",
+            "author": "Xiaotan Ji, Yuheng Jin, Min Lu, Haotong Wang, Yi Lu, Tianle Yang, Zhijian Chen, Mingyun Li, Nan Chen, Zhengqian Luo, Yikun Bu",
+            "summary": "Here, we demonstrate a multifunctional composite thin film based on metal–dielectric structure that simultaneously achieves visible transparency, infrared camouflage, and high-power laser protection. The inner side adopts an alternating stack of high- and low-refractive-index materials. Combined with a metal layer and outer dielectric layers, the structure utilizes optical interference to achieve a visible transmittance of 80.9%, while the structure achieves an emissivity as low as 5.9% primarily via metallic reflection. The dielectric multilayer composed of Ta 2 O 5 and SiO 2 possesses a high laser damage threshold and continues to provide protection even after the outer layers are ablated. Under 1500 W/cm 2 laser irradiation for 120 s, the thin film exhibits exceptional damage resistance. This integrable solution offers significant potential for military optical windows, protection, and stealth system applications.",
+            "journal": "Optics Letters",
+            "title_cn": "基于金属介电结构的兼容多波段隐身的激光防护薄膜",
+            "abstract_cn": "在这里，我们展示了一种基于金属介电结构的多功能复合薄膜，可同时实现可见光透明、红外伪装和高功率激光防护。内侧采用高低折射率材料交替叠层。结合金属层和外部介电层，该结构利用光学干涉实现了80.9%的可见光透射率，而该结构主要通过金属反射实现了低至5.9%的发射率。由Ta 2 O 5 和SiO 2 组成的介电多层膜具有高激光损伤阈值，即使在外层被烧蚀后仍能继续提供保护。在1500 W/cm 2 激光照射120 s下，薄膜表现出优异的抗损伤能力。这种可集成的解决方案为军用光学窗口、防护和隐形系统应用提供了巨大的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.587946",
+            "title": "Quadrature signal construction by vector composition for laser self-mixing interferometry",
+            "link": "https://doi.org/10.1364/ol.587946",
+            "published": "2026-01-26",
+            "author": "Zhen Huang, Xiaozong Chen, Zhibo Chen, Lihong Shen, Qi Lin, Yuxuan Li, Zhenghe Zhang, Guangbin Wang, Dongyu Li",
+            "summary": "The quadrature phase unwrapping method (QPUM) is pivotal for achieving ultra-precise measurements in laser self-mixing (SM) interferometry systems. However, traditional quadrature construction methods demand a pair of strict quadrature signals; any mismatch creates error. In this paper, a vector composition quadrature construction algorithm, with only simple operations of addition and subtraction, is presented for strictly quadrature signal construction for two SM signals enclosing a certain phase shift. Taking a multi-longitudinal laser SM phase-shifting generation system as an example, we verified the feasibility of this method through experiments and simulations. The results demonstrate that, even under speckle interference, the vector composition algorithm achieves a displacement reconstruction error of 65 nm for the non-stationary motion target with a 3.193 µm peak-to-peak displacement. Moreover, for a pair of 100-second signals, our algorithm consumes only 1/34.2 of the time required by the conventional method—achieving a 97% reduction in computational cost. Combining computational simplicity, rapid signal processing, precise quadrature phase shifting, speckle immunity, and zero calibration, this technique is an ideal candidate for robust, high real-time self-mixing demodulation in online measurements and low-power scenarios.",
+            "journal": "Optics Letters",
+            "title_cn": "激光自混合干涉测量矢量合成正交信号构建",
+            "abstract_cn": "正交相位展开方法 (QPUM) 对于在激光自混合 (SM) 干涉测量系统中实现超精密测量至关重要。然而，传统的正交构造方法需要一对严格的正交信号；任何不匹配都会产生错误。本文提出了一种仅需要简单的加法和减法运算的矢量合成正交构造算法，用于对包含一定相移的两个 SM 信号进行严格的正交信号构造。以多纵向激光SM相移发生系统为例，通过实验和仿真验证了该方法的可行性。结果表明，即使在散斑干扰下，矢量合成算法对于峰峰值位移为 3.193 µm 的非静止运动目标也能实现 65 nm 的位移重建误差。此外，对于一对 100 秒的信号，我们的算法仅消耗传统方法所需时间的 1/34.2，计算成本降低了 97%。该技术结合了计算简单性、快速信号处理、精确正交相移、散斑抗扰度和零校准，是在线测量和低功耗场景中稳健、高实时自混合解调的理想选择。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583657",
+            "title": "Direct single-shot phase difference retrieval of two wavelengths in off-axis digital holography",
+            "link": "https://doi.org/10.1364/ol.583657",
+            "published": "2026-01-28",
+            "author": "Marzieh Amani, Masoomeh Dashtdar",
+            "summary": "A method for direct phase difference reconstruction using single-shot dual-wavelength off-axis digital holography is presented. This approach enables direct imaging of samples with high steps without the need to reconstruct phase images at each individual wavelength. As the dual wavelengths in the reference and object arms pass through a common path in this configuration, single-wavelength arrangements can be applied. Due to the unique capability of the presented method, a sodium-vapor lamp source has been utilized to obtain two closely spaced wavelengths ( λ 1 =589 nm and λ 2 =589.6 nm), with a synthetic wavelength of Λ=578.8 µm in the Michelson configuration. The proposed method is validated by measuring the height of an air wedge using two approaches based on the synthetic and average wavelengths. The capability of the proposed technique to image samples with high-step structures is further demonstrated by measuring four consecutive steps, each separated by a height interval of 30 µm, as well as a glass plate with a thickness of approximately 140 µm.",
+            "journal": "Optics Letters",
+            "title_cn": "离轴数字全息术中两个波长的直接单次相位差检索",
+            "abstract_cn": "提出了一种单次双波长离轴数字全息直接相位差重建方法。这种方法能够以高步长直接对样品进行成像，而无需在每个单独的波长处重建相位图像。由于参考臂和目标臂中的双波长通过此配置中的公共路径，因此可以应用单波长布置。由于该方法的独特能力，利用钠蒸气灯源获得两个紧密间隔的波长（λ 1 = 589 nm和λ 2 = 589.6 nm），在迈克尔逊配置中合成波长Λ = 578.8 µm。通过使用基于合成波长和平均波长的两种方法测量空气楔的高度来验证所提出的方法。通过测量四个连续的台阶（每个台阶的高度间隔为 30 µm）以及厚度约为 140 µm 的玻璃板，进一步证明了所提出的技术对具有高台阶结构的样品进行成像的能力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.580618",
+            "title": "Sub-sampled single-step Fresnel diffraction for efficient computation of high-resolution holograms",
+            "link": "https://doi.org/10.1364/ol.580618",
+            "published": "2026-01-26",
+            "author": "Kazuma Mori, Fan Wang, Tomoyoshi Ito, Tomoyoshi Shimobaba",
+            "summary": "The rapid increase in the size of image sensors and growing computational power have generated demand for large-scale diffraction calculations across a wide range of optical applications. For instance, synthetic-aperture digital holography requires diffraction calculations exceeding 10,000 × 10,000 pixels, whereas computer-generated holography may require more than 100,000 × 100,000 pixels. Conventional diffraction calculations generally assume equal pixel counts in the source and destination planes. However, when high-resolution diffraction results are verified on lower-resolution display devices, the resolution mismatch incurs unnecessary computational costs. Downsampling can reduce the computation cost, but it introduces aliasing artifacts. In this paper, we propose a method that combines single-step Fresnel diffraction with a subsampled fast Fourier transform. This approach enables fast and memory-efficient computation of diffraction results at the desired resolution from high-resolution data, while avoiding aliasing noise.",
+            "journal": "Optics Letters",
+            "title_cn": "子采样单步菲涅耳衍射可有效计算高分辨率全息图",
+            "abstract_cn": "图像传感器尺寸的快速增加和计算能力的不断增强产生了对各种光学应用中大规模衍射计算的需求。例如，合成孔径数字全息术需要超过 10,000 × 10,000 像素的衍射计算，而计算机生成的全息术可能需要超过 100,000 × 100,000 像素。传统的衍射计算通常假设源平面和目标平面中的像素数相等。然而，当在较低分辨率的显示设备上验证高分辨率衍射结果时，分辨率不匹配会产生不必要的计算成本。下采样可以降低计算成本，但会引入混叠伪影。在本文中，我们提出了一种将单步菲涅耳衍射与子采样快速傅立叶变换相结合的方法。这种方法能够根据高分辨率数据以所需的分辨率快速且节省内存地计算衍射结果，同时避免混叠噪声。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.579861",
+            "title": "Low-loss tellurite anti-resonant hollow-core fiber with nested capillaries",
+            "link": "https://doi.org/10.1364/ol.579861",
+            "published": "2026-01-27",
+            "author": "Jun Zhu, Ziqian Zhang, Chengzhen Liu, Yanjie Chang, Hao Zhang, Xusheng Xiao, Yang Xiao, Yantao Xu, Haitao Guo",
+            "summary": "We report a tellurite anti-resonant hollow-core fiber (AR-HCF) with a nested capillary structure. To the best of our knowledge, this fiber, comprising five sets of nested double-layer capillaries around the air core, is the first nested AR-HCF fabricated using infrared glass. Benefiting from the enhanced light confinement capability of the nested capillary design, the fabricated fiber achieves a low transmission loss of 0.15 ± 0.04 dB/m at a single wavelength of 4.65 μm measured by cutting from 3 m to 1 m. A 0.8-m-long nested tellurite AR-HCF delivers near-diffraction-limited laser output, with a beam quality (M 2 ) of 1.07. Numerical simulations confirm that the nested structure reduces confinement loss by approximately two orders of magnitude compared to the single-layer capillary configuration. With further optimization of the fabrication process, the nested tellurite AR-HCF is expected to achieve lower losses, thereby demonstrating substantial potential for applications in mid-infrared (3–10 μm) laser transmission systems.",
+            "journal": "Optics Letters",
+            "title_cn": "低损耗亚碲酸盐抗谐振嵌套毛细管空心光纤",
+            "abstract_cn": "我们报道了一种具有嵌套毛细管结构的亚碲酸盐抗谐振空心光纤（AR-HCF）。据我们所知，这种光纤由围绕空气芯的五组嵌套双层毛细管组成，是第一个使用红外玻璃制造的嵌套 AR-HCF。得益于嵌套毛细管设计增强的光限制能力，所制造的光纤在 4.65 μm 的单波长（通过从 3 m 切割至 1 m 测量）下实现了 0.15 ± 0.04 dB/m 的低传输损耗。 0.8 米长的嵌套亚碲酸盐 AR-HCF 可提供近衍射极限的激光输出，光束质量 (M 2 ) 为 1.07。数值模拟证实，与单层毛细管结构相比，嵌套结构将约束损失减少了大约两个数量级。随着制造工艺的进一步优化，嵌套亚碲酸盐AR-HCF有望实现更低的损耗，从而展示出在中红外（3-10μm）激光传输系统中的巨大应用潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.573813",
+            "title": "Sunlight-powered self-sufficient reconfigurable metasurface: photovoltaic energy-harvesting with light-synchronous dynamic RCS modulation",
+            "link": "https://doi.org/10.1364/prj.573813",
+            "published": "2026-01-27",
+            "author": "Shulei Zhang, Ruichao Zhu, Chang Ding, Jing Liu, Fan Wu, Yuxiang Jia, Zhihao Guo, Jiafu Wang",
+            "summary": "Metasurfaces exhibit exceptional electromagnetic wave manipulation capabilities. However, static control struggles to adapt to dynamic environmental demands. Reconfigurable metasurfaces integrated with PIN diodes enable dynamic tuning but face challenges in power supply and device reliability. This work proposes a solar-powered metasurface that utilizes sunlight as both an energy source and a control signal, achieving radar cross-section (RCS) reduction during daylight and maintaining reflective communication at night. Placing diodes at the unit bottom minimizes damage risk, while partitioned biasing simplifies control and reduces power consumption. The phase response under varying current and voltage conditions demonstrates its excellent voltage stability and phase robustness. Solar cells provide sufficient voltage/current, and simulations/experiments validate beam deflection performance. The metasurface operates at a low voltage of 0.8 V and 0.1 A due to simplified biasing. This work presents a reconfigurable metasurface with a simple, low-power design and novel control logic, promising broad applications in outdoor adaptive stealth and environmental sensing.",
+            "journal": "Photonics Research",
+            "title_cn": "阳光供电的自给自足可重构超表面：光同步动态 RCS 调制的光伏能量收集",
+            "abstract_cn": "超表面表现出卓越的电磁波操纵能力。然而，静态控制很难适应动态环境需求。与 PIN 二极管集成的可重构超表面可实现动态调谐，但面临电源和器件可靠性方面的挑战。这项工作提出了一种太阳能超表面，它利用太阳光作为能源和控制信号，实现白天雷达截面（RCS）的减小，并在夜间保持反射通信。将二极管放置在单元底部可最大限度地降低损坏风险，而分区偏置则可简化控制并降低功耗。变化电流和电压条件下的相位响应证明了其出色的电压稳定性和相位鲁棒性。太阳能电池提供足够的电压/电流，模拟/实验验证光束偏转性能。由于简化了偏置，超表面可在 0.8V 和 0.1A 的低电压下工作。这项工作提出了一种可重构超表面，具有简单、低功耗的设计和新颖的控制逻辑，有望在户外自适应隐形和环境传感中广泛应用。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tvcg.2026.3660749",
+            "title": "DGM-RDW: Redirected Walking with Dynamic Geometric Mapping Between Environments",
+            "link": "https://doi.org/10.1109/tvcg.2026.3660749",
+            "published": "2026",
+            "author": "Miao Wang, Qian Wang, Yi-Jun Li",
+            "summary": "Redirected walking (RDW) subtly adjusts the user's visual perspective on head-mounted displays during natural walking to reduce forced resets, thus enlarging the size of the virtual environment that can be explored beyond that of the physical environment. Alignment-based RDW controllers aim to minimize spatial discrepancies by optimizing the alignment between the user's physical and virtual environments. We introduce a novel alignment-based method that dynamically calculates mapping functions between physical and virtual geometries to enhance the algorithm's awareness of the RDW environments. To achieve this, we first construct an abstract model defining a mapping function between physical and virtual geometries and establish feasibility constraints in differential form. We then concretize this mapping, optimize it, and develop a practical implementation for dynamic geometric mapping in RDW. Our approach distinguishes itself by determining dense spatial mappings around the user, rather than aligning environments according to limited metrics. Through extensive testing, our algorithm has proven to markedly decrease reset incidents in natural walking, surpassing existing RDW controllers. The introduction of dynamic geometric mapping provides a fresh perspective, contributing significant insights and advancing the field.",
+            "journal": "IEEE Trans. Vis. Comput. Graph",
+            "title_cn": "DGM-RDW：环境之间具有动态几何映射的重定向行走",
+            "abstract_cn": "重定向行走（RDW）巧妙地调整用户在自然行走时在头戴式显示器上的视觉视角，以减少强制重置，从而扩大了可探索的虚拟环境的规模，超出了物理环境的范围。基于对齐的 RDW 控制器旨在通过优化用户物理和虚拟环境之间的对齐来最小化空间差异。我们引入了一种新颖的基于对齐的方法，该方法动态计算物理和虚拟几何形状之间的映射函数，以增强算法对 RDW 环境的感知。为了实现这一目标，我们首先构建一个抽象模型，定义物理几何和虚拟几何之间的映射函数，并以微分形式建立可行性约束。然后，我们具体化该映射，对其进行优化，并开发 RDW 中动态几何映射的实际实现。我们的方法的独特之处在于确定用户周围的密集空间映射，而不是根据有限的指标来调整环境。通过广泛的测试，我们的算法已被证明可以显着减少自然行走中的重置事件，超越现有的 RDW 控制器。动态几何映射的引入提供了一个全新的视角，贡献了重要的见解并推动了该领域的发展。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tvcg.2026.3656066",
+            "title": "CoDA: Interactive Segmentation and Morphological Analysis of Dendroid Structures Exemplified on Stony Cold-Water Corals",
+            "link": "https://doi.org/10.1109/tvcg.2026.3656066",
+            "published": "2026",
+            "author": "Kira Schmitt, Jürgen Titschack, Daniel Baum",
+            "summary": "Dendroid stony corals build highly complex colonies that develop by asexual reproduction from a single coral polyp sitting in a cup-like exoskeleton, called corallite, resulting in a tree-like branching pattern of its exoskeleton. Despite their beauty and ecological importance as reef builders in tropical shallow-water and in huge cold-water coral mounds in the deep ocean, systematic studies investigating the ontogenetic morphological development of such coral colonies are largely missing. The main reasons for this lack of study are the large number of corallites, and the existence of many secondary joints/coenosteal bridges in the ideally tree-like structure that make a reconstruction of the skeleton tree extremely tedious. Herein, we present CoDA , the Co ral D endroid structure A nalyzer, a visual analytics toolkit that allows for the first time to systematically create skeleton trees representing the correct biological relationship of even very complex dendroid stony corals and to perform ontogenetic morphological analyses based on it. Starting with an initial instance segmentation of the calices/corallites, CoDA estimates the skeleton tree and provides convenient tools and visualizations for proofreading and correcting segmentation and skeleton tree. Part of CoDA is CoDA.Graph , a feature-rich link-and-brush user interface for showing the extracted morphological features and graph layouts of the skeleton tree, enabling real-time exploration of complex coral colonies and their building blocks, the individual corallites and branches. The use of CoDA is exemplified on multiple specimens of the three most important reef-building cold-water coral species with largely varying morphotypes.",
+            "journal": "IEEE Trans. Vis. Comput. Graph",
+            "title_cn": "CoDA：以石质冷水珊瑚为例的树状结构的交互式分割和形态分析",
+            "abstract_cn": "树状石珊瑚建立了高度复杂的群体，通过无性繁殖从位于杯状外骨骼（称为珊瑚）中的单个珊瑚息肉发展而来，从而形成其外骨骼的树状分支模式。尽管它们作为热带浅水区和深海巨大冷水珊瑚丘的珊瑚礁建造者具有美丽和生态重要性，但对此类珊瑚群落个体发育形态发育的系统研究却基本上缺失。缺乏研究的主要原因是珊瑚石数量众多，并且在理想的树状结构中存在许多次生节理/共骨桥，这使得骨架树的重建极其繁琐。在此，我们推出了 CoDA，即 Coral D endroid 结构分析仪，这是一个可视化分析工具包，它首次允许系统地创建代表甚至非常复杂的树状石珊瑚的正确生物关系的骨架树，并基于它进行个体发育形态分析。从杯/珊瑚的初始实例分割开始，CoDA 估计骨架树，并提供方便的工具和可视化来校对和纠正分割和骨架树。 CoDA.Graph 是 CoDA 的一部分，它是一个功能丰富的链接和画笔用户界面，用于显示提取的形态特征和骨架树的图形布局，从而能够实时探索复杂的珊瑚群落及其构建块、单个珊瑚和分支。 CoDA 的使用在三种最重要的造礁冷水珊瑚物种的多个样本上得到了例证，这些珊瑚物种的形态类型差异很大。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tvcg.2026.3659861",
+            "title": "Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model",
+            "link": "https://doi.org/10.1109/tvcg.2026.3659861",
+            "published": "2026",
+            "author": "Kuiyuan Sun, Yuxuan Zhang, Jichao Zhang, Jiaming Liu, Wei Wang, Nicu Sebe, Yao Zhao",
+            "summary": "While diffusion-based methods have shown impressive capabilities in capturing diverse and complex hairstyles, their ability to generate consistent and high-quality multi-view out puts—crucial for real-world applications such as digital humans and virtual avatars—remains underexplored. In this paper, we propose Stable-Hair v2, a novel diffusion-based multi-view hair transfer framework. To the best of our knowledge, this is the first work to leverage multiple-view diffusion models for robust, high-fidelity, and view-consistent hair transfer across multiple perspectives. We introduce a comprehensive multi-view training data generation pipeline to generate high-quality triplet data, including bald images, reference hairstyles, and view-aligned source-bald pairs. Our multi-view hair transfer model integrates polar-azimuth embeddings for pose conditioning and temporal attention layers to ensure smooth transitions between views. To optimize this model, we design a novel multi-stage training strategy consisting of Pose-Controllable Latent IdentityNet training, Hair Extractor training, and Temporal Attention training. Extensive experiments demonstrate that our method accurately transfers detailed and realistic hairstyles to source subjects while achieving seamless and consistent results across views, significantly outperforming existing methods and establishing a new benchmark in multi-view hair transfer. Code is publicly available at https://github.com/sunkymepro/StableHairV2.",
+            "journal": "IEEE Trans. Vis. Comput. Graph",
+            "title_cn": "Stable-Hair v2：通过多视图扩散模型实现真实世界的毛发转移",
+            "abstract_cn": "虽然基于扩散的方法在捕捉多样化和复杂的发型方面表现出了令人印象深刻的能力，但它们生成一致且高质量的多视图输出的能力（对于数字人类和虚拟化身等现实世界应用至关重要）仍然没有得到充分探索。在本文中，我们提出了 Stable-Hair v2，一种新颖的基于扩散的多视图头发转移框架。据我们所知，这是第一个利用多视图扩散模型实现跨多个视角的稳健、高保真和视图一致的毛发转移的工作。我们引入了一个全面的多视图训练数据生成管道来生成高质量的三元组数据，包括秃头图像、参考发型和视图对齐的源秃头对。我们的多视图头发转移模型集成了用于姿势调节的极方位角嵌入和时间注意层，以确保视图之间的平滑过渡。为了优化该模型，我们设计了一种新颖的多阶段训练策略，包括姿势可控的潜在 IdentityNet 训练、毛发提取器训练和时间注意力训练。大量实验表明，我们的方法可以准确地将详细且真实的发型转移到源对象，同时在各个视图中实现无缝且一致的结果，显着优于现有方法，并建立了多视图头发转移的新基准。代码可在 https://github.com/sunkymepro/StableHairV2 上公开获取。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tip.2026.3653547",
+            "title": "Incorporating Uncertainty-Guided and Top-k Codebook Matching for Real-World Blind Image Super-Resolution",
+            "link": "https://doi.org/10.1109/tip.2026.3653547",
+            "published": "2026",
+            "author": "Weilei Wen, Tianyi Zhang, Qianqian Zhao, Zhaohui Zheng, Chunle Guo, Xiuli Shao, Chongyi Li",
+            "summary": "Recent advancements in codebook-based real image super-resolution (SR) have shown promising results in real-world applications. The core idea involves matching high-quality image features from a codebook based on low-resolution (LR) image features. However, existing methods face two major challenges: inaccurate feature matching with the codebook and poor texture detail reconstruction. To address these issues, we propose a novel Uncertainty-Guided and Top-k Codebook Matching SR (UGTSR) framework, which incorporates three key components: (1) an uncertainty learning mechanism that guides the model to focus on texture-rich regions, (2) a Top-k feature matching strategy that enhances feature matching accuracy by fusing multiple candidate features, and (3) an Align-Attention module that enhances the alignment of information between LR and HR features. Experimental results demonstrate significant improvements in texture realism and reconstruction fidelity compared to existing methods. The source code can be found at https://github.com/wwlCape/UGTSR-main.",
+            "journal": "IEEE Trans. Image Processing",
+            "title_cn": "结合不确定性引导和 Top-k 码本匹配来实现现实世界盲图像超分辨率",
+            "abstract_cn": "基于码本的真实图像超分辨率（SR）的最新进展在实际应用中显示出了有希望的结果。核心思想涉及基于低分辨率（LR）图像特征来匹配来自码本的高质量图像特征。然而，现有方法面临两个主要挑战：与码本的特征匹配不准确以及纹理细节重建不佳。为了解决这些问题，我们提出了一种新颖的Uncertainty-Guided and Top-k Codebook Matching SR（UGTSR）框架，该框架包含三个关键组件：（1）引导模型关注纹理丰富区域的不确定性学习机制，（2）通过融合多个候选特征来提高特征匹配精度的Top-k特征匹配策略，以及（3）增强LR和HR特征之间信息对齐的Align-Attention模块。实验结果表明，与现有方法相比，纹理真实感和重建保真度有了显着提高。源代码可以在 https://github.com/wwlCape/UGTSR-main 找到。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tpami.2026.3660863",
+            "title": "Allies Teach Better than Enemies: Inverse Adversaries for Robust Knowledge Distillation",
+            "link": "https://doi.org/10.1109/tpami.2026.3660863",
+            "published": "2026",
+            "author": "Junhao Dong, Raoof Zare Moayedi, Yew-Soon Ong, Seyed-Mohsen Moosavi-Dezfooli",
+            "summary": "Adversarially robust knowledge distillation aims to compress a large-scale robust teacher model into a lightweight student counterpart while preserving adversarial robustness and natural performance. Previous methods primarily focused on aligning knowledge ( e.g. , predictions) between teacher and student models to transfer robustness. However, potentially incorrect predictions from the teacher can misguide the student, negatively impacting robustness transfer. To circumvent this, we propose a novel adversarially robust knowledge distillation scheme that promotes alignment towards more benign predictions rather than incorrect ones by refining inputs into so-called “inverse adversarial examples” via simply reversing the sign of adversarial perturbation. Through a comprehensive investigation of the properties of inverse adversaries, we provide new theoretical insights showing how mimicking the behavior of the teacher model on inverse adversaries facilitates reliable robustness transfer built upon the implicit connection between robustness and the input gradient information. We thus design a gradient matching mechanism between teacher and student models utilizing inverse adversaries to facilitate robust knowledge alignment. Furthermore, inspired by our analysis of the correlation between robustness and adversarial transferability, we propose a weight-space disruption strategy that jointly interacts with both teacher and student models to find a shared direction for better robustness transfer. Empirical evaluations across various datasets demonstrate that our method achieves state-of-the-art robustness and natural performance. Notably, on ImageNet, our approach outperforms prior methods by approximately 3.8% in both clean and robust accuracy. Moreover, we show that incorporating auxiliary generated data into distillation further boosts robustness. Our method can also be generalized to multimodal architectures.",
+            "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
+            "title_cn": "盟友比敌人教得更好：强大的知识蒸馏的反向对手",
+            "abstract_cn": "对抗性鲁棒知识蒸馏旨在将大规模鲁棒教师模型压缩为轻量级学生模型，同时保持对抗性鲁棒性和自然表现。以前的方法主要侧重于调整教师和学生模型之间的知识（例如预测）以传递稳健性。然而，教师潜在的错误预测可能会误导学生，从而对鲁棒性迁移产生负面影响。为了避免这种情况，我们提出了一种新颖的对抗性鲁棒知识蒸馏方案，通过简单地反转对抗性扰动的符号，将输入细化为所谓的“逆对抗性示例”，从而促进朝着更良性的预测而不是错误的预测对齐。通过对逆对手属性的全面研究，我们提供了新的理论见解，展示了模仿教师模型在逆对手上的行为如何促进建立在鲁棒性和输入梯度信息之间隐式联系的可靠鲁棒性转移。因此，我们利用逆向对手设计了教师和学生模型之间的梯度匹配机制，以促进稳健的知识对齐。此外，受我们对鲁棒性和对抗性可迁移性之间相关性分析的启发，我们提出了一种权重空间破坏策略，该策略与教师和学生模型共同交互，以找到更好的鲁棒性迁移的共同方向。对各种数据集的实证评估表明，我们的方法实现了最先进的鲁棒性和自然性能。值得注意的是，在 ImageNet 上，我们的方法在干净准确度和稳健准确度方面均优于之前的方法约 3.8%。此外，我们表明，将辅助生成的数据合并到蒸馏中可以进一步提高稳健性。我们的方法也可以推广到多模式架构。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tpami.2026.3660754",
+            "title": "Decoupled Hierarchical Distillation for Multimodal Emotion Recognition",
+            "link": "https://doi.org/10.1109/tpami.2026.3660754",
+            "published": "2026",
+            "author": "Yong Li, Yuanzhi Wang, Yi Ding, Shiqing Zhang, Ke Lu, Cuntai Guan",
+            "summary": "Human multimodal emotion recognition (MER) seeks to infer human emotions by integrating information from language, visual, and acoustic modalities. Although existing MER approaches have achieved promising results, they still struggle with inherent multimodal heterogeneities and varying contributions from different modalities. To address these challenges, we propose a novel framework, Decoupled Hierarchical Multimodal Distillation (DHMD). DHMD decouples each modality's features into modality-irrelevant (homogeneous) and modality-exclusive (heterogeneous) components using a self-regression mechanism. The framework employs a two-stage knowledge distillation (KD) strategy: (1) coarse-grained KD via a Graph Distillation Unit (GD-Unit) in each decoupled feature space, where a dynamic graph facilitates adaptive distillation among modalities, and (2) fine-grained KD through a cross-modal dictionary matching mechanism, which aligns semantic granularities across modalities to produce more discriminative MER representations. This hierarchical distillation approach enables flexible knowledge transfer and effectively improves cross-modal feature alignment. Experimental results demonstrate that DHMD consistently outperforms state-of-the-art MER methods, achieving 1.3%/2.4% (ACC $_{7}$ ), 1.3%/1.9% (ACC $_{2}$ ) and 1.9%/1.8% (F1) relative improvement on CMU-MOSI/CMU-MOSEI dataset, respectively. Meanwhile, visualization results reveal that both the graph edges and dictionary activations in DHMD exhibit meaningful distribution patterns across modality-irrelevant/-exclusive feature spaces.",
+            "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
+            "title_cn": "用于多模态情感识别的解耦层次蒸馏",
+            "abstract_cn": "人类多模态情感识别（MER）试图通过整合来自语言、视觉和听觉模态的信息来推断人类情感。尽管现有的 MER 方法已经取得了有希望的结果，但它们仍然面临固有的多模式异质性和不同模式的不同贡献。为了应对这些挑战，我们提出了一个新颖的框架：解耦分层多模态蒸馏（DHMD）。 DHMD 使用自回归机制将每种模态的特征解耦为模态无关（同质）和模态排除（异质）组件。该框架采用两阶段知识蒸馏（KD）策略：（1）通过每个解耦特征空间中的图形蒸馏单元（GD-Unit）进行粗粒度 KD，其中动态图促进模态之间的自适应蒸馏；（2）通过跨模态字典匹配机制进行细粒度 KD，该机制跨模态对齐语义粒度以产生更具辨别力的 MER 表示。这种分层蒸馏方法可以实现灵活的知识转移，并有效改善跨模态特征对齐。实验结果表明，DHMD 始终优于最先进的 MER 方法，在 CMU-MOSI/CMU-MOSEI 数据集上分别实现了 1.3%/2.4% (ACC $_{7}$ )、1.3%/1.9% (ACC $_{2}$ ) 和 1.9%/1.8% (F1) 的相对改进。同时，可视化结果表明，DHMD 中的图边和字典激活在模态无关/排他特征空间中表现出有意义的分布模式。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tpami.2026.3660366",
+            "title": "Top-$k$ Feature Selection in Sparse Learning via Accelerated Coordinate Descent Method",
+            "link": "https://doi.org/10.1109/tpami.2026.3660366",
+            "published": "2026",
+            "author": "Han Zhang, Yannian Gu, Feiping Nie, Xuelong Li",
+            "summary": "Top- $k$ feature selection in sparse learning is a fundamental problem in machine learning. It is difficult to conquer due to the rigid $\\ell _{2,0}$ -norm constraint. Existing literature mostly relaxes the constraint and seeks the approximation of the selection matrix, degenerating primitive models and missing the genuine solutions. This research tackles the primitive top- $k$ feature selection model in sparse learning. From the perspective of universality, we investigate both supervised and semi-supervised models of top- $k$ feature selection in sparse learning. By disassembling the feature selection matrix, it is revealed that two different objectives could be unified into one general ratio-trace problem, which is a non-convex optimization problem. The accelerated coordinate descent method is raised to efficiently solve the non-convex objective, through which the local optimal solution of top- $k$ feature indices is obtained with a competitive time cost. To verify the proposed algorithm, we design toy experiments that could visualize the advantages of the selected features. Meanwhile, experimental results on nine normal datasets and the large-scale ImageNet dataset comprehensively show the superiority of our methods compared to representative and state-of-the-art supervised and semi-supervised algorithms.",
+            "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
+            "title_cn": "通过加速坐标下降法进行稀疏学习中的 Top-$k$ 特征选择",
+            "abstract_cn": "稀疏学习中的 Top-$k$ 特征选择是机器学习中的一个基本问题。由于严格的 $\\ell _{2,0}$ -范数约束，很难克服。现有文献大多放松约束并寻求选择矩阵的近似，使原始模型退化并错过真正的解决方案。这项研究解决了稀疏学习中原始的 top-$k$ 特征选择模型。从普适性的角度来看，我们研究了稀疏学习中 top-$k$ 特征选择的监督和半监督模型。通过分解特征选择矩阵，发现两个不同的目标可以统一为一个通用的比率迹问题，这是一种非凸优化问题。提出了加速坐标下降法来有效地求解非凸目标，通过该方法以具有竞争力的时间成本获得top-$k$特征指标的局部最优解。为了验证所提出的算法，我们设计了可以可视化所选特征的优点的玩具实验。同时，在九个普通数据集和大规模 ImageNet 数据集上的实验结果全面表明了我们的方法相对于代表性和最先进的监督和半监督算法的优越性。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tpami.2026.3653806",
+            "title": "Searching to Modulate for Cold-Start Recommendation",
+            "link": "https://doi.org/10.1109/tpami.2026.3653806",
+            "published": "2026",
+            "author": "Shiguang Wu, Yaqing Wang, Quanming Yao",
+            "summary": "Making personalized recommendation for cold-start users, who only have a few interaction histories, is a challenging problem in recommendation systems. Recent works leverage hypernetworks to directly map interaction histories to user-specific parameters, which are then used to modulate predictor by certain modulation structure. These works obtain the state-of-the-art performance. However, there lacks a general approach to design the modulation structure. Instead of using a fixed modulation function and deciding modulation position by expertise, we propose to determine proper modulation structure, including function and position, via neural architecture search. We propose two approaches. We first design a symbolic search space which covers broad models and theoretically prove that this search space can be transformed to a much smaller space, enabling an efficient and robust one-shot search algorithm, called ColdNAS. Since recommendation systems are a special case of bipartite matching problems, the proposed methods can be generalized to a wide range of cold-start tasks, such as disease-gene association prediction for emerging diseases. However, diverse scenarios introduce new challenges in both the flexibility of the search algorithm and the search space. To address these limitations, we further propose ColdNAS $_+$ , where we employ neural networks to model modulation functions to extend search space and design a two-stage decoupled stochastic search algorithm to enable non-differentiable targets in continuous spaces. Extensive experimental results on benchmark datasets show that modulation structures obtained by ColdNAS and ColdNAS $_+$ consistently outperform hand-designed cold-start techniques for recommending items for new users and predicting associated genes for new disease. We observe that different modulation functions lead to the best performance on different datasets or under different metrics, which validates the necessity of designing the modulation structure in a data-driven way.",
+            "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
+            "title_cn": "搜索冷启动建议的调制",
+            "abstract_cn": "为只有很少交互历史的冷启动用户进行个性化推荐是推荐系统中的一个具有挑战性的问题。最近的工作利用超网络将交互历史直接映射到用户特定的参数，然后使用这些参数通过某些调制结构来调制预测器。这些作品获得了最先进的性能。然而，缺乏设计调制结构的通用方法。我们建议通过神经架构搜索来确定适当的调制结构，包括函数和位置，而不是使用固定的调制函数并通过专业知识来决定调制位置。我们提出两种方法。我们首先设计了一个涵盖广泛模型的符号搜索空间，并从理论上证明该搜索空间可以转换为更小的空间，从而实现一种高效且鲁棒的一次性搜索算法，称为 ColdNAS。由于推荐系统是二分匹配问题的特例，因此所提出的方法可以推广到广泛的冷启动任务，例如新出现疾病的疾病基因关联预测。然而，多样化的场景给搜索算法的灵活性和搜索空间带来了新的挑战。为了解决这些限制，我们进一步提出了 ColdNAS $_+$ ，其中我们使用神经网络对调制函数进行建模以扩展搜索空间并设计两阶段解耦随机搜索算法以实现连续空间中的不可微目标。基准数据集上的大量实验结果表明，ColdNAS 和 ColdNAS $_+$ 获得的调制结构在为新用户推荐项目和预测新疾病的相关基因方面始终优于手工设计的冷启动技术。我们观察到不同的调制函数会在不同的数据集或不同的指标下带来最佳的性能，这验证了以数据驱动的方式设计调制结构的必要性。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tpami.2026.3656175",
+            "title": "Evaluating and Mitigating Relationship Hallucinations in Large Vision-Language Models",
+            "link": "https://doi.org/10.1109/tpami.2026.3656175",
+            "published": "2026",
+            "author": "Mingrui Wu, Jiale Li, Jiayi Ji, Fei Hao, Xiaoshuai Sun, Rongrong Ji",
+            "summary": "The issue of hallucinations is a prevalent concern in existing Large Vision-Language Models (LVLMs). Previous efforts have primarily focused on investigating object hallucinations, which can be easily alleviated by introducing object detectors. However, these efforts neglect hallucinations in inter-object relationships, essential for visual comprehension. In this work, we introduce R-Bench, a novel benchmark specifically designed to evaluate hallucinations in visual relationships. R-Bench includes both image-level questions to assess the existence of relationships and instance-level questions that probe deeper into local visual comprehension. Our analysis reveals that relationship hallucinations arise from three types of co-occurrences: relationship-relationship, subject-relationship, and relationship-object, exacerbated by the long-tail distribution in visual datasets. Moreover, LVLMs often ignore visual content, over-relying on common sense from language models, particularly in spatial reasoning tasks. We further demonstrate that region-level image-text alignment helps mitigate relationship hallucinations and propose a new baseline, Region-Aware Alignment Mitigation (RA 2 M), that enhances model attention to relevant regions, improving alignment between generated text and images.",
+            "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
+            "title_cn": "评估和减轻大视觉语言模型中的关系幻觉",
+            "abstract_cn": "幻觉问题是现有大视觉语言模型（LVLM）中普遍关注的问题。之前的工作主要集中在研究物体幻觉，通过引入物体探测器可以轻松缓解这种幻觉。然而，这些努力忽视了对象间关系中的幻觉，而这对于视觉理解至关重要。在这项工作中，我们介绍了 R-Bench，这是一种专门为评估视觉关系中的幻觉而设计的新颖基准。 R-Bench 包括用于评估关系是否存在的图像级问题和更深入地探究局部视觉理解的实例级问题。我们的分析表明，关系幻觉源于三种类型的共现：关系-关系、主体-关系和关系-客体，视觉数据集中的长尾分布加剧了这种幻觉。此外，LVLM 经常忽​​略视觉内容，过度依赖语言模型的常识，尤其是在空间推理任务中。我们进一步证明，区域级图像文本对齐有助于减轻关系幻觉，并提出了一个新的基线——区域感知对齐缓解（RA 2 M），它增强了模型对相关区域的关注，改善了生成的文本和图像之间的对齐。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tpami.2026.3660569",
+            "title": "An Algebraic Geometry Approach to Viewing Graph Solvability",
+            "link": "https://doi.org/10.1109/tpami.2026.3660569",
+            "published": "2026",
+            "author": "Federica Arrigoni, Kathlén Kohn, Andrea Fusiello, Tomas Pajdla",
+            "summary": "The concept of viewing graph solvability has gained significant interest in the context of structure-from-motion. A viewing graph is a mathematical structure where nodes are associated with cameras and edges represent the epipolar geometry connecting overlapping views. Solvability studies under which conditions the cameras are uniquely determined by the graph. In this paper we propose a novel framework for analyzing solvability problems based on algebraic geometry, demonstrating its potential in understanding structure-from-motion graphs and proving a conjecture that was previously proposed.",
+            "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
+            "title_cn": "查看图可解性的代数几何方法",
+            "abstract_cn": "查看图可解性的概念在运动结构的背景下引起了极大的兴趣。观察图是一种数学结构，其中节点与摄像机相关联，边缘表示连接重叠视图的极线几何形状。可解性研究在哪些条件下摄像机由图形唯一确定。在本文中，我们提出了一种基于代数几何分析可解性问题的新颖框架，展示了其在理解运动图结构和证明先前提出的猜想方面的潜力。"
         }
     ]
 }

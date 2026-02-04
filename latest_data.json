@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-04 12:54:06",
+    "update_time": "2026-02-04 12:57:27",
     "word_filename": "Optical_Papers_260204.docx",
-    "total_count": 272,
+    "total_count": 300,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109665",
@@ -2994,6 +2994,314 @@
             "journal": "J. Opt. Soc. Am. A",
             "title_cn": "对称星暴的正向和逆向问题",
             "abstract_cn": "视觉星爆是人们在瞳孔放大的情况下观看明亮光源时感知到的图像。它们是由人眼的光学像差产生的。针对两个对称像差函数族考虑星暴问题。第一个是齐次多项式，第二个是像差函数，对于任何整数 q 旋转 2 π / q 时都保持不变。在这两种情况下都给出了星暴的完整几何特征。该理论用于解决根据观测到的星暴估计高阶像差的反演问题。"
+        },
+        {
+            "id": "https://doi.org/10.1103/bpjc-8kz7",
+            "title": "Photonic cyclic orbit bound to a single Weyl point",
+            "link": "https://doi.org/10.1103/bpjc-8kz7",
+            "published": "2026-01-27",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "束缚于单个外尔点的光子循环轨道",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/44rc-34n1",
+            "title": "Dimer-projection contact and the clock shift of a unitary Fermi gas",
+            "link": "https://doi.org/10.1103/44rc-34n1",
+            "published": "2026-01-28",
+            "author": "Anonymous",
+            "summary": "Understanding the dynamics of short-range correlations is a central challenge in strongly interacting Fermi gases. In ultracold gases, these correlations are quantified by the contact parameter, yet measurements to date have been limited to equilibrium systems or relatively slow, global dynamics. Here, we introduce a rapid spectroscopic technique based on projection of the interacting state onto an alternate scattering channel with a low-lying dimer state. We demonstrate contact measurements on the microsecond timescale -- faster than the inverse Fermi energy. Using $^{40}$K near a broad $s$-wave Feshbach resonance, we show that the strength of the dimer-projection feature scales proportionally with the contact parameter extracted from the high-frequency tail of radio-frequency spectroscopy, in agreement with coupled-channels calculations. Analysis of the spectra further reveals that the dimer feature provides the dominant contribution to the clock shift of the unitary Fermi gas, allowing the first experimental bound on this quantity. The observed deviations from universal predictions highlight the importance of multichannel effects. Our results open new avenues for studying contact correlators, hydrodynamic attractors, and quantum critical behavior.",
+            "journal": "Physical Review Letters",
+            "title_cn": "二聚体投影接触和单一费米气体的时钟偏移",
+            "abstract_cn": "了解短程关联的动态是强相互作用费米气体的一个核心挑战。在超冷气体中，这些相关性通过接触参数进行量化，但迄今为止的测量仅限于平衡系统或相对缓慢的全局动态。在这里，我们介绍了一种快速光谱技术，该技术基于将相互作用态投影到具有低位二聚体态的替代散射通道上。我们演示了微秒时间尺度上的接触测量——比逆费米能量更快。使用宽$s$波Feshbach共振附近的$^{40}$K，我们表明二聚体投影特征的强度与从射频光谱高频尾部提取的接触参数成比例，这与耦合通道计算一致。对光谱的分析进一步表明，二聚体特征对酉费米气体的时钟移位做出了主要贡献，从而实现了对该数量的第一个实验限制。观察到的与普遍预测的偏差凸显了多渠道效应的重要性。我们的结果为研究接触相关器、流体动力吸引子和量子临界行为开辟了新途径。"
+        },
+        {
+            "id": "https://doi.org/10.1103/2qrz-5b94",
+            "title": "All-optically operated atto-Newton force sensing with a centimeter-milligram-scale torsion pendulum",
+            "link": "https://doi.org/10.1103/2qrz-5b94",
+            "published": "2026-01-28",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "采用厘米级扭摆的全光学阿托牛顿力传感",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/yk7n-lrpj",
+            "title": "New constraints on dark photon dark matter with a millimeter-wave dielectric haloscope",
+            "link": "https://doi.org/10.1103/yk7n-lrpj",
+            "published": "2026-01-28",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "毫米波介电光晕镜对暗光子暗物质的新限制",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/k8sv-lp1j",
+            "title": "Spin-split superconductivity in spin-orbit coupled hybrid nanowires with ferromagnetic barriers",
+            "link": "https://doi.org/10.1103/k8sv-lp1j",
+            "published": "2026-01-28",
+            "author": "Anonymous",
+            "summary": "We report transport studies of hybrid Josephson junctions based on semiconducting InAs nanowires with fully overlapping epitaxial ferromagnetic insulator EuS and superconducting Al partial shells. Current-biased measurements reveal a hysteretic superconducting window with a sizable supercurrent near the coercive field of the ferromagnetic insulator, accompanied by multiple Andreev reflections. Tunneling spectroscopy shows a superconducting gap characterized by three peaks, which we attribute to tunneling between exchange-split superconductors. A theoretical model reproduces the observed features and indicates that spin mixing, driven by sizable spin-orbit coupling, is essential to their formation. Our results demonstrate proximity-induced superconductivity through a ferromagnetic insulator and establish a new platform for exploring spin-triplet pairing.",
+            "journal": "Physical Review Letters",
+            "title_cn": "具有铁磁势垒的自旋轨道耦合混合纳米线中的自旋分裂超导",
+            "abstract_cn": "我们报告了基于半导体 InAs 纳米线的混合约瑟夫森结的输运研究，该纳米线具有完全重叠的外延铁磁绝缘体 EuS 和超导 Al 部分壳。电流偏置测量揭示了一个磁滞超导窗口，在铁磁绝缘体的矫顽场附近有相当大的超电流，并伴有多次安德烈夫反射。隧道光谱显示了一个以三个峰为特征的超导间隙，我们将其归因于交换分裂超导体之间的隧道效应。理论模型再现了观察到的特征，并表明由相当大的自旋轨道耦合驱动的自旋混合对于它们的形成至关重要。我们的结果证明了通过铁磁绝缘体的邻近感应超导性，并为探索自旋三重态配对建立了一个新平台。"
+        },
+        {
+            "id": "https://doi.org/10.1103/3ml4-gr6h",
+            "title": "Nanoscale imaging of magnetotransport around a circular p-n junction in graphene",
+            "link": "https://doi.org/10.1103/3ml4-gr6h",
+            "published": "2026-01-29",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "石墨烯中圆形 p-n 结周围磁传输的纳米级成像",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/nw4m-s6xy",
+            "title": "On-chip electro-optically tunable narrow linewidth Brillouin microlasers implemented in thin film lithium niobate",
+            "link": "https://doi.org/10.1103/nw4m-s6xy",
+            "published": "2026-01-29",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "在薄膜铌酸锂中实现的片上电光可调窄线宽布里渊微型激光器",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/55pk-rxzg",
+            "title": "Nondipole effects on electron correlation dynamics of Xe atoms in circularly polarized laser fields",
+            "link": "https://doi.org/10.1103/55pk-rxzg",
+            "published": "2026-01-30",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "圆偏振激光场中 Xe 原子电子关联动力学的非偶极效应",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/h2l1-fcz9",
+            "title": "Unquestionable Bell theorem for interwoven frustrated down conversion processes",
+            "link": "https://doi.org/10.1103/h2l1-fcz9",
+            "published": "2026-01-30",
+            "author": "Anonymous",
+            "summary": "Interwoven frustrated parametric down conversion (PDC) processes produce interference effects based on path identity [Phys. Rev. Lett. 118, 080401 (2017)]. In this letter we show Bell nonclassicality of the processes: a proper violation of the Clauser-Horne inequality when the local measurements are controlled by on-off switching of the final local PDC processes. Such a non-standard approach is needed because if only the local phase shifts are used for the measurement settings, as done in the experiment reported in Sci. Adv. 11, 1794 (2025), there exists a local realistic model of the interference, which we also present in this letter. Nevertheless, the reported destructive interference is deep enough to violate the inequality when using on-off switching, so our result establishes a firm footing for non-classicality of the new interferometry, in both theory and experiment. The on-off approach to Bell analysis of path-identity-based interference forms a new platform for seeking new highly counterintuitive quantum phenomena.",
+            "journal": "Physical Review Letters",
+            "title_cn": "交织受挫向下转换过程的无可争议的贝尔定理",
+            "abstract_cn": "交织的受阻参数下变频 (PDC) 过程会产生基于路径标识的干扰效应 [Phys.莱特牧师。 118, 080401(2017)]。在这封信中，我们展示了过程的贝尔非经典性：当局部测量由最终局部 PDC 过程的开关控制时，对 Clauser-Horne 不等式的适当违反。需要这种非标准方法，因为如果仅将局部相移用于测量设置，如 Sci 中报告的实验中所做的那样。副词。 1794年（2025年）11日，存在干扰的局部现实模型，我们也在这封信中介绍了该模型。然而，所报道的相消干涉足够深，足以违反使用开关时的不等式，因此我们的结果在理论和实验上为新干涉测量的非经典性奠定了坚实的基础。基于路径同一性的干扰的贝尔分析的开关方法形成了寻找新的高度违反直觉的量子现象的新平台。"
+        },
+        {
+            "id": "https://doi.org/10.1103/gttv-6lqc",
+            "title": "Broadband dipole absorption in dispersive photonic time crystals",
+            "link": "https://doi.org/10.1103/gttv-6lqc",
+            "published": "2026-02-02",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "色散光子时间晶体中的宽带偶极子吸收",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/nmbq-w5dm",
+            "title": "Instantaneous optical selection rule for independent control of valley currents",
+            "link": "https://doi.org/10.1103/nmbq-w5dm",
+            "published": "2026-02-02",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "独立控制谷值电流的瞬时光学选择规则",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/wh12-sm3t",
+            "title": "Acoustic orbital angular momentum Hall effect at metasurfaces",
+            "link": "https://doi.org/10.1103/wh12-sm3t",
+            "published": "2026-02-02",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "超表面的声轨道角动量霍尔效应",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/fv5l-rjyv",
+            "title": "Laser-driven structural transformation from a bulk crystal a layered material",
+            "link": "https://doi.org/10.1103/fv5l-rjyv",
+            "published": "2026-02-03",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "激光驱动从块状晶体到层状材料的结构转变",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/kh5d-jrxw",
+            "title": "Anisotropic Thermal Transport in Quasi-2D Ruddlesden-Popper Hybrid Perovskite Superlattices",
+            "link": "https://doi.org/10.1103/kh5d-jrxw",
+            "published": "2025-12-22",
+            "author": "Du Chen, Thu T. M. Chu, Yanyan Li, Shunran Li, Qixuan Hu, Jee Yung Park, Tyler Wang, Luoqi Dai, Ming Lu, Mengxia Liu, Letian Dou, Xiaotong Li, Yi Xia, Peijun Guo",
+            "summary": "Two-dimensional hybrid metal-halide perovskites (2D-MHPs) have emerged as important solution-processed semiconductors with favorable optical and electronic properties for diverse applications in photovoltaics, optoelectronics, and spintronics. The quasi-2D layered structures, featuring large acoustic impedance mismatches between the organic and inorganic sublattices, are expected to result in distinct and anisotropic thermal transport properties along the cross-plane and in-plane directions. Here, we introduce transducer-free vibrational-pump-visible-probe (VPVP) approaches that enable accurate quantification of anisotropic thermal transport properties in various archetypical single-crystalline 2D-MHPs. Specifically, using VPVP spectroscopy and VPVP microscopy, we measure the anisotropic thermal diffusivities of 2D-MHPs with systematically varied Pb-I octahedral layer thicknesses, as well as organic spacer types and lengths, revealing how these structural parameters alter the cross-plane and in-plane thermal transport properties in distinct ways. While diffuse interface scattering plays an important role in dictating cross-plane thermal transport, in-plane thermal transport is primarily determined by phonon transport within interconnected inorganic layers. Density functional theory incorporating four-phonon scatterings provides further insight into the low thermal conductivity and modest thermal conduction anisotropy in 2D-MHPs. Our work demonstrates a new all-optical and noncontact method, which requires minimal sample preparation and allows direct visualization of cross-plane and in-plane thermal transport, potentially compatible with sample environments. The demonstrated VPVP approaches can advance understanding of thermal transport in 2D-MHPs as well as wide-ranging hybrid and polymeric semiconductors beyond 2D-MHPs.",
+            "journal": "Physical Review X",
+            "title_cn": "准二维 Ruddlesden-Popper 混合钙钛矿超晶格中的各向异性热传输",
+            "abstract_cn": "二维混合金属卤化物钙钛矿（2D-MHP）已成为重要的溶液加工半导体，具有良好的光学和电子性能，可用于光伏、光电子和自旋电子学的多种应用。准二维层状结构的特点是有机和无机亚晶格之间存在较大的声阻抗失配，预计将导致沿横向和面内方向的独特且各向异性的热传输特性。在这里，我们介绍了无传感器振动泵可见光探针（VPVP）方法，该方法能够准确量化各种典型单晶 2D-MHP 中的各向异性热传输特性。具体来说，使用 VPVP 光谱和 VPVP 显微镜，我们测量了具有系统变化的 Pb-I 八面体层厚度以及有机间隔物类型和长度的 2D-MHP 的各向异性热扩散率，揭示了这些结构参数如何以不同的方式改变跨平面和面内热传输特性。虽然扩散界面散射在决定跨平面热传输中起着重要作用，但面内热传输主要由互连无机层内的声子传输决定。结合四声子散射的密度泛函理论可以进一步深入了解 2D-MHP 中的低导热率和适度的导热各向异性。我们的工作展示了一种新的全光学和非接触方法，该方法需要最少的样品制备，并允许直接可视化跨平面和面内热传输，可能与样品环境兼容。所展示的 VPVP 方法可以增进对 2D-MHP 以及 2D-MHP 之外的广泛混合和聚合物半导体中热传输的理解。"
+        },
+        {
+            "id": "https://doi.org/10.1103/mtjf-ylf7",
+            "title": "Beyond-Quasiparticle Transport with Vertex Correction: Self-Consistent Ladder Formalism for Electron-Phonon Interactions",
+            "link": "https://doi.org/10.1103/mtjf-ylf7",
+            "published": "2026-01-13",
+            "author": "Jae-Mo Lihm, Samuel Poncé",
+            "summary": "We present a self-consistent many-body framework for computing phonon-limited electronic transport from first principles, incorporating both beyond-quasiparticle effects and vertex corrections. Using the recently developed first-principles sc G D 0 method, we calculate spectral functions with nonperturbative effects such as broadening, satellites, and energy-dependent renormalization. We show that the sc G D 0 spectral functions outperform one-shot G 0 D 0 and cumulant approximations in model Hamiltonians and real materials, eliminating unphysical spectral kinks and correctly predicting the phonon emission continuum. Building on this, we introduce the self-consistent ladder formalism for transport, which captures vertex corrections due to electron-phonon interactions. This approach unifies and improves upon the two state-of-the-art approaches for first-principles phonon-limited transport: the bubble approximation and the Boltzmann transport equation. Moreover, as a charge-conserving approximation, it enables consistent calculations of the optical conductivity and dielectric function. We validate the developed method against numerically exact results for model Hamiltonians in the dilute polaronic limit and apply it to real materials. Our results show quantitative agreement with the experimental dc conductivities in intrinsic semiconductors Si and ZnO and the SrVO 3 metal, as well as excellent agreement with the experimental THz optical and dielectric properties of Si and ZnO. This work unifies first-principles and many-body approaches for studying transport, opening new directions for applying many-body theory to materials with strong electron-phonon interactions.",
+            "journal": "Physical Review X",
+            "title_cn": "具有顶点校正的超准粒子输运：电子声子相互作用的自洽梯形式主义",
+            "abstract_cn": "我们提出了一个自洽的多体框架，用于从第一原理计算声子限制电子传输，结合超准粒子效应和顶点校正。使用最近开发的第一原理 sc G D 0 方法，我们计算具有非微扰效应的谱函数，例如展宽、卫星和能量相关重整化。我们表明，sc G D 0 谱函数在模型哈密顿量和真实材料中优于一次性 G 0 D 0 和累积量近似，消除了非物理谱扭结并正确预测了声子发射连续谱。在此基础上，我们引入了传输的自洽梯形形式，它捕获了由于电子-声子相互作用而产生的顶点校正。这种方法统一并改进了第一原理声子限制输运的两种最先进的方法：气泡近似和玻尔兹曼输运方程。此外，作为电荷守恒近似，它可以对光导率和介电函数进行一致的计算。我们根据稀极化子极限下模型哈密顿量的数值精确结果验证了所开发的方法，并将其应用于实际材料。我们的结果显示与本征半导体Si和ZnO以及SrVO 3 金属的实验直流电导率定量一致，并且与Si和ZnO的实验太赫兹光学和介电性质非常一致。这项工作统一了研究输运的第一原理和多体方法，为将多体理论应用于具有强电子声子相互作用的材料开辟了新的方向。"
+        },
+        {
+            "id": "https://doi.org/10.1103/s5j9-cbg7",
+            "title": "Lattice-Charge Coupling in a Trilayer Nickelate with Intertwined Density Wave Order",
+            "link": "https://doi.org/10.1103/s5j9-cbg7",
+            "published": "2026-01-23",
+            "author": "Xun Jia, Yao Shen, Harrison LaBollita, Xinglong Chen, Junjie Zhang, Yu Li, Hengdi Zhao, Mercouri G. Kanatzidis, Matthew Krogstad, Hong Zheng, Ayman H. Said, Ahmet Alatas, Stephan Rosenkranz, Daniel Phelan, Mark P. M. Dean, M. R. Norman, J. F. Mitchell, Antia S. Botana, Yue Cao",
+            "summary": "Intertwined charge and spin correlations are ubiquitous in a wide range of transition metal oxides and are often perceived as intimately related to unconventional superconductivity. Theoretically envisioned as driven by strong electronic correlations, the intertwined order is usually found to be strongly coupled to the lattice as signaled by pronounced phonon softening. Recently, both charge and spin density waves (CDW and SDW) and superconductivity have been discovered in several Ruddlesden-Popper (RP) nickelates, in particular trilayer nickelates R E 4 Ni 3 O 10 ( R E = Pr , La). The nature of the intertwined order and the role of lattice-charge coupling are at the heart of the debate about these materials. Using inelastic x-ray scattering, we mapped the low-energy phonon dispersions in R E 4 Ni 3 O 10 and found no evidence of softening near the CDW wave vector over a wide temperature range, which contrasts with the pronounced anomalies frequently observed in cuprate superconductors. Calculations of the electronic susceptibility revealed a peak at the observed SDW ordering vector but not at the CDW wave vector. Our experimental and theoretical findings highlight the crucial role of the spin degree of freedom and establish a foundation for understanding the interplay between superconductivity and density-wave transitions in RP nickelate superconductors and beyond.",
+            "journal": "Physical Review X",
+            "title_cn": "具有交织密度波序的三层镍酸盐中的晶格电荷耦合",
+            "abstract_cn": "相互缠绕的电荷和自旋相关性在各种过渡金属氧化物中普遍存在，并且通常被认为与非常规超导性密切相关。理论上，设想由强电子相关性驱动，通常发现交织有序与晶格强烈耦合，如明显的声子软化所表明的那样。最近，在几种 Ruddlesden-Popper (RP) 镍酸盐，特别是三层镍酸盐 RE 4 Ni 3 O 10 ( RE = Pr , La) 中发现了电荷和自旋密度波（CDW 和 SDW）以及超导性。交织顺序的本质和晶格电荷耦合的作用是有关这些材料的争论的核心。使用非弹性 X 射线散射，我们绘制了 RE 4 Ni 3 O 10 中的低能声子色散，发现在很宽的温度范围内 CDW 波矢量附近没有软化的证据，这与铜酸盐超导体中经常观察到的明显异常形成鲜明对比。电子磁化率的计算揭示了观察到的 SDW 有序向量处的峰值，但 CDW 波向量处没有峰值。我们的实验和理论研究结果强调了自旋自由度的关键作用，并为理解 RP 镍酸盐超导体及其他超导体中的超导性和密度波跃迁之间的相互作用奠定了基础。"
+        },
+        {
+            "id": "https://doi.org/10.1103/bjpc-8xcf",
+            "title": "Dissipating quartets of excitations in a superconducting circuit",
+            "link": "https://doi.org/10.1103/bjpc-8xcf",
+            "published": "2025-12-10",
+            "author": "Anonymous",
+            "summary": "Over the past decade, autonomous stabilization of bosonic qubits has emerged as a promising approach for hardware-efficient protection of quantum information. However, applying these techniques to more complex encodings than the Schr\\\"odinger cat code requires exquisite control of high-order wave mixing processes. The challenge is to enable specific multiphotonic dissipation channels while avoiding unintended non-linear interactions. In this work, we leverage a genuine six-wave mixing process enabled by a near Kerr-free Josephson element to enforce dissipation of quartets of excitations in a high-impedance superconducting resonator. Owing to residual non-linearities stemming from stray inductances in our circuit, this dissipation channel is only effective when the resonator holds a specific number of photons. Applying it to the fourth excited state of the resonator, we show an order of magnitude enhancement of the state decay rate while only marginally impacting the relaxation and coherence of lower energy states. Given that stray inductances could be strongly reduced through simple modifications in circuit design and that our methods can be adapted to activate even higher-order dissipation channels, these results pave the way toward the dynamical stabilization of four-component Schr\\\"odinger cat qubits and even more complex bosonic qubits.",
+            "journal": "Physical Review X",
+            "title_cn": "超导电路中四组激励的耗散",
+            "abstract_cn": "在过去的十年中，玻色子量子位的自主稳定已成为一种有前途的硬件高效保护量子信息的方法。然而，将这些技术应用于比薛定格猫代码更复杂的编码需要对高阶波混合过程进行精确控制。挑战在于启用特定的多光子耗散通道，同时避免意外的非线性相互作用。在这项工作中，我们利用由近无克尔约瑟夫森元件实现的真正的六波混合过程来强制高阻抗超导谐振器中四组激励的耗散。由于杂散引起的残余非线性由于我们电路中的电感，该耗散通道仅在谐振器保持特定数量的光子时才有效，将其应用于谐振器的第四激发态，我们显示出状态衰减率的一个数量级增强，同时仅略微影响较低能态的弛豫和相干性，因为可以通过电路设计的简单修改来大大减少杂散电感，并且我们的方法可以适应激活更高阶的耗散通道，这些结果为动态稳定铺平了道路。四分量薛定格猫量子位，甚至更复杂的玻色子量子位。"
+        },
+        {
+            "id": "https://doi.org/10.1103/kmn8-y59j",
+            "title": "Pseudogap with Fermi Arcs and Fermi Pockets in Half-Filled Twisted Transition Metal Dichalcogenides",
+            "link": "https://doi.org/10.1103/kmn8-y59j",
+            "published": "2026-01-06",
+            "author": "Yong-Yue Zong, Zhao-Long Gu, Jian-Xin Li",
+            "summary": "Twisted transition metal dichalcogenides are a new platform for realizing strongly correlated physics with high tunability. Recent transport experiments [A. Ghiotto , ] have reported the bandwidth-driven evolution of a Mott insulator to a strange metal behavior via the tuning of a displacement field in twisted WS e 2 ( tWS e 2 ) fixed at half filling. However, the nature of the correlated states and the related Mott physics involved in the whole process remain to be determined. Here, we unveil theoretically the evolution of the ground state of the half-filled moiré Hubbard model as applied to tWS e 2 , transiting from a pseudogap state with Fermi arcs to a 120° Néel ordered Mott insulator, then to another pseudogap state with Fermi pockets, and eventually to a Fermi liquid via a Lifshitz transition. The pseudogap phases are definitely identified by the vanishing of quasiparticle weights over parts of the Fermi surface, with the remaining parts forming disconnected Fermi arcs or pockets with well-defined quasiparticles. We demonstrate that the Fermi arc or pocket results from the electronic band structure reconstruction driven by electron correlations, marked by the coexistence of the poles and zeros of the single-particle Green’s function. We ascribe the ground state of the strange metal featured by the linear- T resistivity observed experimentally in tWSe 2 to the second pseudogap state by further calculating the temperature dependence of resistivity. This work reveals the fundamental aspects of the Mottness in moiré system and will stimulate the direct probes of the underlying physics beyond transports via the angle-resolved photoemission spectroscopy and scanning tunneling microscopy.",
+            "journal": "Physical Review X",
+            "title_cn": "半填充扭曲过渡金属二硫化物中具有费米弧和费米口袋的赝能隙",
+            "abstract_cn": "扭曲过渡金属二硫属化物是实现具有高可调性的强相关物理的新平台。最近的运输实验[A. Ghiotto 报道了通过调整固定在半填充的扭曲 WS e 2 (tWS e 2 ) 中的位移场，莫特绝缘体的带宽驱动演变为奇怪的金属行为。然而，整个过程中涉及的相关态的性质和相关的莫特物理仍有待确定。在这里，我们从理论上揭示了应用于 tWS e 2 的半填充莫尔哈伯德模型的基态演化，从具有费米弧的赝能隙态过渡到 120° Néel 有序莫特绝缘体，然后过渡到另一个具有费米口袋的赝能隙态，并最终通过 Lifshitz 跃迁过渡到费米液体。赝能隙相可以通过费米表面部分上准粒子权重的消失来确定，其余部分形成不连续的费米弧或具有明确准粒子的袋。我们证明了费米弧或袋是由电子关联驱动的电子能带结构重建的结果，其标志是单粒子格林函数的极点和零点共存。通过进一步计算电阻率的温度依赖性，我们将在 tWSe 2 中实验观察到的以线性 T 电阻率为特征的奇怪金属的基态归因于第二赝能隙态。这项工作揭示了莫特内斯莫尔系统的基本方面，并将通过角分辨光电子能谱和扫描隧道显微镜刺激对传输之外的基础物理的直接探索。"
+        },
+        {
+            "id": "https://doi.org/10.1103/y6dt-1sfw",
+            "title": "Unraveling real-time chemical shifts in the ultrafast regime",
+            "link": "https://doi.org/10.1103/y6dt-1sfw",
+            "published": "2025-12-11",
+            "author": "Anonymous",
+            "summary": "Traditional x-ray photoelectron spectroscopy (XPS) relies upon a direct mapping between the photoelectron binding energies and the local chemical environment, which is well-characterized by an electrostatic partial charges model for systems in equilibrium. However, the extension of this technique to out-of-equilibrium systems has been hampered by the lack of x-ray sources capable of accessing multiple atomic sites with high spectral and temporal resolution, as well as the lack of simple theoretical procedures to interpret the observed signals. In this work we employ multi-site XPS with a narrowband femtosecond x-ray probe to unravel different ultrafast dissociation processes of a polyatomic molecule, fluoromethane (CH$_{3}$F). We show that XPS can follow the cleavage of both the C-F and C-H bonds in real time, despite these channels lying close in binding energy. Additionally, we apply the partial charges model to describe these dynamics, and verify this extension with both advanced ab-initio calculations and experimental data. These results enable the application of this technique to out-of-equilibrium systems of higher complexity, by correlating real-time information from multiple atomic sites and interpreting the measurements through a viable theoretical modelling.",
+            "journal": "Physical Review X",
+            "title_cn": "揭示超快状态下的实时化学位移",
+            "abstract_cn": "传统的 X 射线光电子能谱 (XPS) 依赖于光电子结合能和局部化学环境之间的直接映射，平衡系统的静电部分电荷模型很好地表征了这种映射。然而，由于缺乏能够以高光谱和时间分辨率访问多个原子位点的 X 射线源，以及缺乏解释观察到的信号的简单理论程序，该技术向非平衡系统的扩展受到阻碍。在这项工作中，我们采用多位点 XPS 和窄带飞秒 X 射线探针来揭示多原子分子氟甲烷 (CH$_{3}$F) 的不同超快解离过程。我们证明 XPS 可以实时跟踪 C-F 和 C-H 键的裂解，尽管这些通道的结合能接近。此外，我们应用部分电荷模型来描述这些动态，并通过先进的从头计算和实验数据验证这种扩展。这些结果通过关联来自多个原子位点的实时信息并通过可行的理论模型解释测量结果，使该技术能够应用于更高复杂性的非平衡系统。"
+        },
+        {
+            "id": "https://doi.org/10.1103/c93j-k53f",
+            "title": "Nematic Order and Orbital Selective Mott State in a Partially Filled Kagome Flat Band",
+            "link": "https://doi.org/10.1103/c93j-k53f",
+            "published": "2026-01-13",
+            "author": "Caiyun Chen, Jiangchang Zheng, Yuman He, Siqi Wu, Xuzhe Ying, Soumya Sankar, Luanjing Li, Yizhou Wei, Xi Dai, Hoi Chun Po, Berthold Jäck",
+            "summary": "Coulomb interactions among charge carriers that occupy an electronic flat band (FB) can give rise to captivating phenomena such as quantum criticality, Mott-Hubbard states, and unconventional superconductivity at different FB filling fractions. Consequently, the search for new FB materials with tunable charge carrier filling and strong interactions is a central research theme to broaden our fundamental understanding of strongly interacting quantum systems and to realize materials with novel functionalities. In this work, we present experimental evidence obtained from temperature-dependent scanning tunneling microscopy measurements for various strongly correlated states that appear in partially occupied kagome FBs of Co 1 − x Fe x Sn whose filling can be controlled by the Fe-doping level x . At elevated temperatures ( T ≥ 16 K ), we find evidence for rotation symmetry breaking across a broad doping range 0.05 < x < 0.25 . Comparison with model calculations reveals that strong Coulomb interactions ( U > 100 meV ) blend the states of two 3 d -orbital-derived FBs and impart a nematic order parameter. Introducing phase-sensitive lock-in measurements as a local scanning tunneling microscopy probe of incompressible states, we also find direct evidence for Hubbard bands in the partially filled kagome flat bands of samples with ideal Fe doping ( x = 0.17 ). Results from Hubbard model calculations suggest the presence of an orbital-selective Mott state in a half-filled kagome flat band. Doping-dependent measurements show that the orbital-selective Mott state descends into a correlated metal phase upon electron and hole doping, marked by a sudden collapse of the spectral gap. Our observations demonstrate that the electronic ground state of the kagome FBs sensitively depends on the complex interplay between geometric frustration, strong Coulomb repulsion, orbital degeneracy, and filling fraction at different temperatures. More broadly, our research establishes kagome lattice materials as a unique platform for novel quantum states that arise from strong electronic correlations in a topologically nontrivial FB.",
+            "journal": "Physical Review X",
+            "title_cn": "部分填充 Kagome 平带中的向列序和轨道选择性莫特态",
+            "abstract_cn": "占据电子平带 (FB) 的电荷载流子之间的库仑相互作用可以产生令人着迷的现象，例如量子临界性、莫特-哈伯德态和不同 FB 填充分数下的非常规超导性。因此，寻找具有可调节载流子填充和强相互作用的新型FB材料是一个中心研究主题，以拓宽我们对强相互作用量子系统的基本理解并实现具有新颖功能的材料。在这项工作中，我们提出了从依赖于温度的扫描隧道显微镜测量中获得的实验证据，这些证据出现在Co 1 − x Fe x Sn的部分占据的kagome FB中，其填充可以通过Fe掺杂水平x来控制。在高温（T ≥ 16 K）下，我们发现旋转对称性在广泛的掺杂范围 0.05 < x < 0.25 上被打破的证据。与模型计算的比较表明，强库仑相互作用（U > 100 meV）混合了两个 3 d 轨道衍生 FB 的状态并赋予向列序参数。引入相敏锁定测量作为不可压缩态的局部扫描隧道显微镜探针，我们还在具有理想 Fe 掺杂 ( x = 0.17 ) 的部分填充的 kagome 平坦带中找到了哈伯德带的直接证据。哈伯德模型计算的结果表明，在半填充的戈薇平带中存在轨道选择性莫特态。与掺杂相关的测量表明，轨道选择性莫特态在电子和空穴掺杂后下降到相关金属相，其特征是光谱间隙突然崩溃。我们的观察表明，kagome FBs 的电子基态敏感地取决于不同温度下的几何挫败、强库仑斥力、轨道简并性和填充分数之间的复杂相互作用。更广泛地说，我们的研究将 kagome 晶格材料建立为新颖量子态的独特平台，这些量子态由拓扑非平凡 FB 中的强电子相关性产生。"
+        },
+        {
+            "id": "https://doi.org/10.1103/grzx-v6sj",
+            "title": "Extrinsic contribution to bosonic thermal Hall transport",
+            "link": "https://doi.org/10.1103/grzx-v6sj",
+            "published": "2025-12-12",
+            "author": "Anonymous",
+            "summary": "Bosonic excitations like phonons and magnons dominate the low-temperature transport of magnetic insulators. Similar to electronic Hall responses, the thermal Hall effect (THE) of charge neutral bosons has been proposed as a powerful tool for probing topological properties of their wavefunctions. For example, the intrinsic contribution of the THE of a perfectly clean system is directly governed by the distribution of Berry curvature, and many experiments on topological magnon and phonon insulators have been interpreted in this way. However, disorder is inevitably present in any material and its contribution to the THE has remained poorly understood. Here we develop a rigorous kinetic theory of the extrinsic side-jump contribution to the THE of bosons. We show that the extrinsic THE can be of the same order as the intrinsic one but sensitively depends on the type of local imperfection. We study different types of impurities and show that a THE can even arise as a pure impurity-induced effect in a system with a vanishing intrinsic contribution. As a side product, we also generalize existing results for the electronic AHE to general types of impurities beyond the standard assumption of local potential scattering. We discuss the importance of our results for the correct interpretation of THE measurements.",
+            "journal": "Physical Review X",
+            "title_cn": "对玻色子热霍尔传输的外在贡献",
+            "abstract_cn": "声子和磁子等玻色子激发主导着磁绝缘体的低温输运。与电子霍尔响应类似，电荷中性玻色子的热霍尔效应（THE）已被提议作为探测其波函数拓扑性质的有力工具。例如，完全洁净系统的THE的内在贡献直接受贝里曲率分布的控制，并且许多关于拓扑磁子和声子绝缘体的实验都是以这种方式解释的。然而，任何材料中都不可避免地存在无序，并且人们对无序对THE的贡献仍然知之甚少。在这里，我们开发了一个关于外在侧跳对玻色子THE贡献的严格动力学理论。我们表明，外在 THE 可以与内在 THE 具有相同的数量级，但敏感地取决于局部缺陷的类型。我们研究了不同类型的杂质，并表明，THE 甚至可以作为系统中纯粹的杂质引起的效应而出现，而系统的内在贡献正在消失。作为副产品，我们还将电子 AHE 的现有结果推广到超出局部势散射标准假设的一般类型杂质。我们讨论了我们的结果对于正确解释测量结果的重要性。"
+        },
+        {
+            "id": "https://doi.org/10.1103/zdpg-mhpc",
+            "title": "Characterization of Drive-Induced Unwanted State Transitions in Superconducting Circuits",
+            "link": "https://doi.org/10.1103/zdpg-mhpc",
+            "published": "2026-01-15",
+            "author": "W. Dai, S. Hazra, D. K. Weiss, P. D. Kurilovich, T. Connolly, H. K. Babla, S. Singh, V. R. Joshi, A. Z. Ding, P. D. Parakh, J. Venkatraman, X. Xiao, L. Frunzio, M. H. Devoret",
+            "summary": "Microwave drives are essential for implementing control and readout operations in superconducting quantum circuits. However, increasing the drive strength eventually leads to unwanted state transitions which limit the speed and fidelity of such operations. In this work, we systematically investigate such transitions in a fixed-frequency qubit subjected to microwave drives spanning a 9-GHz frequency range. We identify the physical origins of these transitions and classify them into three categories: (1) resonant energy exchange with parasitic two-level systems (TLSs), activated by drive-induced ac-Stark shifts, (2) multiphoton transitions to noncomputational states, intrinsic to the circuit Hamiltonian, and (3) inelastic scattering processes in which the drive causes a state transition in the superconducting circuit, while transferring excess energy to a spurious electromagnetic mode or TLS material defect. We show that the Floquet steady-state simulation, complemented by an electromagnetic simulation of the physical device, accurately predicts the observed transitions that do not involve TLS. Our results provide a comprehensive classification of these transitions and offer mitigation strategies through informed choices of drive frequency as well as improved circuit design.",
+            "journal": "Physical Review X",
+            "title_cn": "超导电路中驱动引起的不需要的状态转变的表征",
+            "abstract_cn": "微波驱动器对于在超导量子电路中实现控制和读出操作至关重要。然而，增加驱动强度最终会导致不必要的状态转换，从而限制此类操作的速度和保真度。在这项工作中，我们系统地研究了固定频率量子位中的此类转变，该固定频率量子位受到跨越 9 GHz 频率范围的微波驱动。我们确定了这些转变的物理起源，并将它们分为三类：（1）与寄生两能级系统（TLS）的共振能量交换，由驱动引起的交流斯塔克位移激活，（2）多光子跃迁到非计算状态，这是电路哈密顿量固有的，以及（3）非弹性散射过程，其中驱动引起超导电路中的状态转变，同时将多余的能量转移到寄生电磁模式或TLS材料缺陷。我们证明，Floquet 稳态模拟辅以物理设备的电磁模拟，可以准确预测观察到的不涉及 TLS 的转变。我们的结果提供了这些转换的全面分类，并通过驱动频率的明智选择以及改进的电路设计提供缓解策略。"
+        },
+        {
+            "id": "https://doi.org/10.1103/x76f-2vj8",
+            "title": "Deep Elastic Strain Engineering of Free-Standing GaN Microbridge",
+            "link": "https://doi.org/10.1103/x76f-2vj8",
+            "published": "2026-01-23",
+            "author": "Sufeng Fan, Heyi Wang, Chang-Ti Chou, Juzheng Chen, Ying Han, Jingzhuo Zhou, Xiaocui Li, Jyh-Pin Chou, Ju Li, Yang Lu",
+            "summary": "Gallium nitride (GaN) as a direct band gap semiconductor played a central role in the historical development of efficient blue light-emitting diode and laser diode, in which its intrinsic wide band gap shrinks through the addition of indium (In), thus tuning the color of the light by changing the chemistry. This alloying approach, however, does not allow for dynamic and reversible modulation of the band gap and emission color. Here we show that ultralarge tensile elastic strain can be introduced in microfabricated single crystal GaN microbridges and offer an unprecedented opportunity to modulate its band structure and optoelectronic properties continuously through deep elastic strain engineering. The elastic strain-induced energy band gap modulation was characterized and quantified by cathodoluminescence (CL) as well as via strained GaN devices inside a scanning electron microscope. The CL emission of deeply strained ( > 5 % ) GaN microbridges has shown substantial band gap reduction from ∼ 3.4 to 2.96 eV ( ∼ 365 to 420 nm in wavelength), making its optical emission shift from invisible or UV to the blue visible regime. Experimental results agree well with calculation of the change in band gap with increased strain. This dynamic, reversible, and well-controllable strain engineering would facilitate novel device applications in power electronics and optoelectronics.",
+            "journal": "Physical Review X",
+            "title_cn": "自立式 GaN 微桥的深度弹性应变工程",
+            "abstract_cn": "氮化镓（GaN）作为直接带隙半导体在高效蓝光发光二极管和激光二极管的历史发展中发挥了核心作用，其中通过添加铟（In）来缩小其固有的宽带隙，从而通过改变化学成分来调节光的颜色。然而，这种合金化方法不允许带隙和发射颜色的动态和可逆调制。在这里，我们证明了可以在微制造的单晶GaN微桥中引入超大拉伸弹性应变，并为通过深度弹性应变工程连续调节其能带结构和光电性能提供了前所未有的机会。通过阴极发光 (CL) 以及扫描电子显微镜内的应变 GaN 器件对弹性应变引起的能带隙调制进行了表征和量化。深度应变 (> 5%) GaN 微桥的 CL 发射显示带隙从 ~ 3.4 大幅降低至 2.96 eV（波长 ~ 365 至 420 nm），使其光发射从不可见或紫外光转移到蓝色可见光区域。实验结果与带隙随应变增加的变化的计算结果非常吻合。这种动态、可逆且可控的应变工程将促进电力电子和光电子领域的新型器件应用。"
+        },
+        {
+            "id": "https://doi.org/10.1103/7m1b-hxy8",
+            "title": "Programmable Quantum Anomalous Hall Insulator in Twisted Crystalline Flatbands",
+            "link": "https://doi.org/10.1103/7m1b-hxy8",
+            "published": "2026-01-26",
+            "author": "Wenxuan Wang, Yijie Wang, Zaizhe Zhang, Zihao Huo, Gengdong Zhou, Shu Zhang, Kenji Watanabe, Takashi Taniguchi, Xiaoxia Yang, Qing Dai, X. C. Xie, Kaihui Liu, Zhida Song, Xiaobo Lu",
+            "summary": "The isospin flavors in condensed matters can be continuously broken, forming various symmetry-broken quantum states. In moiré crystals, the competition between different isospin configurations can be effectively tuned by the twist angles and stacking orders. Here we report twisted double rhombohedral-trilayer-graphene as a new twisted crystalline flatband system showing rich moiré dependent topological phenomena. In devices with small twist angles, programmable Chern insulators with Chern number C = 3 at integer moiré filling v = 1 have been observed. We have further revealed an exotic hidden order which can quench the Chern insulator as well as multiple first-order transitions between different symmetry-broken phases. Interestly, in the device with a slightly larger twist angle, multiple Chern insulators with C = 1 at fractional moiré fillings including v = 1 / 4 , 1 / 3 , and 1 / 2 have been observed, whereas the Chern insulator at v = 1 is absent. Our study demonstrated the twisted flatbands form rhombohedral-multilayer-graphene as a new platform to study tunable high Chern insulators as well as new devices for quantum storage and computation.",
+            "journal": "Physical Review X",
+            "title_cn": "扭曲晶体平带中的可编程量子反常霍尔绝缘体",
+            "abstract_cn": "凝聚态物质中的同位旋味道可以不断破缺，形成各种对称破缺的量子态。在莫尔晶体中，不同同位旋构型之间的竞争可以通过扭转角度和堆叠顺序来有效调节。在这里，我们报告扭曲双菱面体三层石墨烯作为一种新的扭曲晶体平带系统，表现出丰富的莫尔依赖拓扑现象。在具有小扭转角的器件中，已经观察到在整数莫尔填充 v = 1 时具有陈数 C = 3 的可编程陈绝缘体。我们进一步揭示了一种奇异的隐藏秩序，它可以淬灭陈绝缘体以及不同对称破缺相之间的多个一阶跃迁。有趣的是，在扭转角稍大的器件中，在分数莫尔填充（包括 v = 1 / 4 、 1 / 3 和 1 / 2 ）处观察到了多个 C = 1 的陈绝缘体，而 v = 1 处的陈绝缘体则不存在。我们的研究证明，菱面体多层石墨烯的扭曲平带可以作为研究可调谐高陈绝缘体以及用于量子存储和计算的新设备的新平台。"
+        },
+        {
+            "id": "https://doi.org/10.1103/2dyh-yhrb",
+            "title": "Quantized Hall drift in a frequency-encoded photonic Chern insulator",
+            "link": "https://doi.org/10.1103/2dyh-yhrb",
+            "published": "2026-01-07",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review X",
+            "title_cn": "频率编码光子陈绝缘体中的量化霍尔漂移",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/37vk-qz71",
+            "title": "Exploring light-induced phases of 2D materials in a modulated 1D quasicrystal",
+            "link": "https://doi.org/10.1103/37vk-qz71",
+            "published": "2026-01-09",
+            "author": "Anonymous",
+            "summary": "Light-induced quantum phases offer the potential for simple and powerful tuning of material properties. For example, simply illuminating 2D materials in the integer quantum Hall regime with polarized light is predicted to drive quantum phase transitions. Such phenomena are largely beyond the current frontier of solid state experiments due to technical limitations on laser intensity and material purity. However, the Harper-Hofstadter mapping which relates a two-dimensional integer quantum Hall system to a 1D quasicrystal enables the same polarization-dependent light-induced phase transitions to be observed using a quantum gas in a driven quasiperiodic optical lattice. We report results of such an experiment. We observe an interlaced phase diagram of localization-delocalization phase transitions as a function of drive polarization and amplitude. Elliptically polarized driving can stabilize an extended critical phase featuring multifractal wavefunctions; we observe signatures of this phenomenon in anomalous polarization-dependent subdiffusive transport. In this regime, increasing the strength of the quasiperiodic potential can enhance rather than suppress transport. These experiments demonstrate a simple method for synthesizing exotic multifractal states and exploring light-induced quantum phases across different dimensionalities.",
+            "journal": "Physical Review X",
+            "title_cn": "探索调制一维准晶中二维材料的光致相",
+            "abstract_cn": "光诱导量子相提供了简单而强大的材料特性调整的潜力。例如，预计用偏振光简单地照射整数量子霍尔体系中的二维材料即可驱动量子相变。由于激光强度和材料纯度的技术限制，这种现象很大程度上超出了当前固态实验的前沿。然而，将二维整数量子霍尔系统与一维准晶体联系起来的哈珀-霍夫施塔特映射使得能够使用驱动准周期光学晶格中的量子气体来观察相同的偏振相关光致相变。我们报告了此类实验的结果。我们观察到局域-离域相变的交错相图作为驱动偏振和振幅的函数。椭圆偏振驱动可以稳定具有多重分形波函数的扩展临界相；我们在异常偏振相关的次扩散传输中观察到这种现象的特征。在这种情况下，增加准周期势的强度可以增强而不是抑制传输。这些实验展示了一种合成奇异多重分形态并探索不同维度的光诱导量子相的简单方法。"
+        },
+        {
+            "id": "https://doi.org/10.1103/hhgy-9rd4",
+            "title": "Quantum theory of fractional topological pumping of lattice solitons",
+            "link": "https://doi.org/10.1103/hhgy-9rd4",
+            "published": "2026-01-26",
+            "author": "Anonymous",
+            "summary": "One of the hallmarks of topological systems is the robust quantization of particle transport. It is the origin of the integer-valued quantum Hall conductivity and a potential tool for quantum information technology. Recent experiments on topological pumps constructed by using arrays of photonic waveguides and described by the (lattice-translational invariant) Aubry-Andr\\'e-Harper (AAH) model, have demonstrated both integer and fractional transport of lattice solitons. In these systems, a background medium mediates interactions between photons via a Kerr nonlinearity and leads to the formation of self-bound multi-photon states. Upon increasing the interaction strength a sequence of transitions was observed from a phase with integer transport in a pump cycle through different phases of fractional transport to a phase with no transport. We here present a quantum description of topological pumps of self-bound many-particle states in terms of an effective Hamiltonian of their center-of-mass (COM) motion, which allows to introduce an effective band structure $E_\\mu(K)$ with $K$ being the COM momentum, and to classify topological phases in terms of generalized symmetries. We provide an explicit analytic expression of the effective Hamiltonian for few particles in the strong interaction limit and present numerical results in the more general case. We identify a topological invariant, an effective single-particle Chern number, which fully governs the soliton transport. Increasing the interaction strength in the AAH model leads to a successive merging of COM bands, which is the origin of the observed sequence of topological phase transitions and also the potential breakdown of topological quantization for some interaction strength.",
+            "journal": "Physical Review X",
+            "title_cn": "晶格孤子分数拓扑泵浦的量子理论",
+            "abstract_cn": "拓扑系统的标志之一是粒子传输的鲁棒量化。它是整数值量子霍尔电导率的起源，也是量子信息技术的潜在工具。最近使用光子波导阵列构建并由（晶格平移不变量）Aubry-Andr'e-Harper (AAH) 模型描述的拓扑泵实验已经证明了晶格孤子的整数和分数传输。在这些系统中，背景介质通过克尔非线性介导光子之间的相互作用，并导致自束缚多光子态的形成。在增加相互作用强度时，观察到从泵循环中具有整数传输的相通过分数传输的不同相到没有传输的相的一系列转变。我们在这里根据质心 (COM) 运动的有效哈密顿量提出自束缚多粒子态拓扑泵的量子描述，这允许引入有效的能带结构 $E_\\mu(K)$，其中 $K$ 是 COM 动量，并根据广义对称性对拓扑相进行分类。我们提供了强相互作用极限下少数粒子的有效哈密顿量的显式解析表达式，并给出了更一般情况下的数值结果。我们确定了一个拓扑不变量，即有效的单粒子陈数，它完全控制着孤子输运。增加 AAH 模型中的相互作用强度会导致 COM 带的连续合并，这是观察到的拓扑相变序列的起源，也是某些相互作用强度的拓扑量子化的潜在崩溃。"
+        },
+        {
+            "id": "https://doi.org/10.1103/t7tm-nxyl",
+            "title": "Emulating 2D materials with magnons",
+            "link": "https://doi.org/10.1103/t7tm-nxyl",
+            "published": "2026-01-30",
+            "author": "Anonymous",
+            "summary": "Spin waves (magnons) in 2D materials have received increasing interest due to their unique states and potential for tunability. However, many interesting features of these systems, including Dirac points and topological states, occur at high frequencies, where experimental probes are limited. Here, we study a crystal formed by patterning a hexagonal array of holes in a perpendicularly magnetized thin film. Through simulation, we find that the magnonic band structure imitates that of graphene, but additionally has some kagome-like character and includes a few flat bands. Surprisingly, its nature can be understood using a 9-band tight-binding Hamiltonian. This clear analogy to 2D materials enables band-gap engineering in 2D, topological magnons along 1D phase boundaries, and spectrally isolated modes at 0D point defects. Interestingly, the 1D phase boundaries allow access to the valley degree of freedom through a magnonic analog of the quantum valley-Hall insulator. These approaches can be extended to other magnonic systems, but are potentially more general due to the simplicity of the model, which resembles existing results from electron, phonon, photon, and cold atom systems. This finding brings the physics of spin waves in 2D materials to more experimentally accessible scales, augments it, and outlines a few principles for controlling magnonic states.",
+            "journal": "Physical Review X",
+            "title_cn": "使用磁振子模拟 2D 材料",
+            "abstract_cn": "二维材料中的自旋波（磁振子）由于其独特的状态和可调谐潜力而受到越来越多的关注。然而，这些系统的许多有趣的特征，包括狄拉克点和拓扑状态，都在高频下出现，而实验探针是有限的。在这里，我们研究了通过在垂直磁化薄膜中形成六边形孔阵列图案而形成的晶体。通过模拟，我们发现波能带结构模仿了石墨烯的能带结构，但还具有一些类似 kagome 的特征，并包含一些平带。令人惊讶的是，它的性质可以使用 9 频带紧束缚哈密顿量来理解。这种与 2D 材料的清晰类比使得 2D 中的带隙工程、沿 1D 相边界的拓扑磁振子以及 0D 点缺陷处的光谱隔离模式成为可能。有趣的是，一维相边界允许通过量子谷霍尔绝缘体的波角模拟来获得谷自由度。这些方法可以扩展到其他磁波系统，但由于模型的简单性，它可​​能更通用，类似于电子、声子、光子和冷原子系统的现有结果。这一发现将二维材料中的自旋波物理学带到了更容易通过实验获得的尺度，对其进行了增强，并概述了控制波角态的一些原则。"
         }
     ]
 }

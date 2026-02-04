@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-04 06:28:04",
+    "update_time": "2026-02-04 08:27:58",
     "word_filename": "Optical_Papers_260204.docx",
-    "total_count": 19,
+    "total_count": 23,
     "data": [
         {
             "id": "https://doi.org/10.1016/j.optlaseng.2026.109665",
@@ -211,6 +211,50 @@
             "journal": "Light: Science & Applications",
             "title_cn": "用于高通量生物颗粒操作的灵活、可拉伸的片上光镊",
             "abstract_cn": "摘要 复杂微环境中单个致病生物颗粒的高通量捕获和精确操作对于体外诊断和药物筛选具有重要意义。尽管光镊已广泛用于生物颗粒捕获和操纵，但其吞吐量、功能和适应性对于复杂和动态生物环境中的片上集成生物颗粒操纵仍然受到限制。在这里，我们报告了基于大规模有序组装的微透镜的柔性、可拉伸的片上光镊（FSOT），用于在复杂的生物环境和柔性基底（包括皮肤和肠道等软生物基底）上对生物颗粒进行高通量操纵。微透镜的大规模（高达 1000）光子纳米喷射效应能够对尺寸从亚 100 nm 到数十微米的单个生物颗粒（如外泌体、细菌和哺乳动物细胞）进行高通量捕获、分选和调制。我们的 FSOT 具有高度灵活性，可以在复杂且弯曲的生物微环境中捕获和分选生物颗粒。重要的是，我们的 FSOT 还表现出高可变形性和可拉伸性，这有助于控制被捕获的相邻细胞之间的细胞间距，从而能够实时调节和监测单个病原菌与巨噬细胞之间的相互作用。我们的 FSOT 代表了一种用于高通量生物颗粒捕获和操纵的新型片上光镊，具有高灵活性和可拉伸性，作为集成片上平台，用于生物颗粒的高通量动态分析、揭示致病性生物颗粒与宿主细胞之间的细胞间相互作用以及精确的药物筛选，具有广阔的前景。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41566-025-01837-4",
+            "title": "Universal loss and gain characterization inside photonic integrated circuits",
+            "link": "https://doi.org/10.1038/s41566-025-01837-4",
+            "published": "2026-02-03",
+            "author": "Haoran Chen, Ruxuan Liu, Gedalia Y. Koehler, Fatemehsadat Tabatabaei, Xiangwen Guo, Shuman Sun, Zijiao Yang, Beichen Wang, Andreas Beling, Xu Yi",
+            "summary": "A universal, non-destructive and scalable method to precisely characterize loss and gain of optical components inside photonic integrated circuits is discussed.",
+            "journal": "Nature Photonics",
+            "title_cn": "光子集成电路内部的通用损耗和增益表征",
+            "abstract_cn": "讨论了一种通用、非破坏性和可扩展的方法来精确表征光子集成电路内光学元件的损耗和增益。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.580374",
+            "title": "Point cloud denoising method for annular forgings based on dual-path feature fusion",
+            "link": "https://doi.org/10.1364/ao.580374",
+            "published": "2026-01-29",
+            "author": "Ke Wang, Yantao Zhao, Yucun Zhang",
+            "summary": "Accurate dimensional measurement of annular forgings is crucial for ensuring product quality and operational safety. However, environmental interference and manufacturing uncertainties often result in non-uniform point cloud distributions and overlapping scales between structural features and noise, leading to conflicts between global and local geometric information that compromise measurement accuracy. To address these challenges, we propose what we believe to be a novel point cloud denoising framework—dual-path structured denoiser (DSD)—that establishes a collaborative global–local modeling framework. DSD simultaneously extracts local topological structures and captures global geometric patterns through a dual-path feature learning architecture while integrating a priori geometric constraints with confidence-based assessment to strengthen noise suppression. A multi-layer refinement structure enables progressive filtering of outliers. Experimental results on both annular forging samples and the Stanford dataset demonstrate that DSD surpasses state-of-the-art denoising methods in precision, recall, F1 score, and shape preservation, validating its effectiveness and practical applicability in high-noise industrial environments.",
+            "journal": "Applied Optics",
+            "title_cn": "基于双路径特征融合的环形锻件点云去噪方法",
+            "abstract_cn": "环形锻件的精确尺寸测量对于保证产品质量和操作安全至关重要。然而，环境干扰和制造不确定性往往会导致点云分布不均匀以及结构特征和噪声之间的尺度重叠，从而导致全局和局部几何信息之间的冲突，从而影响测量精度。为了应对这些挑战，我们提出了一种我们认为新颖的点云去噪框架——双路径结构化去噪器（DSD）——它建立了一个协作的全局-局部建模框架。 DSD通过双路径特征学习架构同时提取局部拓扑结构并捕获全局几何图案，同时将先验几何约束与基于置信度的评估相结合以加强噪声抑制。多层细化结构可以逐步过滤异常值。环形锻件样本和斯坦福数据集的实验结果表明，DSD 在精度、召回率、F1 分数和形状保持方面超越了最先进的去噪方法，验证了其在高噪声工业环境中的有效性和实际适用性。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41377-026-02188-7",
+            "title": "Anti-interference diffractive deep neural networks for multi-object recognition",
+            "link": "https://doi.org/10.1038/s41377-026-02188-7",
+            "published": "2026-02-03",
+            "author": "Zhiqi Huang, Yufei Liu, Nan Zhang, Zian Zhang, Qiming Liao, Cong He, Shendong Liu, Youhai Liu, Hongtao Wang, Xingdu Qiao, Joel K. W. Yang, Yan Zhang, Lingling Huang, Yongtian Wang",
+            "summary": "Abstract Optical neural networks (ONNs) are emerging as a promising neuromorphic computing paradigm for object recognition, offering unprecedented advantages in light-speed computation, ultra-low power consumption, and inherent parallelism. However, most of ONNs are only capable of performing simple object classification tasks. These tasks are typically constrained to single-object scenarios, which limits their practical applications in multi-object recognition tasks. Here, we propose an anti-interference diffractive deep neural network (AI D 2 NN) that can accurately and robustly recognize targets in multi-object scenarios, including intra-class, inter-class, and dynamic interference. By employing different deep-learning-based training strategies for targets and interference, two transmissive diffractive layers form a physical network that maps the spatial information of targets all-optically into the power spectrum of the output light, while dispersing all interference as background noise. We demonstrate the effectiveness of this framework in classifying unknown handwritten digits under dynamic scenarios involving 40 categories of interference, achieving a simulated blind testing accuracy of 87.4% using terahertz waves. The presented framework can be physically scaled to operate at any electromagnetic wavelength by simply scaling the diffractive features in proportion to the wavelength range of interest. This work can greatly advance the practical application of ONNs in target recognition and pave the way for the development of real-time, high-throughput, low-power all-optical computing systems, which are expected to be applied to autonomous driving perception, precision medical diagnosis, and intelligent security monitoring.",
+            "journal": "Light: Science & Applications",
+            "title_cn": "用于多目标识别的抗干扰衍射深度神经网络",
+            "abstract_cn": "摘要：光神经网络（ONN）正在成为一种有前景的物体识别神经形态计算范式，在光速计算、超低功耗和固有并行性方面提供了前所未有的优势。然而，大多数 ONN 只能执行简单的对象分类任务。这些任务通常仅限于单目标场景，这限制了它们在多目标识别任务中的实际应用。在这里，我们提出了一种抗干扰衍射深度神经网络（AI D 2 NN），它可以准确、鲁棒地识别多目标场景中的目标，包括类内、类间和动态干扰。通过对目标和干扰采用不同的基于深度学习的训练策略，两个透射衍射层形成一个物理网络，将目标的空间信息全光学地映射到输出光的功率谱中，同时将所有干扰分散为背景噪声。我们展示了该框架在涉及 40 类干扰的动态场景下对未知手写数字进行分类的有效性，使用太赫兹波实现了 87.4% 的模拟盲测准确率。通过简单地按感兴趣的波长范围的比例缩放衍射特征，所提出的框架可以在物理上缩放以在任何电磁波长下工作。这项工作可以极大地推进ONN在目标识别方面的实际应用，为开发实时、高通量、低功耗的全光计算系统铺平道路，有望应用于自动驾驶感知、精准医疗诊断、智能安防监控等领域。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02864",
+            "title": "Nanoscale Localization Microscopy and Deterministic Lithography of Solid-State Quantum Emitters",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02864",
+            "published": "2026-02-03",
+            "author": "Sam G. Bishop, Hüseyin B. Yağcı, Rachel N. Clark, John P. Hadden, Anthony J. Bennett",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "固态量子发射器的纳米级定位显微镜和确定性光刻",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

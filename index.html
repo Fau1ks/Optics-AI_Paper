@@ -36,7 +36,7 @@
             padding: 20px; 
             border-radius: 10px; 
             box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
-            max-width: 800px; /* 关键修改：限制宽度 */
+            max-width: 800px; 
             width: 100%; 
             box-sizing: border-box;
         }
@@ -519,7 +519,7 @@
                 pageIntro: '如需往期文献，可关注以下账号<br>也欢迎学术交流以及提出您的建议',
                 xhsTitle: '小红书：计算光学最新文献推送',
                 wxTitle: '公众号：计算光学最新文献推送',
-                miniTitle: '小程序：光学AI文献推送', // 确认修改
+                miniTitle: '小程序：光学AI文献推送', // 修改后的标题
                 downloadLoading: '正在查找最新推送...',
                 downloadPrefix: '📄 下载最新推送：',
                 downloadFail: '获取列表失败',
@@ -610,9 +610,61 @@
             return cleaned.trim();
         }
 
-        // ================= 语言切换逻辑 =================
+        // ================= 状态保存与恢复逻辑 (新添加) =================
+        function saveExpandState() {
+            const state = { journals: [], articles: [] };
+            
+            // 保存展开的期刊名
+            document.querySelectorAll('.journal-btn.active').forEach(btn => {
+                const span = btn.querySelector('span');
+                if(span) state.journals.push(span.innerText.trim());
+            });
+            
+            // 保存展开的文章（通过链接作为唯一标识）
+            document.querySelectorAll('.article-detail').forEach(detail => {
+                 if (detail.style.display === 'block') {
+                     const link = detail.querySelector('.link-box');
+                     if(link) state.articles.push(link.getAttribute('href'));
+                 }
+            });
+            return state;
+        }
+
+        function restoreExpandState(state) {
+            if(!state) return;
+            
+            // 恢复期刊
+            document.querySelectorAll('.journal-btn').forEach(btn => {
+                const span = btn.querySelector('span');
+                if(span && state.journals.includes(span.innerText.trim())) {
+                    btn.classList.add('active');
+                    const arrow = btn.querySelector('.arrow');
+                    if(arrow) arrow.style.transform = 'rotate(180deg)';
+                    const list = btn.nextElementSibling;
+                    if(list) list.style.display = 'block';
+                }
+            });
+            
+            // 恢复文章
+            document.querySelectorAll('.article-detail').forEach(detail => {
+                 const link = detail.querySelector('.link-box');
+                 if(link && state.articles.includes(link.getAttribute('href'))) {
+                     detail.style.display = 'block';
+                     const btn = detail.previousElementSibling;
+                     if(btn) btn.classList.add('active');
+                 }
+            });
+            
+            checkButtonsVisibility();
+        }
+
+        // ================= 语言切换逻辑 (已修改) =================
         function setLanguage(lang) {
-            if (currentLang === lang) return; 
+            if (currentLang === lang) return;
+            
+            // 1. 保存当前状态
+            const savedState = saveExpandState();
+             
             currentLang = lang;
             
             // 更新按钮高亮状态
@@ -646,10 +698,16 @@
                     renderScholarList(window.scholarDataCache); 
                 }
             }
+            
+            // 2. 恢复状态
+            restoreExpandState(savedState);
         }
 
-        // ================= 摘要开关逻辑 =================
+        // ================= 摘要开关逻辑 (已修改) =================
         function toggleAbstracts() {
+            // 1. 保存当前状态
+            const savedState = saveExpandState();
+
             isShowAbstract = !isShowAbstract;
             const btn = document.getElementById('btn-abstract');
             
@@ -667,10 +725,12 @@
                 if (searchInput && searchInput.value.trim() !== "") {
                     searchPapers();
                 } else {
-                    // 默认不展开详情，只是重新生成HTML结构
                     renderPapers(allPapersData, false); 
                 }
             }
+            
+            // 2. 恢复状态
+            restoreExpandState(savedState);
         }
 
         function updateStaticUI() {

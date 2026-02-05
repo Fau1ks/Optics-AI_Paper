@@ -399,6 +399,18 @@
                 padding: 4px 10px;
             }
         }
+
+        /* 评论区样式 - 新增 */
+        .comments-section {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            max-width: 800px;
+            width: 90%;
+            margin-top: 50px;
+            text-align: left;
+        }
     </style>
 </head>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -503,6 +515,25 @@
         </div>
     </div>
 
+    <div class="comments-section">
+        <h2 style="text-align: center; color: #333; font-size: 22px; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;">🗣️ 学术交流区</h2>
+        <script src="https://giscus.app/client.js"
+            data-repo="Fau1ks/Optics-AI_Paper"
+            data-repo-id="R_kgDOQ-QNpg"
+            data-category="Announcements"
+            data-category-id="DIC_kwDOQ-QNps4C16lD"
+            data-mapping="title"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="top"
+            data-theme="light"
+            data-lang="zh-CN"
+            data-loading="lazy"
+            crossorigin="anonymous"
+            async>
+        </script>
+    </div>
     <script>
         const GITHUB_USERNAME = 'Fau1ks'; 
         const REPO_NAME = 'Optics-AI_Paper';        
@@ -545,7 +576,7 @@
                 scholarBtnPrefix: '📄 下载 Scholar 汇总：',
                 scholarSearchPlaceholder: '🔍 搜索 Google Scholar 标题或链接...',
                 scholarTimePrefix: '最新邮件推送时间：', 
-                scholarCrawlTimePrefix: '最新更新时间：'   
+                scholarCrawlTimePrefix: '最新更新时间：'    
             },
             'en': {
                 pageTitle: 'Latest Optics + AI Paper Feed',

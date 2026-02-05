@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-05 13:29:31",
+    "update_time": "2026-02-05 15:28:35",
     "word_filename": "Optical_Papers_260205.docx",
-    "total_count": 153,
+    "total_count": 165,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69103-x",
@@ -1685,6 +1685,138 @@
             "journal": "APL Photonics",
             "title_cn": "通过类庞加莱球表示法对轨道角动量梳进行高效相位测量",
             "abstract_cn": "具有螺旋相位的光子将携带轨道角动量（OAM），由于其正交性和无界维数，它可以成为构建高维希尔伯特空间的宝贵资源。然而，高维OAM光谱的快速测量仍然是一个挑战。虽然强度检测相对简单，但完整的表征需要相位检索。尽管量子态断层扫描允许完全重建，但它需要与维度 (d) 的 d2 成二次方缩放的测量数量，导致随着维度 d 的增加而出现“维度灾难”。因此，迫切需要有效且简单的方法从高维OAM谱中提取相位信息。在这里，我们提出了一种具有模拟斯托克斯参数的广义庞加莱球模型，仅使用 4d 测量即可实现 d 维 OAM 频谱的全相位测量，从而显着降低了数据采集要求。我们通过对 8、16 和 32 维 OAM 梳状光谱进行强度和相位测量来验证该方法。结果与理论预测非常吻合，测量的保真度范围为 0.9829 至 0.9965。这种方法有助于高效表征高维 OAM 光谱，并有助于推进其实际应用。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-68939-7",
+            "title": "Machine learning for microscopy data analytics targeting real-time optical characterization of semiconductor nanocrystals",
+            "link": "https://doi.org/10.1038/s41467-026-68939-7",
+            "published": "2026-02-04",
+            "author": "Amitrajit Mukherjee, Robby Reynaerts, Bapi Pradhan, Sudipta Seth, Andreas T. Rösch, Tamali Banerjee, Lata Chouhan, Handong Jin, Christian Sternemann, Michael Paulus, Luca Leoncino, Kunal S. Mali, Steven De Feyter, Maarten B. J. Roeffaers, E. W. Meijer, Johan Hofkens, Elke Debroye",
+            "summary": "Abstract Semiconductor nanocrystals with uniform morphology and composition are expected to show consistent responses during light-matter interactions. However, microscopy reveals significant variations in their photoluminescence blinking patterns, even under identical experimental conditions. This discrepancy arises from differences in crystal defects and nonradiative trap states. As a result, heterogeneous blinking patterns serve as valuable indicator of material quality, uncovering several concealed features through statistical analysis of large datasets. Nonetheless, efficient segregation and analysis of numerous blinking trajectories remain a challenge due to laborious calculations, computational bottlenecks, and manual intervention. In this study, we introduce a robust unsupervised machine learning (UML) assisted module to cluster high-dimensional blinking patterns in near-real-time, while calculating category-wise power spectral densities (PSD) to investigate active traps. Furthermore, we explore the impact of data preprocessing on clustering performance. The ‘clustering-segregation-analysis’ (UML-PSD) methodology demonstrates versatility, paving a way to advance contemporary (micro)spectroscopy, specifically for rapid and cost-effective optical characterization of semiconductor nanocrystals.",
+            "journal": "Nature Communications",
+            "title_cn": "用于显微镜数据分析的机器学习，针对半导体纳米晶体的实时光学表征",
+            "abstract_cn": "摘要 具有均匀形态和成分的半导体纳米晶体有望在光与物质相互作用期间表现出一致的响应。然而，即使在相同的实验条件下，显微镜也显示出它们的光致发光闪烁模式存在显着差异。这种差异是由晶体缺陷和非辐射陷阱态的差异引起的。因此，异构闪烁模式可以作为材料质量的重要指标，通过对大型数据集的统计分析揭示一些隐藏的特征。尽管如此，由于繁琐的计算、计算瓶颈和人工干预，对大量闪烁轨迹进行有效分离和分析仍然是一个挑战。在这项研究中，我们引入了一个强大的无监督机器学习（UML）辅助模块来近实时地聚类高维闪烁模式，同时计算类别功率谱密度（PSD）以研究活动陷阱。此外，我们探讨了数据预处理对聚类性能的影响。 “聚类-偏析-分析”（UML-PSD）方法展示了多功能性，为推进当代（微观）光谱学铺平了道路，特别是对于半导体纳米晶体的快速且经济高效的光学表征。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-025-67511-z",
+            "title": "Electricity-free hydrogen production from the air",
+            "link": "https://doi.org/10.1038/s41467-025-67511-z",
+            "published": "2026-02-04",
+            "author": "Qili Xu, Xiaoxue Yao, Hoi Ying Chung, Xiongyi Liang, Zhi Zhang, Zhenwen Zhang, Wai Kin Lo, Yijun Zeng, Xiao Cheng Zeng, Yun Hau Ng, Steven Wang",
+            "summary": "Abstract The ever-growing demand for electricity and clean water restricts widespread application of hydrogen production via water electrolysis or photocatalytic water splitting. Here, we present a self-sufficient electricity-free air-to-hydrogen system that integrates radiative cooling-enhanced water adsorption with synergistic photocatalysis and photothermal conversion by fabricating spectral selective absorbing/emitting hygroscopic hydrogen evolution nanofiber membranes to harvest atmospheric moisture and produce hydrogen. Leveraging the nocturnal radiative cooling effect, we expand the operational relative humidity range of nanofiber membranes and enhance both water collection capacity and kinetics. The collected water undergoes efficient gas-phase water splitting for H 2 production during the day through photothermal catalytic processes without electrical and liquid water assistance. The hydrogen production rate of the scale-up air-to-H 2 system under outdoor natural light reaches 6467.55 µmol·m -2 ·h -1 . Extrapolating this experimentally validated rate to land-based deployment demonstrates the potential for large-scale hydrogen generation, with practical feasibility dependent on regional humidity and solar conditions. Thus, our approach cost-effectively addresses green-H 2 scarcity without demanding natural freshwater and electricity, thereby providing an archetype for global sustainable development.",
+            "journal": "Nature Communications",
+            "title_cn": "从空气中无电制氢",
+            "abstract_cn": "摘要 对电力和清洁水不断增长的需求限制了通过水电解或光催化水分解制氢的广泛应用。在这里，我们提出了一种自给自足的无电空气制氢系统，通过制造光谱选择性吸收/发射吸湿析氢纳米纤维膜，将辐射冷却增强水吸附与协同光催化和光热转换相结合，以收集大气水分并产生氢气。利用夜间辐射冷却效应，我们扩大了纳米纤维膜的操作相对湿度范围，并增强了集水能力和动力学。白天，收集到的水通过光热催化过程进行高效的气相水分解，产生 H 2 ，无需电力和液态水辅助。放大的空气制H 2 系统在室外自然光下的产氢率达到6467.55 µmol·m -2 ·h -1 。将这一经过实验验证的速率推断到陆基部署表明了大规模制氢的潜力，其实际可行性取决于区域湿度和太阳条件。因此，我们的方法经济高效地解决了绿色H 2 稀缺问题，无需天然淡水和电力，从而为全球可持续发展提供了原型。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38263-7",
+            "title": "Experimental investigation and optimization of mechanical and tribological performances of bio-based sustainable hybrid composites incorporating Nano-SiO₂ fillers",
+            "link": "https://doi.org/10.1038/s41598-026-38263-7",
+            "published": "2026-02-04",
+            "author": "G. Velmurugan, Jasgurpreet Singh Chohan, Ramya Maranan, Prabhu Paramasivam, N. Manikandan, P. Thejasree, S. Lakshmi Narayana, Bamidele Charles Olaiya, Mukesh Kumar",
+            "summary": "The focus of this study is on the development and performance evaluation of sustainable Curauá/Areca hybrid fibre composites reinforced with epoxy and treated with alkali (NaOH) and nano-SiO₂. This work aims to enhance the mechanical and tribological efficiency of natural fibre composites through surface modification and nanoparticle incorporation, addressing the need for eco-friendly alternatives to synthetic composites. Optimization of the Curauá:Areca fibre ratio, NaOH treatment duration, nano-SiO₂ content, and applied load (for wear) was carried out using the Response Surface Methodology (RSM) for the mechanical and tribological processing parameters. Tensile and flexural strengths improved with higher Curauá fraction, while Areca-rich laminates displayed greater impact toughness. NaOH treatment increased fibre–matrix adhesion and was responsible for higher strength, less fibre pull-out, and reduced matrix porosity. Performance improved notably with nano-SiO₂ at intermediate loadings (~ 3–4 wt%), but decreased at higher loadings due to agglomeration. Tribological properties were best at 67% Curauá, 24 h NaOH treatment, ~ 3.75 wt% SiO₂, and 10 N load, with reduced wear rate and coefficient of friction attributed to the improved Curauá content, NaOH treatment, and optimum nano-SiO₂ dispersion. SEM analysis confirmed the results, illustrating enhanced fibre–matrix bonding, reduced fibre pull-out, and smoother wear surfaces in the treated, Curauá-rich composites. Under optimized conditions, RSM predictions were consistent with the experimental findings: tensile strength of 61.2 MPa, flexural strength of 76.3 MPa, impact strength of 20.2 kJ/m², minimum wear rate of 0.0011 mm3/Nm, and a coefficient of friction of 0.27. The novelty of this study lies in integrating alkali treatment and nano-SiO₂ reinforcement in Curauá/Areca hybrid composites to achieve superior strength and wear resistance, demonstrating a sustainable route for high-performing bio-composites.",
+            "journal": "Scientific Reports",
+            "title_cn": "含有纳米 SiO2 填料的生物基可持续混合复合材料的机械和摩擦学性能的实验研究和优化",
+            "abstract_cn": "本研究的重点是用环氧树脂增强并用碱 (NaOH) 和纳米 SiO2 处理的可持续 Curauá/Areca 混合纤维复合材料的开发和性能评估。这项工作旨在通过表面改性和纳米粒子掺入来提高天然纤维复合材料的机械和摩擦效率，满足对合成复合材料的环保替代品的需求。使用响应面方法 (RSM) 优化机械和摩擦加工参数，优化 Curauá: 槟榔纤维比例、NaOH 处理持续时间、纳米 SiO2 含量和施加载荷（磨损）。随着 Curauá 分数的增加，拉伸和弯曲强度得到改善，而富含槟榔的层压板表现出更大的冲击韧性。 NaOH 处理增加了纤维与基体的粘合力，并导致强度更高、纤维拉出更少并降低了基体孔隙率。在中等负载量（约 3-4 wt%）下，纳米 SiO2 的性能显着提高，但在较高负载量时由于团聚而下降。在 67% Curauá、24 小时 NaOH 处理、约 3.75 wt% SiO2 和 10 N 负载下，摩擦学性能最佳，磨损率和摩擦系数降低归因于 Curauá 含量的提高、NaOH 处理和最佳纳米 SiO2 分散。 SEM 分析证实了这一结果，表明经过处理的富含 Curauá 的复合材料中纤维与基体的结合增强，纤维拔出减少，磨损表面更光滑。在优化条件下，RSM预测与实验结果一致：拉伸强度为61.2 MPa，弯曲强度为76.3 MPa，冲击强度为20.2 kJ/m²，最小磨损率为0.0011 mm3/Nm，摩擦系数为0.27。这项研究的新颖之处在于将碱处理和纳米二氧化硅增强结合到 Curauá/Areca 混合复合材料中，以实现卓越的强度和耐磨性，展示了高性能生物复合材料的可持续发展途径。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103372",
+            "title": "Multi-view 3D point cloud registration method based on generated multi-scale information granules",
+            "link": "https://doi.org/10.1016/j.displa.2026.103372",
+            "published": "2026-02-01",
+            "author": "Chen Yang, Jixiang Nie, Hui Chen, Weina Wang, Wanquan Liu",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "基于生成多尺度信息粒的多视角3D点云配准方法",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103371",
+            "title": "Effects of different viewing modes in virtual reality games on visual function parameters and subjective symptoms: A cross-sectional study",
+            "link": "https://doi.org/10.1016/j.displa.2026.103371",
+            "published": "2026-02-01",
+            "author": "Meng Liu, Lei Fan, Jiechun Lin, Zhenhao Song, Qi Li, Yingxiang Han, Dajiang Wang, Xiaofei Wang",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "虚拟现实游戏中不同观看模式对视觉功能参数和主观症状的影响：横断面研究",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103381",
+            "title": "Localization knowledge-driven segmentation of arteries in ultrasound images",
+            "link": "https://doi.org/10.1016/j.displa.2026.103381",
+            "published": "2026-02-01",
+            "author": "Mengxue Yan, Zirui Wang, Zhenfeng Li, Peng Wang, Pang Wu, Xianxiang Chen, Lidong Du, Li Li, Hongbo Chang, Zhen Fang",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "超声图像中动脉的定位知识驱动分割",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103384",
+            "title": "Robust image steganography based on residual and multi-attention enhanced generative adversarial networks",
+            "link": "https://doi.org/10.1016/j.displa.2026.103384",
+            "published": "2026-02-01",
+            "author": "Yuling Luo, Zhaohui Chen, Baoshan Lu, Yiting Huang, Qiang Fu, Sheng Qin, Junxiu Liu",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "基于残差和多注意力增强生成对抗网络的鲁棒图像隐写术",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103379",
+            "title": "Does display type matter for change detection? comparing immersive and non-immersive displays under low and high semantic availability",
+            "link": "https://doi.org/10.1016/j.displa.2026.103379",
+            "published": "2026-02-01",
+            "author": "Changrui Zhu, Ernst Kruijff, Harvey Stedman, Vijay M. Pawar, Simon Julier",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "显示类型对于变化检测重要吗？在低语义可用性和高语义可用性下比较沉浸式和非沉浸式显示",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132967",
+            "title": "A Novel Cross-Layer Chaotic Encryption and Reversible Hiding Scheme for 3D Information Security",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132967",
+            "published": "2026-02-01",
+            "author": "Wei Zhang, Danying Song, Xiting Wang, Nana Yu, Xiaolei Wang, Sixing Xi",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "一种新颖的3D信息安全跨层混沌加密和可逆隐藏方案",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.574013",
+            "title": "Security analysis of quantum noise stream cipher systems under quantization-attack",
+            "link": "https://doi.org/10.1364/prj.574013",
+            "published": "2026-01-27",
+            "author": "Jihui Sun, Lin Jiang, Anlin Yi, Wei Pan, Lianshan Yan",
+            "summary": "Among physical layer encryption schemes, the quantum noise stream cipher (QNSC) has garnered significant attention due to its compatibility with high-speed commercial fiber-optic communication systems. After careful analysis of the encryption scheme, we reveal that QNSC transmission systems exhibit a security vulnerability in their encoding scheme. This vulnerability limits quantum noise to alerting high-order information bits in plaintext-dependent regions, creating structured ciphertext concealment. Numerical simulation and experimental verification both indicate that an eavesdropper can use quantization-attack to crack this vulnerability. Existing security assessment methods will overestimate the system’s security under quantization-attack. In addition, system security demonstrates a strong linear dependence on the plaintext modulation format, rather than the ciphertext modulation format as is widely presumed. To further enhance system security, the probability distribution is further introduced into the encoding process of ciphertext. The experiment results show that we not only achieved random concealment of ciphertext by quantum noise but also enhanced the eavesdropper’s symbol error rate by ∼86 % and maximally expanded the key space of the QAM-QNSC system by 2 27.2 .",
+            "journal": "Photonics Research",
+            "title_cn": "量子噪声流密码系统在量化攻击下的安全性分析",
+            "abstract_cn": "在物理层加密方案中，量子噪声流密码（QNSC）由于其与高速商用光纤通信系统的兼容性而受到广泛关注。经过对加密方案的仔细分析，我们发现 QNSC 传输系统在其编码方案中存在安全漏洞。此漏洞限制了量子噪声，以警告依赖于明文的区域中的高阶信息位，从而创建结构化密文隐藏。数值模拟和实验验证均表明窃听者可以利用量化攻击来破解该漏洞。现有的安全评估方法会高估系统在量化攻击下的安全性。此外，系统安全性表现出对明文调制格式的强烈线性依赖性，而不是像广泛假设的那样对密文调制格式。为了进一步增强系统的安全性，在密文的编码过程中进一步引入了概率分布。实验结果表明，我们不仅实现了量子噪声对密文的随机隐藏，而且使窃听者的符号错误率提高了∼86%，并将QAM-QNSC系统的密钥空间最大扩展了2 27.2 。"
+        },
+        {
+            "id": "https://doi.org/10.1002/adpr.70137",
+            "title": "Front Cover: An Efficient Diamond Raman Amplification Scheme Based on Adaptive Temporal Synchronization (Adv. Photonics Res. 2/2026)",
+            "link": "https://doi.org/10.1002/adpr.70137",
+            "published": "2026-02-04",
+            "author": "Hao Zheng, Zhenxu Bai, Hui Chen, Fei Zhang, Chengjin Shi, Jie Ding, Yulei Wang, Zhiwei Lu",
+            "summary": "Abstract not available.",
+            "journal": "Advanced Photonics Research",
+            "title_cn": "封面：基于自适应时间同步的高效金刚石拉曼放大方案（Adv. Photonics Res. 2/2026）",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1002/adpr.70153",
+            "title": "Cover Feature: Sharp Diamond Needles for Single‐Photon Emission (Adv. Photonics Res. 2/2026)",
+            "link": "https://doi.org/10.1002/adpr.70153",
+            "published": "2026-02-04",
+            "author": "Mariam Quarshie, Yaraslau Padrez, Priyadharshini Balasubramanian, Elena Filonenko, Rizwan Sultan, Renata Karpicz, Alexander Obraztsov, Fedor Jelezko, Sergei Malykhin, Polina Kuzhir",
+            "summary": "Abstract not available.",
+            "journal": "Advanced Photonics Research",
+            "title_cn": "封面特征：用于单光子发射的锋利金刚石针（Adv. Photonics Res. 2/2026）",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

@@ -25,10 +25,38 @@
             to { background-position: -200% center; }
         }
 
-        .social-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 40px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        .social-item { display: flex; flex-direction: column; align-items: center; width: 280px; line-height: 1.5; }
-        .social-title { font-weight: bold; margin-bottom: 10px; font-size: 16px; }
-        .qr-code { width: 150px; height: 150px; object-fit: cover; border-radius: 8px; border: 1px solid #e1e4e8; }
+        /* 社交容器调整：限制最大宽度为 800px，与下方对齐 */
+        .social-container { 
+            display: flex; 
+            flex-wrap: wrap; 
+            justify-content: center; 
+            gap: 20px; 
+            margin-bottom: 40px; 
+            background: white; 
+            padding: 20px; 
+            border-radius: 10px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
+            max-width: 800px; /* 关键修改：限制宽度 */
+            width: 100%; 
+            box-sizing: border-box;
+        }
+        
+        /* 社交卡片微调：适应更紧凑的布局 */
+        .social-item { 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            width: 230px; 
+            line-height: 1.5; 
+        }
+        .social-title { font-weight: bold; margin-bottom: 10px; font-size: 15px; }
+        .qr-code { 
+            width: 130px; 
+            height: 130px; 
+            object-fit: cover; 
+            border-radius: 8px; 
+            border: 1px solid #e1e4e8; 
+        }
         
         /* 下载按钮样式 */
         .download-btn { 
@@ -404,7 +432,7 @@
             <img src="wx.jpg" alt="公众号二维码" class="qr-code">
         </div>
         <div class="social-item">
-            <div id="miniTitle" class="social-title">小程序：计算光学最新文献推送</div>
+            <div id="miniTitle" class="social-title">小程序：光学AI文献推送</div>
             <img src="xiaochengxu.jpg" alt="小程序二维码" class="qr-code">
         </div>
     </div>
@@ -491,7 +519,7 @@
                 pageIntro: '如需往期文献，可关注以下账号<br>也欢迎学术交流以及提出您的建议',
                 xhsTitle: '小红书：计算光学最新文献推送',
                 wxTitle: '公众号：计算光学最新文献推送',
-                miniTitle: '小程序：计算光学最新文献推送', // 新增中文
+                miniTitle: '小程序：光学AI文献推送', // 确认修改
                 downloadLoading: '正在查找最新推送...',
                 downloadPrefix: '📄 下载最新推送：',
                 downloadFail: '获取列表失败',
@@ -524,7 +552,7 @@
                 pageIntro: 'Follow our accounts for past archives.<br>Academic exchanges and suggestions are welcome.',
                 xhsTitle: 'Xiaohongshu',
                 wxTitle: 'WeChat',
-                miniTitle: 'Mini Program', // 新增英文，保持简短
+                miniTitle: 'Mini Program', // 英文保持简短
                 downloadLoading: 'Searching for latest feed...',
                 downloadPrefix: '📄 Download Latest Feed: ',
                 downloadFail: 'Failed to fetch list',

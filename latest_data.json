@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-05 06:29:21",
+    "update_time": "2026-02-05 08:28:27",
     "word_filename": "Optical_Papers_260205.docx",
-    "total_count": 48,
+    "total_count": 55,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69103-x",
@@ -530,6 +530,83 @@
             "journal": "ACS Photonics",
             "title_cn": "发行出版信息",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37746-x",
+            "title": "Validation of socialbit as a smartwatch algorithm for social interaction detection in a clinical population",
+            "link": "https://doi.org/10.1038/s41598-026-37746-x",
+            "published": "2026-02-04",
+            "author": "Amar Dhand, Samuel Tate, Cade Mack, Sofia Carozza, David Farynyk, Mehdi Bourahla, Oluwamayomikun Adeboye, Grace Cooke, Olivia Berglund, Riya Dahima, Melinda Luo, Vrushali Dhongade, George S. Usmanov, Kelly White, Amanda M. Bernal, Ross Zafonte, Shrikanth Narayanan, Minwoo Lee, Matthias R. Mehl, Min Shin",
+            "summary": "Abstract Social interaction supports brain health and recovery after neurological injury. Yet no validated tool exists for real-time measurement in individuals with and without neurological deficits. We developed SocialBit, a lightweight, privacy-preserving machine learning algorithm that detects social interactions using ambient audio features on a commercial smartwatch. In a prospective validation study, we evaluated SocialBit against livestream minute-by-minute human-coded ground truth in 153 hospitalized stroke patients who wore the device for up to 8 days, generating 88,918 min of observation. In these patients, the stroke severity and cognition spanned broad clinical ranges (NIH Stroke Scale 0–25; Montreal Cognitive Assessment 8–30), and 24 patients had aphasia across diverse subtypes, including severe presentations. SocialBit achieved high overall performance (sensitivity 0.87, specificity 0.88, area under the curve 0.94) and maintained accuracy in patients with language deficits (AUC 0.93). Despite lower temporal sampling, SocialBit produced interaction frequency distributions closely matching minute-by-minute human coding. Performance was robust across environments and interaction types. Of clinical relevance, SocialBit showed that patients with more severe strokes engaged in less social interaction, paralleling human-coded results. SocialBit is an accurate digital biomarker of social interaction with potential applications in remote monitoring and clinical trials.",
+            "journal": "Scientific Reports",
+            "title_cn": "Socialbit 作为智能手表算法在临床人群中进行社交互动检测的验证",
+            "abstract_cn": "摘要 社交互动有助于大脑健康和神经损伤后的恢复。然而，还没有经过验证的工具可以对有或没有神经缺陷的个体进行实时测量。我们开发了 SocialBit，这是一种轻量级、保护隐私的机器学习算法，可以使用商用智能手表上的环境音频功能来检测社交互动。在一项前瞻性验证研究中，我们对 153 名住院中风患者佩戴该设备长达 8 天的实时直播、每分钟的人类编码地面事实进行了评估，生成了 88,918 分钟的观察结果。这些患者的中风严重程度和认知能力涵盖广泛的临床范围（NIH 中风量表 0-25；蒙特利尔认知评估 8-30），24 名患者患有不同亚型的失语症，包括严重的失语症。 SocialBit 在语言缺陷患者中取得了较高的整体性能（敏感性 0.87、特异性 0.88、曲线下面积 0.94）并保持了准确性（AUC 0.93）。尽管时间采样较低，SocialBit 产生的交互频率分布与每分钟的人类编码非常匹配。跨环境和交互类型的性能都很强大。具有临床相关性的是，SocialBit 表明，中风较严重的患者社交互动较少，这与人类编码的结果类似。 SocialBit 是一种准确的社交互动数字生物标记，在远程监控和临床试验中具有潜在应用。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37318-z",
+            "title": "Oral HPV detection and genotyping by next-generation sequencing in a healthy Palestinian cohort: pilot study",
+            "link": "https://doi.org/10.1038/s41598-026-37318-z",
+            "published": "2026-02-04",
+            "author": "Bisan Safi, Mahmoud Khalid, Abedelmajeed Nasereddin",
+            "summary": "Oral human papillomavirus (HPV) is a key contributor to oropharyngeal cancers. Yet, its prevalence and genotype distribution in healthy populations remain largely undocumented, particularly in Palestine, where no national screening or vaccination programs currently exist. This study is the first in Palestine to detect and genotype oral HPV in a healthy population using a highly sensitive molecular workflow. The assay employs a nested polymerase chain reaction (PCR) and next-generation sequencing (NGS) strategy targeting the L1 gene, a highly conserved region that encodes the virus’s main structural protein. Buccal swabs from 75 individuals attending dental clinics in the central region of the West Bank were analyzed, revealing an overall HPV positivity rate of 6.7% and identifying the genotypes HPV-18, HPV-31, and HPV-38. Recently, an HPV-38 sequence from a Palestinian woman with cervical cancer was published, which supports our finding of HPV-38 presence in Palestine. The results provide preliminary methodological data for Palestine and highlight the power of advanced sequencing technologies in enhancing global HPV surveillance. This pilot study demonstrates methodological feasibility but is not powered to provide a reliable epidemiological baseline.",
+            "journal": "Scientific Reports",
+            "title_cn": "在健康的巴勒斯坦队列中通过下一代测序进行口腔 HPV 检测和基因分型：试点研究",
+            "abstract_cn": "口腔人乳头瘤病毒（HPV）是口咽癌的一个关键因素。然而，其在健康人群中的患病率和基因型分布在很大程度上仍然没有记录，特别是在目前没有国家筛查或疫苗接种计划的巴勒斯坦。这项研究是巴勒斯坦首次使用高度敏感的分子工作流程在健康人群中检测口腔 HPV 并进行基因分型。该检测采用针对 L1 基因的巢式聚合酶链式反应 (PCR) 和下一代测序 (NGS) 策略，L1 基因是编码病毒主要结构蛋白的高度保守区域。对西岸中部地区牙科诊所就诊的 75 名个人的口腔拭子进行了分析，结果显示 HPV 总体阳性率为 6.7%，并确定了 HPV-18、HPV-31 和 HPV-38 基因型。最近，发表了一名患有宫颈癌的巴勒斯坦妇女的 HPV-38 序列，这支持了我们在巴勒斯坦存在 HPV-38 的发现。研究结果为巴勒斯坦提供了初步的方法学数据，并凸显了先进测序技术在加强全球 HPV 监测方面的力量。该试点研究证明了方法学上的可行性，但无法提供可靠的流行病学基线。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38343-8",
+            "title": "An analytic hierarchy process–based prioritization of psychological factors influencing academic performance among university students in China",
+            "link": "https://doi.org/10.1038/s41598-026-38343-8",
+            "published": "2026-02-04",
+            "author": "Xiaoqiu Xu, Ran Liu, Erlinda D. Serrano",
+            "summary": "Understanding the psychological determinants of academic performance is essential for developing evidence-based educational strategies. Applying the Analytic Hierarchy Process (AHP), a well-established decision-analytic method, provides a systematic means to quantify the relative influence of multiple psychological factors on students’ academic outcomes. Data were collected from 200 university students (150 undergraduates and 50 postgraduates) at Yan’an University, China, using a purposive–convenience sampling approach. Participants evaluated six key psychological variables: Motivation, Anxiety, Self-Efficacy, Emotional Well-Being, Cognitive Styles, and Self-Regulation—through structured pairwise comparisons following a preparatory orientation session. The AHP results identified Motivation (0.439) as the most dominant factor influencing academic performance, followed by Anxiety (0.218) and Self-Efficacy (0.148). Emotional Well-Being (0.097), Cognitive Styles (0.056), and Self-Regulation (0.042) demonstrated comparatively lower yet meaningful contributions. The model’s Consistency Ratio (CR = 0.042) confirmed high reliability of participant judgments. Findings highlight the central role of motivational and affective dimensions in shaping academic success. Educational interventions that strengthen motivation, foster self-efficacy, and mitigate detrimental anxiety can enhance both performance and well-being, underscoring the importance of integrating psychological principles into instructional design and student support systems.",
+            "journal": "Scientific Reports",
+            "title_cn": "基于层次分析法的中国大学生学业成绩影响心理因素优先排序",
+            "abstract_cn": "了解学业成绩的心理决定因素对于制定循证教育策略至关重要。层次分析法（AHP）是一种成熟的决策分析方法，它的应用提供了一种系统的方法来量化多种心理因素对学生学业成绩的相对影响。采用有目的方便抽样方法，从中国延安大学 200 名大学生（150 名本科生和 50 名研究生）收集数据。参与者通过预备培训课程后的结构化成对比较，评估了六个关键心理变量：动机、焦虑、自我效能、情绪健康、认知风格和自我调节。层次分析法结果表明，动机（0.439）是影响学业成绩的最主要因素，其次是焦虑（0.218）和自我效能（0.148）。情绪健康（0.097）、认知风格（0.056）和自我调节（0.042）表现出相对较低但有意义的贡献。该模型的一致性比（CR = 0.042）证实了参与者判断的高可靠性。研究结果强调了动机和情感维度在塑造学业成功方面的核心作用。增强动机、培养自我效能和减轻有害焦虑的教育干预措施可以提高表现和幸福感，强调将心理学原理纳入教学设计和学生支持系统的重要性。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37129-2",
+            "title": "ZenBand: a numerical solver of photonic crystals with a graphical user interface",
+            "link": "https://doi.org/10.1038/s41598-026-37129-2",
+            "published": "2026-02-04",
+            "author": "Andrius Zinkevičius, Ignas Lukošiūnas, Darius Gailevičius",
+            "summary": "We developed an open-source Plane Wave Expansion Method solver using Python and a custom Tkinter library to solve a design oriented problem of photonic crystal dispersion for known classical examples, custom geometries, and symmetries. Such structures are capable of light confinement, omnidirectional reflection, beam collimation and negative refraction. We dive deeper into the diagonally anisotropic photonic crystals, whose Plane Wave Expansion algorithm is directly embedded in the application. The user interface is present in the developer’s repository link: https://github.com/ZenTunturi/ZenBand.",
+            "journal": "Scientific Reports",
+            "title_cn": "ZenBand：具有图形用户界面的光子晶体数值求解器",
+            "abstract_cn": "我们使用 Python 和自定义 Tkinter 库开发了一个开源平面波展开法求解器，以解决已知经典示例、自定义几何形状和对称性的光子晶体色散设计导向问题。这种结构能够实现光限制、全向反射、光束准直和负折射。我们更深入地研究对角各向异性光子晶体，其平面波展开算法直接嵌入到应用程序中。用户界面位于开发人员的存储库链接中：https://github.com/ZenTunturi/ZenBand。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36363-y",
+            "title": "Challenges in strengthening sentinel surveillance network during COVID-19 pandemic in Africa",
+            "link": "https://doi.org/10.1038/s41598-026-36363-y",
+            "published": "2026-02-04",
+            "author": "Julien Poublan, Kadio Jean-Jacques Olivier Kadio, Rodion Konu, Ramatoulaye Hamidou Lazoumar, Mathurin Cyrille Tejiokem, Isaac Tiembré, Rila Ratovoson, Sandra Coti, Justus Nsio, Mamadou Aliou Barry, Parfait Hounbegnon, Emilande Guichet, Vincent Richard, Isidore Traoré, Mathias Altmann",
+            "summary": "The emergence of variants in the wake of the COVID-19 pandemic has put a strain on healthcare systems in Africa. The Afroscreen project is strengthening national sentinel surveillance systems, combined with sequencing capabilities to identify potentially highly virulent variants of interest at an early stage. The aim of this article is to present the results of this project and discuss the related challenges. Surveillance was based on national surveillance sentinel systems, either hospital-based or peripheral, and RT-PCR diagnostic capabilities, coupled with sequencing in the event of positivity, from July 2022 to June 2024. In 11 African countries (Senegal, Guinea, Côte d’Ivoire, Togo, Benin, Niger, Cameroon, the Central African Republic (CAR), Burkina Faso, Madagascar and the Democratic Republic of the Congo), it was possible to demonstrate a decline in the circulation of SARS-CoV-2 over the surveillance period, with only the Omicron variant circulating. Setting up and coordinating a multicountry sentinel surveillance system during a pandemic period is a real challenge. This highlights the need to strengthen surveillance systems during interepidemic and pandemic periods and the question of their sustainability in line with emerging disease preparedness and response programs.",
+            "journal": "Scientific Reports",
+            "title_cn": "非洲 COVID-19 大流行期间加强哨点监测网络的挑战",
+            "abstract_cn": "COVID-19 大流行后变异病毒的出现给非洲的医疗系统带来了压力。 Afroscreen 项目正在加强国家哨点监测系统，并结合测序能力，以在早期阶段识别潜在的高毒力变异体。本文的目的是介绍该项目的结果并讨论相关的挑战。 2022 年 7 月至 2024 年 6 月，监测基于医院或外围的国家监测哨点系统、RT-PCR 诊断能力以及阳性情况下的测序。在 11 个非洲国家（塞内加尔、几内亚、科特迪瓦、多哥、贝宁、尼日尔、喀麦隆、中非共和国 (CAR)、布基纳法索、马达加斯加和刚果民主共和国）进行了监测。刚果），有可能证明 SARS-CoV-2 的传播在监测期间有所下降，只有 Omicron 变种在传播。在大流行期间建立和协调多国哨点监测系统是一个真正的挑战。这凸显了在流行间期和大流行期间加强监测系统的必要性，以及根据新出现的疾病准备和应对计划的可持续性问题。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-35816-8",
+            "title": "An efficient tripartite remote state preparation scheme with noise analysis",
+            "link": "https://doi.org/10.1038/s41598-026-35816-8",
+            "published": "2026-02-04",
+            "author": "Mohammad Bolokian, Ali A. Orouji, Monireh Houshmand",
+            "summary": "Quantum teleportation relies on pre-existing entanglement, local operations and classical communication to transfer an unknown quantum state. Quantum remote state preparation (QRSP) shares the same objective, but the sender already knows the state to be transmitted. This research introduces an innovative tripartite scheme for QRSP, allowing three users to simultaneously send and receive single-qubit states. The scheme is further extended to accommodate the transmission of states with an arbitrary number of qubits among the users. The protocol’s functionality is validated through circuit implementation in the Qiskit library, ensuring its practical feasibility. Additionally, its performance is analyzed in a noisy environment, providing insights into its robustness. The efficiency of the proposed protocols is compared with recent schemes, highlighting their advancements in quantum communication. Compared to previous tripartite RSP schemes, the proposed protocol achieves higher efficiency (η = 0.50), modular scalability, and experimental realizability using standard quantum gates. This study contributes to advancements in multi-user quantum communication, secure quantum cryptography, and quantum networking, paving the way for scalable quantum systems.",
+            "journal": "Scientific Reports",
+            "title_cn": "一种具有噪声分析的高效三方远程状态准备方案",
+            "abstract_cn": "量子隐形传态依赖于预先存在的纠缠、局部操作和经典通信来传输未知的量子态。量子远程状态准备（QRSP）具有相同的目标，但发送者已经知道要传输的状态。这项研究引入了一种创新的 QRSP 三方方案，允许三个用户同时发送和接收单量子位状态。该方案进一步扩展以适应用户之间任意数量的量子位的状态传输。该协议的功能通过Qiskit库中的电路实现进行了验证，确保了其实际可行性。此外，它的性能是在嘈杂的环境中进行分析的，可以深入了解其稳健性。所提出的协议的效率与最近的方案进行了比较，突显了它们在量子通信方面的进步。与之前的三方 RSP 方案相比，所提出的协议实现了更高的效率（η = 0.50）、模块化可扩展性以及使用标准量子门的实验可实现性。这项研究有助于多用户量子通信、安全量子密码学和量子网络的进步，为可扩展的量子系统铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41566-026-01847-w",
+            "title": "Non-local bound states in the continuum for nanoscale alignment",
+            "link": "https://doi.org/10.1038/s41566-026-01847-w",
+            "published": "2026-02-04",
+            "author": "Jing Cheng Zhang, Din Ping Tsai, Stella W. Pang",
+            "summary": "Researchers study the transition from bound states in the continuum (BICs) to quasi-BIC caused by out-of-plane asymmetry and illustrate how quality factors of BIC resonances are valuable tools for precise chip patterning accuracy.",
+            "journal": "Nature Photonics",
+            "title_cn": "纳米级排列连续体中的非局域束缚态",
+            "abstract_cn": "研究人员研究了由面外不对称性引起的从连续体束缚态 (BIC) 到准 BIC 的转变，并说明了 BIC 共振的品质因数如何成为实现精确芯片图案精度的宝贵工具。"
         }
     ]
 }

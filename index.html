@@ -506,23 +506,14 @@
         </span>
     </div>      
     
-    <div class="tips-container">
-        <h2 id="tipsTitle">💡 使用注意事项</h2>
-        <div class="tip-item">
-            <span id="navTipTitle" class="tip-title">提高阅读效率：建议开启导航窗格</span>
-            <p id="navTipText" class="tip-text">为了更方便地浏览长文档，建议在 Word 顶部菜单栏选择 <strong>“视图”</strong>，并勾选 <strong>“导航窗格”</strong>。</p>
-            <img src="remind1.jpg" alt="开启导航窗格演示" class="tip-img">
-        </div>
-    </div>
-
     <div class="comments-section">
-        <h2 style="text-align: center; color: #333; font-size: 22px; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;">🗣️ 学术交流区</h2>
+        <h2 id="commentsTitle" style="text-align: center; color: #333; font-size: 22px; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px;">交流区</h2>
         <script src="https://giscus.app/client.js"
             data-repo="Fau1ks/Optics-AI_Paper"
             data-repo-id="R_kgDOQ-QNpg"
             data-category="Announcements"
             data-category-id="DIC_kwDOQ-QNps4C16lD"
-            data-mapping="title"
+            data-mapping="title" 
             data-strict="0"
             data-reactions-enabled="1"
             data-emit-metadata="0"
@@ -534,6 +525,15 @@
             async>
         </script>
     </div>
+    <div class="tips-container">
+        <h2 id="tipsTitle">💡 使用注意事项</h2>
+        <div class="tip-item">
+            <span id="navTipTitle" class="tip-title">提高阅读效率：建议开启导航窗格</span>
+            <p id="navTipText" class="tip-text">为了更方便地浏览长文档，建议在 Word 顶部菜单栏选择 <strong>“视图”</strong>，并勾选 <strong>“导航窗格”</strong>。</p>
+            <img src="remind1.jpg" alt="开启导航窗格演示" class="tip-img">
+        </div>
+    </div>
+
     <script>
         const GITHUB_USERNAME = 'Fau1ks'; 
         const REPO_NAME = 'Optics-AI_Paper';        
@@ -550,7 +550,7 @@
                 pageIntro: '如需往期文献，可关注以下账号<br>也欢迎学术交流以及提出您的建议',
                 xhsTitle: '小红书：计算光学最新文献推送',
                 wxTitle: '公众号：计算光学最新文献推送',
-                miniTitle: '小程序：光学AI文献推送', // 修改后的标题
+                miniTitle: '小程序：光学AI文献推送',
                 downloadLoading: '正在查找最新推送...',
                 downloadPrefix: '📄 下载最新推送：',
                 downloadFail: '获取列表失败',
@@ -568,7 +568,7 @@
                 // 动态生成的标签
                 detailLabelTag: 'English', 
                 authorLabel: '👤 Authors:',
-                abstractLabel: '📝 Abstract:', // 摘要标签
+                abstractLabel: '📝 Abstract:', 
                 abstractBtnOn: '隐藏摘要',
                 abstractBtnOff: '显示摘要',
                 // Scholar 翻译
@@ -576,14 +576,16 @@
                 scholarBtnPrefix: '📄 下载 Scholar 汇总：',
                 scholarSearchPlaceholder: '🔍 搜索 Google Scholar 标题或链接...',
                 scholarTimePrefix: '最新邮件推送时间：', 
-                scholarCrawlTimePrefix: '最新更新时间：'    
+                scholarCrawlTimePrefix: '最新更新时间：',
+                // 评论区翻译 (无 Emoji)
+                commentsTitle: '交流区'
             },
             'en': {
                 pageTitle: 'Latest Optics + AI Paper Feed',
                 pageIntro: 'Follow our accounts for past archives.<br>Academic exchanges and suggestions are welcome.',
                 xhsTitle: 'Xiaohongshu',
                 wxTitle: 'WeChat',
-                miniTitle: 'Mini Program', // 英文保持简短
+                miniTitle: 'Mini Program',
                 downloadLoading: 'Searching for latest feed...',
                 downloadPrefix: '📄 Download Latest Feed: ',
                 downloadFail: 'Failed to fetch list',
@@ -609,7 +611,9 @@
                 scholarBtnPrefix: '📄 Download Scholar Summary: ',
                 scholarSearchPlaceholder: '🔍 Search Google Scholar titles or links...',
                 scholarTimePrefix: 'Latest Email Push: ', 
-                scholarCrawlTimePrefix: 'Latest Update Time: ' 
+                scholarCrawlTimePrefix: 'Latest Update Time: ',
+                // 评论区翻译
+                commentsTitle: 'Discussion'
             }
         };
 
@@ -641,7 +645,7 @@
             return cleaned.trim();
         }
 
-        // ================= 状态保存与恢复逻辑 (新添加) =================
+        // ================= 状态保存与恢复逻辑 =================
         function saveExpandState() {
             const state = { journals: [], articles: [] };
             
@@ -689,7 +693,7 @@
             checkButtonsVisibility();
         }
 
-        // ================= 语言切换逻辑 (已修改) =================
+        // ================= 语言切换逻辑 (已修改：增加 Giscus 更新) =================
         function setLanguage(lang) {
             if (currentLang === lang) return;
             
@@ -732,9 +736,35 @@
             
             // 2. 恢复状态
             restoreExpandState(savedState);
+            
+            // 3. 更新 Giscus 评论区语言 (新增逻辑)
+            updateGiscusConfig(lang);
         }
 
-        // ================= 摘要开关逻辑 (已修改) =================
+        // ================= Giscus 动态更新逻辑 (新增) =================
+        function updateGiscusConfig(lang) {
+            const giscusLang = lang === 'zh' ? 'zh-CN' : 'en';
+            
+            // 1. 如果 iframe 已经加载（用户已经滚到底部），通过 postMessage 动态更新
+            const iframe = document.querySelector('iframe.giscus-frame');
+            if (iframe) {
+                iframe.contentWindow.postMessage({
+                    giscus: {
+                        setConfig: {
+                            lang: giscusLang
+                        }
+                    }
+                }, 'https://giscus.app');
+            }
+
+            // 2. 如果 iframe 还没加载（lazy loading），修改 script 标签属性，这样加载时就是对的语言
+            const script = document.querySelector('script[src="https://giscus.app/client.js"]');
+            if (script) {
+                script.setAttribute('data-lang', giscusLang);
+            }
+        }
+
+        // ================= 摘要开关逻辑 =================
         function toggleAbstracts() {
             // 1. 保存当前状态
             const savedState = saveExpandState();
@@ -771,7 +801,7 @@
             document.getElementById('pageIntro').innerHTML = t.pageIntro;
             document.getElementById('xhsTitle').innerText = t.xhsTitle;
             document.getElementById('wxTitle').innerText = t.wxTitle;
-            document.getElementById('miniTitle').innerText = t.miniTitle; // 更新小程序标题
+            document.getElementById('miniTitle').innerText = t.miniTitle; 
             document.getElementById('downloadTip').innerText = t.downloadTip;
             document.getElementById('searchInput').placeholder = t.searchPlaceholder;
             document.getElementById('readingTitle').innerText = t.readingTitle;
@@ -780,6 +810,10 @@
             document.getElementById('tipsTitle').innerText = t.tipsTitle;
             document.getElementById('navTipTitle').innerText = t.navTipTitle;
             document.getElementById('navTipText').innerHTML = t.navTipText;
+            
+            // 更新评论区标题 (新增)
+            const commentTitle = document.getElementById('commentsTitle');
+            if(commentTitle) commentTitle.innerText = t.commentsTitle;
 
             // 更新摘要按钮文字
             const absText = document.getElementById('abstract-text');

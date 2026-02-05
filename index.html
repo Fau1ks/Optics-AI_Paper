@@ -403,6 +403,10 @@
             <div id="wxTitle" class="social-title">公众号：计算光学最新文献推送</div>
             <img src="wx.jpg" alt="公众号二维码" class="qr-code">
         </div>
+        <div class="social-item">
+            <div id="miniTitle" class="social-title">小程序：计算光学最新文献推送</div>
+            <img src="xiaochengxu.jpg" alt="小程序二维码" class="qr-code">
+        </div>
     </div>
 
     <a id="downloadBtn" href="#" class="download-btn loading">正在查找最新推送...</a>
@@ -487,6 +491,7 @@
                 pageIntro: '如需往期文献，可关注以下账号<br>也欢迎学术交流以及提出您的建议',
                 xhsTitle: '小红书：计算光学最新文献推送',
                 wxTitle: '公众号：计算光学最新文献推送',
+                miniTitle: '小程序：计算光学最新文献推送', // 新增中文
                 downloadLoading: '正在查找最新推送...',
                 downloadPrefix: '📄 下载最新推送：',
                 downloadFail: '获取列表失败',
@@ -519,6 +524,7 @@
                 pageIntro: 'Follow our accounts for past archives.<br>Academic exchanges and suggestions are welcome.',
                 xhsTitle: 'Xiaohongshu',
                 wxTitle: 'WeChat',
+                miniTitle: 'Mini Program', // 新增英文，保持简短
                 downloadLoading: 'Searching for latest feed...',
                 downloadPrefix: '📄 Download Latest Feed: ',
                 downloadFail: 'Failed to fetch list',
@@ -646,6 +652,7 @@
             document.getElementById('pageIntro').innerHTML = t.pageIntro;
             document.getElementById('xhsTitle').innerText = t.xhsTitle;
             document.getElementById('wxTitle').innerText = t.wxTitle;
+            document.getElementById('miniTitle').innerText = t.miniTitle; // 更新小程序标题
             document.getElementById('downloadTip').innerText = t.downloadTip;
             document.getElementById('searchInput').placeholder = t.searchPlaceholder;
             document.getElementById('readingTitle').innerText = t.readingTitle;

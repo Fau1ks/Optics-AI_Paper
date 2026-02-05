@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-05 11:31:46",
+    "update_time": "2026-02-05 13:29:31",
     "word_filename": "Optical_Papers_260205.docx",
-    "total_count": 136,
+    "total_count": 153,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69103-x",
@@ -1498,6 +1498,193 @@
             "journal": "arXiv: Nerf & Neural Fields",
             "title_cn": "从稀疏传感器到连续场：时空重建的 STRIDE",
             "abstract_cn": "从稀疏点传感器测量重建高维时空场是学习参数偏微分方程动力学的核心挑战。现有的方法通常很难在轨迹和参数设置之间进行泛化，或者依赖于离散化相关的解码器，而这些解码器不能自然地跨网格和分辨率进行传输。我们提出了 STRIDE（时空循环隐式解码器），这是一个两阶段框架，它使用时间编码器将传感器测量的短窗口映射到潜在状态，并使用调制隐式神经表示（INR）解码器在任意查询位置重建字段。使用傅里叶多分量多层神经网络 (FMMNN) 作为 INR 主干，可以改善复杂空间场的表示，并产生比基于正弦的 INR 更稳定的优化。我们提供了一个有条件的理论论证：在低维参数不变集上点测量的稳定延迟可观测性下，重建算子通过有限维嵌入进行因子分解，使 STRIDE 型架构成为自然逼近器。对涵盖混沌动力学和波传播的四个具有挑战性的基准进行的实验表明，STRIDE 在极其稀疏的传感下优于强基线，支持超分辨率，并且对噪声保持鲁棒性。"
+        },
+        {
+            "id": "https://doi.org/10.1038/d41586-026-00169-9",
+            "title": "How a protein repurposes vitamin B12 as a light sensor",
+            "link": "https://doi.org/10.1038/d41586-026-00169-9",
+            "published": "2026-02-04",
+            "author": "Dante M. Avalos, Catherine L. Drennan",
+            "summary": "Intense, ultrashort X-ray pulses have been used to probe the extraordinary reactions that occur in a light-sensing receptor, resolving a biochemical conundrum.",
+            "journal": "Nature",
+            "title_cn": "蛋白质如何将维生素 B12 重新用作光传感器",
+            "abstract_cn": "强烈的超短 X 射线脉冲已被用来探测光敏受体中发生的异常反应，解决了生化难题。"
+        },
+        {
+            "id": "https://doi.org/10.1038/d41586-026-00036-7",
+            "title": "Particle collisions cast light on how matter forms from seemingly empty space",
+            "link": "https://doi.org/10.1038/d41586-026-00036-7",
+            "published": "2026-02-04",
+            "author": "Yasmine Amhis",
+            "summary": "Fundamental particles called quarks can be created in quantum-correlated pairs. These correlations can be passed on to larger particles that form from the quarks.",
+            "journal": "Nature",
+            "title_cn": "粒子碰撞揭示了物质如何从看似真空的空间形成",
+            "abstract_cn": "称为夸克的基本粒子可以在量子相关对中产生。这些相关性可以传递给夸克形成的更大粒子。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-35841-7",
+            "title": "Optimization strut-based fuel injection using multi-step hydrogen jets and air-assisted mixing in supersonic flow",
+            "link": "https://doi.org/10.1038/s41598-026-35841-7",
+            "published": "2026-02-04",
+            "author": "Zeineb Ben Houria, Khalil Hajlaoui, Saman Ahmad Aminian, Veyan A. Musa, Abdellatif M. Sadeq, Mohamed Shaban, Walid Aich, Karim Kriaa",
+            "summary": "Efficient fuel–air mixing remains one of the primary challenges in supersonic combustion chambers due to extremely short residence times and strong compressibility effects. This study presents a three-dimensional numerical investigation of hydrogen injection and mixing in a scramjet combustor equipped with a strut-based injector, focusing on the influence of injector geometry and auxiliary air injection. Three configurations—a single annular injector (Case N.1), a multi-step staged annular injector (Case N.2), and a flush concentric annular-slot injector (Case N.3)—were examined under identical injection surface areas and freestream conditions (Mach = 2, Ps = 1 atm) using ANSYS Fluent with the SST turbulence model and ideal-gas assumptions in a steady-state framework. The results reveal that injector configuration strongly governs the flow field, vortex formation, and hydrogen dispersion in the wake of the strut. The single annular injector exhibited strong jet penetration but weak lateral mixing, while the staged configuration produced multiple interacting shear layers and sustained vortical structures that enhanced turbulent diffusion and entrainment. The flush concentric design achieved broader near-wall fuel distribution with minimal total pressure losses but lower core mixing intensity. The introduction of an internal air jet intensified local shear interactions, increased circulation strength, and significantly improved overall mixing efficiency—most notably for the staged injector, which achieved the best balance between mixing performance and aerodynamic stability. The findings highlight the advantages of the multi-step staged injection strategy, demonstrating its potential to optimize hydrogen–air mixing in supersonic combustors while maintaining acceptable pressure losses. This approach provides valuable insights for the design of high-efficiency strut-based injectors in future scramjet propulsion systems.",
+            "journal": "Scientific Reports",
+            "title_cn": "在超音速流中使用多级氢气喷射和空气辅助混合来优化基于支柱的燃油喷射",
+            "abstract_cn": "由于极短的停留时间和强大的压缩效应，高效的燃料-空气混合仍然是超音速燃烧室的主要挑战之一。本研究对配备支柱喷射器的超燃冲压发动机燃烧室中的氢气喷射和混合进行了三维数值研究，重点关注喷射器几何形状和辅助空气喷射的影响。在相同的喷射表面积和自由流条件（马赫 = 2，Ps = 1 atm）下，使用 ANSYS Fluent 以及稳态框架中的 SST 湍流模型和理想气体假设，对三种配置（单个环形喷射器（案例 N.1）、多级环形喷射器（案例 N.2）和齐平同心环形槽喷射器（案例 N.3））进行了检查。结果表明，喷射器配置强烈控制支柱尾流中的流场、涡流形成和氢扩散。单环形喷射器表现出较强的射流穿透力，但横向混合较弱，而分级配置产生了多个相互作用的剪切层和持续的涡流结构，增强了湍流扩散和夹带。齐平同心设计实现了更广泛的近壁燃料分布，总压力损失最小，但芯混合强度较低。内部空气射流的引入增强了局部剪切相互作用，增加了循环强度，并显着提高了整体混合效率——尤其是分级喷射器，实现了混合性能和气动稳定性之间的最佳平衡。研究结果凸显了多步分级喷射策略的优势，证明了其在优化超音速燃烧器中氢-空气混合同时保持可接受的压力损失的潜力。这种方法为未来超燃冲压发动机推进系统中高效支柱喷油器的设计提供了宝贵的见解。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36260-4",
+            "title": "Two paired HPV-59 cervical cancer cell lines with distinct chemoradioresistant phenotypes",
+            "link": "https://doi.org/10.1038/s41598-026-36260-4",
+            "published": "2026-02-04",
+            "author": "Irina Tatarnikova, Vadim Talyshev, Aleksandra Sen’kova, Oleg Markov, Darya Mikhailova, Oksana Pashkovskaya, Sergey Krasilnikov, Elena Samoilova, Tatyana Gainer, Evgeniy Brener, Marina Zenkova, Evgeniya Logashenko",
+            "summary": "Cervical cancer (CC) is the fourth most common cancer among women worldwide and a leading cause of cancer-related death. While immortalized cell lines like HeLa are widely used, they often lose characteristic features of the original tumor due to long-term cultivation. Primary cell cultures offer a more representative model, as they retain key features of the native tumor microenvironment. Here, we establish and characterize two novel human CC cell lines, AdMer35 and AdMer43, uniquely derived from paired tumor biopsies of the same patient before (AdMer35) and after (AdMer43) chemoradiotherapy for stage IIIB squamous cell carcinoma. Both lines exhibited stable epithelial morphology (cobblestone pattern), adhesion, were positive by cytokeratin staining, and have HPV-59 DNA genomes. They displayed distinct karyotypes: 80% of AdMer35 cells were near-tetraploid (modal number 95), while 98% of AdMer43 cells were near-triploid (modal number 77). Functional assays revealed significant differences: AdMer43 proliferated faster (Cell Index ~ 3.8 vs. ~2.1 at 100 h), but AdMer35 migrated more rapidly. Crucially, AdMer43 demonstrated increased resistance in comparison with AdMer35 to both radiotherapy (minimal apoptosis and G2/M arrest post-5 Gy irradiation) and chemotherapy (IC₅₀ for carboplatin: 87.8 µM vs. 54.3 µM; for paclitaxel: 7.3 nM vs. 3.0 nM). Both lines were tumorigenic in nude mice, forming histologically distinct tumors. Thus, we present a novel paired in vitro model of acquired chemoradioresistance in cervical cancer. The AdMer35/AdMer43 cell line pair provides a unique tool for mechanistic studies of therapy resistance and preclinical drug screening.",
+            "journal": "Scientific Reports",
+            "title_cn": "两对具有不同放化疗耐药表型的 HPV-59 宫颈癌细胞系",
+            "abstract_cn": "宫颈癌 (CC) 是全球女性第四大常见癌症，也是癌症相关死亡的主要原因。虽然像HeLa这样的永生化细胞系被广泛使用，但它们常常由于长期培养而失去原始肿瘤的特征。原代细胞培养物提供了更具代表性的模型，因为它们保留了天然肿瘤微环境的关键特征。在这里，我们建立并表征了两种新型人类 CC 细胞系 AdMer35 和 AdMer43，它们独特地源自同一患者 IIIB 期鳞状细胞癌放化疗前 (AdMer35) 和放化疗后 (AdMer43) 的配对肿瘤活检。两个细胞系都表现出稳定的上皮形态（鹅卵石图案）、粘附，细胞角蛋白染色呈阳性，并且具有 HPV-59 DNA 基因组。它们表现出不同的核型：80% 的 AdMer35 细胞接近四倍体（众数 95），而 98% 的 AdMer43 细胞接近三倍体（众数 77）。功能分析揭示了显着差异：AdMer43 增殖速度更快（100 小时时细胞指数约为 3.8，而细胞指数约为 2.1），但 AdMer35 迁移速度更快。至关重要的是，与 AdMer35 相比，AdMer43 对放疗（5 Gy 照射后细胞凋亡最小化和 G2/M 期停滞）和化疗（卡铂的 IC50：87.8 µM vs. 54.3 µM；紫杉醇：7.3 nM vs. 3.0 nM）的耐药性有所增加。两种细胞系在裸鼠中均具有致瘤性，形成组织学上不同的肿瘤。因此，我们提出了一种宫颈癌获得性放化疗耐药的新型配对体外模型。 AdMer35/AdMer43 细胞系对为治疗耐药性和临床前药物筛选的机制研究提供了独特的工具。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36097-x",
+            "title": "A multifunctional graphene oxide–ZnO nanohybrid for rapid and highly efficient malachite green adsorption and strong broad-spectrum antimicrobial activity",
+            "link": "https://doi.org/10.1038/s41598-026-36097-x",
+            "published": "2026-02-04",
+            "author": "Shayan Ebrahimi, Paria Zanganeh, Sadegh Nouripour-Sisakht, Hamedreza Javadian, Amir Babaie, Raziyeh Khaleghi, Arash Asfaram",
+            "summary": "A multifunctional graphene oxide–zinc oxide (GO–ZnO) nanohybrid was developed to tackle two significant challenges in wastewater treatment: the removal of malachite green (MG) and the inactivation of pathogenic microorganisms. Under optimized conditions (25 mg L−1 MG, pH = 9.0, 18 mg adsorbent, 25 °C, 12 min), this material achieved a remarkable 96.54% removal of MG. The adsorption process was well-described by the Langmuir isotherm (Qmax = 131.91 mg g−1) and followed pseudo-second-order kinetics, indicating that the mechanism involved chemisorption through electrostatic attraction, π–π interactions, and hydrogen bonding. The process was spontaneous, endothermic, and driven by entropy changes. Notably, the nanohybrid maintained an adsorption efficiency of over 87% after four regeneration cycles, using only 1 mL of methanol per cycle. It also demonstrated robust performance in real water samples, including tap water, river water, and industrial wastewater, retaining an MG removal efficiency of over 88% despite the complexity of these matrices. In addition to its adsorption capabilities, the nanohybrid exhibited potent broad-spectrum antimicrobial activity, with minimum inhibitory concentrations (MICs) as low as 0.313 mg mL⁻¹ against a clinical isolate of Acinetobacter baumannii, 0.625 mg mL−1 against Escherichia coli (ATCC), and 1.25 mg mL−1 against Staphylococcus aureus and fluconazole-resistant Candida albicans. This dual functionality stems from synergistic mechanisms: ROS generation mediated by ZnO and physical membrane disruption induced by GO. Overall, the ultrafast kinetics, high reusability, environmental resilience, and integrated detoxification-disinfection capabilities highlight the GO–ZnO nanohybrid as a promising and sustainable solution for advanced water purification, meeting the urgent demand for multifunctional materials in hazardous contaminant management.",
+            "journal": "Scientific Reports",
+            "title_cn": "一种多功能氧化石墨烯-ZnO纳米杂化物，可快速高效地吸附孔雀石绿并具有强广谱抗菌活性",
+            "abstract_cn": "开发了一种多功能氧化石墨烯-氧化锌（GO-ZnO）纳米杂化物来解决废水处理中的两个重大挑战：孔雀石绿（MG）的去除和病原微生物的灭活。在优化条件下（25 mg L−1 MG，pH = 9.0，18 mg 吸附剂，25 °C，12 分钟），该材料实现了 96.54% 的 MG 去除率。吸附过程由 Langmuir 等温线（Qmax = 131.91 mg g−1）很好地描述，并遵循伪二级动力学，表明该机制涉及通过静电吸引、π-π相互作用和氢键的化学吸附。该过程是自发的、吸热的，并由熵变驱动。值得注意的是，纳米混合材料在四个再生周期后保持了超过 87% 的吸附效率，每个周期仅使用 1 mL 甲醇。它还在真实水样（包括自来水、河水和工业废水）中表现出强大的性能，尽管这些基质很复杂，但仍保持超过 88% 的 MG 去除效率。除了吸附能力外，纳米杂化物还表现出强大的广谱抗菌活性，对鲍曼不动杆菌临床分离株的最低抑菌浓度 (MIC) 低至 0.313 mg mL−1，对大肠杆菌 (ATCC) 的最低抑菌浓度 (MIC) 低至 0.625 mg mL−1，对金黄色葡萄球菌和耐氟康唑白色念珠菌的最低抑菌浓度 (MIC) 1.25 mg mL−1。这种双重功能源于协同机制：ZnO 介导的 ROS 生成和 GO 诱导的物理膜破坏。总体而言，超快动力学、高可重复使用性、环境适应能力和综合解毒消毒能力凸显了 GO-ZnO 纳米杂化物作为先进水净化的一种有前途且可持续的解决方案，满足了危险污染物管理中对多功能材料的迫切需求。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36573-4",
+            "title": "Glymphatic system impairment in type II diabetes mellitus adults",
+            "link": "https://doi.org/10.1038/s41598-026-36573-4",
+            "published": "2026-02-04",
+            "author": "Bhaswati Roy, Veronica Lubera, Kamal R. Singh, Anshita Singh, Dineth R. Karunamuni, Diana E. Kosoyan, Megan Carrier, Sarah E. Choi, Matthew J. Freeby, Rajesh Kumar",
+            "summary": "Abstract Type 2 diabetes mellitus (T2DM) is associated with multiple systemic complications, including cognitive decline and increased risk of neurodegenerative diseases. The glymphatic system, a brain waste-clearance pathway that can be impaired by sleep disturbances common in T2DM, has not yet been examined in the condition. Therefore, the aim was to evaluate glymphatic system in T2DM subjects using diffusion tensor imaging along the perivascular space (DTI-ALPS) index. A total of 78 T2DM adults and 106 healthy controls underwent brain MRI. Sleep issues were assessed using the Pittsburgh Sleep Quality Index (PSQI) and Epworth Sleepiness Scale (ESS), and cognition with the Montreal Cognitive Assessment (MoCA). Group differences in DTI-ALPS, sleep metrics, and MoCA scores were assessed with analysis of covariance (covariates, age, sex, and BMI). Other covariates (MoCA, ESS, and sleep apnea status) were also included to examine DTI-ALPS differences between groups, in addition to age, sex and BMI. Correlations analyses were performed to assess associations between sleep measures (PSQI and ESS), disease duration, HbA1c levels, and DTI-ALPS indices in T2DM adults. T2DM patients exhibited higher PSQI ( p = 0.03) and ESS ( p = 0.004), reflecting poorer sleep quality and increased daytime sleepiness. MoCA scores were significantly lower in T2DM adults ( p = 0.001), with impairments emerged in visuospatial skills, attention, and language. Also, significantly reduced DTI-ALPS values appeared in T2DM over controls ( p = 0.017), but no significant associations were found between DTI-ALPS index and other measures in T2DM adults. T2DM adults show impaired glymphatic function along with poor sleep quality and daytime sleepiness. The findings indicate that glymphatic dysfunction, potentially-driven by metabolic, vascular, and sleep-related disturbances may exacerbate cognitive deficits in T2DM adults.",
+            "journal": "Scientific Reports",
+            "title_cn": "成人 II 型糖尿病的类淋巴系统损伤",
+            "abstract_cn": "摘要 2 型糖尿病 (T2DM) 与多种全身并发症相关，包括认知能力下降和神经退行性疾病风险增加。类淋巴系统是一种大脑废物清除途径，可能会因 T2DM 中常见的睡眠障碍而受损，但尚未在这种情况下进行检查。因此，目的是使用沿血管周围空间（DTI-ALPS）指数的弥散张量成像来评估 T2DM 受试者的类淋巴系统。共有 78 名 T2DM 成人和 106 名健康对照者接受了脑部 MRI 检查。使用匹兹堡睡眠质量指数 (PSQI) 和 Epworth 嗜睡量表 (ESS) 评估睡眠问题，并使用蒙特利尔认知评估 (MoCA) 评估认知问题。通过协方差分析（协变量、年龄、性别和 BMI）评估 DTI-ALPS、睡眠指标和 MoCA 评分的组间差异。除了年龄、性别和 BMI 之外，还包括其他协变量（MoCA、ESS 和睡眠呼吸暂停状态）来检查组间 DTI-ALPS 差异。进行相关性分析以评估 T2DM 成人睡眠指标（PSQI 和 ESS）、病程、HbA1c 水平和 DTI-ALPS 指数之间的关联。 T2DM 患者表现出较高的 PSQI (p = 0.03) 和 ESS (p = 0.004)，反映出睡眠质量较差且白天嗜睡增加。 T2DM 成人的 MoCA 评分显着较低 (p = 0.001)，视觉空间技能、注意力和语言出现障碍。此外，与对照组相比，T2DM 患者的 DTI-ALPS 值显着降低（p = 0.017），但在 T2DM 成人中，DTI-ALPS 指数与其他指标之间没有发现显着关联。 T2DM 成人表现出类淋巴功能受损以及睡眠质量差和白天嗜睡的症状。研究结果表明，可能由代谢、血管和睡眠相关障碍引起的类淋巴功能障碍可能会加剧 2 型糖尿病成人的认知缺陷。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37395-0",
+            "title": "3D heterotypic models of glioblastoma reveal the impact of microglia on cellular organization and the production of a distinct secretome",
+            "link": "https://doi.org/10.1038/s41598-026-37395-0",
+            "published": "2026-02-04",
+            "author": "Clara García-Sáez, Josune Alonso-Marañón, Mikel García-Puga, Ane Rubio-Zulaika, Irati de Goñi-Garcia, Lorea Blázquez, Sandra Camarero-Espinosa",
+            "summary": "Abstract Glioblastoma (GBM) is a deadly brain tumor with a very poor prognosis. Development of new therapeutics is hindered by the lack of appropriate preclinical models that reflect the complexity of the tumor microenvironment, especially the crucial role of microglia. In this study, we investigated the impact of microglia on GBM models using humanized 3D spheroids. Homotypic and heterotypic spheroids were created out of a GBM-derived cell line (DKMG) or patient-derived glioma stem cells (GB22-13), along with a microglia cell line (HMC3). Heterotypic glioma-HMC3 spheroids exhibited increased proliferation and greater drug resistance to chemotherapy drug Temozolomide compared with homotypic spheroids. Heterotypic spheroids also grew larger, developed multinucleated structures within 7 days, and had a greater invasive potential. Additionally, a distinct core-shell structure emerged in the heterotypic spheroids, with glioma cells concentrated in the core and a surrounding layer of microglia forming a protective shell that appeared to hinder drug penetration to the tumor core. Further, heterotypic cells were able to induce migration and polarization of peripheral blood monocytes (THP-1) towards M2 phenotypes, increasing immune evasion. These findings highlight the critical role of microglia in GBM development and progression, demonstrating their contribution to both reduced drug diffusion and increased tumor growth.",
+            "journal": "Scientific Reports",
+            "title_cn": "胶质母细胞瘤的 3D 异型模型揭示了小胶质细胞对细胞组织和独特分泌组产生的影响",
+            "abstract_cn": "摘要 胶质母细胞瘤（GBM）是一种致命的脑肿瘤，预后极差。由于缺乏反映肿瘤微环境复杂性的适当临床前模型，尤其是小胶质细胞的关键作用，新疗法的开发受到阻碍。在这项研究中，我们使用人源化 3D 球体研究了小胶质细胞对 GBM 模型的影响。同型和异型球体是由 GBM 衍生细胞系 (DKMG) 或患者衍生神经胶质瘤干细胞 (GB22-13) 以及小胶质细胞系 (HMC3) 创建的。与同型球体相比，异型胶质瘤-HMC3 球体表现出增殖增加和对化疗药物替莫唑胺更强的耐药性。异型球体也变得更大，在7天内形成多核结构，并且具有更大的侵袭潜力。此外，异型球体中出现了独特的核壳结构，神经胶质瘤细胞集中在核心，周围的小胶质细胞层形成保护壳，似乎阻碍了药物渗透到肿瘤核心。此外，异型细胞能够诱导外周血单核细胞 (THP-1) 向 M2 表型迁移和极化，从而增加免疫逃避。这些发现强调了小胶质细胞在 GBM 发育和进展中的关键作用，证明了它们对减少药物扩散和增加肿瘤生长的贡献。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114832",
+            "title": "Prediction of OSNR with machine learning methods in DWDM/UDWDM long-haul transmission systems using EDFAs under the triple impact of FWM, SRS and ASE noise",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114832",
+            "published": "2026-05-01",
+            "author": "Kübra Kılınçarslan, Sait Eser Karlık",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "在 FWM、SRS 和 ASE 噪声的三重影响下，使用 EDFA 的 DWDM/UDWDM 长途传输系统中的机器学习方法预测 OSNR",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.585420",
+            "title": "Mode filtering and transmission performance in multimode doubly clad graded-index silica photonic crystal fibers at 850 nm",
+            "link": "https://doi.org/10.1364/ao.585420",
+            "published": "2026-01-30",
+            "author": "Ana Simović, Branko Drljača, Konstantinos Aidinis, Xiong Deng, Svetislav Savović",
+            "summary": "Multimode graded-index (GI) silica optical fibers are widely used for short- to medium-range data transmission but face bandwidth limitations. Achieving higher bandwidths requires innovative fiber designs that minimize modal dispersion and suppress higher-order modes. Here, we theoretically analyze a multimode doubly clad (W-type) GI silica photonic crystal fiber (SPCF) using the power flow equation to model its transmission characteristics. We demonstrated that for thinner inner cladding ( δ =0.24), the equilibrium mode distribution (EMD) and steady-state distribution (SSD) are achieved at fiber lengths of L c =36m and z s =95m, respectively, while for thicker inner cladding ( δ =0.48), these lengths are L c =40m and z s =105m. Increasing δ reduces leaky mode losses and increases the number of guided modes, thereby extending the lengths required to reach EMD and SSD. The sooner the EMD is achieved, the faster the bandwidth improvement occurs. The standard OM4 and OM5 multimode silica optical fibers with GI core distribution have a bandwidth of 4.7GHz⋅km at 850 nm. The W-type GI SPCF investigated in this work achieves a much higher bandwidth-length product of 9.8GHz⋅km at 850 nm. These findings suggest that such SPCFs can significantly enhance bandwidth performance in data centers and telecommunications, while offering greater design flexibility through air-hole geometry adjustments without complex doping processes.",
+            "journal": "Applied Optics",
+            "title_cn": "850 nm 多模双包层渐变折射率二氧化硅光子晶体光纤的模式滤波和传输性能",
+            "abstract_cn": "多模渐变折射率 (GI) 石英光纤广泛用于中短程数据传输，但面临带宽限制。实现更高的带宽需要创新的光纤设计，最大限度地减少模式色散并抑制高阶模式。在这里，我们使用功率流方程对其传输特性进行建模，从理论上分析了多模双包层（W 型）GI 二氧化硅光子晶体光纤（SPCF）。我们证明，对于较薄的内包层（δ = 0.24），平衡模式分布（EMD）和稳态分布（SSD）分别在光纤长度 L c = 36 m 和 z s = 95 m 时实现，而对于较厚的内包层（δ = 0.48），这些长度为 L c = 40 m 和 z s = 105 m。增加 δ 可减少漏模损耗并增加导模数量，从而延长达到 EMD 和 SSD 所需的长度。 EMD 实现得越早，带宽改善的速度就越快。具有 GI 纤芯分布的标准 OM4 和 OM5 多模石英光纤在 850 nm 处的带宽为 4.7GHz·km。这项工作中研究的 W 型 GI SPCF 在 850 nm 处实现了更高的带宽长度积 9.8GHz·km。这些发现表明，此类 SPCF 可以显着增强数据中心和电信的带宽性能，同时通过气孔几何形状调整提供更大的设计灵活性，而无需复杂的掺杂工艺。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.586383",
+            "title": "High-efficiency perovskite solar cells: dual-absorber design featuring embedded core–shell plasmonic nanoparticles",
+            "link": "https://doi.org/10.1364/ao.586383",
+            "published": "2026-02-03",
+            "author": "Amir Hossein Mohammadian Fard, Samiye Matloub",
+            "summary": "This work demonstrates a high-efficiency perovskite solar cell (PSC) architecture achieving a 29.2% power conversion efficiency (PCE) through a novel, to our knowledge, dual-enhancement strategy. We combined a stacked dual-absorber design, Cs 0.2 FA 0.8 Pb(I 0.7 Br 0.3 ) 3 /MASnI 3 , with dual-layer plasmonic integration of spherical core–shell Ag nanoparticles (NPs). The resulting 29.2% PCE ( J sc =36.3mAcm −2 ) represents a significant improvement over the 25.9% PCE of the dual-absorber stack alone and the 22.0% PCE of a conventional single-junction baseline. This approach, which extends beyond conventional single-junction plasmonics, is supported by accurate three-dimensional finite-element (3D-FEM) optical–electrical modeling. The results indicate a practical and scalable pathway for thin-film PSCs to outperform conventional single-absorber designs while reducing material consumption.",
+            "journal": "Applied Optics",
+            "title_cn": "高效钙钛矿太阳能电池：采用嵌入式核壳等离子体纳米粒子的双吸收体设计",
+            "abstract_cn": "这项工作展示了一种高效钙钛矿太阳能电池 (PSC) 架构，通过一种新颖的、据我们所知的双增强策略实现了 29.2% 的功率转换效率 (PCE)。我们将堆叠双吸收剂设计 Cs 0.2 FA 0.8 Pb(I 0.7 Br 0.3 ) 3 /MASnI 3 与球形核壳银纳米颗粒 (NP) 的双层等离子体集成相结合。所得的 29.2% PCE (J sc =36.3mAcm -2 ) 与单独的双吸收器堆栈的 25.9% PCE 和传统单结基线的 22.0% PCE 相比有了显着改进。这种方法超越了传统的单结等离子体激元，并得到精确的三维有限元 (3D-FEM) 光电建模的支持。结果表明，薄膜太阳能电池有一条实用且可扩展的途径，可以超越传统的单吸收器设计，同时减少材料消耗。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.586419",
+            "title": "Cryptoanalysis on the optical image cryptosystem based on interference and unequal modulus decomposition",
+            "link": "https://doi.org/10.1364/ao.586419",
+            "published": "2026-01-30",
+            "author": "J. Liu, H. Xu, Y. Xiong",
+            "summary": "This paper offers a security analysis of an optical image cryptosystem that integrates interference and unequal modulus decomposition (EMD). In contrast to the conventional interference-based cryptosystem, which utilizes a single phase-only mask (POM) derived from the encryption process as the private key, the enhanced cryptosystem employs two random phase masks (RPMs) and two POMs derived from the phase-reserved (PR) structure as private keys. This modification addresses the silhouette problem inherent in the conventional interference-based cryptosystem by expanding the key space, thereby enhancing security strength. However, it is determined that the RPM R 2 ( u , v ) and the POM P 2 ( x , y ) exhibited low key sensitivity, thereby limiting their impact on the security enhancement. Additionally, due to the independence from the plaintext, the RPMs employed as private keys can be recovered using a designed known-plaintext attack (KPA). Once the RPMs are recovered, the number of unknown keys is reduced to two. This enables the recovery of plaintext information from its ciphertexts via a subsequent ciphertext-only attack (COA) without any prior knowledge of the POMs. In light of these findings, a novel hybrid attack strategy, to our knowledge, is proposed, integrating four cascaded KPAs and a COA, to effectively compromise the advanced interference and EMD-based cryptosystem. To validate the feasibility and effectiveness of the proposed hybrid attack, numerical simulations have been conducted.",
+            "journal": "Applied Optics",
+            "title_cn": "基于干涉和不等模分解的光学图像密码体制的密码分析",
+            "abstract_cn": "本文提供了集成干扰和不等模分解（EMD）的光学图像密码系统的安全性分析。与传统的基于干扰的密码系统利用从加密过程中导出的单相位掩码（POM）作为私钥相比，增强型密码系统使用两个随机相位掩码（RPM）和从相位保留（PR）结构导出的两个POM作为私钥。该修改通过扩展密钥空间解决了传统基于干扰的密码系统中固有的轮廓问题，从而增强了安全强度。然而，确定RPM R 2 (u，v)和POM P 2(x，y)表现出低密钥敏感性，从而限制了它们对安全性增强的影响。此外，由于与明文无关，用作私钥的 RPM 可以使用设计的已知明文攻击（KPA）来恢复。一旦 RPM 恢复，未知密钥的数量就会减少到两个。这样就可以通过后续的纯密文攻击 (COA) 从密文中恢复明文信息，而无需事先了解 POM。根据这些发现，据我们所知，提出了一种新颖的混合攻击策略，集成四个级联 KPA 和一个 COA，以有效破坏先进的干扰和基于 EMD 的密码系统。为了验证所提出的混合攻击的可行性和有效性，进行了数值模拟。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.585711",
+            "title": "Scattering characteristics of chiral particles by dual Hermite–Gaussian beams",
+            "link": "https://doi.org/10.1364/ao.585711",
+            "published": "2026-01-28",
+            "author": "Xin-Wei Wang, Jing Bai, Wen-Hao Ma, Cheng-Xian Ge, Tan Qu, Zhen-Sen Wu",
+            "summary": "This study investigates the scattering properties of chiral dielectric spheres illuminated by dual Hermite––Gaussian beams (HGBs) at arbitrary incident angles. Utilizing generalized Lorenz–Mie theory (GLMT), we derive the beam shape factor for dual HGBs through the coordinate addition theorem. By applying relevant boundary conditions, we obtain an analytical solution for the scattering of dual HGBs by chiral particles. To validate the proposed method’s accuracy, we establish two simplified models: a single HGB and dual Gaussian beams. The scattering results from these models are compared with reference data, confirming the algorithm’s reliability. Building on these validated results, we conduct a comprehensive analysis of the far-field radar cross-section (RCS) and the internal electric field distribution within chiral particles affected by dual HGBs. We thoroughly examine the impact of various parameters on the numerical outcomes, including beam order, incident angle, polarization angle, waist radius, particle sizes, and chirality parameters. The findings of this research offer valuable insights into the scattering behavior of chiral particles under dual-beam illumination and have significant implications for the development of multi-beam manipulation technologies and bio-particle identification methods.",
+            "journal": "Applied Optics",
+            "title_cn": "双埃尔米特-高斯光束手性粒子的散射特性",
+            "abstract_cn": "本研究研究了双埃尔米特高斯光束 (HGB) 以任意入射角照射的手性介电球的散射特性。利用广义洛伦兹-米氏理论（GLMT），我们通过坐标加法定理推导了双 HGB 的光束形状因子。通过应用相关边界条件，我们获得了手性粒子对双 HGB 散射的解析解。为了验证所提出方法的准确性，我们建立了两个简化模型：单 HGB 和双高斯光束。将这些模型的散射结果与参考数据进行比较，证实了算法的可靠性。基于这些经过验证的结果，我们对受双 HGB 影响的手性粒子内的远场雷达截面 (RCS) 和内部电场分布进行了全面分析。我们彻底研究了各种参数对数值结果的影响，包括光束顺序、入射角、偏振角、腰半径、粒径和手性参数。这项研究的结果为双光束照明下手性粒子的散射行为提供了有价值的见解，并对多光束操纵技术和生物粒子识别方法的发展具有重要意义。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.586119",
+            "title": "Polychromatic polarization-based shearing interferometry with channel-selective phase-gradient recovery",
+            "link": "https://doi.org/10.1364/ao.586119",
+            "published": "2026-01-30",
+            "author": "Noel-Ivan Toto-Arellano, Ana Karen Reyes, Jose Escamilla Angeles",
+            "summary": "A polarization-encoded interferometric system operating under broadband illumination is presented to retrieve the optical phase derivative of static and time-varying transparent samples in a single exposure. The setup employs a polarized cyclic-path interferometer (PCPI) combined with a replication stage, enabling the generation of four phase-shifted interferograms with nominal π /2 phase steps. Although a white-light source is used, the phase reconstruction is performed independently for each color channel after RGB separation, allowing channel-specific monochromatic processing without axial scanning. The green and red channels exhibit sufficient fringe visibility for phase retrieval, whereas the blue channel shows limited sensitivity due to spectral attenuation and camera responsivity. Therefore, the method functions effectively as a two-wavelength channel-selective interferometer rather than a full multiwavelength interferometric system. A stability and repeatability assessment based on 100 measurements confirmed the robustness of the proposed approach. Experimental results obtained from static aberrated samples and dynamic optical events demonstrate the feasibility of real-time phase-derivative sensing under broadband illumination without mechanical scanning.",
+            "journal": "Applied Optics",
+            "title_cn": "具有通道选择性相位梯度恢复的基于多色偏振的剪切干涉测量",
+            "abstract_cn": "提出了一种在宽带照明下运行的偏振编码干涉系统，用于在单次曝光中检索静态和时变透明样品的光学相位导数。该装置采用偏振循环路径干涉仪 (PCPI) 与复制级相结合，能够生成具有标称 π /2 相位步长的四个相移干涉图。尽管使用白光源，但在 RGB 分离后，每个颜色通道的相位重建都是独立执行的，从而无需轴向扫描即可进行通道特定的单色处理。绿色和红色通道对于相位恢复表现出足够的条纹可见度，而蓝色通道由于光谱衰减和相机响应度而表现出有限的灵敏度。因此，该方法有效地充当双波长通道选择性干涉仪，而不是完整的多波长干涉系统。基于 100 次测量的稳定性和可重复性评估证实了所提出方法的稳健性。从静态像差样本和动态光学事件获得的实验结果证明了在宽带照明下无需机械扫描的实时相位导数传感的可行性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.585838",
+            "title": "High-stability quadrature-point demodulation technique for dynamic interrogation of fiber Fabry–Perot sensors",
+            "link": "https://doi.org/10.1364/ao.585838",
+            "published": "2026-01-30",
+            "author": "Wei Ye, Qianyu Ren, Huarui Wang, Guowen An, Haiyang Wang, Jia Liu, Pinggang Jia",
+            "summary": "The traditional intensity demodulation method for fiber Fabry–Perot interferometric (FPI) sensors suffers from high error and limited reliability due to light source fluctuation, fiber perturbation, fiber attenuation, and temperature-induced quadrature-point drift. To address these issues, a high-stability quadrature-point demodulation technique is proposed that utilizes wide-and-narrow band ratio processing to suppress the influence of optical system noise and employs an active quadrature-point control technique to eliminate the sensor’s temperature-induced zero-point drift. The experimental results demonstrated excellent temperature stability: the demodulation non-linearity error for the FPI sensors did not exceed 1.5% within 25–300°C. The demodulation error was maintained below 1%, even under conditions of optical fiber attenuation introduced by fiber bending, where the radius was no less than 10 mm. This technique successfully overcomes the intrinsic drawbacks of traditional intensity demodulation, retaining its inherent advantages such as a simple architecture, high multiplexing capacity, and high-speed demodulation, while simultaneously achieving superior environmental adaptability and measurement stability for demanding engineering applications.",
+            "journal": "Applied Optics",
+            "title_cn": "用于动态询问光纤法布里-珀罗传感器的高稳定性正交点解调技术",
+            "abstract_cn": "光纤法布里-珀罗干涉（FPI）传感器的传统强度解调方法由于光源波动、光纤扰动、光纤衰减和温度引起的正交点漂移而存在高误差和有限可靠性。为了解决这些问题，提出了一种高稳定性正交点解调技术，利用宽窄带比处理来抑制光学系统噪声的影响，并采用有源正交点控制技术来消除传感器温度引起的零点漂移。实验结果表明，FPI传感器具有出色的温度稳定性：在25-300°C范围内，解调非线性误差不超过1.5%。即使在光纤弯曲导致光纤衰减（半径不小于10毫米）的情况下，解调误差也能保持在1%以下。该技术成功克服了传统强度解调的固有缺陷，保留了其结构简单、复用容量高、解调速度快等固有优势，同时为苛刻的工程应用提供了卓越的环境适应性和测量稳定性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.575790",
+            "title": "Multi-wavelength optical sensor for jaundice detection via absorbance difference spectroscopy",
+            "link": "https://doi.org/10.1364/ao.575790",
+            "published": "2026-01-27",
+            "author": "Doaa Bahbry, Sara AlSafran, Marwah Alotaibi, Wala’a Almuraikhi, Wael Yafooz, Mohammed Al-Hariri, Gameel Saleh",
+            "summary": "We demonstrate a low-cost optical sensor for neonatal jaundice detection using 470 nm (bilirubin-sensitive) and 560 nm (hemoglobin isosbestic) LEDs. The system applies absorbance difference spectroscopy to isolate bilirubin signals in skin-mimicking phantoms, achieving 387mV/mg⋅dL −1 sensitivity and 13.5% error versus spectrophotometry. Optical characterization confirms 470 nm penetration depth (≈0.65mm) in neonatal dermis. A machine learning classifier predicts risk severity with 99.5% accuracy. Comparative analysis shows a superior cost-performance trade-off versus reflectance-based devices. This work enables accessible hyperbilirubinemia monitoring through optimized wavelength selection and transmission-mode detection.",
+            "journal": "Applied Optics",
+            "title_cn": "通过吸光差光谱检测黄疸的多波长光学传感器",
+            "abstract_cn": "我们展示了一种使用 470 nm（胆红素敏感）和 560 nm（血红蛋白等吸光）LED 进行新生儿黄疸检测的低成本光学传感器。该系统应用吸光度差光谱来分离模拟皮肤模型中的胆红素信号，与分光光度法相比，实现了 387mV/mg⋅dL −1 的灵敏度和 13.5% 的误差。光学表征证实新生儿真皮中的穿透深度为 470 nm（约 0.65 毫米）。机器学习分类器预测风险严重程度的准确度为 99.5%。比较分析表明，与基于反射率的设备相比，具有卓越的性价比。这项工作通过优化的波长选择和传输模式检测实现了高胆红素血症监测。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.575879",
+            "title": "High-performance all-optical pressure sensor utilizing optimized photonic crystal nanocavity",
+            "link": "https://doi.org/10.1364/ao.575879",
+            "published": "2026-01-30",
+            "author": "Shivesh Kumar, Mrinal Sen, Tanmoy Datta",
+            "summary": "This paper presents the design and development of an optical pressure sensor based on a two-dimensional photonic crystal nanocavity, operating within the wavelength range of 1950.2–2091.4 nm. The sensing mechanism is based on the linear relationship between the shift in resonance wavelength and the refractive index variation of the cavity induced by the external applied pressure. The refractive index variation is modeled using COMSOL Multiphysics, and the cavity design is thoroughly optimized by adjusting the size and number of air holes in and around the cavity to achieve a high-quality factor and enhanced sensitivity. The photonic band structure and sensing parameters are evaluated and analyzed using plane wave expansion and finite-difference time-domain techniques, respectively. The results indicate a red shift in the resonant wavelength with increasing pressure, achieving an extraordinary high-quality factor of 1.0443×10 6 , and a pressure sensitivity of 20.17 nm/GPa. Furthermore, the sensor exhibits a maximum refractive index sensitivity of 506.184 nm/RIU, a high figure of merit of 2.4155×10 5 RIU −1 , and a low detection limit of 4.14×10 −7 RIU, collectively indicating excellent sensing performance. In addition, the sensor demonstrates stable operation in a wide temperature range (0°C–540°C), and a detailed investigation is conducted to evaluate the impact of fabrication-induced roughness on overall performance.",
+            "journal": "Applied Optics",
+            "title_cn": "利用优化的光子晶体纳米腔的高性能全光学压力传感器",
+            "abstract_cn": "本文介绍了一种基于二维光子晶体纳米腔的光学压力传感器的设计和开发，其工作波长范围为1950.2–2091.4 nm。传感机制基于谐振波长的偏移与外部施加压力引起的腔的折射率变化之间的线性关系。使用 COMSOL Multiphysics 对折射率变化进行建模，并通过调整腔内和周围气孔的尺寸和数量来彻底优化腔设计，以实现高质量因数和增强的灵敏度。分别使用平面波展开和有限差分时域技术评估和分析光子能带结构和传感参数。结果表明，随着压力的增加，谐振波长发生红移，实现了 1.0443×10 6 的极高品质因数和 20.17 nm/GPa 的压力灵敏度。此外，该传感器表现出506.184 nm/RIU的最大折射率灵敏度、2.4155×10 5 RIU -1 的高品质因数和4.14×10 -7 RIU的低检测限，共同表明了优异的传感性能。此外，该传感器在较宽的温度范围（0°C–540°C）下表现出稳定运行，并且进行了详细的研究以评估制造引起的粗糙度对整体性能的影响。"
+        },
+        {
+            "id": "https://doi.org/10.1063/5.0303986",
+            "title": "Efficient phase measurement for orbital angular momentum comb through Poincaré-sphere-like representation",
+            "link": "https://doi.org/10.1063/5.0303986",
+            "published": "2026-02-04",
+            "author": "Zi-Mo Cheng, Sheng-Qiang Jia, Hao Sheng, Chao Chen, Jianping Ding, Zhi-Cheng Ren, Xi-Lin Wang, Hui-Tian Wang",
+            "summary": "Photons with a spiral phase will carry orbital angular momentum (OAM), which can serve as a valuable resource for constructing high-dimensional Hilbert spaces due to its orthogonality and unbounded dimensionality. However, the fast measurement of high-dimensional OAM spectra remains a challenge. While intensity detection is relatively straightforward, full characterization requires phase retrieval. Although quantum state tomography allows full reconstruction, it demands a number of measurements scaling quadratically with the d2 of dimension (d), leading to a “curse of dimensionality” as the dimension d increases. Thus, there is an urgent need for efficient and simple methods for extracting phase information from high-dimensional OAM spectra. Here, we propose a generalized Poincaré sphere model with analog Stokes-like parameters, enabling full phase measurement of a d-dimensional OAM spectrum using only 4d measurements, significantly reducing the data acquisition requirement. We experimentally validated the method by performing intensity and phase measurements on 8-, 16-, and 32-dimensional OAM comb spectra. The results show excellent agreement with theoretical predictions, with measured fidelities ranging from 0.9829 to 0.9965. This approach facilitates an efficient characterization of high-dimensional OAM spectra and contributes to advancing their practical applications.",
+            "journal": "APL Photonics",
+            "title_cn": "通过类庞加莱球表示法对轨道角动量梳进行高效相位测量",
+            "abstract_cn": "具有螺旋相位的光子将携带轨道角动量（OAM），由于其正交性和无界维数，它可以成为构建高维希尔伯特空间的宝贵资源。然而，高维OAM光谱的快速测量仍然是一个挑战。虽然强度检测相对简单，但完整的表征需要相位检索。尽管量子态断层扫描允许完全重建，但它需要与维度 (d) 的 d2 成二次方缩放的测量数量，导致随着维度 d 的增加而出现“维度灾难”。因此，迫切需要有效且简单的方法从高维OAM谱中提取相位信息。在这里，我们提出了一种具有模拟斯托克斯参数的广义庞加莱球模型，仅使用 4d 测量即可实现 d 维 OAM 频谱的全相位测量，从而显着降低了数据采集要求。我们通过对 8、16 和 32 维 OAM 梳状光谱进行强度和相位测量来验证该方法。结果与理论预测非常吻合，测量的保真度范围为 0.9829 至 0.9965。这种方法有助于高效表征高维 OAM 光谱，并有助于推进其实际应用。"
         }
     ]
 }

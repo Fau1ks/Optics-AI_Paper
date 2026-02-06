@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-07 00:30:20",
+    "update_time": "2026-02-07 06:29:33",
     "word_filename": "Optical_Papers_260207.docx",
-    "total_count": 45,
+    "total_count": 72,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69010-1",
@@ -497,6 +497,303 @@
             "journal": "APL Photonics",
             "title_cn": "面向量子存储器的高效宽带光学延迟线",
             "abstract_cn": "我们展示了一种利用嵌套多通道单元架构的高效自由空间光学延迟线。该设计支持低损耗的扩展光路，并辅以定制宽带介电涂层，可在宽光谱带宽内提供高反射率。该单元的特点是使用偏振纠缠光子对，信号光子通过延迟线，空闲光子用作定时参考。对纠缠对进行的量子态断层扫描显示，在单次传输延迟高达 687 ns 后，纠缠保持保真度达到 99.6(9)%，同时光子检索效率达到 95.390(5)%。延迟是可控的，可以设置在 1.8 至 687 ns 之间，增量为 ∼12.6 ns。这些结果使该延迟线成为可扩展量子网络的全光量子存储器和同步模块的有力候选者。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69110-y",
+            "title": "Scalable modular design of solid oxide fuel cell systems for enhanced large-scale power generation",
+            "link": "https://doi.org/10.1038/s41467-026-69110-y",
+            "published": "2026-02-06",
+            "author": "Xinyi Wei, Arthur Waeber, Shivom Sharma, Hangyu Yu, Jan Van herle, François Maréchal",
+            "summary": "Abstract The increasing demand for renewable energy integration and scalable power generation highlights the need for efficient and cost-effective solid oxide fuel cell systems. In this study, we present a modular hybrid design framework that enables flexible solid oxide fuel cell scale-up by interconnecting standardized component modules. We introduce a series-parallel configuration that strategically leverages anode and cathode off-gas recirculation to enhance both electrical and thermal efficiency. Through a detailed case study, we demonstrate that the hybrid design achieves 66.3% electrical efficiency while reducing external water use by 59.9% and fresh air demand by 22%, outperforming conventional system designs. We further conducted a techno-economic analysis across four scale-up strategies and found that the hybrid design delivers the lowest levelized cost of electricity at 0.155 $/kWh. Through this work, we have highlighted the critical trade-offs between centralization and decentralization, high- and low-technology readiness level technologies, and economies of scale versus manufacturing capacity. We believe our findings underscore the potential of modular and standardized systems to provide scalable, efficient, and economically viable solutions for future low-carbon energy infrastructures.",
+            "journal": "Nature Communications",
+            "title_cn": "用于增强大规模发电的固体氧化物燃料电池系统的可扩展模块化设计",
+            "abstract_cn": "摘要 对可再生能源整合和可扩展发电的需求不断增长，凸显了对高效且具有成本效益的固体氧化物燃料电池系统的需求。在这项研究中，我们提出了一种模块化混合设计框架，该框架通过互连标准化组件模块来实现灵活的固体氧化物燃料电池规模化。我们引入了一种串并联配置，该配置战略性地利用阳极和阴极废气再循环来提高电效率和热效率。通过详细的案例研究，我们证明混合设计实现了 66.3% 的电力效率，同时减少了 59.9% 的外部用水量和 22% 的新鲜空气需求，优于传统的系统设计。我们进一步对四种规模化策略进行了技术经济分析，发现混合设计可提供最低的平准电力成本，为 0.155 美元/千瓦时。通过这项工作，我们强调了集中与分散、高技术准备水平和低技术准备水平技术以及规模经济与制造能力之间的关键权衡。我们相信，我们的研究结果强调了模块化和标准化系统为未来低碳能源基础设施提供可扩展、高效且经济可行的解决方案的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-68520-2",
+            "title": "Zebrafish macrophages convert physical wound signals into rapid vascular permeabilization",
+            "link": "https://doi.org/10.1038/s41467-026-68520-2",
+            "published": "2026-02-06",
+            "author": "Zaza Gelashvili, Zhouyang Shen, Yanan Ma, Mark Jelcic, Philipp Niethammer",
+            "summary": "Abstract Blood vessels near injury sites rapidly dilate, become permeable, and release serum and leukocytes into the wounded tissue to support healing and regeneration. How the vasculature senses distant homeostatic tissue perturbations within seconds-to-minutes remains incompletely understood. Using high-speed imaging of live zebrafish larvae, we monitor two hallmark vascular responses to injury: vessel dilation and serum exudation. By genetic, pharmacologic, and osmotic perturbation along with leukocyte depletion, we show that the cPla 2 nuclear membrane mechanotransduction pathway converts a ~ 50 μm/s osmotic wound signal into rapid vessel-permeabilization via perivascular macrophages, 5-lipoxygenase (Alox5a), and leukotriene A4 hydrolase (Lta4h). By revealing a previously undescribed physiological function of nuclear membrane mechanotransduction, we provide real-time insights into the long-range communication of wounds and blood vessels in intact tissue.",
+            "journal": "Nature Communications",
+            "title_cn": "斑马鱼巨噬细胞将物理伤口信号转化为快速血管透化",
+            "abstract_cn": "摘要损伤部位附近的血管迅速扩张，变得具有渗透性，并将血清和白细胞释放到受伤组织中以支持愈合和再生。脉管系统如何在几秒到几分钟内感知远处的稳态组织扰动仍然不完全清楚。利用活体斑马鱼幼虫的高速成像，我们监测了血管对损伤的两种标志性反应：血管扩张和血清渗出。通过遗传、药理学和渗透扰动以及白细胞耗竭，我们发现 cPla 2 核膜机械转导途径通过血管周围巨噬细胞、5-脂氧合酶 (Alox5a) 和白三烯 A4 水解酶 (Lta4h) 将约 50 μm/s 渗透性伤口信号转化为快速血管通透作用。通过揭示以前未描述的核膜机械转导的生理功能，我们提供了对完整组织中伤口和血管的远程通信的实时见解。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36102-3",
+            "title": "In vitro comparative evaluation of the flexural strength of acrylic denture bases reinforced with nano-PEEK and PEEK–zirconia composites",
+            "link": "https://doi.org/10.1038/s41598-026-36102-3",
+            "published": "2026-02-06",
+            "author": "Sara Alrais, Ibrahim Alghoraibi, Alaa Salloum",
+            "summary": "Abstract Poly(methyl methacrylate) (PMMA) is the most widely used denture base material but exhibits limited fracture resistance under functional loads. This study investigates the effect of incorporating zirconia (ZrO 2 ) and polyether ether ketone (PEEK) nanoparticles on the structural and mechanical properties of PMMA. Thirty rectangular heat-cured PMMA specimens (65 × 10 × 2.5 mm) were divided into three groups: Group C (control): unmodified PMMA; Group P: PMMA with 5% PEEK nanoparticles; and Group ZP: PMMA with a hybrid of 2.5% ZrO 2 and 2.5% PEEK nanoparticles. Nanoparticle morphology was analyzed by field emission scanning electron microscopy (FESEM), showing PEEK sizes between 26 and 100 nm and spherical ZrO 2 with a mean diameter of 47 nm. Energy-dispersive X-ray spectrometry (EDXS) was performed on ZrO 2 only. FTIR analysis confirmed interfacial bonding in the hybrid composite. Flexural strength was measured via a three-point bending test. The ZP group exhibited the highest flexural strength (mean: 139.78 MPa), significantly outperforming both P and C groups ( p < 0.05), with no significant difference between P and C. The synergistic addition of ZrO 2 and PEEK nanoparticles significantly improved the mechanical and structural behavior of PMMA, offering a promising strategy to enhance durability and clinical performance of denture base materials in prosthodontics.",
+            "journal": "Scientific Reports",
+            "title_cn": "纳米 PEEK 和 PEEK-氧化锆复合材料增强丙烯酸树脂义齿基托弯曲强度的体外比较评估",
+            "abstract_cn": "摘要 聚甲基丙烯酸甲酯 (PMMA) 是最广泛使用的义齿基托材料，但在功能负载下表现出有限的抗断裂性。本研究研究了掺入氧化锆 (ZrO 2 ) 和聚醚醚酮 (PEEK) 纳米颗粒对 PMMA 结构和机械性能的影响。将 30 个矩形热固化 PMMA 样品（65 × 10 × 2.5 mm）分为三组： C 组（对照）：未改性 PMMA； P组：含有5% PEEK纳米粒子的PMMA； ZP组：具有2.5％ZrO 2 和2.5％PEEK纳米颗粒的混合物的PMMA。通过场发射扫描电子显微镜（FESEM）分析纳米颗粒形态，显示PEEK尺寸在26至100 nm之间，球形ZrO 2 平均直径为47 nm。仅对ZrO 2 进行能量色散X射线光谱测定(EDXS)。 FTIR 分析证实了混合复合材料中的界面结合。通过三点弯曲试验测量弯曲强度。 ZP组表现出最高的弯曲强度（平均值：139.78 MPa），显着优于P组和C组（p < 0.05），P组和C组之间没有显着差异。ZrO 2 和PEEK纳米颗粒的协同添加显着改善了PMMA的机械和结构行为，为提高修复中义齿基托材料的耐久性和临床性能提供了一种有前途的策略。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37743-0",
+            "title": "A lightweight convolutional neural network architecture for violence detection in video sequences",
+            "link": "https://doi.org/10.1038/s41598-026-37743-0",
+            "published": "2026-02-06",
+            "author": "Bhawana Tyagi, Richa Jain, Pankaj Jain, R. Naga Priyadarsini, Ashish Sharma",
+            "summary": "Abstract The escalation of violent incidents in high-density public environments such as political assemblies, concerts, and sports arenas necessitates the development of computationally efficient and accurate real-time violence detection frameworks. Prompt identification of aggressive events from continuous surveillance video streams is critical for initiating rapid countermeasures. However, the task is inherently complex due to spatiotemporal scene variations, illumination inconsistencies, and the intensive computational cost of processing high-dimensional video data. This study introduces a lightweight deep convolutional neural network (CNN) architecture derived from MobileNetV2, optimized through depthwise separable convolutions and inverted residual bottlenecks to achieve significant parameter reduction without compromising classification efficacy. The proposed framework processes video streams by extracting and preprocessing frames (224 × 224 resolution, normalization, augmentation) to enhance generalization and mitigate overfitting. The model was trained and evaluated on two benchmark datasets: the Real-Life Violence Situations Dataset (RLVSD) and the Hockey Fight Dataset (HFD), encompassing balanced classes of violent and non-violent sequences. Empirical evaluation indicates superior performance, attaining 97% accuracy on RLVSD and 94% on HFD, with corresponding gains in precision, recall, and F1-score compared to conventional CNN architectures. Computational profiling confirms substantial efficiency improvements, enabling inference at real-time frame rates on resource-constrained hardware. The proposed methodology demonstrates that optimized lightweight architectures can deliver high-accuracy violence detection while significantly reducing computational overhead. These characteristics make the approach highly deployable in real-world surveillance systems. Future research will focus on temporal feature integration via 3D CNNs or transformer-based models and cross-domain adaptability to heterogeneous video sources.",
+            "journal": "Scientific Reports",
+            "title_cn": "用于视频序列中暴力检测的轻量级卷积神经网络架构",
+            "abstract_cn": "摘要：政治集会、音乐会和体育场馆等高密度公共环境中的暴力事件不断升级，需要开发计算高效、准确的实时暴力检测框架。从连续监控视频流中及时识别攻击性事件对于启动快速对策至关重要。然而，由于时空场景变化、照明不一致以及处理高维视频数据的密集计算成本，该任务本质上是复杂的。本研究引入了源自 MobileNetV2 的轻量级深度卷积神经网络 (CNN) 架构，通过深度可分离卷积和倒置残差瓶颈进行优化，以在不影响分类效果的情况下实现显着的参数减少。所提出的框架通过提取和预处理帧（224×224分辨率、归一化、增强）来处理视频流，以增强泛化并减轻过度拟合。该模型在两个基准数据集上进行了训练和评估：现实生活暴力情境数据集 (RLVSD) 和曲棍球比赛数据集 (HFD)，涵盖暴力和非暴力序列的平衡类别。实证评估表明性能优越，在 RLVSD 上达到 97% 的准确率，在 HFD 上达到 94% 的准确率，与传统的 CNN 架构相比，在精确度、召回率和 F1 分数方面都有相应的提高。计算分析证实了效率的显着提高，从而能够在资源受限的硬件上以实时帧速率进行推理。所提出的方法表明，优化的轻量级架构可以提供高精度的暴力检测，同时显着降低计算开销。这些特性使得该方法在现实世界的监控系统中具有高度的可部署性。未来的研究将侧重于通过 3D CNN 或基于 Transformer 的模型进行时间特征集成，以及对异构视频源的跨域适应性。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38626-0",
+            "title": "Exploring teacher-student interaction through multimodal large language models: an empirical investigation",
+            "link": "https://doi.org/10.1038/s41598-026-38626-0",
+            "published": "2026-02-06",
+            "author": "Guanyu Chen, Guangxin Han, Juan Niu, Juhou He",
+            "summary": "Teacher–student interaction is central to classroom learning, yet traditional observation and machine-learning approaches often remain inefficient and subjective. This study explores the use of multimodal large language models (MLLMs) for systematic analysis of classroom dynamics. We fine-tuned VisualGLM-6B on 2,380 annotated images from 30 classroom videos, covering five interaction types: guided, collaborative, questioning, independent, and exhibitive. LoRA-based fine-tuning combined with prompt engineering was employed to enhance interpretability and domain-specific accuracy. Model performance was assessed through confusion matrices, BERTScore, and expert comparisons. The fine-tuned model achieved 82% overall accuracy, performing best on guided, independent, and exhibitive interactions, while collaborative and questioning types remained challenging. Compared with expert annotation, the model provided more structured and interpretable outputs, though occasional misclassifications and hallucinations persisted. These findings demonstrate the feasibility of applying MLLMs for efficient, objective analysis of teacher–student interactions and highlight future directions such as incorporating audio inputs and larger datasets to further advance educational research methodologies.",
+            "journal": "Scientific Reports",
+            "title_cn": "通过多模态大语言模型探索师生互动：实证研究",
+            "abstract_cn": "师生互动是课堂学习的核心，但传统的观察和机器学习方法往往效率低下且主观。本研究探讨了使用多模态大语言模型（MLLM）对课堂动态进行系统分析。我们对来自 30 个课堂视频的 2,380 张带注释的图像对 VisualGLM-6B 进行了微调，涵盖五种交互类型：引导、协作、提问、独立和展示。采用基于 LoRA 的微调与即时工程相结合来增强可解释性和特定领域的准确性。通过混淆矩阵、BERTScore 和专家比较来评估模型性能。经过微调的模型总体准确率达到 82%，在引导式、独立式和展示式交互中表现最佳，而协作和提问类型仍然具有挑战性。与专家注释相比，该模型提供了更加结构化和可解释的输出，尽管偶尔仍然存在错误分类和幻觉。这些发现证明了应用 MLLM 对师生互动进行高效、客观分析的可行性，并强调了未来的方向，例如合并音频输入和更大的数据集，以进一步推进教育研究方法。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38111-8",
+            "title": "Problematic internet users develop enhanced perceptual processing to offset neural deficits in conflict monitoring",
+            "link": "https://doi.org/10.1038/s41598-026-38111-8",
+            "published": "2026-02-06",
+            "author": "Qiduo Lin, Chih-Mao Huang, Hoi Yan Mak, Bing Li, Hsu-Wen Huang",
+            "summary": "Problematic internet use (PIU) has been extensively studied for its impact on brain function, yet the underlying neural dynamics of information processing remain unclear. This event-related potential (ERP) study employed a numerical Stroop task with congruent, neutral, and incongruent conditions to examine facilitation (congruent–neutral) and interference (incongruent–neutral) effects across multilevel processing stages in individuals with PIU and normal controls. Both group-level and individual-level analyses were conducted to characterize distinct neural patterns and variability. Although behavioral performance was comparable between groups, ERP results revealed differences. The PIU group showed a reduced N450 interference effect, a finding consistent with impaired conflict monitoring. Notably, this neural deficit did not compromise behavioral performance, suggesting the engagement of alternative information processing strategies. Furthermore, ERP facilitation effects were positively correlated with PIU severity, indicate that individuals with PIU may rely more heavily on physical stimulus features across processing stages. This attentional bias aligns with a pattern of heightened early perceptual sensitivity observed in the N100 component. Collectively, these findings suggest that despite deficits in conflict monitoring, individuals with PIU may utilize compensatory attentional mechanisms to maintain performance. This study offers novel insights into the neural architecture of information processing in PIU, highlighting potential compensatory strategies within this population.",
+            "journal": "Scientific Reports",
+            "title_cn": "有问题的互联网用户开发增强的感知处理来抵消冲突监控中的神经缺陷",
+            "abstract_cn": "有问题的互联网使用（PIU）对大脑功能的影响已被广泛研究，但信息处理的潜在神经动力学仍不清楚。这项事件相关电位 (ERP) 研究采用了具有一致、中性和不一致条件的数值 Stroop 任务来检查 PIU 和正常对照个体在多级处理阶段的促进（一致 - 中性）和干扰（不一致 - 中性）效应。进行群体层面和个体层面的分析来表征不同的神经模式和变异性。尽管各组之间的行为表现具有可比性，但 ERP 结果却显示出差异。 PIU 组表现出 N450 干扰效应降低，这一发现与冲突监测受损相一致。值得注意的是，这种神经缺陷并没有损害行为表现，表明需要采用替代的信息处理策略。此外，ERP 促进效应与 PIU 严重程度呈正相关，表明 PIU 个体可能在整个处理阶段更严重地依赖物理刺激特征。这种注意力偏差与 N100 成分中观察到的早期知觉敏感性增强的模式一致。总的来说，这些发现表明，尽管冲突监控存在缺陷，PIU 患者仍可以利用补偿性注意力机制来维持表现。这项研究为 PIU 信息处理的神经结构提供了新颖的见解，强调了该人群中潜在的补偿策略。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38648-8",
+            "title": "Yeast community associated with winter wheat leaves and its sensitivity to fungicides",
+            "link": "https://doi.org/10.1038/s41598-026-38648-8",
+            "published": "2026-02-06",
+            "author": "Helena Randmäe, Regina Pütsepp, Lee Põllumaa, Kersti Kristjuhan, Kersti Lilleväli, Andres Mäe, Riinu Kiiker, Tiina Tamm, Arnold Kristjuhan",
+            "summary": "Microbial communities inhabiting the plant phyllosphere play an important role in plant health, yet their responses to agricultural chemicals remain understudied. Understanding the effect of fungicides is crucial for developing sustainable disease management strategies that preserve beneficial microbial diversity alongside effective pathogen control. This study aimed to characterise the yeast community associated with winter wheat leaves and to assess its sensitivity to fungicides used in conventional agriculture. A total of 34 yeast species were identified from 454 isolates, with 98% belonging to the phylum Basidiomycota. Sporobolomyces roseus was the dominant species, while Vishniacozyma spp. and Rhodotorula babjevae were also frequent. During the vegetation period, the abundance of three species exhibited temporal variation. Fungicide sensitivity profiling revealed that non-target yeasts were more sensitive than Zymoseptoria tritici, the pathogen responsible for septoria tritici blotch, to commonly applied fungicides such as mefentrifluconazole, prothioconazole-desthio, pyraclostrobin, and azoxystrobin. In contrast, fenpicoxamid exhibited the lowest off-target effect while remaining highly active against Z. tritici. These findings highlight the ecological complexity of the wheat phyllosphere and the potential unintended consequences of fungicide use.",
+            "journal": "Scientific Reports",
+            "title_cn": "冬小麦叶片相关酵母菌群落及其对杀菌剂的敏感性",
+            "abstract_cn": "栖息在植物叶圈中的微生物群落在植物健康中发挥着重要作用，但它们对农用化学品的反应仍未得到充分研究。了解杀菌剂的作用对于制定可持续的疾病管理策略至关重要，该策略可在有效控制病原体的同时保留有益的微生物多样性。本研究旨在表征与冬小麦叶片相关的酵母菌群，并评估其对传统农业中使用的杀菌剂的敏感性。从 454 个分离株中总共鉴定出 34 个酵母菌种，其中 98% 属于担子菌门。 Sporobolomyces Roseus 是优势种，而 Vishniacozyma spp.巴布耶瓦红酵母 (Rhodotorula babjevae) 也很常见。在植被期内，三个物种的丰度呈现出时间变化。杀菌剂敏感性分析显示，非目标酵母比小麦发酵菌（引起小麦斑枯病的病原体）对常用杀菌剂（如甲氟康唑、脱硫丙硫菌唑、唑菌胺酯和嘧菌酯）更敏感。相比之下，芬吡沙胺表现出最低的脱靶效应，同时对小麦小麦保持高度活性。这些发现凸显了小麦叶际生态的复杂性以及杀菌剂使用潜在的意外后果。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-33542-1",
+            "title": "Unveiling the metabolic profile and anti-inflammatory potential of apple of Sodom (Calotropis procera (Aiton) W.T.) by UPLC–MS/MS chemometric analysis",
+            "link": "https://doi.org/10.1038/s41598-025-33542-1",
+            "published": "2026-02-06",
+            "author": "Alaa A. El-Banna, Reham S. Ibrahim, Doaa A. Ghareeb, Sarah M. Nassief",
+            "summary": "Abstract Calotropis procera , commonly referred to as the apple of Sodom, is a perennial shrub, notable for its ecological role and extensive use in traditional medicine. This study aims to explore the phytochemical variability among different organs’ extracts of C. procera , specifically stems, leaves, flowers, fruits, and seeds, using ultra-performance liquid chromatography-tandem mass spectrometry (UPLC–MS/MS) and multivariate statistical techniques. A comprehensive analysis identified 112 distinct phytoconstituents, with unique profiles observed across the various organs’ extracts. The study further assessed the anti-inflammatory potential of these extracts by examining their effects on the gene expression of key pro-inflammatory cytokines (TNF-α, IL-1β, IL-6, and INF-γ) in lipopolysaccharide (LPS)-stimulated human white blood cells. Results indicate that the extracts from flowers and fruits significantly downregulated IL-1β expression to levels lower than those exhibited by piroxicam, indicating their proficient inflammation inhibitory efficacy. Orthogonal Projection to Latent Structures (OPLS) coefficient plots unraveled that methyldimethoxycinnamate, vinyloxybutanol, butanediol dibenzoate, pyroterebic acid and ursenone are the key biomarkers accountable for this efficacy. This research underscores C. procera 's pharmacological significance, providing a scientific foundation for its traditional medicinal applications. The findings highlight the necessity for further investigations into the mechanistic pathways of its bioactive compounds and their implications for developing novel anti-inflammatory therapies.",
+            "journal": "Scientific Reports",
+            "title_cn": "通过 UPLC-MS/MS 化学计量分析揭示索多玛苹果 (Calotropis procera (Aiton) W.T.) 的代谢特征和抗炎潜力",
+            "abstract_cn": "摘要 Calotropis procera，通常被称为所多玛的苹果，是一种多年生灌木，以其生态作用和在传统医学中的广泛用途而闻名。本研究旨在利用超高效液相色谱-串联质谱 (UPLC-MS/MS) 和多元统计技术，探讨 C. procera 不同器官提取物（特别是茎、叶、花、果实和种子）之间的植物化学变异性。综合分析确定了 112 种不同的植物成分，并在不同器官的提取物中观察到独特的特征。该研究通过检查这些提取物对脂多糖 (LPS) 刺激的人白细胞中关键促炎细胞因子（TNF-α、IL-1β、IL-6 和 INF-γ）基因表达的影响，进一步评估了这些提取物的抗炎潜力。结果表明，花和果实提取物显着下调 IL-1β 表达至低于吡罗昔康的水平，表明其具有良好的炎症抑制功效。潜在结构正交投影 (OPLS) 系数图表明，二甲氧基肉桂酸甲酯、乙烯氧基丁醇、二苯甲酸丁二醇酯、焦特菌酸和乌尔索酮是造成这种功效的关键生物标志物。这项研究强调了C. procera 的药理学意义，为其传统医学应用提供了科学基础。这些发现强调了进一步研究其生物活性化合物的机制途径及其对开发新型抗炎疗法的意义的必要性。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-31683-x",
+            "title": "High precision classification of hot rolled strip steel surface defects using dual path features and entropy attention fusion",
+            "link": "https://doi.org/10.1038/s41598-025-31683-x",
+            "published": "2026-02-06",
+            "author": "Yuanlin Wang, Yiming Lu, Fenghua Zhu, Guangyue Du, Zheng Li",
+            "summary": "In the context of industrial hot-rolled strip steel surface defect detection, where the demands for real-time performance and classification accuracy are paramount, we present EAF-DenseNet121–a lightweight, enhanced model that incorporates edge-entropy attention mechanisms. At the inception of the DenseNet121 architecture, we incorporate a learnable Sobel-based edge extraction branch, which is designed to adaptively delineate defect contours with precision. We have designed an Entropy-Attention Fusion (EAF) module to further refine the model’s performance. This module constructs a four-dimensional tensor, integrating the primary feature map, edge map, and their corresponding local entropy maps. By applying dual-path channel-wise and spatial attention, we achieve a weighted fusion of information, thereby enriching the feature representation. The EAF module replaces three pivotal convolutional layers within the DenseNet framework–immediately following the initial convolution and subsequent to the first and second Transition layers. This replacement enhances feature representation with a negligible increase in additional parameters, leading to a substantial improvement in defect recognition and classification accuracy. Our experimental results, obtained on the NEU-DET dataset, reveal that the enhanced model achieves a classification accuracy of 99.17%, representing an improvement of 2.78% over the baseline. Furthermore, on the GC10-DET dataset, the model achieves a classification accuracy of 82.89%, further validating its strong generalization capabilities.",
+            "journal": "Scientific Reports",
+            "title_cn": "利用双路径特征和熵注意力融合对热轧带钢表面缺陷进行高精度分类",
+            "abstract_cn": "在工业热轧带钢表面缺陷检测的背景下，实时性能和分类精度的要求至关重要，我们提出了 EAF-DenseNet121——一种结合了边缘熵注意机制的轻量级增强模型。在 DenseNet121 架构之初，我们结合了一个可学习的基于 Sobel 的边缘提取分支，该分支旨在自适应地精确描绘缺陷轮廓。我们设计了熵注意力融合（EAF）模块来进一步完善模型的性能。该模块构建了一个四维张量，整合了主要特征图、边缘图及其相应的局部熵图。通过应用双路径通道和空间注意力，我们实现了信息的加权融合，从而丰富了特征表示。 EAF 模块取代了 DenseNet 框架中的三个关键卷积层——紧接在初始卷积之后以及第一和第二转换层之后。这种替换增强了特征表示，而附加参数的增加可以忽略不计，从而显着提高了缺陷识别和分类准确性。我们在 NEU-DET 数据集上获得的实验结果表明，增强模型的分类准确率达到 99.17%，比基线提高了 2.78%。此外，在GC10-DET数据集上，该模型实现了82.89%的分类准确率，进一步验证了其强大的泛化能力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39237-5",
+            "title": "Evaluating AI-powered learning assistants in engineering higher education with implications for student engagement, ethics, and policy",
+            "link": "https://doi.org/10.1038/s41598-026-39237-5",
+            "published": "2026-02-06",
+            "author": "Ramteja Sajja, Yusuf Sermet, Brian Fodale, Ibrahim Demir",
+            "summary": "As generative AI becomes increasingly integrated into higher education, understanding how students engage with these technologies is essential for responsible adoption. This study evaluates the Educational AI Hub, an AI-powered learning framework, implemented in undergraduate civil and environmental engineering courses at a large R1 public university. Using a mixed-methods design combining pre- and post-surveys, system usage logs, and qualitative analysis of students’ AI interactions, the research examines perceptions of trust, ethics, usability, and learning outcomes. Findings show that students valued the AI assistant for its accessibility and comfort, with nearly half reporting greater ease using it than seeking help from instructors or teaching assistants. The tool was most helpful for completing homework and understanding concepts, though views on its instructional quality were mixed. Ethical uncertainty, particularly around institutional policy and academic integrity, emerged as a key barrier to full engagement. Overall, students regarded AI as a supplement rather than a replacement for human instruction. The study highlights the importance of usability, ethical transparency, and faculty guidance in promoting meaningful AI engagement. A total of 71 students participated across two courses, generating over 600 AI interactions and 100 survey responses that provided both quantitative and contextual insights into learning engagement.",
+            "journal": "Scientific Reports",
+            "title_cn": "评估工程高等教育中人工智能驱动的学习助手对学生参与、道德和政策的影响",
+            "abstract_cn": "随着生成式人工智能越来越多地融入高等教育，了解学生如何使用这些技术对于负责任地采用这些技术至关重要。本研究评估了教育人工智能中心（Educational AI Hub），这是一个人工智能驱动的学习框架，在一所大型 R1 公立大学的本科土木和环境工程课程中实施。该研究采用混合方法设计，结合事前和事后调查、系统使用日志以及学生人工智能交互的定性分析，考察了对信任、道德、可用性和学习成果的看法。调查结果显示，学生们看重人工智能助手的易用性和舒适性，近一半的学生表示使用它比向教师或助教寻求帮助更容易。该工具对于完成作业和理解概念最有帮助，尽管对其教学质量的看法不一。道德不确定性，特别是围绕机构政策和学术诚信的不确定性，成为全面参与的主要障碍。总体而言，学生们将人工智能视为人类教学的补充而不是替代。该研究强调了可用性、道德透明度和教师指导在促进有意义的人工智能参与方面的重要性。共有 71 名学生参与了两门课程，产生了 600 多次 AI 互动和 100 份调查回复，提供了有关学习参与度的定量和情境见解。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s42256-026-01191-2",
+            "title": "Identifying spatial single-cell-level interactions with graph transformer",
+            "link": "https://doi.org/10.1038/s42256-026-01191-2",
+            "published": "2026-02-06",
+            "author": "Xiangzheng Cheng, Suoqin Jin",
+            "summary": "Identifying cell–cell interactions from imaging-based spatial transcriptomics suffers from limited gene panels. A new self-supervised graph transformer-based method can resolve spatial single-cell-level interactions without requiring known ligand–receptor pairs.",
+            "journal": "Nature Machine Intelligence",
+            "title_cn": "使用图转换器识别空间单细胞级相互作用",
+            "abstract_cn": "从基于成像的空间转录组学中识别细胞间相互作用受到有限的基因组的影响。一种新的基于自监督图转换器的方法可以解决空间单细胞水平的相互作用，而不需要已知的配体-受体对。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41551-025-01608-0",
+            "title": "Learning neuroimaging models from health system-scale data",
+            "link": "https://doi.org/10.1038/s41551-025-01608-0",
+            "published": "2026-02-06",
+            "author": "Yiwei Lyu, Samir Harake, Asadur Chowdury, Soumyanil Banerjee, Rachel Gologorsky, Shixuan Liu, Anna-Katharina Meissner, Akshay Rao, Chenhui Zhao, Akhil Kondepudi, Cheng Jiang, Xinhai Hou, Rushikesh S. Joshi, Volker Neuschmelting, Ashok Srinivasan, Dawn Kleindorfer, Brian Athey, Vikas Gulani, Aditya Pandey, Honglak Lee, Todd Hollon",
+            "summary": "Prima is an AI foundation model for neuroimaging based on clinical magnetic resonance imaging that offers accurate and explainable diagnostics, worklist priority for radiologists and clinical referral recommendations with equitable performance on diverse groups.",
+            "journal": "Nature Biomedical Engineering",
+            "title_cn": "从卫生系统规模的数据中学习神经影像模型",
+            "abstract_cn": "Prima 是一种基于临床磁共振成像的神经影像人工智能基础模型，可提供准确且可解释的诊断、放射科医生的工作清单优先级以及在不同群体中具有公平表现的临床转诊建议​​。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41566-025-01841-8",
+            "title": "Super-broadband stimulated Raman scattering spectroscopy and imaging",
+            "link": "https://doi.org/10.1038/s41566-025-01841-8",
+            "published": "2026-02-06",
+            "author": "Jin Guo, Mingzhen Wang, Qiaozhi Yu, Haojie Zhang, Jiakai Wang, Qian Zhang, Yafeng Qi, Zhuowen Wang, Jinxin Liu, He Sun, Jing Ren, Xiuqin Zhang, Wenhao Yu, Xiang Yu, Wenzhe Si, Hanqing Xiong",
+            "summary": "A stimulated Raman scattering method based on dual-band laser-induced quantum interference enables ultra broadband and rapid hyperspectral Raman imaging of biological tissue and the detection of up to 11 key biomarkers in human serum.",
+            "journal": "Nature Photonics",
+            "title_cn": "超宽带受激拉曼散射光谱和成像",
+            "abstract_cn": "基于双波段激光诱导量子干涉的受激拉曼散射方法能够对生物组织进行超宽带和快速高光谱拉曼成像，并检测人血清中多达 11 种关键生物标志物。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114861",
+            "title": "Integrated optical wireless positioning and multi-user communication based on petal-shift keying structured beams",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114861",
+            "published": "2026-06-01",
+            "author": "Haoyu Huang, Meixia Ma, You Wu, Syed Agha Hassnain Mohsan, Dongmei Deng, Qian Li, H.Y. Fu",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "基于瓣移键控结构光束的集成光学无线定位和多用户通信",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114874",
+            "title": "Effect of process parameters on the dimension and morphology of laser cladded WC-Ni composite coatings prepared by picosecond laser surface texturing",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114874",
+            "published": "2026-06-01",
+            "author": "Guangpei Lin, Guangyuan Yu, Zhaobing Cai, Le Gu, Zhen Dong, Peng Zhang, Qiwei Wang, Jun Wang, Xingchen Yan, Bingwen Lu",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "工艺参数对皮秒激光表面织构激光熔覆WC-Ni复合涂层尺寸和形貌的影响",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.133001",
+            "title": "Phase-insensitive shaping distribution identification in rate-adaptive PCS-MQAM optical transmission systems via exact likelihood evaluation with score-based generative models",
+            "link": "https://doi.org/10.1016/j.optcom.2026.133001",
+            "published": "2026-02-01",
+            "author": "Yiwen Zhang, Wenhui Ma, Yamin Huang, Xuezhi Hong",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "通过基于分数的生成模型的精确似然评估，识别速率自适应 PCS-MQAM 光传输系统中的相位不敏感整形分布",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.133002",
+            "title": "Breaking reciprocity via beam shifts in Weyl Semimetal Interfaces with nonreciprocal Goos-Hänchen amplification",
+            "link": "https://doi.org/10.1016/j.optcom.2026.133002",
+            "published": "2026-02-01",
+            "author": "Yuliang Zhi, Xin Cui, Fenglin Xian, Shixin Pei, Gaige Zheng",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "通过非互易古斯-汉兴放大的 Weyl 半金属界面中的光束位移打破互易性",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.585055",
+            "title": "Quantitative modeling of nonlinear phase asymmetry for enhanced self-starting in all-PM NALM fiber oscillators",
+            "link": "https://doi.org/10.1364/oe.585055",
+            "published": "2026-01-30",
+            "author": "Enqi Zhang, Xingyuan Long, Jiayu He, Yibo Ma, Haizhe Zhong, Chunyu Guo, Peiguang Yan, Zhongqun Zhan, Hui Zhang, Jinzhang Wang",
+            "summary": "We report a quantitative framework for predicting and optimizing the self-starting performance of ultrafast all-polarization-maintaining (PM) nonlinear amplifying loop mirror (NALM) fiber oscillators, where reliable startup remains a key challenge. By introducing a nonlinear phase-asymmetry factor into an analytically defined figure of merit (FoM), the coupled effects of power splitting ratio, nonreciprocal phase bias, and structural asymmetry on small-signal transmission are unified into a single predictive model. The FoM accurately identifies the optimal startup condition and its evolution with increased loop asymmetry. To experimentally validate the theory, short segments of PM highly nonlinear fiber (HNLF) were inserted asymmetrically inside the loop to controllably enhance the nonlinear phase imbalance. As the HNLF length increases from 0 to 0.97 m, the pump threshold is reduced from 920 mW to 273 mW, in excellent agreement with the FoM-predicted trend. Numerical simulations further reproduce the measured spectral and temporal characteristics and enable quantitative extraction of the asymmetry factor, completing the model validation. This FoM-based approach thus provides the first experimentally verified quantitative guideline for designing robust, low-threshold, and environmentally stable PM-NALM fiber oscillators.",
+            "journal": "Optics Express",
+            "title_cn": "用于增强全保偏 NALM 光纤振荡器自启动的非线性相位不对称的定量建模",
+            "abstract_cn": "我们报告了一个用于预测和优化超快全保偏（PM）非线性放大环路镜（NALM）光纤振荡器自启动性能的定量框架，其中可靠启动仍然是一个关键挑战。通过将非线性相位不对称因子引入到分析定义的品质因数 (FoM) 中，功率分配比、不可逆相位偏差和结构不对称对小信号传输的耦合效应被统一到单个预测模型中。 FoM 可以准确识别最佳启动条件及其随环路不对称性增加的演变。为了通过实验验证该理论，将短段保偏高非线性光纤 (HNLF) 不对称地插入环路内部，以可控地增强非线性相位不平衡。随着 HNLF 长度从 0 增加到 0.97 m，泵浦阈值从 920 mW 降低到 273 mW，与 FoM 预测的趋势非常一致。数值模拟进一步重现测量的光谱和时间特性，并能够定量提取不对称因子，完成模型验证。因此，这种基于 FoM 的方法为设计稳健、低阈值和环境稳定的 PM-NALM 光纤振荡器提供了第一个经过实验验证的定量指南。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.586388",
+            "title": "Stiffness-optimized precession motion control for compliant bonnet polishing of high-gradient curved surfaces",
+            "link": "https://doi.org/10.1364/oe.586388",
+            "published": "2026-01-26",
+            "author": "Pengli Lei, Bo Zhong, Xiaoping Zheng, Fei Fan, Wenhui Deng, Baojian Ji, Ming Wang, Chengshuo Liu, Qiao Xu",
+            "summary": "Conventional motion control algorithms in bonnet polishing of high-gradient curved surfaces face challenges such as unreachable tool trajectories and insufficient dynamic response at large tilt angles, significantly limiting the adaptability and machining accuracy of bonnet polishing for complex surface geometries. To address these issues, this paper proposes a what we believe to be novel precession motion control method for high-gradient surface bonnet polishing based on stiffness-optimal solutions. Using multi-body system theory, a mapping relationship among the workpiece normal vector at the machining point, the spindle vector, and the rotary axis angles of the machine tool is established. By minimizing the B-axis tilt angle as the stiffness-optimal condition, a constrained spindle vector model for the bonnet tool is developed, and the corresponding A/B-axis angles are derived through inverse kinematic solutions. Furthermore, a spindle vector homogenization distribution algorithm based on axis velocity constraints is proposed to achieve synchronized dynamic response between the A and B rotary axes. By integrating stiffness optimization and axis dynamic response as joint constraints, this study develops an optimized precession motion control algorithm for high-gradient surface bonnet polishing. The achievable machining gradient is increased from 20° to over 35°, enabling high-precision conformal polishing of large-aperture high-gradient optical surfaces with a form preservation rate of 91.5%. This advancement significantly enhances the engineering applicability of the polishing technology.",
+            "journal": "Optics Express",
+            "title_cn": "刚度优化的进动运动控制，用于高梯度曲面的顺应阀盖抛光",
+            "abstract_cn": "传统的阀盖抛光高梯度曲面运动控制算法面临刀具轨迹无法到达、大倾角动态响应不足等挑战，严重限制了阀盖抛光对复杂曲面几何形状的适应性和加工精度。为了解决这些问题，本文提出了一种我们认为是基于刚度优化解决方案的高梯度表面阀盖抛光的新型进动运动控制方法。利用多体系统理论，建立了加工点处工件法向量、主轴向量和机床回转轴角度之间的映射关系。通过最小化 B 轴倾斜角作为刚度最佳条件，开发了阀盖工具的约束主轴矢量模型，并通过逆运动学解导出相应的 A/B 轴角度。此外，提出了一种基于轴速度约束的主轴矢量均匀化分配算法，以实现A、B旋转轴之间的同步动态响应。通过将刚度优化和轴动态响应集成为关节约束，本研究开发了一种用于高梯度表面阀盖抛光的优化进动运动控制算法。可实现的加工梯度从20°增加到35°以上，可实现大孔径高梯度光学表面的高精度保形抛光，形状保持率高达91.5%。这一进步显着增强了抛光技术的工程适用性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582490",
+            "title": "Broadband quantum photon source in a step-chirped periodically poled lithium niobate waveguide",
+            "link": "https://doi.org/10.1364/oe.582490",
+            "published": "2026-01-26",
+            "author": "Xiao-Xu Fang, Guoliang Shentu, He Lu",
+            "summary": "Broadband nonlinear optical devices play a critical role in both classical and quantum optics. Here, we design and fabricate a 6.82-mm-long step-chirped periodically poled lithium niobate (CPPLN) waveguide on lithium niobate on insulator, which enables quasi-phase matching over a broad bandwidth for second-harmonic generation (SHG) and spontaneous parametric down-conversion (SPDC). The SHG achieves an average efficiency of 91%/W/cm 2 over the first-harmonic wavelength range of 1510 nm–1620 nm, paving the way for realizing SPDC across a wide range of pump wavelengths. For SPDC, by tuning the pump wavelength to 775 nm, 780 nm, and 785 nm, we achieve broadband photon-pair generation with a maximum full bandwidth and brightness up to 99 THz (846 nm) and 21 MHz/mW/nm, respectively. Our findings provide an efficient and experiment-friendly approach for generating broadband photon pairs, which holds significant promise for advancing applications in quantum metrology.",
+            "journal": "Optics Express",
+            "title_cn": "阶梯啁啾周期性极化铌酸锂波导中的宽带量子光子源",
+            "abstract_cn": "宽带非线性光学器件在经典光学和量子光学中都发挥着至关重要的作用。在这里，我们在绝缘体上的铌酸锂上设计并制造了一个 6.82 毫米长的步进啁啾周期性极化铌酸锂 (CPPLN) 波导，它能够在宽带宽上实现二次谐波生成 (SHG) 和自发参量下变频 (SPDC) 的准相位匹配。 SHG在1510 nm-1620 nm的一次谐波波长范围内实现了91%/W/cm 2 的平均效率，为在宽泵浦波长范围内实现SPDC铺平了道路。对于 SPDC，通过将泵浦波长调谐到 775 nm、780 nm 和 785 nm，我们实现了宽带光子对生成，最大全带宽和亮度分别高达 99 THz (846 nm) 和 21 MHz/mW/nm。我们的研究结果提供了一种有效且易于实验的方法来生成宽带光子对，这对于推进量子计量学的应用具有重大前景。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.582270",
+            "title": "Efficient hybrid aberration spatial-calibrated 3D network for liquid-lens-based diffractive spectral imaging",
+            "link": "https://doi.org/10.1364/oe.582270",
+            "published": "2026-01-26",
+            "author": "Chenxi Li, Hao Fan, Bo Gao, Yuwei Chen, JianQin Qin, Xuming Zhang, Guancheng Shen, Weixing Yu",
+            "summary": "Liquid-lens-based diffractive computational spectral imaging represents one of the most promising approaches for miniaturized spectral imaging, while it suffers from image degradation caused by the coexistence of aberrations and spatial variations. To address this challenge, we propose a highly accurate and efficient hybrid aberration spatial-calibrated 3D (HASC3D) network for liquid-lens-based diffractive spectral imaging. The proposed HASC3D network integrates a hybrid aberration-spatial calibration module with a 3D convolution-enhanced U-Net architecture, significantly improving the reconstruction quality of spectral images. The custom-built imaging system, composed of a diffractive lens and a tunable liquid lens, enables nine-channel multispectral reconstruction over the 510–590 nm wavelength range with 10 nm spectral resolution. The reconstructed multispectral images achieved a peak signal-to-noise ratio (PSNR) of 24.67 dB and a structural similarity index (SSIM) of 0.67, demonstrating a clear improvement over the conventional reconstruction algorithm. With its strong correction capability and superior imaging performance, the proposed HASC3D algorithm provides a promising pathway for compact, portable, and high-performance spectral imaging technologies.",
+            "journal": "Optics Express",
+            "title_cn": "用于基于液体透镜的衍射光谱成像的高效混合像差空间校准 3D 网络",
+            "abstract_cn": "基于液体透镜的衍射计算光谱成像是小型化光谱成像最有前途的方法之一，但它由于像差和空间变化的共存而导致图像质量下降。为了应对这一挑战，我们提出了一种高精度、高效的混合像差空间校准 3D (HASC3D) 网络，用于基于液体透镜的衍射光谱成像。所提出的HASC3D网络将混合像差空间校准模块与3D卷积增强的U-Net架构集成在一起，显着提高了光谱图像的重建质量。定制的成像系统由衍射透镜和可调液体透镜组成，可在 510-590 nm 波长范围内进行九通道多光谱重建，光谱分辨率为 10 nm。重建的多光谱图像的峰值信噪比（PSNR）为24.67 dB，结构相似指数（SSIM）为0.67，较传统重建算法有明显的改进。凭借其强大的校正能力和卓越的成像性能，所提出的HASC3D算法为紧凑、便携式和高性能光谱成像技术提供了一条有前途的途径。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.585807",
+            "title": "Distributed refractive index sensing with cascaded TFBGs via derivative spectrum analysis",
+            "link": "https://doi.org/10.1364/oe.585807",
+            "published": "2026-02-05",
+            "author": "Jieqing Zheng, Xuehao Hu, Karima Chah, Christophe Caucheteur",
+            "summary": "Tilted fiber Bragg gratings (TFBGs) are highly sensitive refractometric probes, but their broad cladding-mode spectra have long been considered incompatible with wavelength-division multiplexing. As a result, TFBG refractive-index sensors are generally restricted to single-point operation, despite their inherent advantages. Here, we demonstrate for the first time that multiple bare, uncoated TFBGs (inscribed with distinct grating periods and tilt angles) can be cascaded within a single-mode fiber and independently interrogated over an 80-nm bandwidth. Although the cladding-mode spectra strongly overlap, we show that first-order derivative spectrum analysis isolates the local slope of each cut-off mode, effectively suppressing the envelope distortions typically induced by upstream gratings. This enables reliable and decoupled multipoint refractive-index sensing, with sensitivities of 52-58 nm/RIU that are fully consistent with intrinsic TFBG performance in aqueous media and remain stable after cascading. The derivative method enhances the demodulation accuracy by up to 65% and preserves linearity (R 2 = 0.94-0.98) while maintaining cross-talk below 0.03 nm. These results overturn the longstanding belief that TFBG refractometers cannot be multiplexed, paving the way for compact, low-cost, and scalable quasi-distributed chemical and biological sensing networks based on TFBG arrays.",
+            "journal": "Optics Express",
+            "title_cn": "通过导数光谱分析使用级联 TFBG 进行分布式折射率传感",
+            "abstract_cn": "倾斜光纤布拉格光栅 (TFBG) 是高度灵敏的折射探头，但其宽包层模光谱长期以来一直被认为与波分复用不兼容。因此，尽管 TFBG 折射率传感器具有固有的优势，但通常仅限于单点操作。在这里，我们首次证明多个裸露、未涂层的 TFBG（刻有不同的光栅周期和倾斜角）可以在单模光纤内级联，并在 80 nm 带宽上独立询问。尽管包层模式光谱强烈重叠，但我们表明一阶导数光谱分析隔离了每个截止模式的局部斜率，有效抑制了通常由上游光栅引起的包络畸变。这可实现可靠且解耦的多点折射率传感，其灵敏度为 52-58 nm/RIU，与水介质中的固有 TFBG 性能完全一致，并在级联后保持稳定。导数方法将解调精度提高高达 65%，并保持线性度 (R 2 = 0.94-0.98)，同时将串扰保持在 0.03 nm 以下。这些结果推翻了人们长期以来对 TFBG 折光仪无法复用的看法，为基于 TFBG 阵列的紧凑、低成本和可扩展的准分布式化学和生物传感网络铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584669",
+            "title": "All-telecentric multi-camera microscopic FPP: Scheimpflug calibration and reprojection-based multi-view fusion",
+            "link": "https://doi.org/10.1364/oe.584669",
+            "published": "2026-01-26",
+            "author": "Chenfan Zhang, Dongchen Zhu, Jun Liu, Lei Wang, Jiamao Li",
+            "summary": "Microscopic fringe projection profilometry (MFPP) is a key technique for recovering 3D structure at the microscopic scale. However, conventional single-view setups perform poorly on complex specimens, where self-occlusion and specular saturation compromise measurement completeness and accuracy. This article presents an all-telecentric multi-camera MFPP system comprising a vertical telecentric projector and four oblique Scheimpflug telecentric cameras arranged at 90 ∘ intervals. To calibrate the system, we introduce a pipeline that 1) fits the full projection matrix from multi-pose images, 2) decomposes it into intrinsic and extrinsic parameters, and 3) performs bundle-adjusted joint calibration to align all devices in a common reference coordinate frame. This approach mitigates the ill-conditioning and scale drift typical of methods that separate intrinsics and extrinsics prematurely. For reconstruction, we establish cross-view correspondences using phase-consistent reprojection and perform modulation-weighted fusion with adaptive mismatch rejection. This strategy preserves high-quality observations, suppresses redundancy-induced bias, and fills visibility gaps while maintaining boundary fidelity. Experiments on standard targets and complex specimens show higher completeness and consistency relative to single-view and conventional multi-view baselines, demonstrating that an all-telecentric design coupled with the proposed calibration and fusion methods enables accurate and robust microscopic 3D measurement.",
+            "journal": "Optics Express",
+            "title_cn": "全远心多摄像头显微FPP：Scheimpflug校准和基于重投影的多视点融合",
+            "abstract_cn": "显微条纹投影轮廓术（MFPP）是在微观尺度上恢复 3D 结构的关键技术。然而，传统的单视图设置在复杂样本上表现不佳，其中自遮挡和镜面饱和会影响测量的完整性和准确性。本文介绍了一种全远心多相机 MFPP 系统，包括一个垂直远心投影仪和四个以 90 ∘ 间隔排列的倾斜 Scheimpflug 远心相机。为了校准系统，我们引入了一个管道，1）拟合来自多姿势图像的完整投影矩阵，2）将其分解为内在和外在参数，3）执行束调整联合校准，以在公共参考坐标系中对齐所有设备。这种方法减轻了过早分离内在因素和外在因素的方法中典型的病态条件和尺度漂移。对于重建，我们使用相位一致重投影建立跨视图对应，并通过自适应失配抑制执行调制加权融合。该策略保留了高质量的观测结果，抑制了冗余引起的偏差，并在保持边界保真度的同时填补了可见性空白。对标准目标和复杂样本的实验显示出相对于单视图和传统多视图基线更高的完整性和一致性，证明全远心设计与所提出的校准和融合方法相结合能够实现精确且稳健的显微 3D 测量。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.582538",
+            "title": "Effect of concentration, lumpiness, aggregation, and cluster compaction on optical properties of particulate media",
+            "link": "https://doi.org/10.1364/optcon.582538",
+            "published": "2026-01-12",
+            "author": "William E. Vargas",
+            "summary": "A four-flux radiative transfer model is used to evaluate diffuse reflectance and transmittance spectra of plane-parallel particulate materials. External parameters, including scattering and absorption cross sections, forward scattering ratios, and average path length parameters, are calculated utilizing Lorenz-Mie theory for independent scattering and a transition matrix approach for near-field dependent scattering evaluations. The formalism is applied to sub-micron-sized spherical titanium dioxide pigments in an aqueous-polymer matrix to evaluate their reflectance and transmittance spectra in the range of 0.3 to 1.5 μm in wavelength. The particle concentration, the degree of lumpiness, the number of particles per cluster, and the cluster compaction are varied to quantify the effect of dependent scattering. What we believe to be a novel scheme is introduced to model the morphology of samples in terms of a volume fraction occupied by particles that do not form aggregates and another fraction corresponding to particles that are part of aggregates, as well as the lumpiness of the sample and compaction of the clusters. A more detailed analysis is carried out for specific wavelengths in the ultraviolet, visible, and near infrared to correlate the variation of reflectance and transmittance due to dependent scattering with the propagating fluxes.",
+            "journal": "Optics Continuum",
+            "title_cn": "浓度、块度、聚集和簇压实对颗粒介质光学特性的影响",
+            "abstract_cn": "四通量辐射传输模型用于评估平面平行颗粒材料的漫反射率和透射率光谱。外部参数（包括散射和吸收截面、前向散射比和平均路径长度参数）是利用用于独立散射的 Lorenz-Mie 理论和用于近场相关散射评估的过渡矩阵方法来计算的。该形式应用于水性聚合物基质中的亚微米级球形二氧化钛颜料，以评估其在波长 0.3 至 1.5 μm 范围内的反射率和透射率光谱。改变颗粒浓度、块度、每个簇的颗粒数量以及簇压实度来量化相关散射的影响。我们认为，引入了一种新颖的方案，根据不形成聚集体的颗粒所占的体积分数和与作为聚集体一部分的颗粒相对应的另一部分，以及样品的块度和簇的压实度来对样品的形态进行建模。对紫外线、可见光和近红外线中的特定波长进行更详细的分析，以将由于相关散射与传播通量引起的反射率和透射率的变化关联起来。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41377-026-02191-y",
+            "title": "Editors at the frontier: from the editorial desk to the research lab",
+            "link": "https://doi.org/10.1038/s41377-026-02191-y",
+            "published": "2026-02-06",
+            "author": "Siqiu Guo, Fei Ding",
+            "summary": "Abstract not available.",
+            "journal": "Light: Science & Applications",
+            "title_cn": "前沿编辑：从编辑部到研究实验室",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41377-026-02203-x",
+            "title": "Plasmonic nanocavity-enabled universal detection of layer-breathing vibrations in two-dimensional materials",
+            "link": "https://doi.org/10.1038/s41377-026-02203-x",
+            "published": "2026-02-06",
+            "author": "Heng Wu, Miao-Ling Lin, Sen Yan, Lin-Shang Chen, Zhong-Jie Wang, Yi-Fei Zhang, Ti-Ying Zhu, Zheng-Yu Su, Jun Wang, Xue-Lu Liu, Zhong-Ming Wei, Yan-Meng Shi, Xiang Wang, Bin Ren, Ping-Heng Tan",
+            "summary": "Abstract Conventional Raman spectroscopy faces inherent limitations in detecting interlayer layer-breathing (LB) vibrations with inherently weak electron-phonon coupling or Raman inactivity in two-dimensional materials, hindering insights into interfacial coupling and stacking dynamics. Here, we demonstrate a universal plasmon-enhanced Raman spectroscopy strategy using gold or silver nanocavities to strongly enhance and detect LB modes in multilayer graphene, hBN, and their van der Waals heterostructures. Plasmonic nanocavities even modify the linear and circular polarization selection rules of the LB vibrations. By developing an electric-field-modulated interlayer bond polarizability model, we quantitatively explain the observed intensity profiles and reveal the synergistic roles of localized plasmonic field enhancement and interfacial polarizability modulation. This model successfully describes the behavior of plasmon-enhanced LB vibrations across different material systems and nanocavity geometries. This work not only overcomes traditional detection barriers but also provides a quantitative framework for probing interlayer interactions, offering a versatile platform for investigating hidden interfacial phonons and advancing the characterization of layered quantum materials.",
+            "journal": "Light: Science & Applications",
+            "title_cn": "基于等离子体纳米腔的二维材料层呼吸振动的通用检测",
+            "abstract_cn": "摘要 传统拉曼光谱在检测二维材料中固有的弱电子声子耦合或拉曼不活动的层间层呼吸（LB）振动方面面临着固有的局限性，阻碍了对界面耦合和堆积动力学的深入了解。在这里，我们展示了一种通用的等离子体增强拉曼光谱策略，使用金或银纳米腔来强烈增强和检测多层石墨烯、六方氮化硼及其范德华异质结构中的LB模式。等离子体纳米腔甚至改变了 LB 振动的线偏振和圆偏振选择规则。通过开发电场调制的层间键极化率模型，我们定量解释了观察到的强度分布，并揭示了局域等离子体场增强和界面极化率调制的协同作用。该模型成功描述了不同材料系统和纳米腔几何结构中等离激元增强的 LB 振动的行为。这项工作不仅克服了传统的检测障碍，而且还提供了探测层间相互作用的定量框架，为研究隐藏的界面声子和推进层状量子材料的表征提供了一个多功能平台。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41377-026-02187-8",
+            "title": "Two-optical-cycle pulses from nanophotonic two-color soliton compression",
+            "link": "https://doi.org/10.1038/s41377-026-02187-8",
+            "published": "2026-02-06",
+            "author": "Robert M. Gray, Ryoto Sekine, Maximilian Shen, Thomas Zacharias, James Williams, Selina Zhou, Rahul Chawlani, Luis Ledezma, Nicolas Englebert, Alireza Marandi",
+            "summary": "Abstract Few- and single-cycle optical pulses and their associated ultra-broadband spectra have been crucial in the progress of ultrafast science and technology. Moreover, multi-color waveforms composed of independently manipulable ultrashort pulses in distinct spectral bands offer unique advantages in pulse synthesis and attosecond science. However, the generation and control of ultrashort pulses has required bulky and expensive optical systems at the tabletop scale and has so far been beyond the reach of integrated photonics. Here, we break these limitations and demonstrate two-optical-cycle pulse compression using quadratic two-color soliton dynamics in lithium niobate nanophotonics. By leveraging dispersion engineering and operation near phase matching, we achieve extreme compression, energy-efficient operation, and strong conversion of pump to the second harmonic. We experimentally demonstrate generation of ∼13 fs pulses at 2 µm using only ∼3 pJ of input energy. We further illustrate how the demonstrated scheme can be readily extended to on-chip single-cycle pulse synthesis with sub-cycle control. Our results provide a path towards realization of single-cycle ultrafast systems in nanophotonic circuits.",
+            "journal": "Light: Science & Applications",
+            "title_cn": "纳米光子双色孤子压缩产生的双光周期脉冲",
+            "abstract_cn": "摘要 少周期和单周期光脉冲及其相关的超宽带光谱对于超快科学技术的进步至关重要。此外，由不同光谱带中可独立操作的超短脉冲组成的多色波形在脉冲合成和阿秒科学方面具有独特的优势。然而，超短脉冲的生成和控制需要体积庞大且昂贵的桌面光学系统，并且迄今为止超出了集成光子学的能力范围。在这里，我们打破了这些限制，并在铌酸锂纳米光子学中使用二次双色孤子动力学演示了双光周期脉冲压缩。通过利用色散工程和接近相位匹配的操作，我们实现了极端压缩、节能操作以及泵浦到二次谐波的强大转换。我们通过实验证明仅使用 ∼3 pJ 的输入能量即可生成 ∼13 fs 的 2 µm 脉冲。我们进一步说明了所演示的方案如何轻松扩展到具有子周期控制的片上单周期脉冲合成。我们的结果为实现纳米光子电路中的单周期超快系统提供了一条途径。"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-06 13:28:47",
+    "update_time": "2026-02-06 15:29:02",
     "word_filename": "Optical_Papers_260206.docx",
-    "total_count": 190,
+    "total_count": 202,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69249-8",
@@ -2092,6 +2092,138 @@
             "journal": "J. Opt. Soc. Am. A",
             "title_cn": "用于远距离、强大气湍流下波前估计的轻量级神经网络",
             "abstract_cn": "长距离、强大气湍流下的波前估计仍然是自由空间光通信（FSOC）中的一个关键挑战。传统方法总是面临高计算成本和延迟的问题。为了解决这个问题，我们提出了一种轻量级高精度神经网络（LHP-Net），这是一种紧凑而准确的模型，可以直接预测远距离、强大气湍流下的单帧失真图像的泽尼克系数。该架构将优化的卷积主干与轻量级 Zernike 感知注意力 (LZA) 模块相结合，增强了对湍流引起的像差的敏感性，同时最大限度地降低了计算成本。为了严格评估性能，使用光谱相位屏幕模拟获得了大规模数据集，覆盖传播距离长达 10 公里，湍流强度从弱到强。仿真结果表明，LHP-Net 的预测误差降低了 92.4%，推理速度提高了 37.5%，表现出比传统卷积神经网络 (CNN) 更好的性能。此外，我们的混合训练策略显着增强了不同湍流强度的泛化能力。值得注意的是，LHP-Net 即使在极端湍流下也能保持稳健的性能，表现出最小的预测误差，为下一代自由空间光学系统中的实时自适应光学提供了潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69023-w",
+            "title": "Automated diagnostic of cervical spondylosis on multimodal medical images with a multi-task deep learning model",
+            "link": "https://doi.org/10.1038/s41467-026-69023-w",
+            "published": "2026-02-05",
+            "author": "Xinhang Song, Yuan Li, Hanqiang Ouyang, Meiyi Yao, Fangbo Zhao, Kecen Yu, Shuai Tian, Xiaoying Xing, Yan Zhou, Enlong Zhang, Ming Ni, Yuan Yuan, Dasheng Li, Ning Lang, Liang Jiang, Huishu Yuan, Shuqiang Jiang",
+            "summary": "Cervical spondylosis is a highly prevalent degenerative disease that lacks visible lesions on medical images, making its diagnosis heavily reliant on scarce expert experience. Here the authors show a cascade-ensemble deep learning framework that achieves expert-level accuracy in diagnosing cervical degeneration by integrating multi-modal imaging data and analyzing key clinical indicators",
+            "journal": "Nature Communications",
+            "title_cn": "利用多任务深度学习模型对多模态医学图像进行颈椎病自动诊断",
+            "abstract_cn": "颈椎病是一种高度流行的退行性疾病，医学图像上缺乏可见的病变，其诊断严重依赖于稀缺的专家经验。在这里，作者展示了一个级联集成深度学习框架，该框架通过整合多模态成像数据和分析关键临床指标，在诊断宫颈变性方面达到了专家级的准确性"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69086-9",
+            "title": "High-temperature probe of electron compressibility via asymmetric Coulomb drag",
+            "link": "https://doi.org/10.1038/s41467-026-69086-9",
+            "published": "2026-02-05",
+            "author": "Yingjia Liu, Kaining Yang, Hanwen Wang, Qin Zhang, Hongpeng Liu, Kenji Watanabe, Takashi Taniguchi, Wencai Ren, Zheng Vitto Han, Siwen Zhao",
+            "summary": "Abstract Lateral charge transport of a two-dimensional (2D) electronic system can be much influenced by feeding a current into another closely spaced 2D conductor, known as the Coulomb drag phenomenon – a powerful probe of electron-electron interactions and collective excitations. Here, we show that Coulomb drag in a deliberately asymmetric van der Waals bilayer can serve as a layer-selective probe of electronic compressibility that remains invisible to standard transport. We devise a MoS 2 /graphene double layer with large disparity in effective mass and Fermi temperature between them, separated by a ~ 3 nm hexagonal boron nitride spacer, and operate in the degenerate Fermi liquid regime. The MoS 2 drag channel exhibits constant electronic compressibility and acts as a sensitive transducer of graphene’s Landau-level physics at finite magnetic fields. At elevated temperatures and moderate magnetic fields, clear Shubnikov-de Haas-like behaviour in the drag signal tracks the quantum oscillation in compressibility of graphene even when its own magnetotransport remains essentially featureless under the same conditions. Our results establish asymmetric Coulomb drag as a compressibility spectroscopy for 2D systems, enabling access to quantum phenomena that may leave only weak, or even negligible, fingerprints in transport.",
+            "journal": "Nature Communications",
+            "title_cn": "通过不对称库仑阻力的电子压缩性高温探针",
+            "abstract_cn": "摘要 二维 (2D) 电子系统的横向电荷传输可能会受到将电流馈入另一个紧密排列的 2D 导体的影响，这种现象被称为库仑拖曳现象，这是电子-电子相互作用和集体激发的有力探针。在这里，我们证明，故意不对称的范德华双层中的库仑阻力可以作为电子可压缩性的层选择性探针，而这对于标准传输来说仍然是不可见的。我们设计了一种MoS 2 /石墨烯双层，它们之间的有效质量和费米温度差异很大，由约3 nm的六方氮化硼间隔物隔开，并在简并费米液体状态下运行。 MoS 2 阻力通道表现出恒定的电子压缩性，并在有限磁场下充当石墨烯朗道级物理的敏感传感器。在高温和中等磁场下，拖曳信号中清晰的类舒布尼科夫-德哈斯行为跟踪石墨烯可压缩性的量子振荡，即使其自身的磁输运在相同条件下基本上保持无特征。我们的结果将不对称库仑阻力确立为二维系统的可压缩性光谱，从而能够获得在传输中仅留下微弱甚至可以忽略不计的指纹的量子现象。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-34678-w",
+            "title": "Development of Eu-doped CdS photodetectors with enhanced photodetection performance",
+            "link": "https://doi.org/10.1038/s41598-025-34678-w",
+            "published": "2026-02-05",
+            "author": "Surayyi Mousa Al Mujamid, T. H. AlAbdulaal, I. M. Ashraf, Ali M. Alshehri, Mohd Taukeer Khan, Sambasivam Sangaraju, Mohd. Shkir",
+            "summary": "Eu-doped CdS nanostructured thin films with varying Eu concentrations (0, 2, 4, 6, 8, and 10 wt%) were synthesized using the spray pyrolysis technique. The fabricated films were systematically evaluated for their structural, optical, electrical, and photodetection characteristics. X-ray diffraction confirmed the formation of polycrystalline hexagonal CdS with preferred growth along the (101) plane, with crystallite sizes in the range of 11–14 nm. Raman spectra supported the structural observations by revealing the characteristic 1LO and 2LO phonon modes at 299 cm− 1 and 601 cm− 1. AFM imaging (2D/3D) further confirmed the formation of grain clusters across all samples. Optical measurements indicated transmittance values of 55–85% and direct band gaps between 2.42 and 2.44 eV. Photoconductivity studies under dark and illuminated conditions in the 297–350 K range revealed a decrease in activation energy with increasing Eu content, indicating enhanced carrier generation and transport. Transient photoconductivity showed that carrier and differential lifetimes increased with Eu incorporation. The photocurrent improved significantly with Eu doping, with the 10 wt% Eu-doped film exhibiting approximately a 22-fold enhancement compared to undoped CdS. Photodetectors fabricated using these films demonstrated enhanced visible-light photodetection performance. The device based on the 10 wt% Eu-doped CdS film exhibited rapid rise (0.20–0.38 s) and decay (0.36–0.46 s) times, along with substantial improvements in responsivity (8.71 A/W), external quantum efficiency (1710%), and specific detectivity (4 × 1013 Jones). These findings indicate that Eu-doped CdS thin films offer strong potential for high-performance photosensing applications.",
+            "journal": "Scientific Reports",
+            "title_cn": "开发具有增强光电检测性能的Eu掺杂CdS光电探测器",
+            "abstract_cn": "使用喷雾热解技术合成了不同 Eu 浓度（0、2、4、6、8 和 10 wt%）的 Eu 掺杂 CdS 纳米结构薄膜。对所制造的薄膜的结构、光学、电学和光电检测特性进行了系统评估。 X 射线衍射证实了多晶六方 CdS 的形成，其优先沿 (101) 面生长，晶粒尺寸在 11–14 nm 范围内。拉曼光谱通过揭示 299 cm−1 和 601 cm−1 处的特征 1LO 和 2LO 声子模式来支持结构观察。AFM 成像（2D/3D）进一步证实了所有样品中晶粒簇的形成。光学测量表明透射率为 55-85%，直接带隙在 2.42 至 2.44 eV 之间。在 297-350 K 范围内的黑暗和光照条件下的光电导研究表明，随着 Eu 含量的增加，活化能降低，表明载流子的生成和传输增强。瞬态光电导表明，载流子寿命和微分寿命随着 Eu 的掺入而增加。 Eu 掺杂后光电流显着提高，与未掺杂的 CdS 相比，10 wt% Eu 掺杂薄膜的光电流增强了约 22 倍。使用这些薄膜制造的光电探测器表现出增强的可见光光电探测性能。基于 10 wt% Eu 掺杂 CdS 薄膜的器件表现出快速的上升（0.20-0.38 s）和衰减（0.36-0.46 s）时间，以及响应率（8.71 A/W）、外部量子效率（1710%）和比探测率（4 × 1013 Jones）的显着改进。这些发现表明，Eu 掺杂的 CdS 薄膜为高性能光传感应用提供了巨大的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-30652-8",
+            "title": "Repurposing of natural products for spinocerebellar ataxia type 3 using integrated network pharmacology and in silico approaches",
+            "link": "https://doi.org/10.1038/s41598-025-30652-8",
+            "published": "2026-02-05",
+            "author": "Miah Roney, Nur Shahirah Mohd Hisam, Md. Nazim Uddin, S. M. Istiaque Hamim, Lee Wei Lim, Kah Hui Wong",
+            "summary": "Spinocerebellar ataxia type 3 (SCA3) is a progressive inherited neurodegenerative disorder characterized by impaired coordination and balance due to cerebellar ataxia. Currently, there are no Food and Drug Administration (FDA)-approved drugs or curative treatments for SCA3. This study aimed to uncover the potential therapeutic mechanism of natural products (NP or NPs) against SCA3 using an integrative computational strategy combining network pharmacology, molecular docking, molecular dynamics (MD) simulation, principal component analysis (PCA), free energy landscape (FEL), dynamic cross-correlation matrix (DCCM), and Molecular Mechanics/Poisson–Boltzmann Surface Area (MM/PBSA) calculations. A total of 4,986 SCA3-related targets were retrieved from the GeneCards database, and 696 unique NP-related targets were obtained from SwissTargetPrediction and SuperPred databases. Protein–protein interaction (PPI) network analysis revealed 239 overlapping targets. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis identified the MAPK signaling pathway (hsa04010) as a key mechanism involving 33 critical proteins, including AKT1, TP53, TNF, EGFR, RELA, and MAPK1. Among the screened compounds, crocin exhibited the highest binding affinities with AKT1 (− 9.5 kcal/mol) and TP53 (− 6.6 kcal/mol) in docking studies. Further validation through MD simulation, PCA, FEL, DCCM, and MM/PBSA analysis confirmed the stability and strong interaction of crocin with these targets. This study highlights crocin as a promising candidate for SCA3 therapy and provides a foundation for future experimental validation.",
+            "journal": "Scientific Reports",
+            "title_cn": "使用综合网络药理学和计算机方法重新利用天然产物治疗 3 型脊髓小脑共济失调",
+            "abstract_cn": "脊髓小脑共济失调 3 型 (SCA3) 是一种进行性遗传性神经退行性疾病，其特征是小脑共济失调导致协调和平衡受损。目前，尚无美国食品药品监督管理局 (FDA) 批准的针对 SCA3 的药物或治疗方法。本研究旨在通过结合网络药理学、分子对接、分子动力学 (MD) 模拟、主成分分析 (PCA)、自由能景观 (FEL)、动态互相关矩阵 (DCCM) 和分子力学/泊松玻尔兹曼表面积 (MM/PBSA) 计算的综合计算策略，揭示天然产物（NP 或 NPs）针对 SCA3 的潜在治疗机制。从 GeneCards 数据库中检索到总共 4,986 个 SCA3 相关靶标，从 SwissTargetPrediction 和 SuperPred 数据库中获得了 696 个独特的 NP 相关靶标。蛋白质-蛋白质相互作用 (PPI) 网络分析揭示了 239 个重叠目标。基因本体论 (GO) 和京都基因与基因组百科全书 (KEGG) 通路富集分析确定 MAPK 信号通路 (hsa04010) 是涉及 33 个关键蛋白的关键机制，包括 AKT1、TP53、TNF、EGFR、RELA 和 MAPK1。在筛选的化合物中，藏红花素在对接研究中与 AKT1 (− 9.5 kcal/mol) 和 TP53 (− 6.6 kcal/mol) 表现出最高的结合亲和力。通过 MD 模拟、PCA、FEL、DCCM 和 MM/PBSA 分析进一步验证证实了藏红花素与这些靶标的稳定性和强相互作用。这项研究强调了藏红花素作为 SCA3 疗法的有前途的候选者，并为未来的实验验证奠定了基础。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41566-025-01838-3",
+            "title": "A lens for attosecond pulses",
+            "link": "https://doi.org/10.1038/s41566-025-01838-3",
+            "published": "2026-02-05",
+            "author": "Malte C. Kaluza",
+            "summary": "A Hydrogen plasma that is generated with controllable density distribution can act as a lens to tightly focus extreme-ultraviolet attosecond pulses.",
+            "journal": "Nature Photonics",
+            "title_cn": "用于阿秒脉冲的透镜",
+            "abstract_cn": "产生的密度分布可控的氢等离子体可以充当透镜，紧密聚焦极紫外阿秒脉冲。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41566-025-01831-w",
+            "title": "Lithium tantalate meets silicon photonics",
+            "link": "https://doi.org/10.1038/s41566-025-01831-w",
+            "published": "2026-02-05",
+            "author": "Yikai Su, Yong Zhang",
+            "summary": "Lithium tantalate (LiTaO3) is heterogeneously integrated with silicon photonics circuits, enabling high modulation speed, reduced bias drift and a high optical damage threshold, while ensuring full compatibility with the existing silicon photonics process design kit.",
+            "journal": "Nature Photonics",
+            "title_cn": "钽酸锂遇上硅光子学",
+            "abstract_cn": "钽酸锂（LiTaO3）与硅光子电路异构集成，可实现高调制速度、降低偏置漂移和高光学损伤阈值，同时确保与现有硅光子工艺设计套件完全兼容。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41566-025-01834-7",
+            "title": "Scaling quantum photonics networks",
+            "link": "https://doi.org/10.1038/s41566-025-01834-7",
+            "published": "2026-02-05",
+            "author": "Yun-Ru Fan, Qiang Zhou",
+            "summary": "Mode mixing and mapping with a piece of multimode optical fibre and spatial light modulators creates a bridge between two isolated quantum networks, linking distant nodes with quantum connectivity.",
+            "journal": "Nature Photonics",
+            "title_cn": "扩展量子光子网络",
+            "abstract_cn": "使用多模光纤和空间光调制器进行模式混合和映射，在两个孤立的量子网络之间架起一座桥梁，将遥远的节点与量子连接连接起来。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41566-026-01844-z",
+            "title": "Nanoscale probing of interfaces",
+            "link": "https://doi.org/10.1038/s41566-026-01844-z",
+            "published": "2026-02-05",
+            "author": "Anastasiia Vasylchenkova",
+            "summary": "Abstract not available.",
+            "journal": "Nature Photonics",
+            "title_cn": "纳米级界面探测",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103373",
+            "title": "Structural hint-guided colorization network for sketch colorization",
+            "link": "https://doi.org/10.1016/j.displa.2026.103373",
+            "published": "2026-02-01",
+            "author": "Yunjiao Ma, Zhenzhen He, Jun Xiang, Ning Zhang, Ruru Pan",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "用于草图着色的结构提示引导着色网络",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103367",
+            "title": "IMORIME: Multi-objective UAV path planning via alternating reference points and relative-error guidance",
+            "link": "https://doi.org/10.1016/j.displa.2026.103367",
+            "published": "2026-07-01",
+            "author": "Yi Wang, Fangxiu Wang, Hui Liu",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "IMORIME：通过交替参考点和相对误差引导进行多目标无人机路径规划",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103375",
+            "title": "Digital experience in physical space: The design process of hybrid spaces",
+            "link": "https://doi.org/10.1016/j.displa.2026.103375",
+            "published": "2026-02-01",
+            "author": "Edanur Fettahoglu, Erkan Aydintan",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "物理空间中的数字体验：混合空间的设计过程",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02389",
+            "title": "Optical Orbital Angular Momentum Detection Using Second-Order Nonlinear Optical Processes",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02389",
+            "published": "2026-02-05",
+            "author": "Ju-Young Kim, Minhaeng Cho",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "使用二阶非线性光学过程的光学轨道角动量检测",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

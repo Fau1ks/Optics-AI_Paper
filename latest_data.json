@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-06 15:29:02",
+    "update_time": "2026-02-06 17:29:13",
     "word_filename": "Optical_Papers_260206.docx",
-    "total_count": 202,
+    "total_count": 220,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69249-8",
@@ -2223,6 +2223,204 @@
             "summary": "Abstract not available.",
             "journal": "ACS Photonics",
             "title_cn": "使用二阶非线性光学过程的光学轨道角动量检测",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.aeg0767",
+            "title": "In Science Journals",
+            "link": "https://doi.org/10.1126/science.aeg0767",
+            "published": "2026-02-05",
+            "author": "Sacha Vignieri, Ian S. Osborne, Marc S. Lavine, Angela Hessler, Mark Aldenderfer, Claire Olingy, Phil Szuromi, Mattia Maroso, Sarah H. Ross, Yevgeniya Nusinovich, Corinne Simonti, Madeleine Seale, Jesse Smith, Di Jiang, Jake S. Yeston, Michael A. Funk, Wei Wong, Dorothy Hallberg",
+            "summary": "[New Paper] Abstract not indexed yet. Please visit the official website.",
+            "journal": "Science",
+            "title_cn": "在科学期刊中",
+            "abstract_cn": "【摘要未收录】新文章暂无数据库记录，请点击链接直达官网。"
+        },
+        {
+            "id": "https://doi.org/10.1126/science.adx6291",
+            "title": "DNA origami vaccines program antigen-focused germinal centers",
+            "link": "https://doi.org/10.1126/science.adx6291",
+            "published": "2026-02-05",
+            "author": "Anna Romanov, Grant A. Knappe, Larance Ronsard, Christopher A. Cottrell, Yiming J. Zhang, Heikyung Suh, Lauren Duhamel, Marjan Omer, Asheley P. Chapman, Katie Spivakovsky, Patrick Skog, Claudia T. Flynn, Jeong Hyun Lee, Oleksandr Kalyuzhniy, Alessia Liguori, Molly F. Parsons, Vanessa R. Lewis, Josue Canales, Boris Reizis, Ryan D. Tingle, Torben Schiffner, William R. Schief, Daniel Lingwood, Mark Bathe, Darrell J. Irvine",
+            "summary": "Priming rare subdominant precursor B cells in germinal centers (GCs) is a central goal of vaccination to generate broadly neutralizing antibodies (bnAbs) against HIV. Multivalent immunogen display on protein nanoparticle scaffolds can promote such responses, but it also generates scaffold-specific B cells that could theoretically limit bnAb precursor expansion in GCs. We rationally designed DNA origami–based virus-like particles (DNA-VLPs) displaying a germline-targeting HIV envelope protein immunogen, which elicited no scaffold-specific antibody responses. Compared with a state-of-the-art clinical protein nanoparticle, these DNA-VLPs increased the expansion of epitope-specific GC B cells relative to off-target B cells and enhanced expansion of bnAb-lineage B cells in a humanized mouse model of CD4 binding site priming. Thus, minimizing off-target responses enhances bnAb priming and indicates that DNA-VLPs are a promising vaccine platform.",
+            "journal": "Science",
+            "title_cn": "DNA折纸疫苗计划以抗原为中心的生发中心",
+            "abstract_cn": "疫苗接种的核心目标是在生发中心 (GC) 中启动稀有的亚优势前体 B 细胞，以产生针对 HIV 的广泛中和抗体 (bnAb)。蛋白质纳米颗粒支架上的多价免疫原展示可以促进此类反应，但它也会产生支架特异性 B 细胞，理论上可以限制 bnAb 前体在 GC 中的扩增。我们合理地设计了基于 DNA 折纸的病毒样颗粒 (DNA-VLP)，其展示了针对种系的 HIV 包膜蛋白免疫原，该免疫原不会引起支架特异性抗体反应。与最先进的临床蛋白质纳米颗粒相比，这些 DNA-VLP 增加了表位特异性 GC B 细胞相对于脱靶 B 细胞的扩增，并增强了 CD4 结合位点引发的人源化小鼠模型中 bnAb 谱系 B 细胞的扩增。因此，最大限度地减少脱靶反应可增强 bnAb 启动，并表明 DNA-VLP 是一种有前途的疫苗平台。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69304-4",
+            "title": "Utilizing the predictable binding kinetics of DNA-PAINT to denoise super-resolution images",
+            "link": "https://doi.org/10.1038/s41467-026-69304-4",
+            "published": "2026-02-05",
+            "author": "George Sirinakis, Edward S. Allgeyer, Jennifer H. Richens, Jeanne Lefévère-Laoide, Ewa K. Paluch, Daniel St Johnston",
+            "summary": "Abstract DNA-Point Accumulation for Imaging in Nanoscale Topography (DNA-PAINT) is a versatile super-resolution technique that relies on the predictable binding kinetics between fluorescent imager strands and docking strands attached to target proteins. This makes DNA-PAINT particularly suitable for multiplexing and quantitative applications, but its performance is often limited by spurious signals from non-specific binding of imager strands. Here we describe a method to remove these non-specific binding events using a statistical test to distinguish between DNA-specific and non-specific interactions. To demonstrate the method, we imaged mosaic epithelial tissues in Drosophila melanogaster egg chambers and showed that > 90% of non-specific and otherwise indistinguishable signal in the super-resolved images can be removed. This denoising improves the quality of DNA-PAINT super-resolved images and is essential for accurate measurements of spatial relationships and protein quantification.",
+            "journal": "Nature Communications",
+            "title_cn": "利用 DNA-PAINT 的可预测结合动力学对超分辨率图像进行去噪",
+            "abstract_cn": "摘要 用于纳米级形貌成像的 DNA 点累积 (DNA-PAINT) 是一种多功能超分辨率技术，依赖于荧光成像链和附着于目标蛋白的对接链之间的可预测的结合动力学。这使得 DNA-PAINT 特别适合多重分析和定量应用，但其性能通常受到成像链非特异性结合产生的虚假信号的限制。在这里，我们描述了一种使用统计测试来消除这些非特异性结合事件的方法，以区分 DNA 特异性和非特异性相互作用。为了演示该方法，我们对果蝇卵室中的镶嵌上皮组织进行了成像，结果表明超分辨率图像中超过 90% 的非特异性和其他难以区分的信号可以被去除。这种去噪提高了 DNA-PAINT 超分辨图像的质量，对于空间关系和蛋白质定量的精确测量至关重要。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-68458-5",
+            "title": "A stabilized MERS-CoV spike ferritin nanoparticle vaccine elicits robust and protective neutralizing antibody responses",
+            "link": "https://doi.org/10.1038/s41467-026-68458-5",
+            "published": "2026-02-05",
+            "author": "Abigail E. Powell, Hannah Caruso, Soyoon Park, Jui-Lin Chen, Jessica O’Rear, Brian J. Ferrer, Daniel J. Stieh, Adam M. Weiss, David M. Belnap, Audrey Walker, Anneliese Bruening, Airn Hartwig, Kaitlin R. Sprouse, Amin Addetia, Abeer N. Alshukairi, Vida Ahyong, Cristy S. Dougherty, David Veesler, Richard Bowen, Julie E. Ledgerwood, Michael S. Kay, Payton A.-B. Weidenbacher, Brad A. Palanski",
+            "summary": "Abstract Middle East respiratory syndrome coronavirus (MERS-CoV) was identified as a human pathogen in 2012 and causes ongoing sporadic infections and outbreak clusters. Despite case fatality rates (CFRs) of over 30% and considerable pandemic potential, a safe and efficacious vaccine has not been developed. Here we report the design, characterization, and preclinical evaluation of MERS-CoV antigens. Our lead candidate comprises a stabilized spike displayed on a self-assembling ferritin nanoparticle that can be produced from a high-expressing, stable cell pool. This vaccine elicits robust MERS-CoV pseudovirus and authentic virus neutralizing antibody titers in BALB/c mice. Immunization of male non-human primates (NHPs) with one dose of Alhydrogel-adjuvanted vaccine elicited a > 10 3 geometric mean titer of pseudovirus neutralizing antibodies that was boosted with a second dose. Sera from these NHPs exhibited cross-reactivity against spike-pseudotyped lentiviruses from MERS-CoV clades A, B, and C as well as a distant pangolin merbecovirus. In human DPP4 transgenic mice, immunization provided dose-dependent protection against MERS-CoV lethal challenge, and in an established alpaca challenge model using female alpacas, immunization fully protected against MERS-CoV infection. This MERS-CoV nanoparticle vaccine is a promising candidate for clinical advancement to protect at-risk individuals and for future use in a potential outbreak setting.",
+            "journal": "Nature Communications",
+            "title_cn": "稳定的中东呼吸综合征冠状病毒尖峰铁蛋白纳米颗粒疫苗可引发强大的保护性中和抗体反应",
+            "abstract_cn": "摘要 中东呼吸综合征冠状病毒（MERS-CoV）于 2012 年被确定为人类病原体，并导致持续的散发性感染和聚集性疫情。尽管病死率 (CFR) 超过 30%，且大流行的可能性相当大，但安全有效的疫苗尚未开发出来。在这里，我们报告了 MERS-CoV 抗原的设计、表征和临床前评估。我们的主要候选者包括显示在自组装铁蛋白纳米颗粒上的稳定尖峰，该纳米颗粒可以从高表达、稳定的细胞池中产生。该疫苗在 BALB/c 小鼠中引发强大的 MERS-CoV 假病毒和真实的病毒中和抗体滴度。用一剂铝水凝胶佐剂疫苗对雄性非人灵长类动物（NHP）进行免疫，引发> 10 3 几何平均滴度的假病毒中和抗体，并用第二剂加强。来自这些 NHP 的血清表现出与 MERS-CoV 进化枝 A、B 和 C 的刺突假型慢病毒以及远缘穿山甲 merbeco 病毒的交叉反应性。在人类 DPP4 转基因小鼠中，免疫提供了针对 MERS-CoV 致命攻击的剂量依赖性保护，并且在使用雌性羊驼建立的羊驼攻击模型中，免疫完全防止了 MERS-CoV 感染。这种中东呼吸综合征冠状病毒纳米颗粒疫苗是一种很有前景的候选疫苗，可用于临床进展，以保护高危个体，并供未来在潜在疫情爆发的情况下使用。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-68906-2",
+            "title": "Succinate receptor 1 restricts hematopoiesis and prevents acute myeloid leukemia progression",
+            "link": "https://doi.org/10.1038/s41467-026-68906-2",
+            "published": "2026-02-05",
+            "author": "Vincent Cuminetti, Emeline Boet, Marcel Heugel, Joanna Konieczny, Aurora Bernal, Manuel J. Gomez, Franco Grimolizzi, Nuria Vilaplana-Lopera, Marc Ferré, Alicia Villatoro, Deo P. Pandey, Carlos Torroja, Hagar Taman, Ruth H. Paulssen, Thomas Vogl, Caroline A. Heckman, Anders Vik, Giovanna Giovinazzo, Nick van Gastel, Paloma García, Fátima Sánchez-Cabo, Jean-Emmanuel Sarry, Lorena Arranz",
+            "summary": "Abstract Despite intriguing roles for the Succinate receptor (Sucnr1) in inflammation, few studies have explored its role in hematopoiesis. Here, we show that low SUCNR1 represents a marker for reduced overall and progression-free survival in acute myeloid leukemia (AML) patients. Succinic acid, which displays Sucnr1-dependent and independent effects, promotes disease in mouse models of pre-leukemic myelopoiesis, AML and AML xenografts, expressing low SUCNR1 . In vivo global or hematopoietic deletion of Sucnr1 induces expansion of hematopoietic stem and progenitor cells (HSPC) and hematopoiesis, whilst Sucnr1-tomato + HSPC display restricted engraftment potential. Mechanistically, activation of Sucnr1 counterbalances the stimulatory effect of intracellular succinate in HSPC and preserves HSPC transcriptional programs via control of S100a8/S100a9. Blocking S100a9 with tasquinimod rescues the defects of Sucnr1 knock-out mice, and combined with a potent Sucnr1 agonist shows therapeutic value in AML mice. In AML xenografts, single-cell RNA-sequencing reanalyses confirm SUCNR1 as a therapeutic vulnerability in patients. Together, Sucnr1 signaling restricts hematopoiesis at least partially through HSPC and via control of S100a8/S100a9. Its dysregulation emerges as contributor to malignancy that opens therapeutic avenues for AML patients.",
+            "journal": "Nature Communications",
+            "title_cn": "琥珀酸受体 1 限制造血并预防急性髓系白血病进展",
+            "abstract_cn": "摘要 尽管琥珀酸受体 (Sucnr1) 在炎症中发挥着有趣的作用，但很少有研究探讨其在造血中的作用。在这里，我们发现低 SUCNR1 代表急性髓系白血病 (AML) 患者总体生存率和无进展生存率降低的标志。琥珀酸显示出 Sucnr1 依赖性和独立作用，可促进表达低 SUCNR1 的白血病前骨髓生成、AML 和 AML 异种移植小鼠模型中的疾病。 Sucnr1 的体内整体或造血缺失会诱导造血干细胞和祖细胞 (HSPC) 的扩增和造血作用，而 Sucnr1-番茄 + HSPC 显示出有限的植入潜力。从机制上讲，Sucnr1 的激活可平衡细胞内琥珀酸对 HSPC 的刺激作用，并通过控制 S100a8/S100a9 保留 HSPC 转录程序。用他喹莫德阻断 S100a9 可挽救 Sucnr1 敲除小鼠的缺陷，并与强效 Sucnr1 激动剂联合显示对 AML 小鼠的治疗价值。在 AML 异种移植物中，单细胞 RNA 测序重新分析证实 SUCNR1 是患者的治疗脆弱性。 Sucnr1 信号传导至少部分通过 HSPC 和 S100a8/S100a9 的控制来限制造血。它的失调成为恶性肿瘤的诱因，为 AML 患者开辟了治疗途径。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36969-2",
+            "title": "Broad spectrum antimicrobial nanoparticles with low toxicity to prevent biofilm formation on urologic devices",
+            "link": "https://doi.org/10.1038/s41598-026-36969-2",
+            "published": "2026-02-05",
+            "author": "Juan Sebastian Rodriguez-Alvarez, Yue Xu, Jorge Gutierrez-Aceves, Smita De, Aaron W. Miller, Vijay Krishna",
+            "summary": "Antimicrobial coatings for medical implants are critical in preventing device failures and infections. Antibiotics are often used as prophylactic or coatings but fail to prevent biofilm formation and drive antibiotic resistance. Herein, the antibacterial and antibiofilm activities of different polyhydroxy fullerene-based metal nanoparticle coatings on polyurethane discs were quantified after exposure to Escherichia coli. Gold-silver nanoparticles (GSNP) exhibited superior antibacterial activity compared to other silver-containing nanoparticles. GSNPs were evaluated against Escherichia coli, Enterococcus faecalis, Enterobacter hormaechei, Klebsiella oxytoca, Staphylococcus aureus and Staphylococcus epidermidis isolated from ureteral stents and inflatable penile prostheses and achieved 100% reduction of all tested urologic pathogens at physiological relevant bacterial loads (p < 0.0001). GSNPs inactivate bacteria by reactive oxygen species production with the estimated minimum inhibitory concentrations slightly higher for Gram-positive than Gram-negative bacteria with highest observed for S. epidermidis at 2.23 µg/mL. Safety studies with fibroblasts demonstrate that GSNPs at estimated minimum inhibitory concentrations have minimal effect (< 20%) on cell viability. Further, the GSNPs were able to reduce bacteria by six logs more than commercial nanoparticles. GSNPs represent a promising strategy for preventing biofilm formation on medical devices and implants due to their broad antibacterial activity and low toxicity.",
+            "journal": "Scientific Reports",
+            "title_cn": "低毒广谱抗菌纳米粒子可防止泌尿装置上形成生物膜",
+            "abstract_cn": "医疗植入物的抗菌涂层对于防止设备故障和感染至关重要。抗生素通常用作预防剂或涂层，但无法防止生物膜形成并导致抗生素耐药性。在此，对聚氨酯盘上不同的基于多羟基富勒烯的金属纳米粒子涂层在暴露于大肠杆菌后的抗菌和抗生物膜活性进行了量化。与其他含银纳米颗粒相比，金银纳米颗粒（GSNP）表现出优异的抗菌活性。 GSNP 针对从输尿管支架和充气阴茎假体中分离出的大肠杆菌、粪肠球菌、霍马氏肠杆菌、产酸克雷伯菌、金黄色葡萄球菌和表皮葡萄球菌进行了评估，并在生理相关细菌负荷下实现了所有测试的泌尿系统病原体 100% 减少 (p < 0.0001)。 GSNP 通过产生活性氧来灭活细菌，估计革兰氏阳性菌的最低抑制浓度略高于革兰氏阴性菌，表皮葡萄球菌的最高浓度为 2.23 µg/mL。对成纤维细胞的安全性研究表明，估计最低抑制浓度下的 GSNP 对细胞活力的影响极小 (< 20%)。此外，GSNP 能够比商业纳米颗粒多减少六对数的细菌。由于其广泛的抗菌活性和低毒性，GSNP 代表了防止医疗器械和植入物上生物膜形成的一种有前景的策略。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38068-8",
+            "title": "Psychosocial experience of couples coping with prostate cancer: a qualitative study",
+            "link": "https://doi.org/10.1038/s41598-026-38068-8",
+            "published": "2026-02-05",
+            "author": "Xiuqun Yuan, Zhiyuan Yu, Hongfan Yin, Zhihong Yang, Min Chen, Yan Yang",
+            "summary": "Prostate cancer is always regarded as ‘we’ disease with unavoidable influence within the couples, particularly during the early post-diagnosis period. Thus, this qualitative research is to explore the psychosocial experiences of prostate cancer couples coping within six months of diagnosis in China. The study was conducted through semi-structured interviews between June 2023 and June 2024. All interviews were recorded, transcribed, and analyzed following Braun and Clarke’s reflective thematic analysis approach. Fourteen couples were enrolled using purposive sampling with variation in sociodemographic information. The participants’ normal lives were disrupted, and couples adopted both individual and joint coping strategies to regain a new sense of balance. The overarching theme “Refine and Regain” was proposed during this process. This emerged from five main themes: “Unrecognized distress and emotional fluctuation,” “Lost in frustration,” “Interrupted family and social connections,” “Striving for survival,” and “Growth and adaption.” Couples got through physical and emotional difficulties during the anti-cancer treatment, starting from accepting the fact they got the cancer. Some participants showed a progressive adaptation to cancer over time, while others experienced a dynamic, non-linear adjustment process. The findings revealed variations in couples’ psychosocial adaptation to prostate cancer, highlighting the need for tailored interventions to enhance mutual coping.",
+            "journal": "Scientific Reports",
+            "title_cn": "夫妇应对前列腺癌的心理社会经历：一项定性研究",
+            "abstract_cn": "前列腺癌一直被视为“我们”的疾病，对夫妻双方有着不可避免的影响，尤其是在诊断后的早期。因此，这项定性研究旨在探讨中国前列腺癌​​夫妇在诊断后六个月内应对的心理社会经历。该研究是在 2023 年 6 月至 2024 年 6 月期间通过半结构化访谈进行的。所有访谈均按照布劳恩和克拉克的反思性主题分析方法进行记录、转录和分析。使用有目的的抽样方法招募了十四对夫妇，其中社会人口统计信息存在差异。参与者的正常生活被打乱，夫妇们采取个人和联合应对策略来重新获得新的平衡感。在此过程中提出了总体主题“Refine and Regain”。这源于五个主题：“未被认识到的痛苦和情绪波动”、“失落于挫折”、“中断的家庭和社会联系”、“为生存而奋斗”和“成长与适应”。夫妻俩在抗癌治疗过程中，从接受自己患上癌症的事实开始，经历了身体和情感上的困难。随着时间的推移，一些参与者表现出对癌症的逐渐适应，而另一些参与者则经历了动态、非线性的调整过程。研究结果揭示了夫妻对前列腺癌的社会心理适应的差异，强调需要采取量身定制的干预措施来增强相互应对的能力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38470-2",
+            "title": "Differences in AUTOS- and FTND-assessed dependence on various tobacco products among Chinese current tobacco/nicotine users",
+            "link": "https://doi.org/10.1038/s41598-026-38470-2",
+            "published": "2026-02-05",
+            "author": "Dawei Yan, Ting Fei, Xiaomin Liu, Bingxue Wu, Yihan Gao, Xiaonan Li, Yuyan Li, Yan Zhang, Yishi Jiang, Yan Che, Saijing Zheng",
+            "summary": "Combustible cigarettes remain the dominant tobacco product in China, although use of emerging tobacco/nicotine products such as electronic cigarettes (ECs), heated tobacco products (HTPs), smokeless tobacco and nicotine pouches (NPs) is increasing. However, their addictive potential is not well understood. We conducted an online survey (June–September 2025) among 5,901 adult tobacco/nicotine users in China, assessing dependence using the Autonomy Over Tobacco Scale (AUTOS) and the Fagerström Test for Nicotine Dependence (FTND). General linear regression indicated that EC-only users had the lower AUTOS scores (18.32 ± 6.84), while poly-users, especially cigarette + EC users, showed the higher AUTOS (21.61 ± 6.46) and FTND scores (4.06 ± 2.10), compared with cigarette-only users (AUTOS: 20.41 ± 7.02, FTND: 3.63 ± 2.26). Similarly, individuals using ECs plus HTPs (4.79 ± 2.39), cigarettes plus ECs plus HTPs (4.77 ± 1.70), or other combinations (4.76 ± 2.02) exhibited higher FTND scores than cigarette-only users. Familiarity with tobacco/nicotine products and perceived social facilitation were positively associated with both AUTOS and FTND, while perceptions of addictiveness, quitting difficulty, and health risk were positively related to AUTOS. These findings highlight multidimensional dependence, encompassing psychological and physiological dimensions, and reflect influences of diverse product use and cognitive perceptions.",
+            "journal": "Scientific Reports",
+            "title_cn": "AUTOS 和 FTND 评估的中国当前烟草/尼古丁使用者对各种烟草制品依赖的差异",
+            "abstract_cn": "尽管电子烟（EC）、加热烟草产品（HTP）、无烟烟草和尼古丁袋（NP）等新兴烟草/尼古丁产品的使用正在增加，但可燃卷烟仍然是中国的主要烟草产品。然而，它们的成瘾潜力尚不清楚。我们对中国 5,901 名成年烟草/尼古丁使用者进行了一项在线调查（2025 年 6 月至 9 月），使用烟草自主量表 (AUTOS) 和 Fagerström 尼古丁依赖性测试 (FTND) 评估依赖性。一般线性回归表明，仅使用 EC 的用户的 AUTOS 得分较低（18.32 ± 6.84），而多用户，尤其是香烟 + EC 用户，与仅吸烟的用户相比，显示出较高的 AUTOS （21.61 ± 6.46）和 FTND 得分（4.06 ± 2.10）（AUTOS：20.41 ± 7.02，FTND：3.63 ± 2.26）。同样，使用 EC 加 HTP (4.79 ± 2.39)、香烟加 EC 加 HTP (4.77 ± 1.70) 或其他组合 (4.76 ± 2.02) 的个体表现出比仅吸烟者更高的 FTND 分数。对烟草/尼古丁产品的熟悉程度和感知的社交便利与 AUTOS 和 FTND 呈正相关，而对成瘾性、戒烟困难和健康风险的感知与 AUTOS 呈正相关。这些发现强调了多维依赖性，涵盖心理和生理维度，并反映了不同产品使用和认知感知的影响。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38143-0",
+            "title": "A decadal analysis of drinking water quality and nitrate-related health risk assessment in groundwater sources: a case study of Poldasht County, Northwest Iran",
+            "link": "https://doi.org/10.1038/s41598-026-38143-0",
+            "published": "2026-02-05",
+            "author": "Arezu Valizadeh, Esrafil Asgari, Mehran Mohammadian Fazli, Ali Assadi",
+            "summary": "This study aimed to evaluate groundwater quality and assess the health risks associated with nitrate contamination in Poldasht County, northwest Iran. Groundwater samples were collected from 17 wells over a ten-year period, and key physicochemical parameters including pH, TDS, total hardness, major ions, and nitrate were analyzed. The Groundwater Quality Index was applied to assess overall water quality, while non-carcinogenic risk was calculated following USEPA guidelines for four age groups: infants, children, teenagers, and adults. The results indicated that approximately 64.7% of the samples were classified as “acceptable,” while 35.3% fell into the “moderate” quality range. The dominant groundwater facies were Mg–SO4 and Mg–HCO3, reflecting the combined effects of geological formations and, to some extent, human activities such as agriculture. Health risk assessment revealed that HQ values for all age groups were below 1.0, indicating no significant non-carcinogenic risk. However, children exhibited relatively higher HQ values due to their higher water intake relative to body weight, emphasizing their increased vulnerability. These findings highlight the need for continuous monitoring, particularly for wells with moderate quality and in areas showing signs of localized contamination. The study underscores the importance of adopting integrated groundwater management strategies, including regular quality assessment, pollution prevention practices, and targeted interventions to protect sensitive populations.",
+            "journal": "Scientific Reports",
+            "title_cn": "地下水源饮用水质量和硝酸盐相关健康风险评估的十年分析：以伊朗西北部波尔达什特县为例",
+            "abstract_cn": "本研究旨在评估伊朗西北部波尔达什特县的地下水质量并评估与硝酸盐污染相关的健康风险。十年间从 17 口井采集了地下水样品，并对 pH、TDS、总硬度、主要离子和硝酸盐等关键理化参数进行了分析。地下水质量指数用于评估总体水质，同时根据美国环境保护局针对四个年龄组（婴儿、儿童、青少年和成人）的指南计算非致癌风险。结果表明，大约 64.7% 的样品被归类为“可接受”，而 35.3% 的样品属于“中等”质量范围。地下水主要相为Mg-SO4和Mg-HCO3，反映了地质构造以及一定程度上农业等人类活动的综合影响。健康风险评估显示，所有年龄段的HQ值均低于1.0，表明不存在显着的非致癌风险。然而，由于儿童相对于体重的饮水量较高，因此表现出相对较高的 HQ 值，这强调了他们的脆弱性增加。这些发现强调了持续监测的必要性，特别是对于中等质量的井和显示出局部污染迹象的区域。该研究强调了采取综合地下水管理策略的重要性，包括定期质量评估、污染预防措施以及保护敏感人群的有针对性的干预措施。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38232-0",
+            "title": "Genomic analysis of ST117, 155, 1011, 167, 744, and 17391 in poultry-associated multidrug resistant Escherichia coli isolates from India",
+            "link": "https://doi.org/10.1038/s41598-026-38232-0",
+            "published": "2026-02-05",
+            "author": "Rogith P, Lakshmi Srijith, Karthic G, Ramanakishore V.S, Kopula Sathyamoorthy Sridharan, Agastian Paul, Kumar Perumal",
+            "summary": "Multidrug-resistant Escherichia coli originating from poultry farms pose a significant One Health threat because of their emergence and spread connecting agricultural farms and the environment causing infections in humans. In this study, 38 isolates were collected, all of which exhibited resistance to penicillin, cephalosporins, fluoroquinolones and tetracycline, with an average Multiple Antibiotic Resistance (MAR) Index of 0.55. Among these 38 isolates, 7 isolates having ≥ 0.6 MAR index were subjected to whole genome sequencing - KEED-2 (ST117), KEED-3 (ST155), MTBW-1 (ST1011), MTBW-2 (ST167), PUND-1 (ST117), PUND-3 (ST17391) and VELW-1 (ST744). The analysis revealed the presence of antimicrobial-resistance genes such as tetracycline (tet(A)), quinolone (QnrS1) and aminoglycosides (aph(4)-Ia, aac(3)-IVa, aac(3)-IId, aph(3’’)-Ib, aph(3’)-Ia, aph(6)-Id). Notably, the CTX-M gene was present in KEED-2 (ST117), and the TEM-1B gene was present in MTBW-1 (ST1011) and VELW-1 (ST744). In this study, pandemic clones ST167, ST744 and ST17391 were identified, which has not been reported so far in poultry environments in India to the best of our knowledge, highlighting the need for continued surveillance and effective control measures, emphasising significance for the One Health framework.",
+            "journal": "Scientific Reports",
+            "title_cn": "来自印度的家禽相关多重耐药大肠杆菌分离株中 ST117、155、1011、167、744 和 17391 的基因组分析",
+            "abstract_cn": "源自家禽养殖场的多重耐药大肠杆菌对人类健康构成重大威胁，因为它们的出现和传播连接着农业农场和环境，导致人类感染。在这项研究中，收集了38株分离株，全部对青霉素、头孢菌素、氟喹诺酮类和四环素均表现出耐药性，平均多重抗生素耐药性（MAR）指数为0.55。在这38个分离株中，7个MAR指数≥0.6的分离株进行了全基因组测序——KEED-2（ST117）、KEED-3（ST155）、MTBW-1（ST1011）、MTBW-2（ST167）、PUND-1（ST117）、PUND-3（ST17391）和VELW-1（ST744）。分析显示存在抗菌药物耐药基因，例如四环素 (tet(A))、喹诺酮 (QnrS1) 和氨基糖苷类 (aph(4)-Ia、aac(3)-IVa、aac(3)-IId、aph(3'')-Ib、aph(3')-Ia、aph(6)-Id）。值得注意的是，CTX-M 基因存在于 KEED-2 (ST117) 中，TEM-1B 基因存在于 MTBW-1 (ST1011) 和 VELW-1 (ST744) 中。在这项研究中，鉴定出了大流行性克隆 ST167、ST744 和 ST17391，据我们所知，迄今为止在印度的家禽环境中尚未有报道，这凸显了持续监测和有效控制措施的必要性，并强调了“同一个健康”框架的重要性。"
+        },
+        {
+            "id": "https://doi.org/10.1103/7lwq-hn3q",
+            "title": "Ultrafast bimolecular reaction in acetylene dimer induced by femtosecond strong-laser-field ionization",
+            "link": "https://doi.org/10.1103/7lwq-hn3q",
+            "published": "2026-02-05",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "飞秒强激光场电离诱导乙炔二聚体超快双分子反应",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1103/mygw-t2br",
+            "title": "Ultrafast one-dimensional Peierls-distortion dynamics in 1T’-ReS 2 revealed by 4D electron microscopy",
+            "link": "https://doi.org/10.1103/mygw-t2br",
+            "published": "2026-02-05",
+            "author": "Anonymous",
+            "summary": "Abstract not available.",
+            "journal": "Physical Review Letters",
+            "title_cn": "4D 电子显微镜揭示 1T’-ReS 2 中的超快一维 Peierls 畸变动力学",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114885",
+            "title": "A graphene-dispersion-filled capillary fiber as a disordered medium for C-band random laser generation",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114885",
+            "published": "2026-06-01",
+            "author": "Xingpeng Fei, Wei He, Shaode Li, Chao Wang, Yue Sui",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "石墨烯分散体填充毛细管光纤作为无序介质用于 C 波段随机激光生成",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.133000",
+            "title": "Optical Color Image Cryptosystem Based on Fresnel Diffraction and Phase Modulation in Extended Fractional Fourier Transform Domain",
+            "link": "https://doi.org/10.1016/j.optcom.2026.133000",
+            "published": "2026-02-01",
+            "author": "Hang Chen, Yuchen Zhao, Moyao Yu, Haitao Yang, Zhengjun Liu, Fei Tong",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "基于扩展分数阶傅立叶变换域菲涅耳衍射和相位调制的光学彩色图像密码系统",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.578674",
+            "title": "Research and application of a QCL Faraday rotation spectroscopy NO nonlinear inversion model based on machine learning",
+            "link": "https://doi.org/10.1364/ao.578674",
+            "published": "2026-01-30",
+            "author": "Boen Lei, Yujun Zhang, Kun You, Ying He, Feng Fan, Wenqing Liu",
+            "summary": "Aiming at the detection needs of the large range of NO concentration changes in mobile source exhaust, this study develops a machine-learning-based nonlinear concentration inversion model for QCL Faraday rotation spectroscopy. The model was trained using 44 spectra and evaluated through 40 runs, and the PSO strategy was compared with GWO, SA, and ACA, showing that the PSO achieved the best model performance with a correlation of 0.9983±0.0016, absolute error within ±20ppm, and relative error within 2%. Validation against a HORIBA OBS-ONE under RDE conditions showed high consistency, demonstrating that the proposed method enables accurate, sensitive, and wide-range NO measurements for mobile source emissions.",
+            "journal": "Applied Optics",
+            "title_cn": "基于机器学习的QCL法拉第旋转光谱NO非线性反演模型的研究与应用",
+            "abstract_cn": "针对移动源废气中NO浓度大范围变化的检测需求，本研究开发了一种基于机器学习的QCL法拉第旋转光谱非线性浓度反演模型。使用44个光谱对模型进行训练并通过40次运行进行评估，并将PSO策略与GWO、SA和ACA进行比较，结果表明PSO取得了最佳模型性能，相关性为0.9983±0.0016，绝对误差在±20ppm以内，相对误差在2%以内。 RDE 条件下针对 HORIBA OBS-ONE 的验证显示出高度一致性，表明所提出的方法能够对移动源排放进行准确、灵敏和宽范围的 NO 测量。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.581882",
+            "title": "Long-distance observations: integrating atmospheric optics, meteorology, and citizen science",
+            "link": "https://doi.org/10.1364/ao.581882",
+            "published": "2026-02-02",
+            "author": "Paweł Kłak, Mariusz Krukar",
+            "summary": "Long-distance observations (LDOs)—the visual or photographic documentation of terrestrial objects from distances often exceeding the geometric horizon—are an emerging interdisciplinary field. However, a robust scientific basis that integrates empirical records with atmospheric physics is currently lacking. This study establishes such a methodology by combining a systematic typology of LDOs with a quantitative analysis of their controlling physical factors. The methodology integrates numerical simulations with analyses of photographic case studies from dedicated observer communities, including record-setting observations from Turkey (493 km), South America (484 km), and Central Europe (over 200 km). Analysis demonstrates that extreme visual range is primarily enabled by strong atmospheric refraction within thermal inversion layers. Key findings reveal the critical role of atmospheric transparency, turbulence, and illumination geometry in modulating observational success. It is concluded that LDOs serve a dual purpose: (i) as natural experiments for studying stratified atmospheric states and (ii) as a valuable, community-driven citizen-science practice that provides high-resolution spatio-temporal data complementary to formal meteorological monitoring.",
+            "journal": "Applied Optics",
+            "title_cn": "远距离观测：整合大气光学、气象学和公民科学",
+            "abstract_cn": "长距离观测（LDO）——通常超过几何地平线的距离对地面物体的视觉或摄影记录——是一个新兴的跨学科领域。然而，目前缺乏将经验记录与大气物理学相结合的坚实的科学基础。本研究通过将 LDO 的系统类型学与其控制物理因素的定量分析相结合，建立了这样一种方法。该方法将数值模拟与专门观察者社区的摄影案例研究分析相结合，包括来自土耳其（493 公里）、南美洲（484 公里）和中欧（超过 200 公里）的创纪录观测。分析表明，极端视距主要是由热逆温层内强烈的大气折射实现的。主要发现揭示了大气透明度、湍流和照明几何在调节观测成功方面的关键作用。结论是，LDO 有双重目的：（i）作为研究分层大气状态的自然实验；（ii）作为有价值的、社区驱动的公民科学实践，提供与正式气象监测互补的高分辨率时空数据。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.574743",
+            "title": "Pattern classification based on a multi-spike learning algorithm in a photonic spiking neural network with VCSEL-SA",
+            "link": "https://doi.org/10.1364/ao.574743",
+            "published": "2026-01-30",
+            "author": "Lin Ma, Jianjun Chen, Yuxing He, Dan Lu, Fei Wang, Yingke Xie, Yanchao Wang, Boda Yao, Xiling Ou, Tao Deng",
+            "summary": "In this paper, we propose a pattern classification method based on the modified multi-spike Tempotron-like ReSuMe algorithm in a VCSEL-SA-based photonic spiking neuron network. Based on the multi-spike triggering mechanism, the proposed method can capture the global information to overcome the limitation of the traditional single-spike triggering algorithm, which can be used to effectively process more complex temporal information tasks, accompanied by good robustness to noise. The pattern classification task for the digits “1” to “4” demonstrates the superior performance of the proposed method in the information processing task. By adopting the bias current management strategy for the post-synaptic neuron, we can further improve the network’s noise robustness. Moreover, this proposed method is validated in a pattern classification task in the Wisconsin Breast Cancer (WBC) dataset, and a classification accuracy of 95.6% can be achieved.",
+            "journal": "Applied Optics",
+            "title_cn": "基于 VCSEL-SA 光子尖峰神经网络中的多尖峰学习算法的模式分类",
+            "abstract_cn": "在本文中，我们提出了一种基于 VCSEL-SA 光子尖峰神经网络中改进的多尖峰类 Tempotron ReSuMe 算法的模式分类方法。基于多尖峰触发机制，该方法可以捕获全局信息，克服传统单尖峰触发算法的限制，可有效处理更复杂的时间信息任务，同时对噪声具有良好的鲁棒性。数字“1”到“4”的模式分类任务证明了该方法在信息处理任务中的优越性能。通过对突触后神经元采用偏置电流管理策略，我们可以进一步提高网络的噪声鲁棒性。此外，该方法在威斯康星州乳腺癌（WBC）数据集中的模式分类任务中得到了验证，分类准确率可以达到 95.6%。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02841",
+            "title": "Double-Barrier Resonant Tunnel Heterostructures for High-Performance Terahertz Detection",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02841",
+            "published": "2026-02-05",
+            "author": "Ying Liu, Xin Yuan, Quan Yu, Yi Wang, Hao Deng, Yu Wang, Xinli Dai, Lianghua Gan, Gangyi Xu, Bing Dong, Ka-Di Zhu, Peng Bai, Yueheng Zhang",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "用于高性能太赫兹检测的双势垒谐振隧道异质结构",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

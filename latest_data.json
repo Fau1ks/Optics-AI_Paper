@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-06 11:31:58",
+    "update_time": "2026-02-06 13:28:47",
     "word_filename": "Optical_Papers_260206.docx",
-    "total_count": 172,
+    "total_count": 190,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69249-8",
@@ -1894,6 +1894,204 @@
             "journal": "arXiv: Nerf & Neural Fields",
             "title_cn": "通过嵌入优化实现蛋白质扩散模型的鲁棒推理时间控制",
             "abstract_cn": "在许多生物物理逆问题中，目标是生成物理上合理且与实验测量结果一致的生物分子构象。由于最近的序列到结构扩散模型提供了强大的数据驱动先验，后验采样已成为一种流行的框架，通过使用实验可能性引导原子坐标到目标构象。然而，当目标位于先验的低密度区域时，后验采样需要对似然指导进行积极而脆弱的加权。受此限制的启发，我们提出了 EmbedOpt，这是一种用于引导扩散模型的替代推理时间方法，以优化条件嵌入空间中的实验可能性。由于该空间编码丰富的序列和共同进化信号，因此对其进行优化可以有效地改变扩散，从而与实验约束保持一致。我们在模拟冷冻电子显微镜图拟合和实验距离约束的两个基准上验证 EmbedOpt。我们表明，EmbedOpt 在地图拟合任务中优于基于坐标的后验采样方法，与距离约束任务的性能相匹配，并且在跨两个数量级的超参数上表现出卓越的工程鲁棒性。此外，其平滑的优化行为可以显着减少推理所需的扩散步骤数量，从而提高效率。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-31800-w",
+            "title": "Fuzzy decision making for cross domain sentiment analysis and MABAC approach with complex T-spherical fuzzy operators",
+            "link": "https://doi.org/10.1038/s41598-025-31800-w",
+            "published": "2026-02-05",
+            "author": "Yina Qi",
+            "summary": "Cross-domain sentiment analysis is an advanced approach in natural language processing that focuses on transferring sentiment knowledge from one domain to another, where labeled data may be scarce or vague. To overcome the impact of redundant and ambiguous information about the sentiment expressions, we explore a potent approach of a fuzzy framework with robust algorithms of a decision analysis system. This article initiates an advanced decision-making approach of the multi-attributive border approximation area comparison (MABAC) method to aggregate human judgments or opinions precisely and accurately. To achieve the goals of the presentation, we expose the notion of complex t-spherical fuzzy set (CT-SFS), which is used to manage uncertainty and vagueness during the aggregation process. Some feasible operations of Sugeno–Weber t-norm and t-conorm are formulated under the system of complex t-spherical fuzzy information. A family of Sugeno–Weber weighted average and weighted geometric operators is also developed based on a complex t-spherical fuzzy framework. To showcase the validation and strength of the discussed mathematical models, an intelligent decision algorithm of the MABAC method is established to resolve multi-criteria decision-making (MCDM) problems under complex t-spherical fuzzy environments. An experimental case study is discussed to evaluate different sentiment recognition methods under conflicting criteria and aggregation operators. Additionally, a comparative analysis is conducted to highlight the superiority and effectiveness of the diagnosed mathematical terminologies.",
+            "journal": "Scientific Reports",
+            "title_cn": "跨域情感分析的模糊决策和具有复杂 T 球模糊算子的 MABAC 方法",
+            "abstract_cn": "跨域情感分析是自然语言处理中的一种高级方法，专注于将情感知识从一个域转移到另一个域，其中标记数据可能稀缺或模糊。为了克服情感表达的冗余和模糊信息的影响，我们探索了一种使用决策分析系统的鲁棒算法的模糊框架的有效方法。本文首创了一种先进的多属性边界近似区域比较（MABAC）方法的决策方法，可以准确地聚合人类的判断或意见。为了实现演示的目标，我们提出了复杂 t 球模糊集 (CT-SFS) 的概念，它用于管理聚合过程中的不确定性和模糊性。在复杂t球模糊信息系统下，制定了Sugeno-Weber t-范数和t-conorm的一些可行运算。还基于复杂的 t 球模糊框架开发了一系列 Sugeno-Weber 加权平均和加权几何算子。为了展示所讨论的数学模型的有效性和强度，建立了 MABAC 方法的智能决策算法来解决复杂 t 球模糊环境下的多标准决策（MCDM）问题。讨论了一个实验案例研究，以评估冲突标准和聚合算子下的不同情感识别方法。此外，还进行了比较分析，以突出所诊断的数学术语的优越性和有效性。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38404-y",
+            "title": "Quality and reliability of weight management short videos on TikTok and Bilibili: cross-sectional study",
+            "link": "https://doi.org/10.1038/s41598-026-38404-y",
+            "published": "2026-02-05",
+            "author": "Lijun Han, Feifan Liu, Zibing Wang, Ning Tang, Xiaobin Li, Xiaoyan Liu, Yixin Wang, Haizhen Liu",
+            "summary": "Weight management has become a major focus in worldwide health, and platforms like TikTok and Bilibili are now popular for health information. However, the quality and reliability of weight management content on these platforms remain uncertain. This research systematically evaluated such videos to provide evidence-based guidance for public health communication. We analyzed the top 100 weight management videos from TikTok and Bilibili, recording their sources, content, and characteristics. The DISCERN instrument, JAMA benchmark criteria, and Global Quality Score (GQS) were used to evaluate video quality and reliability. Further analysis was conducted to explore the relationship between video quality and video characteristics. While TikTok videos attracted more likes, saves, comments, and shares, Bilibili videos were longer and exhibited higher quality and reliability (all P < 0.001). Videos from doctors and non-profit organizations had the highest DISCERN and GQS scores, while those from fitness bloggers and individual users were more popular but of lower quality. Video duration was positively associated with quality, whereas engagement indicators (likes, comments, shares, saves) were negatively associated with both GQS and DISCERN. Overall, the quality of weight management videos on TikTok and Bilibili was poor, although Bilibili performed better than TikTok. Doctors and non-profit organizations produced higher-quality content, highlighting the need for stronger platform review and greater professional contributions to improve the dissemination of reliable health information.",
+            "journal": "Scientific Reports",
+            "title_cn": "TikTok 和 Bilibili 上体重管理短视频的质量和可靠性：横断面研究",
+            "abstract_cn": "体重管理已成为全球健康领域的一大焦点，TikTok 和 Bilibili 等平台现在在健康信息方面很受欢迎。然而，这些平台上体重管理内容的质量和可靠性仍不确定。这项研究系统地评估了此类视频，为公共卫生传播提供循证指导。我们分析了 TikTok 和 Bilibili 中排名前 100 的体重管理视频，记录其来源、内容和特征。 DISCERN 仪器、JAMA 基准标准和全球质量得分 (GQS) 用于评估视频质量和可靠性。进一步分析以探索视频质量和视频特征之间的关系。虽然 TikTok 视频吸引了更多的点赞、保存、评论和分享，但 Bilibili 视频更长，并且表现出更高的质量和可靠性（所有 P < 0.001）。来自医生和非营利组织的视频的 DISCERN 和 GQS 得分最高，而来自健身博主和个人用户的视频更受欢迎，但质量较低。视频时长与质量呈正相关，而参与度指标（点赞、评论、分享、保存）与 GQS 和 DISCERN 呈负相关。总体而言，TikTok 和 Bilibili 上的体重管理视频质量较差，尽管 Bilibili 的表现优于 TikTok。医生和非营利组织制作了更高质量的内容，强调需要加强平台审查和做出更大的专业贡献，以改善可靠健康信息的传播。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-35862-2",
+            "title": "Combined fortification of yogurt with grape pomace pectic oligosaccharides and encapsulated probiotics",
+            "link": "https://doi.org/10.1038/s41598-026-35862-2",
+            "published": "2026-02-05",
+            "author": "Mohamad Savarolyia, Sara Amiri Samani, Mina Ghorbani, Maedeh Khezri, Milad Kazemi, Manochehr Momeni Shahraki, Faramarz Khodaiyan, Seyed Saeid Hosseini",
+            "summary": "This study investigates the effects of adding grape pomace pectic oligosaccharides (GPPOS) and Lactobacillus acidophilus (free and encapsulated) on different properties of synbiotic yogurts. GPPOS was incorporated at concentrations ranging from 0.1% to 1.4% (w/v) in yogurts as prebiotics, while free and encapsulated L. acidophilus were used as probiotics. The physicochemical, functional, survival rate and sensory characteristics were evaluated over 21 days of refrigerated storage. The formulation containing 0.4% GPPOS and encapsulated L. acidophilus exhibited significantly improved viscosity (1442.23 mPas), reduced syneresis (14.17%), enhanced antiradical scavenging activity (47.28%) and maintained probiotic viability under storage and simulated gastrointestinal conditions (≤ 0.65 log cfu/mL reduction). In addition, sensory evaluation showed improved acceptability at 0.1–0.7% GPPOS, although encapsulation reduced sensory scores. The findings of this study demonstrate the prebiotic potential of GPPOS and highlight the role of encapsulation in enhancing probiotic survival, physicochemical properties and overall functionality of synbiotic yogurts.",
+            "journal": "Scientific Reports",
+            "title_cn": "酸奶与葡萄渣果胶寡糖和胶囊益生菌的联合强化",
+            "abstract_cn": "本研究研究了添加葡萄渣果胶寡糖 (GPPOS) 和嗜酸乳杆菌（游离和封装）对合生酸奶不同特性的影响。 GPPOS 以 0.1% 至 1.4%（w/v）的浓度作为益生元掺入酸奶中，而游离和封装的嗜酸乳杆菌则用作益生菌。对冷藏 21 天的理化、功能、存活率和感官特性进行评估。含有 0.4% GPPOS 和封装的嗜酸乳杆菌的制剂表现出显着改善的粘度 (1442.23 mPas)、减少的脱水收缩 (14.17%)、增强的抗自由基清除活性 (47.28%)，并在储存和模拟胃肠道条件下保持益生菌活力（≤ 0.65 log cfu/mL 减少）。此外，感官评价显示，尽管封装降低了感官评分，但 0.1-0.7% GPPOS 的可接受性有所提高。这项研究的结果证明了 GPPOS 的益生元潜力，并强调了封装在增强益生菌存活、理化特性和合生酸奶整体功能方面的作用。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38006-8",
+            "title": "APMSR: an intelligent QA system for synthetic biology empowered by adaptive prompting and multi-source knowledge retrieval",
+            "link": "https://doi.org/10.1038/s41598-026-38006-8",
+            "published": "2026-02-05",
+            "author": "Jinlin Wang, Zhizheng Cao, Zhiyong Tian, Bin Sun, Li Cheng",
+            "summary": "Synthetic biology is a highly specialized discipline characterized by diverse and heterogeneous knowledge sources. Leveraging large language models (LLMs) to achieve accurate, context-aware domain-specific question answering remains a significant challenge, particularly due to persistent issues such as knowledge gaps and hallucinations. To address this, we propose APMSR (Adaptive Prompt and Multi-Source Retrieval), an optimization strategy that integrates adaptive prompt generation based on question features with dynamic multi-source knowledge retrieval, guided by the LinUCB algorithm. This approach balances exploration and exploitation to enhance the relevance and precision of domain-specific information retrieval. We implemented APMSR in a question-answering system tailored to synthetic biology and evaluated its performance on complex, professional-level queries. Experimental results demonstrate that the APMSR-optimized system achieves up to 93% accuracy on multiple-choice and true/false questions. These improvements in accuracy and robustness highlight the potential of combining LLMs with retrieval-augmented strategies for advanced domain-specific question answering.",
+            "journal": "Scientific Reports",
+            "title_cn": "APMSR：由自适应提示和多源知识检索支持的合成生物学智能问答系统",
+            "abstract_cn": "合成生物学是一门高度专业化的学科，其特点是知识来源多样且异构。利用大型语言模型 (LLM) 实现准确的、上下文感知的特定领域问答仍然是一项重大挑战，特别是由于知识差距和幻觉等长期存在的问题。为了解决这个问题，我们提出了 APMSR（自适应提示和多源检索），这是一种优化策略，在 LinUCB 算法的指导下，将基于问题特征的自适应提示生成与动态多源知识检索相结合。这种方法平衡了探索和利用，以提高特定领域信息检索的相关性和精度。我们在专为合成生物学量身定制的问答系统中实施了 APMSR，并评估了其在复杂、专业级查询上的性能。实验结果表明，经过 APMSR 优化的系统在多项选择题和对错题上的准确率高达 93%。这些准确性和稳健性方面的改进凸显了将法学硕士与检索增强策略相结合以实现高级特定领域问答的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.37188/lam.2026.033",
+            "title": "Precise motion tracking and velocimetry using chirped power oscillation wave",
+            "link": "https://doi.org/10.37188/lam.2026.033",
+            "published": "2026",
+            "author": "Wei Du, Yujia Li, Hao Wu, Lei Chen, Lei Gao, Dongmei Huang, Leilei Shi, Wei Gao, Lei Wei, Baicheng Yao, Tao Zhu",
+            "summary": "Abstract not available.",
+            "journal": "Light: Advanced Manufacturing",
+            "title_cn": "使用啁啾功率振荡波进行精确运动跟踪和测速",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.586491",
+            "title": "Generation and observation of period-doubling and harmonic mode-locking solitons in a linear erbium-doped fiber oscillator with a Sagnac filter",
+            "link": "https://doi.org/10.1364/oe.586491",
+            "published": "2026-01-26",
+            "author": "Rui Zhao, Xiangwen Zhang, Keming Wang, Xingcheng Han, Jie Chen, Mingjiang Zhang",
+            "summary": "Mode-locked fiber lasers provide an ideal platform for investigating nonlinear phenomena in dissipative optical systems. In this study, we experimentally demonstrate a linear mode-locked erbium-doped fiber laser incorporating a Sagnac loop mirror, which enables tunable spectral filtering by precise polarization control. Through gradually tuning the intracavity polarization state, the laser exhibits rich transitions from stable single-wavelength mode-locking state into a distinct period-doubling vector soliton and harmonic mode-locking soliton states. Among them, the pulse train undergoes doubling and harmonic behaviors of the fundmental repetition rate, accompanied by alternating pulse intensities induced by the intracavity polarization rotation. Real-time dispersive Fourier transform (DFT) technology provides real-time measurement of the spectral evolution during the transition, confirming that the vector soliton evolution and harmonic dynamics can be enabled by polarization-induced modulation. Furthermore, dual-wavelength period-doubling vector solitons are observed in the Sagnac-filter-based fiber laser for the first time, with both wavelength channels exhibiting synchronized vector soliton dynamics. These results establish a clear link between intracavity polarization perturbations and nonlinear vector soliton pathways, and further highlight dual-wavelength fiber lasers as versatile platforms for exploring complex dynamical behaviors in nonlinear photonics and advancing applications in dual-comb metrology and ultrafast signal processing.",
+            "journal": "Optics Express",
+            "title_cn": "带有萨尼亚克滤波器的线性掺铒光纤振荡器中倍周期和谐波锁模孤子的生成和观察",
+            "abstract_cn": "锁模光纤激光器为研究耗散光学系统中的非线性现象提供了理想的平台。在这项研究中，我们通过实验演示了一种结合了萨格纳克环形镜的线性锁模掺铒光纤激光器，它可以通过精确的偏振控制实现可调谐光谱滤波。通过逐渐调谐腔内偏振态，激光器表现出从稳定的单波长锁模态到独特的倍周期矢量孤子态和谐波锁模孤子态的丰富跃迁。其中，脉冲串经历基本重复率的倍频和谐波行为，并伴随着腔内偏振旋转引起的交替脉冲强度。实时色散傅里叶变换 (DFT) 技术可实时测量过渡期间的光谱演化，证实矢量孤子演化和谐波动力学可以通过偏振诱导调制来实现。此外，首次在基于萨格纳克滤波器的光纤激光器中观察到双波长倍周期矢量孤子，两个波长通道都表现出同步矢量孤子动力学。这些结果在腔内偏振扰动和非线性矢量孤子路径之间建立了明确的联系，并进一步强调双波长光纤激光器作为通用平台，用于探索非线性光子学中的复杂动态行为以及推进双梳计量和超快信号处理中的应用。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.586780",
+            "title": "Research on color image-based multispectral reconstruction methods for candle flames",
+            "link": "https://doi.org/10.1364/ol.586780",
+            "published": "2026-01-20",
+            "author": "Zehui Yang, Zhixin Wang, Hu Ni, Hua Yan, Bin Yang",
+            "summary": "A multispectral reconstruction method for flame color images based on K-means clustering and backpropagation neural networks (BPNN) is proposed to overcome the low spectral resolution of temperature measurement using color RGB three-band radiation images. A synchronized imaging system with an RGB camera and a 25-band multispectral camera was built to capture candle flame images. Image partitioning created a training set linking the three-band RGB and 25-band multi-spectral responses. Neural network training established a mapping between them. Spectral reconstruction of the candle flame images achieved an average relative error below 5%. The temperature inversion yielded an average error of 31.5 K, with a mean error of 1.79% in the error distribution, respectively, with test set R 2 values of 0.97–0.99, confirming high model accuracy. This work demonstrates the feasibility of merging the spatial advantages of RGB images with the spectral advantages of multispectral data, offering a new approach for dynamic flame temperature field monitoring.",
+            "journal": "Optics Letters",
+            "title_cn": "基于彩色图像的蜡烛火焰多光谱重建方法研究",
+            "abstract_cn": "针对彩色RGB三波段辐射图像温度测量光谱分辨率低的问题，提出一种基于K均值聚类和反向传播神经网络（BPNN）的火焰彩色图像多光谱重建方法。建立了一个带有 RGB 相机和 25 波段多光谱相机的同步成像系统来捕获蜡烛火焰图像。图像分区创建了一个连接三波段 RGB 和 25 波段多光谱响应的训练集。神经网络训练建立了它们之间的映射。蜡烛火焰图像的光谱重建实现了低于 5% 的平均相对误差。温度反演的平均误差为31.5 K，误差分布的平均误差为1.79%，测试集R 2 值为0.97-0.99，证实了模型的较高精度。这项工作证明了将RGB图像的空间优势与多光谱数据的光谱优势相结合的可行性，为动态火焰温度场监测提供了一种新方法。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.583755",
+            "title": "Holographic complex-amplitude storage based on hybrid angle-polarization multiplexing",
+            "link": "https://doi.org/10.1364/ol.583755",
+            "published": "2026-01-28",
+            "author": "Xueyan Chen, Hongjie Liu, Shujun Zheng, Jinyu Wang, Ruixian Chen, Shenghui Ke, Xinyi Yuan, Dakui Lin, Yi Yang, Xiaodi Tan",
+            "summary": "We present a hybrid multiplexing method for holographic optical storage that combines complex-amplitude encoding with polarization- and angle-based multiplexing to enhance storage density and capacity significantly beyond conventional approaches. By leveraging polarization holography, complex-amplitude data can be selectively recorded into orthogonal polarization channels. Furthermore, angular multiplexing is also applied to co-record multiple holograms at the same spatial location. During the reading process, each hologram can be selectively reconstructed under its specific Bragg and polarization conditions. Remarkably, despite exploiting these degrees, the reconstruction fidelity remains exceptionally high, with negligible degradation or crosstalk. This demonstrates a scalable route to high‑capacity, high‑fidelity holographic memories for next‑generation data‑intensive applications.",
+            "journal": "Optics Letters",
+            "title_cn": "基于混合角偏振复用的全息复振幅存储",
+            "abstract_cn": "我们提出了一种用于全息光存储的混合复用方法，该方法将复振幅编码与基于偏振和角度的复用相结合，以显着超出传统方法的存储密度和容量。通过利用偏振全息术，可以选择性地将复振幅数据记录到正交偏振通道中。此外，角度复用还应用于在同一空间位置共同记录多个全息图。在读取过程中，每个全息图可以在其特定的布拉格和偏振条件下选择性地重建。值得注意的是，尽管利用了这些度数，重建保真度仍然非常高，退化或串扰可以忽略不计。这展示了一种为下一代数据密集型应用提供高容量、高保真全息存储器的可扩展途径。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.586582",
+            "title": "Fiber Bragg gratings inscribed using femtosecond laser Bessel beams",
+            "link": "https://doi.org/10.1364/ol.586582",
+            "published": "2026-01-21",
+            "author": "Junxian Luo, Xiaoyu Chen, Hanwen Liu, Mengmeng Chen, Fei Xu",
+            "summary": "Fiber Bragg gratings (FBGs) inscribed by femtosecond (fs) lasers have become an important alternative to ultraviolet laser-based methods, offering flexibility across a wide range of fiber types. However, existing fs laser inscription strategies still face a tradeoff between speed and spectral quality, limiting their application in large-scale photonic systems. In this work, we demonstrate a Bessel-beam-based inscription approach specifically tailored for FBG fabrication. By exploiting the long focus length of the Bessel beam in combination with a time-of-flight line-by-line (LbL) strategy, FBGs can be written at significantly higher speeds than conventional LbL methods while retaining good spectral quality (improved short-wavelength loss). Furthermore, we extend this approach to plane-by-plane (PlbPl) inscription in a commercial multi-cladding, seven-core fiber (SCF), enabling the simultaneous fabrication of multiple FBGs without dedicated core-by-core lateral alignment. The results exhibit the value of Bessel-beam-based inscription under fiber-specific constraints and a practical route toward high-speed, low-loss, and multi-core-compatible FBG fabrication.",
+            "journal": "Optics Letters",
+            "title_cn": "使用飞秒激光贝塞尔光束刻写光纤布拉格光栅",
+            "abstract_cn": "由飞秒 (fs) 激光器刻写的光纤布拉格光栅 (FBG) 已成为基于紫外激光的方法的重要替代方案，为各种光纤类型提供了灵活性。然而，现有的飞秒激光刻印策略仍然面临速度和光谱质量之间的权衡，限制了它们在大规模光子系统中的应用。在这项工作中，我们展示了一种专门为光纤光栅制造量身定制的基于贝塞尔光束的刻写方法。通过利用贝塞尔光束的长焦距与飞行时间逐行 (LbL) 策略相结合，可以以比传统 LbL 方法高得多的速度写入 FBG，同时保持良好的光谱质量（改善短波长损耗）。此外，我们将这种方法扩展到商用多包层七芯光纤（SCF）中的逐平面（PlbPl）刻录，从而能够同时制造多个光纤光栅，而无需专用的逐芯横向对准。结果展示了基于贝塞尔光束的铭刻在特定光纤约束下的价值，以及实现高速、低损耗和多芯兼容 FBG 制造的实用途径。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.587730",
+            "title": "Topological Hong-Ou-Mandel interference via compact edge modes",
+            "link": "https://doi.org/10.1364/ol.587730",
+            "published": "2026-01-27",
+            "author": "Shuai-Peng Guo, Cheng-Feng Yang, Chuang Jiang, Jia-Sheng Li, Shaolin Ke, Zhen-Nan Tian",
+            "summary": "We propose a scheme based on synthetic-flux–induced topological edge modes for realizing Hong–Ou–Mandel (HOM) interference between spatial polarization modes in a long-period grating waveguide. By engineering the relative modulation phase of the gratings, a tunable synthetic magnetic flux is generated, enabling controlled conversion between the TE and TM modes and forming an effective mode lattice. At a flux of π, the coupled-waveguide system supports compact, highly localized topological edge modes. Harnessing these boundary states, we achieve HOM interference with near-unity visibility that is insensitive to propagation distance and robust against variations of the coupling coefficients. These results may provide a route for fault-tolerant on-chip photonic quantum circuits.",
+            "journal": "Optics Letters",
+            "title_cn": "通过紧凑边缘模式的拓扑红欧曼德尔干涉",
+            "abstract_cn": "我们提出了一种基于合成通量诱导拓扑边缘模式的方案，用于实现长周期光栅波导中空间偏振模式之间的红欧曼德尔（HOM）干涉。通过设计光栅的相对调制相位，生成可调谐的合成磁通量，从而实现 TE 和 TM 模式之间的受控转换，并形成有效的模式晶格。在 π 通量下，耦合波导系统支持紧凑、高度局域化的拓扑边缘模式。利用这些边界态，我们实现了具有接近统一可见度的 HOM 干扰，该干扰对传播距离不敏感，并且对耦合系数的变化具有鲁棒性。这些结果可能为容错片上光子量子电路提供一条途径。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.585241",
+            "title": "Achieving ultralow detection limit in Fabry–Perot interferometric ultrasonic sensors with a high-finesse optical cavity",
+            "link": "https://doi.org/10.1364/ol.585241",
+            "published": "2026-01-29",
+            "author": "Zhicheng Wu, Zhengnan Sun, Junjie Zhou, Jinyang He, Yuhao Luo, Ruofan Yang, Ke Zhao, Qiaogen Zhang",
+            "summary": "To address the pressing need for ultralow detection limits in ultrasonic detection, constructing a high-finesse optical cavity has become an effective approach to enhance the sensitivity of Extrinsic Fabry–Perot Interferometric (EFPI) acoustic sensors. This requires the simultaneous achievement of high beam collimation and high reflectivity of the Fabry–Perot (F–P) cavity. In this Letter, these two aspects are decoupled: a graded index (GRIN) lens is used to achieve beam collimation, while microelectromechanical system (MEMS) technology is employed to fabricate the high-reflectivity optical cavity. By accounting for diffraction and fabrication errors using the angular spectrum method in the design process, an EFPI acoustic sensor with an optical cavity finesse of 25 was fabricated. While maintaining a mechanical sensitivity of 26.46 nm/Pa, the sensor achieves a significantly enhanced sensitivity of 3.92V/Pa at the resonant frequency 32.7 kHz, with a minimum detectable pressure (MDP) as low as 1.03 μPa/√Hz, demonstrating leading-edge performance compared to reported EFPI sensors. By utilizing a high-finesse optical cavity to provide a further boost to the sensor sensitivity while preserving its mechanical sensitivity, the proposed method demonstrates significant application potential in areas such as partial discharge detection and industrial non-destructive testing.",
+            "journal": "Optics Letters",
+            "title_cn": "具有高精度光学腔的法布里-珀罗干涉超声波传感器实现超低检测限",
+            "abstract_cn": "为了满足超声波检测中超低检测限的迫切需求，构建高精度光学腔已成为提高外本征法布里-珀罗干涉（EFPI）声学传感器灵敏度的有效方法。这需要同时实现高光束准直和法布里-珀罗（F-P）腔的高反射率。在这封信中，这两个方面被解耦：使用渐变折射率（GRIN）透镜来实现光束准直，同时采用微机电系统（MEMS）技术来制造高反射率光学腔。通过在设计过程中使用角谱方法考虑衍射和制造误差，制造了光学腔精细度为 25 的 EFPI 声学传感器。该传感器在保持 26.46 nm/Pa 机械灵敏度的同时，在 32.7 kHz 谐振频率下实现了 3.92V/Pa 的显着增强灵敏度，最小可检测压力 (MDP) 低至 1.03 μPa/√Hz，与报道的 EFPI 传感器相比，展现了领先的性能。通过利用高精度光学腔进一步提高传感器灵敏度，同时保持其机械灵敏度，所提出的方法在局部放电检测和工业无损检测等领域展现出巨大的应用潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.585270",
+            "title": "Rapidly tunable ultrabroadband flying focus using adaptive optics and an axiparabola",
+            "link": "https://doi.org/10.1364/ol.585270",
+            "published": "2026-01-27",
+            "author": "H. S. Markland, J. Rosenbluth, R. Boni, M. V. Ambat, C. Dorrer, J. P. Palastro, D. H. Froula, J. J. Pigeon",
+            "summary": "A programmable ultrabroadband flying focus was produced using adaptive optics and an axiparabola with a continuous wave superluminescent diode. A deformable mirror and spatial light modulator were used to add a programmable amount of radial group delay, and an axiparabola was used to create an extended focus by imparting spherical aberration. Three different flying focus trajectories were measured using spectral interferometry, two with uniform velocity and one with an accelerating velocity. The temporal response function width of the flying focus optics alone was calculated to be 52 ± 6 fs, and the focal spot size was measured to be (1.2 ± 0.1) × larger than the diffraction-limited spot size through the extended focus.",
+            "journal": "Optics Letters",
+            "title_cn": "使用自适应光学器件和轴抛物线快速可调超宽带飞行焦点",
+            "abstract_cn": "使用自适应光学器件和带有连续波超发光二极管的轴抛物线产生了可编程超宽带飞行焦点。使用可变形镜和空间光调制器来添加可编程量的径向群延迟，并使用轴抛物线通过赋予球面像差来创建扩展的焦点。使用光谱干涉测量法测量了三种不同的飞焦点轨迹，两种具有匀速速度，一种具有加速速度。单独飞焦光学器件的时间响应函数宽度经计算为 52 ± 6 fs，并且通过扩展焦点测量焦斑尺寸比衍射极限光斑尺寸大 (1.2 ± 0.1) ×。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.584316",
+            "title": "Photonic Kolmogorov-Arnold networks based on self-phase modulation in nonlinear waveguides",
+            "link": "https://doi.org/10.1364/ol.584316",
+            "published": "2026-01-27",
+            "author": "Kostas Sozos, Dimitrios Spanos, Stavros Deligiannidis, George Sarantoglou, Nikolaos Passalis, Nikos Pleros, Charis Mesaritakis, Anastasios Tefas, Adonis Bogris",
+            "summary": "Photonic neural networks have attracted intense interest during the past decade, with an extensive number of propositions trying to mimic various forms of the established digital models. This field envisages low-power and low-latency, highly parallelized hardware implementations that count on the vast capacity of photonics. Kolmogorov-Arnold networks were recently proposed, offering improved scalability and interpretability compared to conventional multilayer perceptrons. From this point of view, Kolmogorov-Arnold networks constitute a promising field for implementations which exploit the full pallet of photonic strengths, mitigating the scalability barrier. Here, we propose and experimentally showcase the potential of self-phase modulation in nonlinear waveguides as a versatile generator of arbitrary nonlinear activation functions for the ultra-fast photonic implementation of Kolmogorov-Arnold networks. The efficacy of the proposed approach is demonstrated on both regression and classification tasks, where the photonic implementation matches digital performance and, in specific cases, surpasses the digital baseline used in our comparison.",
+            "journal": "Optics Letters",
+            "title_cn": "基于非线性波导自相位调制的光子柯尔莫哥洛夫-阿诺德网络",
+            "abstract_cn": "在过去的十年中，光子神经网络引起了人们的浓厚兴趣，大量的命题试图模仿各种形式的已建立的数字模型。该领域设想依靠光子学的巨大能力实现低功耗、低延迟、高度并行化的硬件实现。最近提出了 Kolmogorov-Arnold 网络，与传统的多层感知器相比，它提供了改进的可扩展性和可解释性。从这个角度来看，柯尔莫哥洛夫-阿诺德网络构成了一个有前途的领域，可以利用光子的全部优势，减轻可扩展性障碍。在这里，我们提出并通过实验展示了非线性波导中自相位调制作为任意非线性激活函数的多功能生成器的潜力，用于柯尔莫哥洛夫-阿诺德网络的超快光子实现。所提出方法的有效性在回归和分类任务中得到了证明，其中光子实现与数字性能相匹配，并且在特定情况下超越了我们比较中使用的数字基线。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.586201",
+            "title": "White-light excitable NaYF 4 :Nd 3+ for ultraviolet anti-counterfeiting applications",
+            "link": "https://doi.org/10.1364/ol.586201",
+            "published": "2026-01-28",
+            "author": "Bingbing Yang, Jinhao Si, Kaifeng Wu, Kaiyue Zhang, Mina Liu, Zhirui Zhang, Ziyi Wang, Gina Ma, Yimo Li, Athena Liu, Yanfang Sun",
+            "summary": "Using luminescent technology for security verification holds promise for optical anti-counterfeiting. However, existing strategies often struggle in brightly lit environments due to ambient light interference. To address this issue, we introduce NaYF 4 :Nd 3+ as a flexible platform for ultraviolet (UV) luminescence in security applications. This phosphor exhibits readily detectable upconversion luminescence under intense white-light illumination, emitting at 354 nm—a wavelength beyond the typical indoor spectrum—for background-free signal detection. Driven by a two-photon excitation mechanism with an illumination threshold of 80 mW·cm −2 , UV imaging under daylight validates its reliability. This approach offers a robust, real-world solution for effective anti-counterfeiting.",
+            "journal": "Optics Letters",
+            "title_cn": "用于紫外线防伪应用的白光激发 NaYF 4 :Nd 3+",
+            "abstract_cn": "利用发光技术进行安全验证有望实现光学防伪。然而，由于环境光干扰，现有策略常常在明亮的环境中陷入困境。为了解决这个问题，我们引入了 NaYF 4 :Nd 3+ 作为安全应用中紫外 (UV) 发光的灵活平台。这种荧光粉在强白光照射下表现出易于检测的上转换发光，发射波长为 354 nm（超出了典型室内光谱的波长），可实现无背景信号检测。在照度阈值为80 mW·cm -2 的双光子激发机制驱动下，日光下的紫外成像验证了其可靠性。这种方法为有效的防伪提供了强大的、现实的解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.587005",
+            "title": "Phase-modulation-based periodic polarization scrambling for polarization noise mitigation in a pulse-coded Brillouin fiber sensor",
+            "link": "https://doi.org/10.1364/ol.587005",
+            "published": "2026-01-27",
+            "author": "Zonglei Li, Gai Ying, Yin Zhou, Jia Ye, Xihua Zou, Wei Pan, Lianshan Yan",
+            "summary": "Periodic polarization scrambling (PS) has been found to be an effective way of eliminating polarization noises in a pulse-coded Brillouin optical time-domain analysis fiber sensor. It is realized by periodically changing the phase difference between the two orthogonal components of a light. Here, we use phase modulation to generate periodic PS, which utilizes the different modulation efficiencies of the fast and slow axes of a phase modulator. This method not only reduces system complexity but also alleviates the non-local effect compared to our previous approach based on differ-frequency acousto-optic modulation (AOM). Experimental results show that it enhances the signal-to-noise ratio of Brillouin gain by ~4 dB compared to the commonly used random PS. Further, owing to the reduction of the non-local effect, ~4-MHz Brillouin frequency shift measurement error is avoided compared to the AOM-based approach.",
+            "journal": "Optics Letters",
+            "title_cn": "基于相位调制的周期性偏振加扰，用于减轻脉冲编码布里渊光纤传感器中的偏振噪声",
+            "abstract_cn": "人们发现，周期性偏振加扰 (PS) 是消除脉冲编码布里渊光时域分析光纤传感器中偏振噪声的有效方法。它是通过周期性地改变光的两个正交分量之间的相位差来实现的。在这里，我们使用相位调制来生成周期性 PS，它利用了相位调制器快轴和慢轴的不同调制效率。与我们之前基于异频声光调制（AOM）的方法相比，该方法不仅降低了系统复杂性，而且减轻了非局部效应。实验结果表明，与常用的随机PS相比，它使布里渊增益的信噪比提高了~4 dB。此外，由于非局部效应的减少，与基于 AOM 的方法相比，可以避免约 4 MHz 布里渊频移测量误差。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.586875",
+            "title": "Environmentally stabilized crystalline WGM resonator",
+            "link": "https://doi.org/10.1364/ol.586875",
+            "published": "2026-01-30",
+            "author": "Wei Zhang, Yu-Hung Lai, Anatoliy Savchenkov, Vladimir Ilchenko, Miguel Maldonado, George Keseyan, Kayla Kulish, Scott Singer, Gautam Vasisht, Lute Maleki, Andrey B. Matsko",
+            "summary": "We report on the development of a packaged optical whispering-gallery-mode (WGM) resonator exhibiting low vibration sensitivity. The fractional frequency shift is measured to be on the order of 10 −10 / g along the vertical axis and 10 −11 / g along the horizontal axis. The resonator, operating in the optical domain with an intrinsic quality factor of Q ∼10 9 , is employed for laser frequency stabilization. The resulting laser exhibited a relative frequency stability 3×10 −12 level at 10 ms integration time. These results highlight the potential of optical WGM resonators as compact, mechanically robust frequency references for precision photonic systems.",
+            "journal": "Optics Letters",
+            "title_cn": "环境稳定的晶体 WGM 谐振器",
+            "abstract_cn": "我们报告了一种具有低振动灵敏度的封装光学回音壁模式 (WGM) 谐振器的开发。沿垂直轴测得分数频移约为10 -10 /g，沿水平轴测得分数频移约为10 -11 /g。该谐振器在光域中工作，固有品质因数为 Q ∼10 9 ，用于激光频率稳定。所得激光器在10ms积分时间下表现出3×10 -12 水平的相对频率稳定性。这些结果凸显了光学 WGM 谐振器作为精密光子系统的紧凑、机械稳健的频率基准的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.582789",
+            "title": "Cavity photothermal oscillation spectroscopy generation in an optofluidic microbubble resonator for multi-component mixture solution detection",
+            "link": "https://doi.org/10.1364/ol.582789",
+            "published": "2026-01-30",
+            "author": "Weida Chen, Tianhe Wu, Ya Hu, Xiang Li, Zheng Huang, Hongliang Ren, Chang-Ling Zou, Xiankai Sun, Xianzeng Zhang, Qijing Lu",
+            "summary": "Optofluidic whispering gallery mode microbubble cavities offer several advantages, including high quality factors, small mode volumes, and real-time detection capabilities, making them well-suited for applications in high-precision sensing. The sensing mechanism of microcavity-based solution sensors typically relies on detecting mode shifts, broadening, or splitting induced by variations in the refractive index of the analyte. In this study, we introduce a novel, to the best of our knowledge, detection method that integrates cavity photothermal oscillation spectroscopy with a deep neural network. This hybrid technique enables high-precision detection of anhydrous ethanol concentrations in multi-component mixture solution while remaining insensitive to mode shifts. Experimental results demonstrate a predicted accuracy of 0.992 and a mean squared error of 5.29 × 10 −4 within the 0–1% concentration range.",
+            "journal": "Optics Letters",
+            "title_cn": "用于多组分混合物溶液检测的光流控微泡谐振器中的腔体光热振荡光谱生成",
+            "abstract_cn": "光流控回音壁模式微泡腔具有多种优势，包括高品质因数、小模式体积和实时检测功能，使其非常适合高精度传感应用。基于微腔的溶液传感器的传感机制通常依赖于检测由分析物的折射率变化引起的模式转变、加宽或分裂。在这项研究中，据我们所知，我们介绍了一种新颖的检测方法，该方法将腔光热振荡光谱与深度神经网络相结合。这种混合技术能够高精度检测多组分混合物溶液中的无水乙醇浓度，同时对模式转换保持不敏感。实验结果表明，在 0-1% 浓度范围内，预测精度为 0.992，均方误差为 5.29 × 10 -4。"
+        },
+        {
+            "id": "https://doi.org/10.1364/josaa.585179",
+            "title": "Lightweight neural network for wavefront estimation under long-distance, strong atmospheric turbulence",
+            "link": "https://doi.org/10.1364/josaa.585179",
+            "published": "2026-02-03",
+            "author": "Yonghao Chen, Wuli Hu, Zheqiang Zhong, Bin Zhang",
+            "summary": "Wavefront estimation under long-distance, strong atmospheric turbulence remains a critical challenge in free-space optical communication (FSOC). Conventional approaches always suffer from high computational cost and latency. To address this issue, we proposed a lightweight high-precision neural network (LHP-Net), a compact yet accurate model that directly predicts Zernike coefficients from single-frame distorted images under long-distance, strong atmospheric turbulence. The architecture combines an optimized convolutional backbone with a lightweight Zernike-aware attention (LZA) module, enhancing the sensitivity to turbulence-induced aberrations while minimizing computational cost. To rigorously evaluate performance, a large-scale dataset using spectral phase screen simulations was obtained, covering propagation distances up to 10 km and turbulence intensity ranging from weak to strong. Simulation results indicate that LHP-Net achieves up to 92.4% lower prediction error and 37.5% faster inference, exhibiting better performance than a conventional convolutional neural network (CNN). Furthermore, our hybrid training strategy significantly enhances the generalization across different turbulence intensities. Remarkably, LHP-Net maintains robust performance even under extreme turbulence, exhibiting minimal prediction error, providing potential for real-time adaptive optics in next-generation free-space optical systems.",
+            "journal": "J. Opt. Soc. Am. A",
+            "title_cn": "用于远距离、强大气湍流下波前估计的轻量级神经网络",
+            "abstract_cn": "长距离、强大气湍流下的波前估计仍然是自由空间光通信（FSOC）中的一个关键挑战。传统方法总是面临高计算成本和延迟的问题。为了解决这个问题，我们提出了一种轻量级高精度神经网络（LHP-Net），这是一种紧凑而准确的模型，可以直接预测远距离、强大气湍流下的单帧失真图像的泽尼克系数。该架构将优化的卷积主干与轻量级 Zernike 感知注意力 (LZA) 模块相结合，增强了对湍流引起的像差的敏感性，同时最大限度地降低了计算成本。为了严格评估性能，使用光谱相位屏幕模拟获得了大规模数据集，覆盖传播距离长达 10 公里，湍流强度从弱到强。仿真结果表明，LHP-Net 的预测误差降低了 92.4%，推理速度提高了 37.5%，表现出比传统卷积神经网络 (CNN) 更好的性能。此外，我们的混合训练策略显着增强了不同湍流强度的泛化能力。值得注意的是，LHP-Net 即使在极端湍流下也能保持稳健的性能，表现出最小的预测误差，为下一代自由空间光学系统中的实时自适应光学提供了潜力。"
         }
     ]
 }

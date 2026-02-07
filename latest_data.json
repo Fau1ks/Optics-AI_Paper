@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-08 00:30:02",
+    "update_time": "2026-02-08 06:27:57",
     "word_filename": "Optical_Papers_260208.docx",
-    "total_count": 39,
+    "total_count": 41,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69034-7",
@@ -431,6 +431,28 @@
             "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
             "title_cn": "ASIL：双曲空间中深度图聚类的增强结构信息学习",
             "abstract_cn": "图聚类是机器学习中一个长期存在的话题。近年来，深度学习方法取得了令人鼓舞的成果，但它们仍然需要预定义的簇编号 $K$ ，并且通常会遇到不平衡的图，特别是在识别少数簇时。这些限制促使我们研究一个具有挑战性但又实际的问题：考虑到现实中的不平衡，在没有 $K$ 的情况下进行深度图聚类。我们从信息论（即结构信息）的全新角度来解决这个问题。在文献中，深度聚类中很少涉及结构信息，并且经典定义在离散表述方面存在缺陷，忽略了节点属性并表现出令人望而却步的复杂性。在本文中，我们首先建立可微的结构信息，将离散形式推广到连续领域，从而设计双曲深度模型（LSEnet）来学习双曲空间洛伦兹模型中的神经划分树。理论上，我们展示了它的聚类能力，无需 $K$ 并识别不平衡图中的少数聚类。其次，我们细化分区树的双曲表示，增强图语义，以实现更好的聚类。树结构的对比学习并不简单，其复杂度是二次方的。相反，我们通过发现一个有趣的事实来进一步推进我们的理论，即结构熵确实限制了树对比损失。最后，通过有效的重新表述，我们通过一种新颖的增强结构信息学习（ASIL）来实现图聚类，它提供了一个简单而有效的增强结构熵目标，以无缝集成双曲分区树构建和对比学习。通过图电导的可证明改进，ASIL 在相对于图大小的线性复杂度上实现了有效的去偏图聚类。大量实验表明，在 Citeseer 数据集的 NMI 中，ASIL 平均优于 20 个强基线 $+12.42\\%$。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tvcg.2026.3660683",
+            "title": "Explorative Analysis of Dynamic Force Networks in 2D Photoelastic Disks Ensembles",
+            "link": "https://doi.org/10.1109/tvcg.2026.3660683",
+            "published": "2026",
+            "author": "Farhan Rasheed, Abrar Naseer, Talha Bin Masood, Tejas G. Murthy, Vijay Natarajan, Ingrid Hotz",
+            "summary": "This paper presents an interactive analysis framework for exploring data from photoelastic disk experiments, which serve as a model for two-dimensional granular materials. Granular materials, composed of discrete particles such as sand or gravel, exhibit behaviors resembling fluid or solid states depending on the system configuration. These behaviors arise from interparticle contact forces, which form complex force networks that govern the material's macroscopic behavior. Our framework is specifically designed to analyze such 2D ensembles of dynamic force networks, enabling the identification and characterization of their underlying structures. The framework is built around a topology-based, multiscale data segmentation in terms of force chains and cycles. The analysis methods are structured across three levels: (1) multiscale analysis of individual instances under specific loading conditions, (2) detailed exploration of single experiments encompassing a series of loading and unloading cycles, and (3) comparative analysis across experiments conducted under similar and differing setups. We demonstrate the capabilities of our framework with a case study for each of these levels.",
+            "journal": "IEEE Trans. Vis. Comput. Graph",
+            "title_cn": "二维光弹盘系综中动态力网络的探索性分析",
+            "abstract_cn": "本文提出了一个交互式分析框架，用于探索光弹性圆盘实验的数据，该实验可作为二维颗粒材料的模型。粒状材料由沙子或砾石等离散颗粒组成，根据系统配置表现出类似于流体或固态的行为。这些行为源于颗粒间接触力，颗粒间接触力形成控制材料宏观行为的复杂力网络。我们的框架专门设计用于分析此类动态力网络的二维集合，从而能够识别和表征其底层结构。该框架是围绕力链和循环方面基于拓扑的多尺度数据分段构建的。分析方法分为三个层次：（1）特定加载条件下单个实例的多尺度分析，（2）包含一系列加载和卸载循环的单个实验的详细探索，以及（3）在相似和不同设置下进行的实验的比较分析。我们通过每个级别的案例研究来展示我们框架的功能。"
+        },
+        {
+            "id": "https://doi.org/10.1109/tvcg.2026.3661544",
+            "title": "From Sketch to Reality: Enabling High-Quality, Cross-Category 3D Model Generation from Free-Hand Sketches with Minimal Data",
+            "link": "https://doi.org/10.1109/tvcg.2026.3661544",
+            "published": "2026",
+            "author": "Ying Zang, Chunan Yu, Jiahao Zhang, Jing Li, Shengyuan Zhang, Lanyun Zhu, Chaotao Ding, Renjun Xu, Tianrun Chen",
+            "summary": "This paper presents a novel approach for generating high-quality, cross-category 3D models from free-hand sketches with limited training data. We propose the first semi-supervised learning method to our knowledge for sketch-to-3D model conversion. Innovatively, we design a coarse-to-fine pipeline to perform the semi-supervised learning in the coarse stage and train a diffusion-based refiner to get a high-resolution 3D model. We designed a sketch-augmentation method for semi-supervised learning and integrated priors such as CLIP loss, shape prototypes, and adversarial loss to help generate high-quality results even with abstract and imprecise sketches. We also introduce an innovative procedural 3D generation method based on CAD code, which helps pre-train part of the network before fine-tuning with limited real data. Our approach, coupled with a specifically designed curriculum learning, allows us to generate high-quality 3D models across multiple categories with as few as 300 sketch-3D model pairs, marking a significant advancement over previous single-category approaches. In addition, we introduce the KO2D dataset, the largest collection of hand-drawn sketch-3D pairs to support further research in this area. As sketches are a far more intuitive and detailed way for users to express their unique ideas, we believe that this paper can move us closer to democratizing 3D content creation, enabling anyone to transform their ideas into 3D models effortlessly.",
+            "journal": "IEEE Trans. Vis. Comput. Graph",
+            "title_cn": "从草图到现实：使用最少的数据从手绘草图生成高质量、跨类别的 3D 模型",
+            "abstract_cn": "本文提出了一种利用有限训练数据从手绘草图生成高质量、跨类别 3D 模型的新颖方法。据我们所知，我们提出了第一个用于草图到 3D 模型转换的半监督学习方法。创新地，我们设计了一个从粗到细的流程，在粗略阶段执行半监督学习，并训练基于扩散的细化器以获得高分辨率的 3D 模型。我们设计了一种用于半监督学习的草图增强方法和集成先验（例如 CLIP 损失、形状原型和对抗性损失），以帮助生成高质量的结果，即使是抽象和不精确的草图。我们还引入了一种基于 CAD 代码的创新程序 3D 生成方法，该方法有助于在使用有限的真实数据进行微调之前预训练部分网络。我们的方法加上专门设计的课程学习，使我们能够使用少至 300 个草图-3D 模型对生成跨多个类别的高质量 3D 模型，这标志着比以前的单类别方法的显着进步。此外，我们还引入了 KO2D 数据集，这是最大的手绘草图 3D 对集合，以支持该领域的进一步研究。由于草图是用户表达其独特想法的一种更加直观和详细的方式，我们相信本文可以让我们更接近 3D 内容创建的民主化，使任何人都可以轻松地将他们的想法转化为 3D 模型。"
         }
     ]
 }

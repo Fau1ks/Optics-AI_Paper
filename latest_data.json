@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-07 06:29:33",
+    "update_time": "2026-02-07 08:27:51",
     "word_filename": "Optical_Papers_260207.docx",
-    "total_count": 72,
+    "total_count": 78,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69010-1",
@@ -794,6 +794,72 @@
             "journal": "Light: Science & Applications",
             "title_cn": "纳米光子双色孤子压缩产生的双光周期脉冲",
             "abstract_cn": "摘要 少周期和单周期光脉冲及其相关的超宽带光谱对于超快科学技术的进步至关重要。此外，由不同光谱带中可独立操作的超短脉冲组成的多色波形在脉冲合成和阿秒科学方面具有独特的优势。然而，超短脉冲的生成和控制需要体积庞大且昂贵的桌面光学系统，并且迄今为止超出了集成光子学的能力范围。在这里，我们打破了这些限制，并在铌酸锂纳米光子学中使用二次双色孤子动力学演示了双光周期脉冲压缩。通过利用色散工程和接近相位匹配的操作，我们实现了极端压缩、节能操作以及泵浦到二次谐波的强大转换。我们通过实验证明仅使用 ∼3 pJ 的输入能量即可生成 ∼13 fs 的 2 µm 脉冲。我们进一步说明了所演示的方案如何轻松扩展到具有子周期控制的片上单周期脉冲合成。我们的结果为实现纳米光子电路中的单周期超快系统提供了一条途径。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69145-1",
+            "title": "Author Correction: Operando microimaging of crystal structure and orientation in all components of all-solid-state-batteries",
+            "link": "https://doi.org/10.1038/s41467-026-69145-1",
+            "published": "2026-02-06",
+            "author": "Quentin Jacquet, Jacopo Cele, Lara Casiez, Samuel Tardif, Asma Medjahed, Stephanie Pouget, Manfred Burghammer, Sandrine Lyonnard, Sami Oukassi",
+            "summary": "Abstract not available.",
+            "journal": "Nature Communications",
+            "title_cn": "作者更正：全固态电池所有组件的晶体结构和取向的操作显微成像",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38200-8",
+            "title": "Predictive hybrid scan-to-BIM method improves heritage building documentation completeness and accuracy",
+            "link": "https://doi.org/10.1038/s41598-026-38200-8",
+            "published": "2026-02-06",
+            "author": "Rnin Salah, Nóra Géczy, Kitti Ajtayné Károlyfi",
+            "summary": "Abstract Incomplete survey data often undermines the reliability of Building Information Models (BIM), particularly for structures with restricted access and complex geometries. This study demonstrates a hybrid Scan-to-BIM workflow that integrates terrestrial laser scanning (TLS) and unmanned aerial vehicle (UAV) photogrammetry, supported by a predictive feasibility concept, to improve documentation accuracy and completeness. A two-phase strategy was validated on a chapel case study. Phase 1, combining TLS and ground-based photogrammetry, achieved only 54% coverage due to severe occlusions and limited scanner placement. These results led to the formulation of a Predictive Scan Feasibility Estimation Model (PSFEM), designed to generalize site-specific parameters such as scanner range, clearance angle, and building height into a decision-support tool for future surveys. Guided by the recognition of Phase 1 limitations, Phase 2 incorporated UAV photogrammetry and supplemental TLS, increasing coverage to 96%. Comparative analyses confirmed consistency in accuracy and improved geometric completeness. While the PSFEM was developed retrospectively based on the limitations identified in Phase 1, its analytical validation demonstrates the potential value of predictive planning for reducing redundant site visits and enhancing BIM reliability. The proposed framework provides a transferable basis for applying predictive hybrid workflows in both heritage and complex building documentation. This workflow offers a practical and scalable method for Scan-to-BIM documentation, applicable to heritage as well as other complex buildings, enabling high accuracy and completeness while effectively managing time and resources.",
+            "journal": "Scientific Reports",
+            "title_cn": "预测性混合扫描到 BIM 方法可提高遗产建筑文档的完整性和准确性",
+            "abstract_cn": "摘要 不完整的测量数据通常会损害建筑信息模型 (BIM) 的可靠性，特别是对于访问受限和几何形状复杂的结构。本研究展示了一种混合扫描到 BIM 工作流程，该工作流程集成了地面激光扫描 (TLS) 和无人机 (UAV) 摄影测量，在预测可行性概念的支持下，可提高文档的准确性和完整性。两阶段策略在教堂案例研究中得到了验证。第一阶段结合了 TLS 和地面摄影测量，由于严重遮挡和有限的扫描仪放置，仅实现了 54% 的覆盖率。这些结果导致了预测扫描可行性估计模型 (PSFEM) 的制定，该模型旨在将扫描仪范围、间隙角度和建筑物高度等特定地点的参数概括为未来调查的决策支持工具。在认识到第一阶段局限性的指导下，第二阶段纳入了无人机摄影测量和补充 TLS，将覆盖率提高到 96%。比较分析证实了准确性的一致性并提高了几何完整性。虽然 PSFEM 是根据第一阶段确定的局限性回顾性开发的，但其分析验证证明了预测规划在减少冗余现场访问和增强 BIM 可靠性方面的潜在价值。所提出的框架为在遗产和复杂建筑文档中应用预测混合工作流程提供了可转移的基础。该工作流程为扫描到 BIM 文档提供了一种实用且可扩展的方法，适用于遗产以及其他复杂建筑，可实现高精度和完整性，同时有效管理时间和资源。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38504-9",
+            "title": "Novel histological observation method using the scattered light of unstained collagen sections",
+            "link": "https://doi.org/10.1038/s41598-026-38504-9",
+            "published": "2026-02-06",
+            "author": "Marika Otaki, Mihoko Shimano, Yuta Asano, Tomoko Shindo, Nobuko Moritoki, Yushi Suzuki, Kento Takaya, Tatsuyuki Ishii, Imari Sato, Kazuo Kishi",
+            "summary": "Collagen fibers are significant constituents of connective tissues such as the skin, bone, and tendons. Their morphology and alignment are essential for understanding tissue function and pathology. Collagen fibers are conventionally observed using optical and electron microscopy, and Second-harmonic generation microscopy. This study introduces a novel microscopic imaging technique, Scattering Angle-Resolved Bioimaging (SARB), which utilizes the scattering properties of unstained specimens. The SARB is based on a conventional optical microscope with a structured illumination module that projects a checker pattern onto the sample. This allows the acquisition of images separated by the scattering angle, enabling the visualization of the scattering characteristics. We applied SARB and electron microscopy to thin, unstained formalin-fixed, paraffin-embedded (FFPE) sections of mouse skin. SARB successfully identified the location of collagen fiber bundles and revealed the scattering information within them. Importantly, these scattering patterns correlated with the orientation of the collagen fibrils, as observed in Transmission Electron Microscopy images. The use of unstained FFPE sections simplifies sample preparation, offering a practical advantage. Additionally, SARB provides access to fine structural information that is often difficult to obtain using conventional optical microscopy. These findings suggest that SARB has strong potential as a label-free, morphology-sensitive imaging method for evaluating fibrosis.",
+            "journal": "Scientific Reports",
+            "title_cn": "利用未染色胶原切片散射光的新型组织学观察方法",
+            "abstract_cn": "胶原纤维是结缔组织（例如皮肤、骨骼和肌腱）的重要组成部分。它们的形态和排列对于理解组织功能和病理学至关重要。胶原纤维通常使用光学显微镜、电子显微镜以及二次谐波显微镜来观察。本研究介绍了一种新颖的显微成像技术，即散射角分辨生物成像 (SARB)，该技术利用未染色样本的散射特性。 SARB 基于传统光学显微镜，具有结构化照明模块，可将棋盘格图案投射到样品上。这样可以采集按散射角分开的图像，从而实现散射特性的可视化。我们将 SARB 和电子显微镜应用于小鼠皮肤的薄的、未染色的福尔马林固定、石蜡包埋 (FFPE) 切片。 SARB 成功识别了胶原纤维束的位置并揭示了其中的散射信息。重要的是，这些散射模式与胶原原纤维的方向相关，正如在透射电子显微镜图像中观察到的那样。使用未染色的 FFPE 切片简化了样品制备，具有实际优势。此外，SARB 还提供了使用传统光学显微镜通常难以获得的精细结构信息。这些发现表明，SARB 作为评估纤维化的无标记、形态敏感的成像方法具有强大的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114875",
+            "title": "A novel wedges-based laser optomechanical system 2D motion control inverse kinematic algorithm",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114875",
+            "published": "2026-06-01",
+            "author": "Muyang Ye, Zhennan Tian, Boyan Jiang, Lefeng Ye, Xiaoling Liu, Yongjie Zhao, Gongyu Liu, Haohua Xiu, Hao Nan Li",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "一种新型的基于楔块的激光光机系统二维运动控制逆运动学算法",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114878",
+            "title": "Ablation characteristics and material removal mechanism of Invar 36 alloy under femtosecond laser irradiation",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114878",
+            "published": "2026-06-01",
+            "author": "Zhenda Wang, Xiaohong Lu, Yuhang Tian, Hao Wang, Steven Y. Liang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "飞秒激光辐照下Invar 36合金的烧蚀特性及材料去除机制",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.586954",
+            "title": "Model-based spectral shaping technique for WSSs with insertion loss and ripple penalties consideration",
+            "link": "https://doi.org/10.1364/oe.586954",
+            "published": "2026-02-05",
+            "author": "Yuzhe Li, Zihe Zhang, Xiao Zhang, Chen Liu, Liangjia Zong",
+            "summary": "The bandwidth narrowing effect introduced by cascaded wavelength-selective switches (WSSs) has emerged as a critical factor limiting communication system performance, particularly in future systems employing higher baud rates and advanced modulation formats. As a widely adopted solution, spectral shaping through the attenuation control of WSSs enhances channel bandwidth. However, determining the optimal attenuation profile across channel slices remains challenging due to the optical intensity overlap between neighboring slices and the absence of a suitable physical model for the spectral shaping process. Furthermore, the relationship between bandwidth enhancement and the corresponding insertion loss (IL) and ripple penalties during WSS spectral shaping has not been systematically investigated. To address these issues, what we believe to be a novel WSS filtering model is proposed and integrated into a gradient descent algorithm to iteratively determine the optimal attenuation profile under given constraints on IL and ripple penalties. In addition, we have quantified the trade-off relationship among bandwidth enhancement, IL penalty, and ripple penalty during the spectral shaping process through simulations and experiments. These results show close agreement, identifying a generally practical and advantageous strategy that trades off 0.5 dB of IL and 0.3 dB of ripple for bandwidth enhancement. Furthermore, under this set of constraints, experimental results validate that our approach achieves a mean enhancement of 1.9 GHz and 0.76 GHz in 0.5-dB and 3-dB bandwidths, respectively. These findings contribute to optimizing spectral shaping in WSSs and provide valuable guidance for practical system design.",
+            "journal": "Optics Express",
+            "title_cn": "基于模型的 WSS 频谱整形技术，考虑插入损耗和纹波损失",
+            "abstract_cn": "级联波长选择开关（WSS）引入的带宽窄化效应已成为限制通信系统性能的关键因素，特别是在采用更高波特率和先进调制格式的未来系统中。作为一种广泛采用的解决方案，通过 WSS 的衰减控制进行频谱整形可增强信道带宽。然而，由于相邻切片之间的光强度重叠以​​及缺乏适合光谱整形过程的物理模型，确定跨通道切片的最佳衰减曲线仍然具有挑战性。此外，WSS 频谱整形期间带宽增强与相应的插入损耗 (IL) 和纹波损失之间的关系尚未得到系统研究。为了解决这些问题，我们提出了一种新颖的 WSS 滤波模型，并将其集成到梯度下降算法中，以便在给定的 IL 和纹波惩罚约束下迭代确定最佳衰减曲线。此外，我们还通过仿真和实验量化了频谱整形过程中带宽增强、IL惩罚和纹波惩罚之间的权衡关系。这些结果显示出密切的一致性，确定了一种普遍实用且有利的策略，该策略可以牺牲 0.5 dB 的 IL 和 0.3 dB 的纹波来增强带宽。此外，在这组约束下，实验结果验证了我们的方法在 0.5 dB 和 3 dB 带宽上分别实现了 1.9 GHz 和 0.76 GHz 的平均增强。这些发现有助于优化 WSS 中的频谱整形，并为实际系统设计提供有价值的指导。"
         }
     ]
 }

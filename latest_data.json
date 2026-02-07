@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-07 11:28:26",
+    "update_time": "2026-02-07 13:28:28",
     "word_filename": "Optical_Papers_260207.docx",
-    "total_count": 86,
+    "total_count": 97,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69010-1",
@@ -948,6 +948,127 @@
             "journal": "Photonics Research",
             "title_cn": "通过振动 MMF 单光子激光雷达中基于 TRSCE 的散斑抑制实现低信噪比下的鲁棒无人机跟踪",
             "abstract_cn": "随着无人机的大规模部署，远距离、高精度的探测与跟踪面临着严峻的挑战。虽然基于Gm-APD的单光子激光雷达系统在超低信噪比和弱回波条件下表现出出色的灵敏度，但采用多模光纤（MMF）耦合实现高能量输出往往会引入强散斑噪声，从而显着降低回波光子的稳定性和成像质量，从而降低目标跟踪的精度。本研究提出了一种将MMF振动与时域RANSAC与空间一致性增强（TRSCE）重建算法相结合的散斑抑制方法，该算法结合了时间RANSAC和空间邻域结构一致性。此外，还提出了一种改进的MeanShift-Kalman算法来实现低信噪比下无人机的鲁棒跟踪。蒙特卡罗模拟表明，在平均单像素回波光子数为 0.4481 和信噪比为 −6.85 dB 的情况下，目标区域内的散斑对比度从 0.7592 显着下降到 0.0748，相当于下降了 73.2%。在弱太阳光照和光雾条件下进行的现场实验中，所提出的Gm-APD单光子激光雷达系统展示了对200 m距离的无人机目标的强大跟踪能力。在信噪比约为 -4.53 dB 的情况下，每个目标像素的平均信号返回为 1.0859 个光子，背景噪声水平为 3.0829 个光子，系统实现的平均跟踪误差为 0.6572 像素（约 6.44 厘米），帧间模型相似度为 0.9764。与公开报道的散斑抑制方法相比，所提出的方法将跟踪误差降低了约 45.3%。此外，在强太阳光照下，在300 m范围内，平均信号光子数为0.8769，每像素背景噪声为4.0611光子，该系统实现了平均跟踪误差为0.6975像素（约9.66 cm），与基于空间相关的算法相比，精度提高了43.2%。最后，通过集成相控阵雷达，该系统将无人机的有效探测和跟踪距离延长至10公里，超越了现有激光雷达的能力。所提出的散斑抑制和鲁棒跟踪框架显着增强了激光雷达在复杂空域环境下运行的跟踪稳定性，为未来低空防御和空域安全应用提供了可行的理论基础和工程解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69261-y",
+            "title": "Coherence transfer from optically induced THz magnons to charges",
+            "link": "https://doi.org/10.1038/s41467-026-69261-y",
+            "published": "2026-02-06",
+            "author": "Moritz Cimander, Volker Wiechert, Julian Bär, Takuya Satoh, Jörg Bünemann, Götz S. Uhrig, Davide Bossini",
+            "summary": "Abstract The digital economy, society and politics are increasingly shaped by cloud-based data. The advancement of transformative technologies, such as artificial intelligence, is placing unprecedented demands on data centres. This has driven an intense pursuit of a concept for data storage, manipulation and transfer able to operate even at THz rates while minimizing energy dissipation. Collective spin excitations, namely magnons, have been proposed as energy-efficient information carriers. A critical challenge concerns the integration of this approach with the ubiquitous CMOS technology. This step requires a mechanism to convert THz coherent magnons into a charge signal. Here we demonstrate the coherence transfer from optically driven THz magnons to charges in terms of an optical response. We identify the conditions necessary for this effect and formulate a microscopic model reproducing the experimental results without any fine-tuning of the parameters. These findings offer a pathway toward an energy-efficient, high-speed information technology.",
+            "journal": "Nature Communications",
+            "title_cn": "从光感应太赫兹磁振子到电荷的相干转移",
+            "abstract_cn": "摘要 数字经济、社会和政治越来越受到基于云的数据的影响。人工智能等变革性技术的进步对数据中心提出了前所未有的要求。这推动了人们对数据存储、操作和传输概念的强烈追求，这种概念甚至能够在太赫兹速率下运行，同时最大限度地减少能量耗散。集体自旋激发，即磁振子，已被提议作为节能的信息载体。一个关键的挑战涉及这种方法与普遍存在的 CMOS 技术的集成。此步骤需要一种将太赫兹相干磁振子转换为电荷信号的机制。在这里，我们通过光学响应演示了从光学驱动太赫兹磁振子到电荷的相干转移。我们确定了这种效应所需的条件，并制定了一个微观模型，无需对参数进行任何微调即可重现实验结果。这些发现为实现节能、高速信息技术提供了一条途径。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39029-x",
+            "title": "Bacterial nanocellulose films functionalized with Janus nanoparticles: Preparation and application in chicken meat preservation and safety",
+            "link": "https://doi.org/10.1038/s41598-026-39029-x",
+            "published": "2026-02-06",
+            "author": "Negar Alizadeh, Mehran Moradi, Rahim Molaei, Roghayieh Razavi",
+            "summary": "Janus nanoparticles (JPs) were prepared from hydrophobic carbon dots and carboxymethylcellulose via an ex-situ method, and incorporated into bacterial nanocellulose (BNC) films at concentrations of 0.01%, 0.02%, and 0.03%. Cytotoxicity test revealed a toxic effect of JPs on human gastric cancer cells only at concentrations above 5 mg/mL. Fourier transform infrared spectroscopy confirmed the successful incorporation of JPs without interfering with BNC network. JPs incorporation reduced the tensile strength and elongation at break of the films but improved the radical scavenging activity of BNC in a concentration-dependent manner. The diameters of inhibition zones for BNC films containing 0.01%, 0.02%, and 0.03% JPs against Salmonella Typhimurium were 17.1 mm, 20.7 mm, and 27.5 mm, respectively. Upon application to chicken breast meat, all treated samples exhibited an inhibitory effect on S. Typhimurium, as indicated by the absence of detectable levels on day 16. For BNC-JPs samples, a notable decrease in mesophilic bacterial counts was observed, representing reductions of 3.2, 4.6, and 5.6 log₁₀ CFU/g at JP 0.01%, 0.02%, and 0.03%, respectively. The BNC-JPs-treated samples also had lower volatile nitrogenous compounds and lipid oxidation levels. These findings highlight the potential of BNC-JPs films as green, active food packaging materials with commercial potential.",
+            "journal": "Scientific Reports",
+            "title_cn": "Janus纳米粒子功能化的细菌纳米纤维素膜：制备及其在鸡肉保鲜和安全中的应用",
+            "abstract_cn": "Janus 纳米粒子 (JPs) 由疏水性碳点和羧甲基纤维素通过异位法制备，并以 0.01%、0.02% 和 0.03% 的浓度掺入细菌纳米纤维素 (BNC) 膜中。细胞毒性试验表明，JPs 仅在浓度高于 5 mg/mL 时才对人胃癌细胞产生毒性作用。傅里叶变换红外光谱证实了 JP 的成功合并，且不干扰 BNC 网络。 JPs的掺入降低了薄膜的拉伸强度和断裂伸长率，但以浓度依赖性方式提高了BNC的自由基清除活性。含有0.01％、0.02％和0.03％JP的BNC膜对鼠伤寒沙门氏菌的抑菌圈直径分别为17.1mm、20.7mm和27.5mm。应用于鸡胸肉后，所有处理过的样品均表现出对鼠伤寒沙门氏菌的抑制作用，如第 16 天没有检测到的水平所示。对于 BNC-JPs 样品，观察到嗜温细菌计数显着减少，在 JP 0.01%、0.02% 和 0.03% 时，减少了 3.2、4.6 和 5.6 log₁₀ CFU/g，分别。 BNC-JPs 处理的样品还具有较低的挥发性含氮化合物和脂质氧化水平。这些发现凸显了 BNC-JP 薄膜作为具有商业潜力的绿色活性食品包装材料的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38986-7",
+            "title": "Structure-based modeling reveals molecular basis for CYP153A6’s novel activity toward toluene derivatives",
+            "link": "https://doi.org/10.1038/s41598-026-38986-7",
+            "published": "2026-02-06",
+            "author": "Yao Wei, Silvia Donzella, Sara Foiadelli, Francesco Molinari, Uliano Guerrini, Ivano Eberini",
+            "summary": "CYP153A6 from Mycobacterium sp. strain HXN-1500 is a monooxygenase that catalyzes the selective hydroxylation of terminal methyl groups in various alkanes. This study explored CYP153A6 activity towards a set of toluene derivatives, along with the underlying molecular recognition. Initial in vivo evaluation of CYP153A6 activity, conducted using both whole cells and cell-free extracts, showed efficient conversion of toluene derivatives with apolar or slightly polar substituents, while no detectable activity was observed for derivatives bearing more polar groups. A homology model of CYP153A6 3D structure was built and validated, revealing key structural features and molecular tunnels. An ensemble docking strategy was used to identify the most effective docking setup. Molecular dynamics simulations and binding free energy calculations further confirmed the hydrophobic nature of the active site. QM/MM calculations supported the different reactivity observed between p-chlorotoluene and p-nitrotoluene. Toluene derivatives bearing a hydroxyl or nitro group on the aromatic ring exhibit reduced binding affinity, adopting unfavorable orientations and non-productive distances between the methyl group and the enzyme’s heme iron center. These computational findings agree with experimental data. Overall, this study provides valuable insights into CYP153A6 molecular recognition mechanism and lay a strong foundation for future protein engineering to extend CYP153A6 enzyme substrate scope and/or enhance the product yield.",
+            "journal": "Scientific Reports",
+            "title_cn": "基于结构的建模揭示了 CYP153A6 对甲苯衍生物的新颖活性的分子基础",
+            "abstract_cn": "来自分枝杆菌的 CYP153A6。菌株 HXN-1500 是一种单加氧酶，可催化各种烷烃中末端甲基的选择性羟基化。本研究探讨了 CYP153A6 对一组甲苯衍生物的活性以及潜在的分子识别。使用全细胞和无细胞提取物进行的 CYP153A6 活性的初步体内评估显示，具有非极性或弱极性取代基的甲苯衍生物可有效转化，而带有更多极性基团的衍生物则没有观察到可检测到的活性。建立并验证了 CYP153A6 3D 结构的同源模型，揭示了关键的结构特征和分子隧道。使用整体对接策略来确定最有效的对接设置。分子动力学模拟和结合自由能计算进一步证实了活性位点的疏水性。 QM/MM 计算支持了对氯甲苯和对硝基甲苯之间观察到的不同反应性。芳环上带有羟基或硝基的甲苯衍生物表现出降低的结合亲和力，在甲基和酶的血红素铁中心之间采用不利的方向和非生产性距离。这些计算结果与实验数据一致。总体而言，本研究为 CYP153A6 分子识别机制提供了有价值的见解，并为未来蛋白质工程扩展 CYP153A6 酶底物范围和/或提高产品产量奠定了坚实的基础。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38856-2",
+            "title": "Pharmacogenomic profiling of ABCB1 and CES1 in atrial fibrillation patients on dabigatran from a multiethnic Malaysian cohort",
+            "link": "https://doi.org/10.1038/s41598-026-38856-2",
+            "published": "2026-02-06",
+            "author": "Shirley Siang Ning Tan, Edmund Ui-Hang Sim, Timothy Adrian Jinam, Melissa Siaw Han Lim, Cassandra Sheau Mei Chee, Lawrence Anchah, Saiful Shakirin Rosli, Beatrice Bangie Desmond Sateng, Jerry Gerunsin, Lee Len Tiong, Alan Yean Yip Fong",
+            "summary": "Direct oral anticoagulants (DOACs) are preferred for atrial fibrillation (AF) due to their efficacy and safety, though response variabilities raises concerns about fixed-dose regimens. This study investigates the association between ABCB1 and CES1 genetic polymorphisms with Dabigatran trough drug levels (DL), clotting time (CT), and clinical outcomes in a multiethnic Malaysian cohort. A total of 180 AF patients in Dabigatran were sequenced across the entire length of ABCB1 and CES1 genes using the Illumina MiSeq platform. Trough Dabigatran levels and clotting time were measured by LC-MS/MS and viscoelastic assay (Clotpro®), respectively. Patients were followed up for one year to assess major adverse cardiovascular and cerebrovascular events (MACCE). The mean dabigatran level was 34.7 ± 45.4 ng/ml (CV: 130%), and clotting time was 374.6 ± 207.9 s (CV: 55.5%). Trough levels were significantly correlated with clotting time (r = 0.663, p < 0.001). Multiple non-coding variants in ABCB1 and CES1 showed nominal associations (unadjusted p < 0.05) with drug level (35 SNPs) and/or clotting time (32 SNPs), although none remained statistically significant after false discovery rate correction. A total of 17 SNPs overlapped, and were associated with both. Overall, these findings suggest that non-coding regulatory variation may contribute to inter-individual variability in dabigatran pharmacokinetics and pharmacodynamics, but the results are exploratory and require replication in larger cohorts. This study highlights the importance of population-specific pharmacogenomic research for future investigations on personalized anticoagulation strategies.",
+            "journal": "Scientific Reports",
+            "title_cn": "来自马来西亚多种族队列的服用达比加群的心房颤动患者的 ABCB1 和 CES1 的药物基因组学分析",
+            "abstract_cn": "由于其疗效和安全性，直接口服抗凝剂 (DOAC) 是治疗房颤 (AF) 的首选药物，但反应的变异性引起了人们对固定剂量方案的担忧。本研究在马来西亚多种族队列中调查了 ABCB1 和 CES1 基因多态性与达比加群谷药物水平 (DL)、凝血时间 (CT) 和临床结果之间的关联。使用 Illumina MiSeq 平台对总共 180 名达比加群 AF 患者的 ABCB1 和 CES1 基因的全长进行了测序。分别通过 LC-MS/MS 和粘弹性测定 (Clotpro®) 测量达比加群的谷浓度和凝血时间。对患者进行为期一年的随访，以评估主要不良心脑血管事件（MACCE）。平均达比加群水平为 34.7 ± 45.4 ng/ml（CV：130%），凝血时间为 374.6 ± 207.9 s（CV：55.5%）。谷值水平与凝血时间显着相关（r = 0.663，p < 0.001）。 ABCB1 和 CES1 中的多个非编码变体显示出与药物水平 (35 个 SNP) 和/或凝血时间 (32 个 SNP) 的名义关联（未经调整的 p < 0.05），尽管在错误发现率校正后没有一个保持统计学显着性。共有 17 个 SNP 重叠，并且与两者相关。总体而言，这些发现表明非编码调控变异可能导致达比加群药代动力学和药效学的个体间变异，但结果是探索性的，需要在更大的队列中复制。这项研究强调了人群特异性药物基因组学研究对于未来个性化抗凝策略研究的重要性。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114787",
+            "title": "Fiber-array beamforming and modulation scheme with hybrid switching techniques for U2G-free space optical communication",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114787",
+            "published": "2026-06-01",
+            "author": "Tanzeel Ur Rahman, Guijun Li, Farman Ali, Adnan Daud Khan, Akhtar Rehman, Zhengbiao Ouyang, Haleem Afsar, Ali Alshamrani, Mardeni Roslee",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "用于U2G自由空间光通信的具有混合开关技术的光纤阵列波束形成和调制方案",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114905",
+            "title": "Balloon-Shaped Mach-Zehnder fiber sensor functionalized with CS-PMAA for trace Cr(VI) detection in water",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114905",
+            "published": "2026-06-01",
+            "author": "Jingkun Shi, Wenlong Yang, Yuanyuan Ren, Yu Wang, Liuyang Zhang, Shuang Yu, Rui Pan, Dong Yan, Wenjie Zhao",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "采用 CS-PMAA 功能的气球形 Mach-Zehnder 光纤传感器，用于水中痕量 Cr(VI) 检测",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109673",
+            "title": "Realization of arbitrary linear polarization conversion and wavefront modulation using chiral meta-atoms",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109673",
+            "published": "2026-06-01",
+            "author": "Yijun Fu, Zhengyong Song",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "利用手性元原子实现任意线偏振转换和波前调制",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.583137",
+            "title": "Automatic athermal design of diffractive–refractive hybrid optical systems using a simplified genetic algorithm",
+            "link": "https://doi.org/10.1364/ao.583137",
+            "published": "2026-02-03",
+            "author": "Siyuan Zeng, Jinjin Chen, Beibei Tong, Haiyu Wang, Qiangwei Chen, Gaolang Lin, Saiya Qi",
+            "summary": "Existing athermalization design methods generally suffer from insufficient automation, limited efficiency, and poor generalizability. To overcome these challenges, this paper proposes an automatic athermalization approach for optical systems based on a simplified genetic algorithm (SGA). The method automatically selects replacement lens materials for refractive–diffractive hybrid optical systems. To validate its effectiveness, we designed two infrared optical systems with a wavelength range of 3.7–4.8 µm. The modulation transfer function (MTF) of the designed systems remained near the diffraction limit across a temperature range from −40 ∘ C to +70 ∘ C at the detector Nyquist frequency of each system, with a field-averaged MTF variation <0.01 over temperature. Compared with the built-in hammer optimizer, the proposed method achieves comparable imaging performance with an approximately tenfold speedup across two MWIR case studies.",
+            "journal": "Applied Optics",
+            "title_cn": "使用简化遗传算法自动无热设计衍射-折射混合光学系统",
+            "abstract_cn": "现有的无热化设计方法普遍存在自动化程度不够、效率有限、通用性差等问题。为了克服这些挑战，本文提出了一种基于简化遗传算法（SGA）的光学系统自动无热化方法。该方法自动为折射-衍射混合光学系统选择替换透镜材料。为了验证其有效性，我们设计了两个波长范围为 3.7–4.8 µm 的红外光学系统。在每个系统的探测器奈奎斯特频率下，所设计系统的调制传递函数 (MTF) 在 -40°C 至 +70°C 的温度范围内保持在衍射极限附近，场平均 MTF 随温度变化 <0.01。与内置的锤子优化器相比，所提出的方法在两个 MWIR 案例研究中实现了可比的成像性能，速度提高了大约十倍。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502928",
+            "title": "Heat‐Assisted Reversal of Femtosecond Laser‐Induced Birefringence",
+            "link": "https://doi.org/10.1002/lpor.202502928",
+            "published": "2026-02-06",
+            "author": "Yanxia Liu, Peiyao Li, Yu Rao, Yinsheng Xu, Ping Lu, Lei Wang, Rokas Drevinskas, Jianrong Qiu, Jingyu Zhang",
+            "summary": "ABSTRACT Precisely embedding designed nanostructures in homogeneous materials is essential for the development of high‐performance photonic devices. However, existing techniques typically struggle to achieve simultaneous control over location and yield, limiting their use in optical data storage and integrated photonics. Here, we report an observation of a heat‐assisted birefringence orientation reversal (HABOR) phenomenon in lithium disilicate glass. Based on this phenomenon, we propose a method that enables precise spatial control of crystallization while maintaining high yield. The method employs femtosecond laser direct writing combined with heat treatment, facilitating oriented nanocrystal growth with an intriguing reversal of the birefringence slow‐axis orientation. In particular, the oriented nanocrystals produce birefringence retardance up to 35.11 ± 2.34 nm, which is 6.80 times higher than that achieved by femtosecond laser direct writing. Their birefringence shows excellent thermal stability, with retardance remaining relatively stable over 24 h at 700°C. These superior properties enable applications in 5D optical data storage, fabrication of arbitrary retarders and varying optical elements.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "飞秒激光诱导双折射的热辅助反转",
+            "abstract_cn": "摘要 在均质材料中精确嵌入设计的纳米结构对于高性能光子器件的开发至关重要。然而，现有技术通常难以实现对位置和产量的同时控制，限制了它们在光学数据存储和集成光子学中的使用。在这里，我们报告了二硅酸锂玻璃中热辅助双折射取向反转（HABOR）现象的观察。基于这一现象，我们提出了一种能够在保持高产率的同时精确控制结晶空间的方法。该方法采用飞秒激光直写与热处理相结合，通过双折射慢轴取向的有趣反转促进定向纳米晶体生长。特别是，定向纳米晶体产生高达35.11±2.34 nm的双折射延迟，比飞秒激光直写实现的双折射高6.80倍。它们的双折射表现出优异的热稳定性，在 700°C 下 24 小时内延迟率保持相对稳定。这些优异的特性使其能够应用于 5D 光学数据存储、任意延迟器和各种光学元件的制造。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502759",
+            "title": "Random Telegraph Signal Noise in High‐Gain SWIR Heterojunction Phototransistors",
+            "link": "https://doi.org/10.1002/lpor.202502759",
+            "published": "2026-02-06",
+            "author": "Zheyuan Shen, Zeping Zhao, Lingyun Zhuang, Lu Cheng, Haolei Feng, Lining Liu, Jianguo Liu",
+            "summary": "ABSTRACT InP/InGaAs‐based heterojunction phototransistors (HPTs) are promising for ultrasensitive short‐wave infrared (SWIR) detection due to their high internal gain, low excess noise, and low power consumption. This work demonstrates an HPT achieving a high optical gain of ∼1200 at −2 V bias, with dark current lower than state‐of‐the‐art avalanche photodiodes (APD). To further push its sensitivity to the limit for weak light/ultra‐long‐distance imaging, the noise mechanism in low frequency (LF) regime and its origins have been investigated, by which generation current in depletion region caused by the defect‐related traps is explored and studied. In particular, the LF noise power is found to be independent of the internal gain. A Hooge's constant of 2.1 × 10 −5 is reported for the first time in gain‐based detectors, comparable to HgCdTe devices. Remarkably, temperature‐dependent multi‐level random telegraph signal (RTS) analysis reveals two dominant origins of the generation current, corresponding to relaxation processes of two typical types of mid‐gap traps. One is Zn‐related extrinsic defects caused by Zn diffusion into the InP emitter, while the other is Ga‐related intrinsic defects in InGaAs collector. As the guideline for optimizing the HPT detector design, this work paves the way to further improve the sensitivity for low‐flux SWIR photodetection.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "高增益短波红外异质结光电晶体管中的随机电报信号噪声",
+            "abstract_cn": "摘要 InP/InGaAs 基异质结光电晶体管 (HPT) 由于其高内部增益、低多余噪声和低功耗而有望用于超灵敏短波红外 (SWIR) 检测。这项工作证明了 HPT 在 -2 V 偏压下实现了约 1200 的高光学增益，暗电流低于最先进的雪崩光电二极管 (APD)。为了进一步将其灵敏度提升到弱光/超长距离成像的极限，我们对低频（LF）区域的噪声机制及其起源进行了研究，从而探索和研究了缺陷相关陷阱引起的耗尽区中的产生电流。特别是，发现低频噪声功率与内部增益无关。首次在基于增益的探测器中报道了 2.1 × 10 -5 的 Hooge 常数，与 HgCdTe 设备相当。值得注意的是，温度相关的多级随机电报信号（RTS）分析揭示了产生电流的两个主要来源，对应于两种典型类型的中带隙陷阱的弛豫过程。一种是由 Zn 扩散到 InP 发射极引起的与 Zn 相关的外在缺陷，另一种是 InGaAs 集电极中与 Ga 相关的本征缺陷。作为优化 HPT 探测器设计的指南，这项工作为进一步提高低通量短波红外光电探测的灵敏度铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202503087",
+            "title": "Synthesis of Core–Shell Te@Se Quantum Dots and Their Broadband Photodetector Performance in Low Concentration Electrolytes",
+            "link": "https://doi.org/10.1002/lpor.202503087",
+            "published": "2026-02-06",
+            "author": "Yiming Zhao, Artem V. Kuklin, Jiahui Hou, Mingqi He, Lyudmila V. Begunovich, Han Zhang, Ying Li, Hans Ågren, Lingfeng Gao",
+            "summary": "ABSTRACT Along with the increased attention of core–shell heterojunction quantum dots (QDs), there have been recent strong efforts to improve their practical applications by developing the synthetic approaches. In this work, uniform Te@Se core–shell QDs have been successfully fabricated via combining liquid‐phase exfoliation and epitaxial growth methods, where the similar lattice structures of the materials from the same main group can effectively solve the lattice mismatch issue. Theoretical calculations reveal that the Te@Se material is a Type‐I heterojunction with favorable initial electron transfer from core Te to shell Se upon formation. The photo‐response performance of Te@Se QDs is systematically investigated by producing photoelectrochemical type photodetectors in low concentration electrolytes (0.1–10 mM), for which optimized photocurrent density (32.63 µA/cm 2 ) and photoresponsivity (1564 µA/W) could be achieved. The device also exhibits fast response and excellent stability, which could overcome instability issues in high‐concentration electrolytes and expand the practical applications.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "核壳Te@Se量子点的合成及其在低浓度电解质中的宽带光电探测器性能",
+            "abstract_cn": "摘要：随着核壳异质结量子点（QD）越来越受到关注，最近人们通过开发合成方法来努力改善其实际应用。本工作通过结合液相剥离和外延生长方法成功制备了均匀的Te@Se核壳量子点，其中来自同一主族的材料的相似晶格结构可以有效解决晶格失配问题。理论计算表明，Te@Se 材料是一种 I 型异质结，在形成时具有良好的初始电子从核 Te 转移到壳 Se 的能力。通过在低浓度电解质（0.1-10 mM）中生产光电化学型光电探测器，系统地研究了Te@Se QD的光响应性能，可以实现优化的光电流密度（32.63 µA/cm 2 ）和光响应率（1564 µA/W）。该器件还表现出快速响应和优异的稳定性，可以克服高浓度电解质中的不稳定问题并扩大实际应用。"
         }
     ]
 }

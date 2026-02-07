@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-07 13:28:28",
+    "update_time": "2026-02-07 15:28:28",
     "word_filename": "Optical_Papers_260207.docx",
-    "total_count": 97,
+    "total_count": 102,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69010-1",
@@ -1069,6 +1069,61 @@
             "journal": "Laser & Photonics Reviews",
             "title_cn": "核壳Te@Se量子点的合成及其在低浓度电解质中的宽带光电探测器性能",
             "abstract_cn": "摘要：随着核壳异质结量子点（QD）越来越受到关注，最近人们通过开发合成方法来努力改善其实际应用。本工作通过结合液相剥离和外延生长方法成功制备了均匀的Te@Se核壳量子点，其中来自同一主族的材料的相似晶格结构可以有效解决晶格失配问题。理论计算表明，Te@Se 材料是一种 I 型异质结，在形成时具有良好的初始电子从核 Te 转移到壳 Se 的能力。通过在低浓度电解质（0.1-10 mM）中生产光电化学型光电探测器，系统地研究了Te@Se QD的光响应性能，可以实现优化的光电流密度（32.63 µA/cm 2 ）和光响应率（1564 µA/W）。该器件还表现出快速响应和优异的稳定性，可以克服高浓度电解质中的不稳定问题并扩大实际应用。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38234-y",
+            "title": "Physicochemical characterization of banana pseudostem, peduncle, and leaf-derived microcrystalline cellulose as directly compressible excipients",
+            "link": "https://doi.org/10.1038/s41598-026-38234-y",
+            "published": "2026-02-06",
+            "author": "Amanuel Wledesilasse, Nisha Mary Joseph, Tesfaye Gabriel, Anteneh Belete",
+            "summary": "Wood is the most common source of cellulose, but overexploitation and deforestation have led to a need for alternative sources. Banana plant biomass provides a sustainable alternative to wood-based cellulose. This study explored the extraction and characterization of cellulose and microcrystalline cellulose (MCC) from Musa × paradisiaca L. plant leaves, pseudostems, and peduncles and evaluated their potential as pharmaceutical excipients. A chlorine-free extraction process was used for cellulose extraction, and MCC was obtained through acid hydrolysis. The extracted materials were characterized via Fourier transform infrared spectroscopy (FTIR), X-ray diffraction (XRD), scanning electron microscopy (SEM), and thermogravimetric analysis (TGA). The FTIR analysis indicated the removal of noncellulosic impurities, whereas SEM revealed microfibrillated structures for cellulose and rod-like shapes for MCC. All the samples exhibited thermal stability. Banana leaf microcrystalline cellulose (BL-MCC), banana pseudostem microcrystalline cellulose (BS-MCC), banana peduncle microcrystalline cellulose (BP-MCC), and Avicel PH-101 had crystallinity indices of 77%, 84%, 83%, and 85%, respectively, and degree of polymerization (DP) values of 270, 265, 255, and 240, respectively. The yields of cellulose from BL, BS, and BP were 23.1 ± 1.41%, 37.33 ± 1.4%, and 45 ± 0.8%, respectively, and those of MCC were 77.5 ± 0.4%, 85 ± 0.7%, and 87.3 ± 0.5%, respectively. The formulated tablets were evaluated for uniformity of weight, hardness, friability, disintegration time, and dissolution rate, and exhibited acceptable physical and mechanical properties. These findings suggest that the MCC from banana biomass shows potential for successful use in tablet formulations and thereby serve as an alternative source for the production of pharmaceutical excipients.",
+            "journal": "Scientific Reports",
+            "title_cn": "香蕉假茎、花序梗和叶源微晶纤维素作为直接压片赋形剂的物理化学特性",
+            "abstract_cn": "木材是最常见的纤维素来源，但过度开发和森林砍伐导致需要替代来源。香蕉植物生物质提供了木基纤维素的可持续替代品。本研究探索了从芭蕉植物叶子、假茎和花序梗中提取纤维素和微晶纤维素 (MCC) 的方法和表征，并评估了它们作为药物赋形剂的潜力。采用无氯萃取工艺提取纤维素，并通过酸水解得到MCC。通过傅里叶变换红外光谱 (FTIR)、X 射线衍射 (XRD)、扫描电子显微镜 (SEM) 和热重分析 (TGA) 对提取的材料进行表征。 FTIR 分析表明非纤维素杂质被去除，而 SEM 则揭示了纤维素的微纤丝结构和 MCC 的棒状形状。所有样品均表现出热稳定性。香蕉叶微晶纤维素(BL-MCC)、香蕉假茎微晶纤维素(BS-MCC)、香蕉花梗微晶纤维素(BP-MCC)和Avicel PH-101的结晶度分别为77%、84%、83%和85%，聚合度(DP)值分别为270、265、255和240。 BL、BS和BP的纤维素产率分别为23.1±1.41%、37.33±1.4%和45±0.8%，MCC的产率分别为77.5±0.4%、85±0.7%和87.3±0.5%。评价配制的片剂的重量均匀性、硬度、脆碎度、崩解时间和溶出速率，并表现出可接受的物理和机械性能。这些发现表明，来自香蕉生物质的 MCC 显示出在片剂配方中成功使用的潜力，从而可作为生产药物赋形剂的替代来源。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38380-3",
+            "title": "Effects of applied magnetic fields on the performance of magnetoplasmadynamic thrusters",
+            "link": "https://doi.org/10.1038/s41598-026-38380-3",
+            "published": "2026-02-06",
+            "author": "Haewon Shin, Jeongho Kim, Jaeyeon Hwang, Kil-Byoung Chai, Holak Kim",
+            "summary": "Since the performance of MPD thrusters is highly dependent on the applied magnetic field, we experimentally investigated the effects of magnetic field geometry. Thrust, specific impulse, and ion energy distribution were measured under various operating conditions. The results indicate that the magnetic field configuration of ring–type permanent magnets with a magnetic null point may limit effective ion acceleration, leading to reduced thrust while the permanent magnet produces a stronger applied magnetic field (BA: 0.175 T) than the electromagnet (BA: 0.016–0.065 T). This reduction could be attributed to disrupted axial electron mobility and shortened magnetic field line lengths near the magnetic null point. For the electromagnet configuration, thrust increased more significantly with discharge current at a lower argon flow rate (500 sccm) and a higher electromagnetic coil current (40 A). When the discharge current was increased to 300 A under the aforementioned conditions with an input power of 15 kW, the maximum thrust of 436 mN and the specific impulse of 2935 s were obtained. In the permanent magnet configuration, at a flow rate of 600 sccm and an input power of 10 kW, the thrust and specific impulse were 234 mN and 1340 s, respectively. In the comparable operating ranges, these values were approximately 28% and 15% lower, respectively, than those obtained with the electromagnet configuration. Besides these observations, the current-voltage (I–V) characteristics also show a dependence on the magnetic field configuration. The permanent magnet configuration exhibited a higher discharge voltage at a given discharge current, leading to reduced current levels under the same input power relative to the electromagnet configuration. The findings highlight the dominant influence of the magnetic field geometry on the thruster performance, along with the contributions of the discharge current and the argon flow rate.",
+            "journal": "Scientific Reports",
+            "title_cn": "外加磁场对磁等离子体动力推进器性能的影响",
+            "abstract_cn": "由于 MPD 推进器的性能高度依赖于所施加的磁场，因此我们通过实验研究了磁场几何形状的影响。在各种操作条件下测量推力、比冲和离子能量分布。结果表明，具有磁零点的环形永磁体的磁场配置可能会限制有效离子加速，导致推力减小，而永磁体产生比电磁体（BA：0.016-0.065 T）更强的外加磁场（BA：0.175 T）。这种减少可能归因于轴向电子迁移率的破坏和磁零点附近磁场线长度的缩短。对于电磁体配置，在较低的氩气流量（500 sccm）和较高的电磁线圈电流（40 A）下，随着放电电流的增加，推力更显着增加。在上述条件下，输入功率为15 kW，放电电流增加到300 A时，获得了436 mN的最大推力和2935 s的比冲。在永磁体配置中，在流量为 600 sccm 和输入功率为 10 kW 时，推力和比冲量分别为 234 mN 和 1340 s。在可比较的工作范围内，这些值分别比电磁体配置获得的值低约 28% 和 15%。除了这些观察结果之外，电流-电压 (I-V) 特性还显示出对磁场配置的依赖性。永磁体配置在给定的放电电流下表现出更高的放电电压，从而导致相对于电磁体配置在相同输入功率下电流水平降低。研究结果强调了磁场几何形状对推进器性能的主要影响，以及放电电流和氩气流量的贡献。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.584353",
+            "title": "Optimization of active support layout for mirrors based on an RBF neural network and a hybrid optimization algorithm",
+            "link": "https://doi.org/10.1364/ao.584353",
+            "published": "2026-02-03",
+            "author": "Xin Wang, ZhiGuo Li, JingBo Yang, Peng Wang, XiaoXiao Sun, Hang Xie, ZhiXuan Jiang",
+            "summary": "The optimization of active support layout for mirrors is crucial for ensuring the performance of optical systems. To address the issues of low computational efficiency, long optimization cycles, and susceptibility to local optima in traditional optimization methods, this study proposes a strategy coupling RBF neural networks with hybrid optimization algorithms for optimizing the active support layout of a 450 mm meniscus thin mirror under horizontal working conditions. With the diameters R 1 and R 2 of the mirror’s back support rings taken as design variables and the RMS and PV values of the mirror surface under vertical gravity defined as optimization targets, a parametric finite element model of the mirror is established. A dataset is then generated through the design of experiments to train the RBF neural network, after which the hybrid optimization algorithm is employed for multi-objective optimization. The results show that the RBF neural network exhibits excellent fitting performance and predictive accuracy, with all correlation coefficients of its objective functions exceeding 0.9 and error metrics significantly below the threshold. After optimization, the surface peak-to-valley (PV) and root mean square (RMS) values are reduced to 5.689 and 1.1775 nm, with improvements of approximately 43.78% and 43.11%, respectively, compared with the initial support scheme. The surface shape results achieved via this optimization surpass those obtained by existing optimization methods and single multi-objective algorithms, while the single optimization efficiency is improved by 96%. This optimization method offers significant engineering application value for enhancing both surface accuracy and optimization efficiency.",
+            "journal": "Applied Optics",
+            "title_cn": "基于RBF神经网络和混合优化算法的后视镜主动支撑布局优化",
+            "abstract_cn": "反射镜主动支撑布局的优化对于保证光学系统的性能至关重要。针对传统优化方法计算效率低、优化周期长、易陷入局部最优的问题，本文提出一种RBF神经网络与混合优化算法耦合的策略，用于优化450 mm弯月形薄镜水平工作条件下的主动支撑布局。以反射镜后支撑环直径R 1 和R 2 为设计变量，以垂直重力作用下反射镜表面的RMS 和PV 值为优化目标，建立了反射镜的参数化有限元模型。然后通过实验设计生成数据集来训练RBF神经网络，然后采用混合优化算法进行多目标优化。结果表明，RBF神经网络表现出优异的拟合性能和预测精度，其目标函数的所有相关系数均超过0.9，误差指标显着低于阈值。优化后，表面峰谷（PV）和均方根（RMS）值减小至5.689和1.1775 nm，与初始支撑方案相比分别提高了约43.78%和43.11%。通过该优化获得的面形结果超过了现有优化方法和单一多目标算法所获得的面形结果，同时单一优化效率提高了96%。该优化方法对于提高曲面精度和优化效率具有重要的工程应用价值。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502824",
+            "title": "Exciton Self‐Trapping Enables Broadband Emission in Two‐Monolayer Colloidal CdSe Quantum Wells",
+            "link": "https://doi.org/10.1002/lpor.202502824",
+            "published": "2026-02-06",
+            "author": "Han Yadong, Wang Ke, Hou Songyan, Farzan Shabani, Attila Alkim Gokbayrak, Savas Delikanli, Hilmi Volkan Demir, Junhong Yu",
+            "summary": "ABSTRACT Achieving intrinsic broadband emission in colloidal quantum wells (CQWs) via self‐trapped excitons (STEs) is highly desirable for solid‐state lighting, yet remains challenging due to their rigid lattices and inherently weak exciton‐phonon coupling. In this work, we have linked the broadband emission from two‐monolayer CdSe CQWs with extreme quantum confinement to the radiative recombination of STEs. This observation unlocks efficient intrinsic STE emission without extrinsic dopants or stacking formations, characterized by an exceptionally broad bandwidth (354 meV centered at 548 nm), high quantum yield (∼90%), and shallow trapping barriers (∼14.8 meV) enabled by strong exciton‐phonon coupling (Huang‐Rhys factor ∼36.7). Ultrafast spectroscopic studies confirm rapid exciton self‐trapping (∼170 fs) and negligible exciton‐exciton annihilation, reflecting the localized STE state. These atomically thin CdSe CQWs thus provide a chemically simple, highly efficient, and stable foundation for next‐generation white‐light emitters.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "激子自俘获可在双单层胶体 CdSe 量子阱中实现宽带发射",
+            "abstract_cn": "摘要：通过自陷激子 (STE) 在胶体量子阱 (CQW) 中实现本征宽带发射对于固态照明来说是非常理想的，但由于其刚性晶格和固有的弱激子-声子耦合，仍然具有挑战性。在这项工作中，我们将具有极端量子限制的双单层 CdSe CQW 的宽带发射与 STE 的辐射复合联系起来。这一观察结果解锁了高效的本征 STE 发射，无需外在掺杂剂或堆叠形成，其特点是异常宽的带宽（354 meV，中心波长为 548 nm）、高量子产率（~90%）和由强激子-声子耦合（Huang-Rhys 因子~36.7）实现的浅俘获势垒（~14.8 meV）。超快光谱研究证实了快速激子自捕获（∼170 fs）和可忽略不计的激子-激子湮灭，反映了局域STE状态。因此，这些原子级厚度的 CdSe CQW 为下一代白光发射器提供了化学简单、高效且稳定的基础。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c03062",
+            "title": "Bridging Mid- and Near-Infrared by Combining Optomechanics and Self-Mixing",
+            "link": "https://doi.org/10.1021/acsphotonics.5c03062",
+            "published": "2026-02-06",
+            "author": "Tecla Gabbrielli, Chenghong Zhang, Francesco Cappelli, Iacopo Galli, Andrea Ottomaniello, Jérôme Faist, Alessandro Tredicucci, Alessandro Pitanti, Paolo De Natale, Simone Borri, Paolo Vezio",
+            "summary": "This work describes a self-mixing-assisted optomechanical platform for transferring information between near- and mid-infrared radiation. In particular, the self-mixing signal of a mid-infrared quantum cascade laser is used to detect the oscillation of a membrane driven by light-induced forces exerted by a near-infrared excitation beam, which is amplitude-modulated at the membrane resonance frequency. This technique benefits from spectral broadness and, therefore, can link different spectral regions from both the excitation and probe sides. This versatility can pave the way for future applications of this self-mixing-assisted optomechanical platform in communication and advanced sensing systems.",
+            "journal": "ACS Photonics",
+            "title_cn": "通过结合光力学和自混合来桥接中红外和近红外",
+            "abstract_cn": "这项工作描述了一种自混合辅助光机械平台，用于在近红外和中红外辐射之间传输信息。特别是，中红外量子级联激光器的自混合信号用于检测由近红外激发光束施加的光感应力驱动的膜的振荡，该振动在膜共振频率下进行幅度调制。该技术受益于光谱宽度，因此可以从激发侧和探针侧连接不同的光谱区域。这种多功能性可以为这种自混合辅助光机械平台在通信和先进传感系统中的未来应用铺平道路。"
         }
     ]
 }

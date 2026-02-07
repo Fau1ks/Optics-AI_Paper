@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-07 08:27:51",
+    "update_time": "2026-02-07 11:28:26",
     "word_filename": "Optical_Papers_260207.docx",
-    "total_count": 78,
+    "total_count": 86,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69010-1",
@@ -860,6 +860,94 @@
             "journal": "Optics Express",
             "title_cn": "基于模型的 WSS 频谱整形技术，考虑插入损耗和纹波损失",
             "abstract_cn": "级联波长选择开关（WSS）引入的带宽窄化效应已成为限制通信系统性能的关键因素，特别是在采用更高波特率和先进调制格式的未来系统中。作为一种广泛采用的解决方案，通过 WSS 的衰减控制进行频谱整形可增强信道带宽。然而，由于相邻切片之间的光强度重叠以​​及缺乏适合光谱整形过程的物理模型，确定跨通道切片的最佳衰减曲线仍然具有挑战性。此外，WSS 频谱整形期间带宽增强与相应的插入损耗 (IL) 和纹波损失之间的关系尚未得到系统研究。为了解决这些问题，我们提出了一种新颖的 WSS 滤波模型，并将其集成到梯度下降算法中，以便在给定的 IL 和纹波惩罚约束下迭代确定最佳衰减曲线。此外，我们还通过仿真和实验量化了频谱整形过程中带宽增强、IL惩罚和纹波惩罚之间的权衡关系。这些结果显示出密切的一致性，确定了一种普遍实用且有利的策略，该策略可以牺牲 0.5 dB 的 IL 和 0.3 dB 的纹波来增强带宽。此外，在这组约束下，实验结果验证了我们的方法在 0.5 dB 和 3 dB 带宽上分别实现了 1.9 GHz 和 0.76 GHz 的平均增强。这些发现有助于优化 WSS 中的频谱整形，并为实际系统设计提供有价值的指导。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69322-2",
+            "title": "Hierarchical picot-fiber hydrogel coating with ultralow friction and high wear resistance",
+            "link": "https://doi.org/10.1038/s41467-026-69322-2",
+            "published": "2026-02-06",
+            "author": "Wei Sun, Xiaoxiao Sun, Junsheng Zhang, Lin Wu, Juan Wang, Wei Wang, Yi Cao, Bin Xue",
+            "summary": "Hydrogel coatings have potential in friction reduction, but achieving the required durability is challenging. Here, the authors report a picot fibre hydrogel coating with a hierarchical structure, including a lubricious surface layer and fibre-reinforced core layer.",
+            "journal": "Nature Communications",
+            "title_cn": "具有超低摩擦和高耐磨性的分层皮科特纤维水凝胶涂层",
+            "abstract_cn": "水凝胶涂层具有减少摩擦的潜力，但实现所需的耐久性具有挑战性。在这里，作者报告了一种具有分层结构的皮科特纤维水凝胶涂层，包括润滑的表面层和纤维增强的芯层。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-30481-9",
+            "title": "Risk assessment of trihalomethanes in drinking water with seasonal variation considerations",
+            "link": "https://doi.org/10.1038/s41598-025-30481-9",
+            "published": "2026-02-06",
+            "author": "Gihan Hosny, Ashraf Elden, Samar Aborhyem",
+            "summary": "This study evaluated the concentrations of trihalomethanes (THMs) in Alexandria’s drinking water across seven districts during summer and winter, and assessed the associated cancer risks. THMs, byproducts of water chlorination, are known for their potential carcinogenicity. A total of 35 drinking water samples were analyzed using gas chromatography with an electron capture detector (GC-ECD) to determine the concentrations of chloroform (CF), bromodichloromethane (BDCM), dibromochloromethane (DBCM), and bromoform (BF). The results revealed significant seasonal variations. Region-2 recorded the highest summer concentration (150 µg/L), while Region-7 had the highest winter concentration (196 µg/L). Hazard index (HI) calculations indicated that chloroform contributed the most to non-carcinogenic risks, with Region-7 recording an HI of 0.5698 in winter, while Region-2 showed a summer HI of 0.4843. Carcinogenic risk assessments using the USEPA methodology showed lifetime cancer risks significantly exceeding the acceptable threshold of 1 × 10−6, with an annual average total cancer risk of 67.027 × 10−6. These outcomes highlight the critical need for Alexandria to adopt advanced water treatment methods, such as ozonation and UV disinfection, optimize chlorine dosing, and strengthen routine monitoring to ensure compliance with safety standards and protect public health to safer drinking water and better health outcomes for Alexandria’s residents.",
+            "journal": "Scientific Reports",
+            "title_cn": "考虑季节性变化的饮用水中三卤甲烷的风险评估",
+            "abstract_cn": "这项研究评估了亚历山大港七个地区夏季和冬季饮用水中三卤甲烷 (THM) 的浓度，并评估了相关的癌症风险。三卤甲烷是水氯化的副产品，因其潜在的致癌性而闻名。使用带有电子捕获检测器 (GC-ECD) 的气相色谱法分析了总共 35 个饮用水样品，以确定氯仿 (CF)、溴二氯甲烷 (BDCM)、二溴氯甲烷 (DBCM) 和溴仿 (BF) 的浓度。结果显示显着的季节性变化。 2 区夏季浓度最高（150 µg/L），7 区冬季浓度最高（196 µg/L）。危害指数 (HI) 计算表明，氯仿对非致癌风险的贡献最大，Region-7 冬季的 HI 为 0.5698，而 Region-2 夏季的 HI 为 0.4843。使用 USEPA 方法进行的致癌风险评估显示，终生癌症风险显着超过可接受的阈值 1 × 10−6，年平均总癌症风险为 67.027 × 10−6。这些结果凸显了亚历山大迫切需要采用先进的水处理方法，例如臭氧和紫外线消毒，优化氯剂量，并加强日常监测，以确保符合安全标准并保护公众健康，为亚历山大居民提供更安全的饮用水和更好的健康结果。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109656",
+            "title": "Retraction notice to “The nonlinear concentration-dependent study of hemoglobin using the Z-scan approach” [Optics and Lasers in Engineering 190C, (2025)/108978]",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109656",
+            "published": "2026-02-01",
+            "author": "Haider Ansari",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "“使用 Z 扫描方法对血红蛋白进行非线性浓度依赖性研究”的撤回通知 [Optics and Lasers in Engineering 190C, (2025)/108978]",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.576337",
+            "title": "Quantitative characterization of cell-to-cell mechanical interactions using holographic optical tweezers",
+            "link": "https://doi.org/10.1364/prj.576337",
+            "published": "2026-01-28",
+            "author": "Qiang Zhang, Xing Li, Yuan Zhou, Wenyu Gao, Manman Li, Shaohui Yan, Chen Bai, Xianghua Yu, Xiaohao Xu, Baoli Yao",
+            "summary": "Cell-to-cell mechanical interactions are fundamental to physiological and pathological processes, yet their precise quantification remains technically challenging. In this study, we present a high-precision cellular mechanics measurement platform utilizing holographic optical tweezers (HOT) to dynamically probe mechanical responses during cell binding and separation. This system enables dynamic probing of mechanical responses during cell binding and separation by combining nanometer-scale displacement tracking with optical force field reconstruction, achieving sub-piconewton force sensitivity (0.44±0.17 pN along the x -axis). Additionally, integrated morphological imaging allows for the generation of accurate force–deformation curves, enabling quantitative analysis of cellular viscoelastic properties through standardized stress relaxation and creep compliance assays. This non-invasive and high-fidelity approach provides a powerful tool for characterizing dynamic cell-to-cell mechanical interactions.",
+            "journal": "Photonics Research",
+            "title_cn": "使用全息光镊定量表征细胞间的机械相互作用",
+            "abstract_cn": "细胞间的机械相互作用是生理和病理过程的基础，但其精确量化在技术上仍然具有挑战性。在这项研究中，我们提出了一种高精度细胞力学测量平台，利用全息光镊（HOT）动态探测细胞结合和分离过程中的机械响应。该系统通过将纳米级位移跟踪与光学力场重建相结合，能够动态探测细胞结合和分离过程中的机械响应，实现亚皮牛顿力灵敏度（沿 x 轴为 0.44±0.17 pN）。此外，集成形态成像可以生成精确的力-变形曲线，从而通过标准化应力松弛和蠕变柔量测定对细胞粘弹性特性进行定量分析。这种非侵入性和高保真度的方法为表征动态细胞间机械相互作用提供了强大的工具。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.577422",
+            "title": "Ultra-low-noise laser at 1064 nm through self-injection locking to an asymmetric-mode-splitting microring resonator",
+            "link": "https://doi.org/10.1364/prj.577422",
+            "published": "2026-01-27",
+            "author": "Hongfei Zhang, Yilin Wu, Sigang Yang, Hongwei Chen, Minghua Chen",
+            "summary": "Low-noise lasers in the 1-μm band play a crucial role in modern photonic systems, yet their chip-scale implementation remains at an early stage compared to lasers operating at the communication band, leaving significant untapped potential for exploration. Here, a low-noise hybrid integrated laser emitting at 1064 nm is demonstrated, through using a semiconductor laser self-injection locked to a Si 3 N 4 -based microring resonator (MRR). The MRR distinguishes itself by embedding a lossy defect to cause asymmetric mode splitting, achieving an enhanced loaded Q of 5.1×10 6 . The self-injection locked laser presents a fiber-coupled output power of 14.79 dBm and achieves an intrinsic linewidth of 26.8 Hz and a 1/ π -integral linewidth of 2.3 kHz, representing the narrowest intrinsic linewidth reported to date for integrated 1-μm lasers. The demonstrated laser opens up new opportunities in high-resolution spectroscopy measurement, green light generation, and quantum sensing.",
+            "journal": "Photonics Research",
+            "title_cn": "通过自注入锁定到不对称模式分裂微环谐振器的 1064 nm 超低噪声激光",
+            "abstract_cn": "1μm波段的低噪声激光器在现代光子系统中发挥着至关重要的作用，但与通信波段的激光器相比，它们的芯片级实现仍处于早期阶段，尚有巨大的未开发潜力。这里，通过使用锁定到 Si 3 N 4 基微环谐振器（MRR）的半导体激光器自注入，演示了发射 1064 nm 的低噪声混合集成激光器。 MRR 的特点是嵌入有损缺陷以引起不对称模式分裂，从而实现 5.1×10 6 的增强负载 Q。自注入锁定激光器的光纤耦合输出功率为 14.79 dBm，并实现了 26.8 Hz 的本征线宽和 2.3 kHz 的 1/ π 积分线宽，代表了迄今为止报道的集成 1 μm 激光器的最窄本征线宽。演示的激光器为高分辨率光谱测量、绿光生成和量子传感开辟了新的机遇。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.573807",
+            "title": "Achromatic laboratory full-field transmission X-ray microscope",
+            "link": "https://doi.org/10.1364/prj.573807",
+            "published": "2026-01-27",
+            "author": "Di Qu, Shuai Zhao, Peng Qi, Anna Bergamaschi, Mano Raj Dhanalakshmi Veeraraj, Roberto Dinapoli, Julian Heymes, Joan Vila-Comamala, Christian David",
+            "summary": "The implementation of full-field transmission X-ray microscopy (TXM) at X-ray tube sources suffers from image blurring due to the chromatic aberration of the lenses and from long exposure times due to the inherent low flux of laboratory sources. Here, we demonstrate the first laboratory full-field TXM system, which combines tailored monocapillary optics, an achromatic X-ray lens, and the MÖNCH hybrid silicon pixel detector to address these challenges. With current optics, this TXM system demonstrates a spatial resolution down to 480 nm using X-ray energies around 10 keV. Despite the large pixel pitch of the MÖNCH detector, high spatial resolution imaging can be achieved by using interpolation methods leveraging charge sharing. In addition, the energy resolving power of the MÖNCH detector allows for the acquisition of elemental information. Bridging the gap between structural and elemental characterizations using X-rays, the concept of this laboratory X-ray microscope provides new opportunities for research in the fields of material science, environmental science, and biology.",
+            "journal": "Photonics Research",
+            "title_cn": "消色差实验室全视野透射X射线显微镜",
+            "abstract_cn": "在 X 射线管源上实施全视场透射 X 射线显微镜 (TXM) 会因透镜色差而导致图像模糊，并且由于实验室源固有的低通量而导致曝光时间长。在这里，我们展示了第一个实验室全视场 TXM 系统，该系统结合了定制的单毛细管光学器件、消色差 X 射线透镜和 MÖNCH 混合硅像素探测器来应对这些挑战。利用当前的光学器件，该 TXM 系统使用 10 keV 左右的 X 射线能量，展示了低至 480 nm 的空间分辨率。尽管 MÖNCH 探测器的像素间距较大，但通过利用电荷共享的插值方法可以实现高空间分辨率成像。此外，MÖNCH 探测器的能量分辨能力可以获取元素信息。这款实验室 X 射线显微镜的概念弥补了使用 X 射线进行结构和元素表征之间的差距，为材料科学、环境科学和生物学领域的研究提供了新的机会。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.569511",
+            "title": "Topological switching via exceptional point pairs in optical microcavities",
+            "link": "https://doi.org/10.1364/prj.569511",
+            "published": "2026-01-27",
+            "author": "Kyu-Won Park, KyeongRo Kim, Jinuk Kim, Muhan Choi, Kabgyun Jeong",
+            "summary": "We present a topological method for deterministic control of the quality factor ( Q ) and mode conversion in optical microcavities using an exceptional-point (EP) pair. The transition between super- and subradiant modes is governed by braid-group topology on a two-sheet Riemann surface, enabling path-robust Q -tuning without relying on gain-loss balance, nonlinearity, or non-adiabatic encircling. Full-wave simulations demonstrate more than sixfold Q enhancement at a normalized frequency of k r ≈3, with higher gains expected at larger k r . The approach requires only a weak elliptical deformation and an engineered internal loss profile, maintaining compatibility with standard photonic platforms. This EP-pair framework offers a scalable and fabrication-tolerant strategy for reconfigurable microlasers, sensors, and integrated photonic devices.",
+            "journal": "Photonics Research",
+            "title_cn": "通过光学微腔中的特殊点对进行拓扑切换",
+            "abstract_cn": "我们提出了一种使用异常点 (EP) 对来确定性控制光学微腔中的品质因数 ( Q ) 和模式转换的拓扑方法。超辐射模式和次辐射模式之间的转变由两层黎曼曲面上的编织组拓扑控制，从而实现路径鲁棒的 Q 调谐，而不依赖于增益损失平衡、非线性或非绝热环绕。全波模拟表明，在 k r ≈3 的归一化频率下，Q 值增强了六倍以上，k r 越大，预期增益越高。该方法仅需要弱椭圆变形和工程内部损耗曲线，从而保持与标准光子平台的兼容性。该 EP 对框架为可重构微型激光器、传感器和集成光子器件提供了可扩展且容错制造的策略。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.575696",
+            "title": "Robust UAV tracking under low-SNR via TRSCE-based speckle suppression in vibrating-MMF single-photon LiDAR",
+            "link": "https://doi.org/10.1364/prj.575696",
+            "published": "2026-01-30",
+            "author": "Dongfang Guo, Jianfeng Sun, Xin Zhou, Yinbo Zhang, Shengwen Yin, Sining Lin, Yanchen Qu",
+            "summary": "With the large-scale deployment of unmanned aerial vehicles (UAVs), long-range, high-precision detection and tracking face severe challenges. Although Gm-APD-based single-photon LiDAR systems exhibit outstanding sensitivity under ultra-low SNR and weak echo conditions, the employment of multimode fiber (MMF) coupling to achieve high energy output tends to introduce strong speckle noise, which significantly degrades echo photons’ stability and imaging quality, thereby reducing the accuracy of target tracking. This study proposes a speckle suppression method that integrates MMF vibration with the time-domain RANSAC with spatial consistency enhancement (TRSCE) reconstruction algorithm, which combines temporal RANSAC and spatial neighborhood structural consistency. Additionally, an improved MeanShift-Kalman algorithm is proposed to achieve robust tracking of UAVs under low SNR. Monte Carlo simulations demonstrate that under an average single-pixel echo photon count of 0.4481 and an SNR of −6.85 dB , the speckle contrast within the target region decreases significantly from 0.7592 to 0.0748, corresponding to a reduction of 73.2%. In field experiments conducted under weak solar illumination and light fog, the proposed Gm-APD single-photon LiDAR system demonstrated robust tracking capability of UAV targets at a distance of 200 m. At an SNR of approximately −4.53 dB , with an average signal return of 1.0859 photons per target pixel and a background noise level of 3.0829 photons, the system achieved a mean tracking error of 0.6572 pixels (approximately 6.44 cm) and an inter-frame model similarity of 0.9764. Compared to publicly reported speckle suppression methods, the proposed approach reduced the tracking error by approximately 45.3%. Furthermore, at a range of 300 m under strong solar illumination, with an average signal-photon count of 0.8769 and background noise of 4.0611 photons per pixel, the system achieved a mean tracking error of 0.6975 pixels (approximately 9.66 cm), improving accuracy by 43.2% compared to spatial-correlation-based algorithms. Finally, by integrating phased-array radar, the system extends effective detection and tracking distances of UAVs to 10 km, surpassing existing LiDAR capabilities. The proposed speckle suppression and robust tracking framework significantly enhances tracking stability of LiDAR operating in complex airspace environments and provides a viable theoretical foundation and engineering solution for future low-altitude defense and airspace security applications.",
+            "journal": "Photonics Research",
+            "title_cn": "通过振动 MMF 单光子激光雷达中基于 TRSCE 的散斑抑制实现低信噪比下的鲁棒无人机跟踪",
+            "abstract_cn": "随着无人机的大规模部署，远距离、高精度的探测与跟踪面临着严峻的挑战。虽然基于Gm-APD的单光子激光雷达系统在超低信噪比和弱回波条件下表现出出色的灵敏度，但采用多模光纤（MMF）耦合实现高能量输出往往会引入强散斑噪声，从而显着降低回波光子的稳定性和成像质量，从而降低目标跟踪的精度。本研究提出了一种将MMF振动与时域RANSAC与空间一致性增强（TRSCE）重建算法相结合的散斑抑制方法，该算法结合了时间RANSAC和空间邻域结构一致性。此外，还提出了一种改进的MeanShift-Kalman算法来实现低信噪比下无人机的鲁棒跟踪。蒙特卡罗模拟表明，在平均单像素回波光子数为 0.4481 和信噪比为 −6.85 dB 的情况下，目标区域内的散斑对比度从 0.7592 显着下降到 0.0748，相当于下降了 73.2%。在弱太阳光照和光雾条件下进行的现场实验中，所提出的Gm-APD单光子激光雷达系统展示了对200 m距离的无人机目标的强大跟踪能力。在信噪比约为 -4.53 dB 的情况下，每个目标像素的平均信号返回为 1.0859 个光子，背景噪声水平为 3.0829 个光子，系统实现的平均跟踪误差为 0.6572 像素（约 6.44 厘米），帧间模型相似度为 0.9764。与公开报道的散斑抑制方法相比，所提出的方法将跟踪误差降低了约 45.3%。此外，在强太阳光照下，在300 m范围内，平均信号光子数为0.8769，每像素背景噪声为4.0611光子，该系统实现了平均跟踪误差为0.6975像素（约9.66 cm），与基于空间相关的算法相比，精度提高了43.2%。最后，通过集成相控阵雷达，该系统将无人机的有效探测和跟踪距离延长至10公里，超越了现有激光雷达的能力。所提出的散斑抑制和鲁棒跟踪框架显着增强了激光雷达在复杂空域环境下运行的跟踪稳定性，为未来低空防御和空域安全应用提供了可行的理论基础和工程解决方案。"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-07 15:28:28",
+    "update_time": "2026-02-07 17:28:19",
     "word_filename": "Optical_Papers_260207.docx",
-    "total_count": 102,
+    "total_count": 106,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69010-1",
@@ -1124,6 +1124,50 @@
             "journal": "ACS Photonics",
             "title_cn": "通过结合光力学和自混合来桥接中红外和近红外",
             "abstract_cn": "这项工作描述了一种自混合辅助光机械平台，用于在近红外和中红外辐射之间传输信息。特别是，中红外量子级联激光器的自混合信号用于检测由近红外激发光束施加的光感应力驱动的膜的振荡，该振动在膜共振频率下进行幅度调制。该技术受益于光谱宽度，因此可以从激发侧和探针侧连接不同的光谱区域。这种多功能性可以为这种自混合辅助光机械平台在通信和先进传感系统中的未来应用铺平道路。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38616-2",
+            "title": "Enhancing photothermal therapy effectiveness via tartrazine-induced optical clearing of biological tissues",
+            "link": "https://doi.org/10.1038/s41598-026-38616-2",
+            "published": "2026-02-06",
+            "author": "Antonio Minopoli, Davide Evangelista, Matteo Marras, Giordano Perini, Alberto Augello, Valentina Palmieri, Marco De Spirito, Massimiliano Papi",
+            "summary": "Photothermal therapies offer a powerful strategy for noninvasive treatment of cancer and other pathological conditions by converting light energy into localized heat to ablate diseased tissues or induce local release of antigens. However, the efficacy and precision of these therapies are severely restricted by optical scattering in biological tissues, which limits light penetration and spatial accuracy in vivo. In this work, we leverage the food coloring dye tartrazine—a strongly absorbing molecule in UV-VIS range ($$\\:\\sim$$250 nm and $$\\:\\sim$$430 nm) and with minimal absorption over 600 nm—to reduce tissue scattering and thereby enhance the delivery and efficacy of photothermal treatment. We demonstrate that when in aqueous environments, tartrazine induces local refractive index changes and minimizes the mismatch between water-based environments and lipid-rich tissue components, leading to a scattering reduction up to $$\\:\\sim$$65% and enabling deeper light penetration and more homogeneous energy delivery. By incubating 3D samples with the dye, we achieved reversible optical clearing in ex vivo tissues, allowing near-complete light transmission through otherwise opaque sections. The enhanced optical accessibility directly improves the spatial resolution and energy deposition of photothermal therapies, potentially reducing off-target effects and tissue damage. Our results introduce a complementary perspective in photothermal therapy optimization, emphasizing that molecular absorption can play a central role beyond conventional thermal efficiency considerations. This refractive index-modulation opens the door to more targeted, efficient, and safe photothermal treatment protocols and offers a generalizable framework for light-based therapeutic applications in living organisms.",
+            "journal": "Scientific Reports",
+            "title_cn": "通过柠檬黄诱导的生物组织光学清除提高光热治疗效果",
+            "abstract_cn": "光热疗法通过将光能转化为局部热量来消融患病组织或诱导抗原局部释放，为癌症和其他病理状况的无创治疗提供了强大的策略。然而，这些疗法的功效和精度受到生物组织中光学散射的严重限制，这限制了体内的光穿透和空间精度。在这项工作中，我们利用食用色素染料柠檬黄——一种在 UV-VIS 范围内（$$\\:\\sim$$250 nm 和 $$\\:\\sim$$430 nm）具有强吸收性的分子，并且在 600 nm 范围内具有最小吸收——减少组织散射，从而增强光热治疗的传递和功效。我们证明，在水性环境中，柠檬黄会引起局部折射率变化，并最大限度地减少水基环境和富含脂质的组织成分之间的不匹配，从而导致散射减少高达$$\\:\\sim$$65%，并实现更深的光穿透和更均匀的能量传递。通过将 3D 样品与染料一起孵育，我们在离体组织中实现了可逆的光学透明化，从而允许近乎完全的光透过其他不透明的切片。增强的光学可达性直接提高了光热疗法的空间分辨率和能量沉积，有可能减少脱靶效应和组织损伤。我们的结果引入了光热疗法优化的补充视角，强调分子吸收可以在传统热效率考虑之外发挥核心作用。这种折射率调制为更有针对性、更高效、更安全的光热治疗方案打开了大门，并为生物体中基于光的治疗应用提供了一个通用的框架。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38300-5",
+            "title": "Adaptive MPPT control for reliable transitions between grid connected and islanded operations in PV battery microgrids",
+            "link": "https://doi.org/10.1038/s41598-026-38300-5",
+            "published": "2026-02-06",
+            "author": "U. Siddaraj, Udaykumar R. Yaragatti, Lakhshman Rao S. Paragonda, Swathi Tangi",
+            "summary": "Abstract To maximize photovoltaic (PV) energy extraction, this study proposes a novel hybrid maximum power point tracking (MPPT) method that combines artificial neural networks (ANNs) with particle swarm optimization (PSO). The ANN–PSO controller is integrated within a PV-battery microgrid system and enables efficient tracking of the maximum power output while minimizing oscillations. The MPPT unit operates alongside a droop-controlled inverter to coordinate the power flow between the PV array and battery energy storage system (BESS), supporting dynamic transitions between grid-connected and islanded modes. The controller monitors the current and voltage at the point of common coupling (PCC) to ensure reliable power delivery. By enhancing the accuracy of irradiance estimations, the ANN–PSO approach improves tracking responsiveness and overall system efficiency. The proposed strategy is benchmarked against traditional and intelligent MPPT techniques, including Perturb & Observe, ANFIS-PSO, and PSO-SMC, under varying irradiance and load conditions. The performance is validated through detailed MATLAB/Simulink simulations. The results demonstrate superior tracking performance and faster, more stable microgrid operation, highlighting the controller’s potential for efficient renewable energy integration. This work supports the advancement of intelligent, autonomous energy systems and contributes to the development of resilient, grid-interactive solar microgrids. This research supports SDG 7: Affordable and Clean Energy by enhancing the efficiency and integration of solar energy systems, and it aligns with SDG 9: Industry, Innovation, and Infrastructure through the development of advanced control strategies for smart power grids.",
+            "journal": "Scientific Reports",
+            "title_cn": "自适应 MPPT 控制可实现光伏电池微电网并网和孤岛运行之间的可靠转换",
+            "abstract_cn": "摘要：为了最大限度地提高光伏（PV）能量提取，本研究提出了一种新颖的混合最大功率点跟踪（MPPT）方法，该方法将人工神经网络（ANN）与粒子群优化（PSO）相结合。 ANN-PSO 控制器集成在光伏电池微电网系统中，能够有效跟踪最大功率输出，同时最大限度地减少振荡。 MPPT 装置与下垂控制逆变器一起运行，以协调光伏阵列和电池储能系统 (BESS) 之间的功率流，支持并网模式和孤岛模式之间的动态转换。控制器监控公共耦合点 (PCC) 的电流和电压，以确保可靠的电力传输。通过提高辐照度估计的准确性，ANN-PSO 方法提高了跟踪响应能力和整体系统效率。所提出的策略在不同的辐照度和负载条件下以传统和智能 MPPT 技术（包括 Perturb & Observe、ANFIS-PSO 和 PSO-SMC）为基准。性能通过详细的 MATLAB/Simulink 仿真进行验证。结果展示了卓越的跟踪性能和更快、更稳定的微电网运行，凸显了控制器在高效可再生能源整合方面的潜力。这项工作支持智能、自主能源系统的进步，并有助于开发弹性、电网交互式太阳能微电网。这项研究通过提高太阳能系统的效率和集成度来支持可持续发展目标 7：负担得起的清洁能源，并通过开发智能电网的先进控制策略来与可持续发展目标 9：工业、创新和基础设施保持一致。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38427-5",
+            "title": "Degree of conduction transfer through incomplete interphases controlling the conductivity of carbon nanofiber composites",
+            "link": "https://doi.org/10.1038/s41598-026-38427-5",
+            "published": "2026-02-06",
+            "author": "Yasser Zare, Muhammad Tajammal Munir, Jin-Hwan Choi, Kyong Yop Rhee",
+            "summary": "Assuming an incomplete interphase in carbon nanofiber (CNF)/polymer composites (PCNFs), the conduction transfer amount from the CNF to the polymer media, denoted as Y, is determined by the CNF length and the minimum length required for effective conduction transfer to the matrix (Lc). The real inverse aspect ratio, actual CNF volume fraction, percolation threshold, and the amount of network are all influenced by Y. Additionally, the Kovacs model is extended for PCNF conductivity to incorporate network concentration, real inverse aspect ratio, and tunneling resistance. The effects of parameters on the Y, percolation threshold, and composite conductivity are illustrated and analyzed. The calculated conductivity is compared with the measured conductivity of multiple samples to validate the proposed model. Shorter Lc, longer and thinner CNFs, and higher interphase conductivity lead to increased values of Y. Furthermore, a higher Y results in an inferior percolation and a greater network portion. For instance, when Y = 1, the percolation threshold reaches a maximum of 0.009, whereas for Y > 15, the percolation threshold decreases to 0.006, and the network fraction increases to 0.155 at Y = 21. Moreover, maximum values of Y = 20 and a 4 vol.% CNF can enhance the nanocomposite conductivity to 0.13 S/m, highlighting the direct influence of Y on the PCNF conductivity.",
+            "journal": "Scientific Reports",
+            "title_cn": "通过不完全界面的传导传递程度控制碳纳米纤维复合材料的电导率",
+            "abstract_cn": "假设碳纳米纤维（CNF）/聚合物复合材料（PCNF）中存在不完全界面，从CNF到聚合物介质的传导转移量（记为Y）由CNF长度和有效传导转移到基体所需的最小长度（Lc）决定。真实反长宽比、实际 CNF 体积分数、渗流阈值和网络量均受 Y 影响。此外，Kovacs 模型针对 PCNF 电导率进行了扩展，以纳入网络浓度、真实反长宽比和隧道阻力。说明并分析了参数对 Y、渗流阈值和复合电导率的影响。将计算的电导率与多个样品的测量电导率进行比较，以验证所提出的模型。较短的 Lc、较长且较薄的 CNF 以及较高的相间电导率会导致 Y 值增加。此外，较高的 Y 会导致渗滤较差和网络部分较大。例如，当 Y = 1 时，渗流阈值达到最大值 0.009，而当 Y > 15 时，渗流阈值降低至 0.006，Y = 21 时网络分数增加至 0.155。此外，Y = 20 的最大值和 4 vol.% CNF 可以将纳米复合材料电导率提高至 0.13 S/m，突出了 Y 对 PCNF 电导率的直接影响。"
+        },
+        {
+            "id": "https://doi.org/10.1063/5.0308370",
+            "title": "Multimodal phase microscopy via differential metasurface",
+            "link": "https://doi.org/10.1063/5.0308370",
+            "published": "2026-02-06",
+            "author": "Qiang Yang, Yichang Shou, Yongqi Zhao, Jiawei Liu, Shizhen Chen, Weixing Shu, Shuangchun Wen, Hailu Luo",
+            "summary": "Quantitative phase microscopy (QPM) has been an effective technique to examine stain-free biomedical tissues and cells. The development of simple and compact QPM technology with planar optical components enhances system integration and portability. Here, we propose a QPM technique by inserting a metasurface-assisted optical differential system to replace the bulky optical elements in the conventional microscope. The differential scheme allows for the separation of amplitude and phase information for a complex field, offering an opportunity to quantitatively analyze the phase distribution of samples. The experimental demonstrations showcase the well-executed application of the proposed method to artificial phase samples, paramecium cells, fishtail cross-cut tissue, and diatom cells. Notably, our imaging system allows switching between four imaging modes—brightfield, optical spatial differential, differential interference contrast, and QPM. At a high level, this work may drive the advancement of single-shot and multi-mode integrated phase microscopy for biomedical imaging and diagnostics.",
+            "journal": "APL Photonics",
+            "title_cn": "通过微分超表面的多模态相位显微镜",
+            "abstract_cn": "定量相显微镜 (QPM) 已成为检查免染色生物医学组织和细胞的有效技术。采用平面光学元件的简单紧凑的 QPM 技术的开发增强了系统集成度和便携性。在这里，我们提出了一种 QPM 技术，通过插入超表面辅助光学微分系统来取代传统显微镜中笨重的光学元件。差分方案允许分离复杂场的幅度和相位信息，从而提供定量分析样本相位分布的机会。实验演示展示了所提出的方法在人工相样品、草履虫细胞、鱼尾横切组织和硅藻细胞中的良好应用。值得注意的是，我们的成像系统允许在四种成像模式之间切换：明场、光学空间微分、微分干涉衬度和 QPM。在高水平上，这项工作可能会推动用于生物医学成像和诊​​断的单次和多模式集成相位显微镜的进步。"
         }
     ]
 }

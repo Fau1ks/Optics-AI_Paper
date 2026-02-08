@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-08 13:28:10",
+    "update_time": "2026-02-08 15:27:45",
     "word_filename": "Optical_Papers_260208.docx",
-    "total_count": 66,
+    "total_count": 69,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69034-7",
@@ -728,6 +728,39 @@
             "journal": "Laser & Photonics Reviews",
             "title_cn": "芯片级谷光子拓扑腔中的超低反向散射诱导模式分裂",
             "abstract_cn": "摘要 拓扑谷光子晶体由于具有针对尖角和制造缺陷的反向散射保护，因此在片上集成方面具有巨大的潜力。拓扑接口可实现紧凑且灵活的光子路由，这对于光子芯片的小型化、可扩展性和能源效率至关重要。然而，这种互易拓扑光子器件不可避免地会经历反向散射损耗，并且仍然无法使用有效的原位方法来量化鲁棒性。在这里，我们报告了尖角处的超低后向散射会引起拓扑空腔中的模式分裂，作为其定量评估的自检测方法。在 37 GHz 的宽拓扑带隙上，整体反向散射损耗为 0.10 dB/弯，在 K 谷附近最小为 0.047 dB/弯，证明了谷边缘态通过尖角的近乎完美的光子传输。腔波导耦合硅芯片的高分辨率太赫兹光谱测量证实了 0.09 dB/弯曲的极低损耗。我们的工作揭示了模式分裂的普遍机制，并引入了一个定量框架来测量拓扑谷光子学中的反向散射损耗色散。模式分裂成为集成拓扑器件中光谱工程的新自由度，为多通道通信、高灵敏度光子传感和量子信息处理铺平了新途径。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69084-x",
+            "title": "Neuromorphic photonic computing with an electro-optic analog memory",
+            "link": "https://doi.org/10.1038/s41467-026-69084-x",
+            "published": "2026-02-07",
+            "author": "Sean Lam, Ahmed Khaled, Simon Bilodeau, Bicky A. Marquez, Paul R. Prucnal, Lukas Chrostowski, Bhavin J. Shastri, Sudip Shekhar",
+            "summary": "Abstract In neuromorphic photonic systems, device operations are typically governed by analog signals, necessitating digital-to-analog converters (DAC) and analog-to-digital converters (ADC). However, data movement between memory and these converters in conventional von Neumann architectures incur significant energy costs. We propose an analog electronic memory co-located with photonic computing units to eliminate repeated long-distance data movement. Here, we demonstrate a monolithically integrated neuromorphic photonic circuit with on-chip capacitive analog memory and evaluate its performance in machine learning for in situ training and inference using the MNIST dataset. Our analysis shows that integrating analog memory into a neuromorphic photonic architecture can achieve over 26 × power savings compared to conventional SRAM-DAC architectures. Furthermore, maintaining a minimum analog memory retention-to-network-latency ratio of 100 maintains >90% inference accuracy, enabling leaky analog memories without substantial performance degradation. This approach reduces reliance on DACs, minimizes data movement, and offers a scalable pathway toward energy-efficient, high-speed neuromorphic photonic computing.",
+            "journal": "Nature Communications",
+            "title_cn": "具有电光模拟存储器的神经形态光子计算",
+            "abstract_cn": "摘要 在神经形态光子系统中，设备操作通常由模拟信号控制，因此需要数模转换器 (DAC) 和模数转换器 (ADC)。然而，传统冯·诺依曼架构中的存储器和这些转换器之间的数据移动会产生大量的能源成本。我们提出了一种与光子计算单元共置的模拟电子存储器，以消除重复的长距离数据移动。在这里，我们展示了带有片上电容模拟存储器的单片集成神经形态光子电路，并使用 MNIST 数据集评估其在原位训练和推理的机器学习中的性能。我们的分析表明，与传统 SRAM-DAC 架构相比，将模拟存储器集成到神经形态光子架构中可以实现超过 26 倍的功耗节省。此外，保持最小模拟内存保留与网络延迟比率为 100 可保持 >90% 的推理精度，从而实现泄漏模拟内存，而不会显着降低性能。这种方法减少了对 DAC 的依赖，最大限度地减少了数据移动，并提供了一条实现节能、高速神经形态光子计算的可扩展途径。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38130-5",
+            "title": "Discovery of age and blood group associated variability in nattokinase mediated thrombolysis and its relevance to cardiovascular management",
+            "link": "https://doi.org/10.1038/s41598-026-38130-5",
+            "published": "2026-02-07",
+            "author": "Tirth Chetankumar Bhatt, Ashok Kumar Bishoyi",
+            "summary": "The post-COVID period has been accompanied by a notable rise in cardiovascular disease (CVD), emphasizing the importance of evaluating thrombolytic agents across heterogeneous populations. Although nattokinase (NK) is known for its fibrinolytic properties, systematic data on its clot dissolution efficiency and clot dissolution time (CDT) in the Indian population remain limited. Hence, this study examined NK-mediated thrombolysis across ABO/RhD blood groups, age strata, and gender supported by molecular docking and ultrastructural analyses. A total of 1,796 blood samples encompassing all eight ABO/RhD blood groups were collected from individuals aged 10–70 years from the Saurashtra region. In vitro clot lysis assays were used to quantify CDT following NK treatment, while scanning electron microscopy (SEM) and molecular docking & dynamic were employed to investigate NK–fibrin–RhD interactions. Significant variation in CDT was observed across blood groups, with the longest dissolution time recorded in AB− females (2660 s) and the shortest in O+ males (1510 s). Four-way ANOVA analysis revealed a significant three-way interaction effect of age group x ABO blood group x RhD factor (p = 0.005), whereas the four-way interaction including gender was not significant (p = 1.000). CDT trends were further validated using an independent cohort of 562 samples collected from nine distinct locations across India, which showed consistent patterns. Molecular interaction analysis revealed that the RhD–NK–fibrin complex displayed substantially higher binding affinity (− 1813.9 kcal/mol) than the NK–fibrin complex alone (− 733.3 kcal/mol), aligned with enhanced clot dissolution efficiency observed in SEM analyses. In conclusion, NK-mediated CDT is not uniform across blood groups and is influenced by age and blood group antigen composition. These findings recommend large-scale in vivo validation studies to optimize NK dosing across diverse populations.",
+            "journal": "Scientific Reports",
+            "title_cn": "纳豆激酶介导的溶栓中年龄和血型相关变异的发现及其与心血管管理的相关性",
+            "abstract_cn": "新冠疫情后时期伴随着心血管疾病 (CVD) 的显着上升，这凸显了在异质人群中评估溶栓剂的重要性。尽管纳豆激酶 (NK) 以其纤溶特性而闻名，但印度人群中有关其血块溶解效率和血块溶解时间 (CDT) 的系统数据仍然有限。因此，本研究在分子对接和超微结构分析的支持下，考察了 NK 介导的跨 ABO/RhD 血型、年龄层和性别的溶栓。从 Saurashtra 地区 10 至 70 岁的个体中采集了总共 1,796 份血液样本，涵盖所有八个 ABO/RhD 血型。体外凝块溶解测定用于量化 NK 治疗后的 CDT，同时采用扫描电子显微镜 (SEM) 和分子对接与动力学来研究 NK-纤维蛋白-RhD 相互作用。不同血型的 CDT 存在显着差异，AB− 女性记录的溶解时间最长（2660 秒），O+ 男性记录的溶解时间最短（1510 秒）。四向方差分析显示年龄组 x ABO 血型 x RhD 因子存在显着的三向交互作用 (p = 0.005)，而包括性别在内的四向交互作用并不显着 (p = 1.000)。使用从印度九个不同地点收集的 562 个独立样本组进一步验证了 CDT 趋势，这些样本显示出一致的模式。分子相互作用分析显示，RhD-NK-纤维蛋白复合物表现出比单独的 NK-纤维蛋白复合物（- 733.3 kcal/mol）更高的结合亲和力（− 1813.9 kcal/mol），这与 SEM 分析中观察到的凝块溶解效率增强一致。总之，NK 介导的 CDT 在不同血型之间并不统一，并且受年龄和血型抗原组成的影响。这些发现建议进行大规模体内验证研究，以优化不同人群的 NK 剂量。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-33394-9",
+            "title": "Per- and polyfluoroalkyl substances in waters associated with oil and gas development in the Denver Basin",
+            "link": "https://doi.org/10.1038/s41598-025-33394-9",
+            "published": "2026-02-07",
+            "author": "Matthew S. Varonka, Aaron M. Jubb, Bonnie McDevitt, Jenna L. Shelton, Elliott P. Barnhart, Denise M. Akob, Isabelle M. Cozzarelli",
+            "summary": "Abstract Use of per- and polyfluoroalkyl substances (PFAS) in the petroleum industry could be a cause for concern due to the large volumes of produced water (PW) generated during oil and gas extraction, the reuse of these wastes in water-stressed regions, and adverse health outcomes related to PFAS exposures. However, PW PFAS characterization is nearly absent in the literature, and hydraulic fracturing (HF) chemical disclosures often omit the identities of additives as proprietary. Here we evaluate PFAS in PW samples from three petroleum wells in the Denver Basin during their first year of production. Total concentrations of targeted PFAS (Σ 40 PFAS) were < 35 ng/L in PW samples, with short-chain PFAS like perfluorobutanoic acid persisting throughout the sampled duration. Analysis of freshwater inputs for hydraulic fracturing (Σ 40 PFAS ~ 113 ng/L) and mixed fracture fluid (Σ 40 PFAS ~ 69 ng/L) indicated much of the targeted PFAS content was derived from the input water, and not from HF additives, however samples subjected to oxidation indicated the presence of PFAS precursors that would not be detected by targeted analysis. This study highlights that while PFAS content is low in the studied PWs, the potential for redistribution of PFAS in the environment may be a consideration for reuse applications.",
+            "journal": "Scientific Reports",
+            "title_cn": "丹佛盆地与石油和天然气开发相关的水域中的全氟烷基和多氟烷基物质",
+            "abstract_cn": "摘要 由于石油和天然气开采过程中产生大量采出水 (PW)、这些废物在缺水地区的再利用以及与 PFAS 暴露相关的不良健康后果，石油工业中全氟烷基物质和多氟烷基物质 (PFAS) 的使用可能会引起人们的关注。然而，文献中几乎没有 PW PFAS 的表征，而且水力压裂 (HF) 化学物质的披露通常会忽略专有添加剂的特性。在这里，我们评估了丹佛盆地三口油井生产第一年的纯化水样品中的 PFAS 含量。 PW 样品中目标 PFAS (Σ 40 PFAS) 的总浓度 < 35 ng/L，全氟丁酸等短链 PFAS 在整个采样期间持续存在。对水力压裂淡水输入 (Σ 40 PFAS ~ 113 ng/L) 和混合压裂液 (Σ 40 PFAS ~ 69 ng/L) 的分析表明，大部分目标 PFAS 含量来自输入水，而不是来自 HF 添加剂，但经过氧化的样品表明存在目标分析无法检测到的 PFAS 前体。这项研究强调，虽然所研究的纯水中 PFAS 含量较低，但 PFAS 在环境中重新分布的潜力可能是再利用应用的一个考虑因素。"
         }
     ]
 }

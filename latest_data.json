@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-08 11:28:05",
+    "update_time": "2026-02-08 13:28:10",
     "word_filename": "Optical_Papers_260208.docx",
-    "total_count": 58,
+    "total_count": 66,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69034-7",
@@ -640,6 +640,94 @@
             "journal": "Optics Communications",
             "title_cn": "势垒中AlGaN插入层对红光InGaN/GaN多量子阱光电特性的影响",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37674-w",
+            "title": "Higher-order aberrations and visual outcomes of a new refractive extended depth-of-focus intraocular lens with a target of slight myopia",
+            "link": "https://doi.org/10.1038/s41598-026-37674-w",
+            "published": "2026-02-07",
+            "author": "Hyunjo Lee, Do Young Kim, Jeehyeon Oh, Hyun Woo Park, Ikhyun Jun, Kyoung Yul Seo, Ahmed Elsheikh, Tae-im Kim",
+            "summary": "In this single-center retrospective study, we compared visual performance and optical quality between a new refractive extended depth-of-focus intraocular lens (EDoF IOL, Model ZEN00V, n = 44), with a slightly myopic target, and an enhanced monofocal IOL (Model ICB00, n = 44), with the target refraction closest to emmetropia on the myopic side. The IOL power for the EDoF IOL was selected to achieve postoperative refraction of -0.50 to -1.00 D. Monocular distance visual acuity (VA) and iTrace aberrometry were assessed. Bilateral cases were analyzed to evaluate intermediate and near VA, and photic phenomena. Preoperative target diopter and postoperative spherical equivalent were more myopic in the EDoF IOL group than in the monofocal IOL group (all p < 0.001). Uncorrected and corrected distance VA were comparable between the two groups (all p > 0.05). Higher order aberrations were comparable between the two groups (all p > 0.05) except for spherical aberrations, which were lower in the monofocal group (p = 0.002). Subgroup analysis revealed superior near VA (p = 0.02) and an extended range of defocus in the EDoF IOL group with comparable photic phenomena. Implantation of the new refractive EDoF IOL, the TECNIS PureSee™, with myopic target diopter may be a viable option for improving intermediate and near visual performance while preserving distance vision and visual quality.",
+            "journal": "Scientific Reports",
+            "title_cn": "针对轻度近视的新型屈光扩展景深人工晶状体的高阶像差和视觉效果",
+            "abstract_cn": "在这项单中心回顾性研究中，我们比较了具有轻度近视目标的新型屈光扩展景深人工晶状体（EDoF IOL，型号 ZEN00V，n = 44）和增强型单焦点 IOL（型号 ICB00，n = 44）之间的视觉性能和光学质量，其中目标屈光度最接近近视侧的正视眼。选择 EDoF IOL 的 IOL 度数以实现 -0.50 至 -1.00 D 的术后屈光度。评估单眼远视力 (VA) 和 iTrace 像差测量。分析双侧病例以评估中间和近 VA 以及光现象。 EDoF IOL 组的术前目标屈光度和术后球镜当量比单焦点 IOL 组的近视程度更高（均 p < 0.001）。两组之间的未校正和校正距离 VA 具有可比性（均 p > 0.05）。两组之间的高阶像差相当（均 p > 0.05），但球面像差除外，单焦点组的球面像差较低（p = 0.002）。亚组分析显示，EDoF IOL 组的近 VA 性能优越（p = 0.02），散焦范围扩大，透光现象相当。植入具有近视目标屈光度的新型屈光 EDoF IOL TECNIS PureSee™ 可能是改善中视和近视性能同时保持远视力和视觉质量的可行选择。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-35677-1",
+            "title": "Optimisation and economic assessment of a lowcost insecticide for stored product insect pest control and seed viability",
+            "link": "https://doi.org/10.1038/s41598-026-35677-1",
+            "published": "2026-02-07",
+            "author": "Gabriel O. Ogbeh, OJotule Idachaba, Vaisa J. Sini",
+            "summary": "The development of low-cost insecticidal formulations using readily available household materials presents a potential alternative to synthetic pesticides, particularly in resource-limited settings. In this study, a kerosene–salt–detergent emulsion was formulated and optimised using a Box–Behnken experimental design to evaluate its insecticidal performance against field-collected adult cockroaches and its effect on neem seed germination. Percentage insect mortality (PIM) and neem seed germination percentage (GP) were modelled as response variables using response surface methodology. The optimised mix ratio consisting of 8.29 ml of kerosene, 7.41 g of salt, and 10.56 g of detergent produced a balanced formulation that the model estimated would achieve near-complete insect mortality while maintaining acceptable seed germination. Experimental validation of the optimised mixture produced a mean observed PIM and GP of 90% each, indicating modest deviations from the model predictions. Probit analysis of knockdown data yielded an estimated LT50 of 12.0 min with a wide 95% confidence interval of 2.9–50.3 min, reflecting limited temporal resolution. Fourier-transform infrared (FT-IR) analysis identified broad functional groups consistent with the chemical composition of the formulation components. A preliminary material-cost assessment suggested that the formulation could be produced at low cost relative to some commercial insecticides. Overall, the results demonstrate a laboratory-scale proof-of-concept for a low-cost insecticidal formulation with strong knockdown potential, while highlighting the need for further species-specific efficacy testing, safety evaluation, and field validation before practical application.",
+            "journal": "Scientific Reports",
+            "title_cn": "用于仓储害虫防治和种子活力的低成本杀虫剂的优化和经济评估",
+            "abstract_cn": "使用现成的家用材料开发低成本杀虫制剂是合成农药的潜在替代品，特别是在资源有限的环境中。在本研究中，使用 Box-Behnken 实验设计配制和优化了煤油-盐-洗涤剂乳液，以评估其对现场收集的成年蟑螂的杀虫性能及其对印楝种子发芽的影响。使用响应面方法将昆虫死亡率（PIM）和印楝种子发芽率（GP）建模为响应变量。优化的混合比例由 8.29 毫升煤油、7.41 克盐和 10.56 克洗涤剂组成，产生了一种平衡的配方，模型估计该配方将实现接近完全的昆虫死亡率，同时保持可接受的种子发芽。优化混合物的实验验证产生的平均观察到的 PIM 和 GP 均为 90%，表明与模型预测存在适度偏差。对敲除数据进行 Probit 分析得出的估计 LT50 为 12.0 分钟，95% 置信区间为 2.9-50.3 分钟，反映了有限的时间分辨率。傅里叶变换红外 (FT-IR) 分析确定了与配方成分的化学成分一致的广泛官能团。初步的材料成本评估表明，与某些商业杀虫剂相比，该制剂的生产成本较低。总体而言，结果证明了具有强大击倒潜力的低成本杀虫制剂的实验室规模概念验证，同时强调在实际应用之前需要进一步进行物种特异性功效测试、安全评估和现场验证。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38275-3",
+            "title": "An improved MobileNet based on a modified poor and rich optimization algorithm for lithium-ion battery state-of-health estimation",
+            "link": "https://doi.org/10.1038/s41598-026-38275-3",
+            "published": "2026-02-07",
+            "author": "Rejab Hajlaoui, Mohamed Shalaby, Raed H. C. Alfilh, Narinderjit Singh Sawaran Singh",
+            "summary": "Reliable prediction of the State-of-Health (SOH) of lithium-ion batteries is essential to guarantee the safety, robustness and lifetime of the electric vehicles and grid-scale energy storage devices. Although data-driven methods can provide viable alternatives to traditional model-based algorithms, despite these approaches, high computational complexity, overfitting, and poor feature extraction are common barriers to the use of these approaches in real-time battery management systems (BMS). To overcome these issues, this paper will suggest a light and precise SOH estimation model that incorporates an Improved MobileNet architecture and a Modified Poor and Rich Optimization (MPRO) algorithm. The Improved MobileNet has been designed with 1D temporal battery data particularly, which uses depthwise separable convolutions and Squeeze-and-Excitation attention units to help better represent features at the cost of minimal computational cost. The MPRO algorithm is improved by chaotic map based initializations and adaptive search strategies, which are used to automatically tune the important hyperparameters of the model to optimise its performance. Tested on the NASA, CALCE and Oxford battery data, the offered method has a state-of-the-art Root Mean Square Error (RMSE) equal to 0.48% compared to Transformer-based models with 29.41% and the default MobileNet with 41.46%. Having a small 1.1 million parameter count and an inference time of 3.2 ms, the framework provides an effective and deployable SOH monitoring framework in resource-constrained BMS settings.",
+            "journal": "Scientific Reports",
+            "title_cn": "基于改进的贫富优化算法的改进MobileNet用于锂离子电池健康状态估计",
+            "abstract_cn": "锂离子电池健康状态（SOH）的可靠预测对于保证电动汽车和电网规模储能设备的安全性、稳健性和使用寿命至关重要。尽管数据驱动的方法可以为传统的基于模型的算法提供可行的替代方案，但尽管有这些方法，高计算复杂性、过度拟合和不良特征提取是在实时电池管理系统（BMS）中使用这些方法的常见障碍。为了克服这些问题，本文将提出一种轻便而精确的 SOH 估计模型，该模型结合了改进的 MobileNet 架构和改进的贫富优化 (MPRO) 算法。改进的 MobileNet 专门针对一维时间电池数据进行了设计，它使用深度可分离卷积和挤压和激励注意力单元来帮助以最小的计算成本更好地表示特征。 MPRO算法通过基于混沌映射的初始化和自适应搜索策略进行改进，用于自动调整模型的重要超参数以优化其性能。在 NASA、CALCE 和 Oxford 电池数据上进行测试，所提供的方法具有最先进的均方根误差 (RMSE) 等于 0.48%，而基于 Transformer 的模型为 29.41%，默认的 MobileNet 为 41.46%。该框架拥有 110 万个参数，推理时间为 3.2 毫秒，在资源有限的 BMS 设置中提供了有效且可部署的 SOH 监控框架。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502780",
+            "title": "Design of Dual‐Mode Interfacial Domains Enable Efficient and Stable Pure Red Perovskite Quantum Dots LEDs",
+            "link": "https://doi.org/10.1002/lpor.202502780",
+            "published": "2026-02-06",
+            "author": "Nan Lei, Zhiwei Yao, Ke Ren, Qinrao Li, Huachuan Wang, Shibo Wei, Zhentao Jiang, Zijia Wang, Xuejiao Sun, Jingcong Hu, Ying Tang, Chenghao Bi, Chaoyu Xiang",
+            "summary": "ABSTRACT Strongly confined CsPbI 3 perovskite quantum dots (QDs) are urgently needed for stable pure‐red perovskite QDs light‐emitting diodes (PeLEDs). However, it's challenging for realization of high performance pure‐red PeLEDs with an intrinsic trade‐off between external quantum efficiency (EQE) and stability with single functional group ligands. In this report, we design an interfacial dynamic‐static matching strategy by designing a dual‐function ligand, Fluorobenzamine (PhFA), to construct dual‐mode interfacial domains that simultaneously suppress nonradiative pathways and stabilize the lattice structure. We find that the ammonium (‐NH 2 ) group contributes to promoting dynamic charge injection and defect passivation, while the fluorine (‐F) group anchors the surface to enhance structural stability. Hence, the PhFA‐treated QDs exhibited a high photoluminescence quantum yield (PLQY), boosted efficiency, and observably improved stability. PeLEDs based on these optimized QDs show the pure‐red electroluminescence (EL) emission with a maximum EQE of 29.2% and an operational half‐lifetime surpassing 950 min at an initial luminance of 140 cd m −2 , which are among the highest reported to date for pure‐red PeLEDs.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "双模界面域设计可实现高效稳定的纯红色钙钛矿量子点 LED",
+            "abstract_cn": "摘要：稳定的纯红色钙钛矿量子点发光二极管（PeLED）迫切需要强约束的 CsPbI 3 钙钛矿量子点（QD）。然而，实现高性能纯红色 PeLED 具有挑战性，需要在外部量子效率 (EQE) 和单官能团配体的稳定性之间进行内在权衡。在本报告中，我们通过设计双功能配体氟苯胺（PhFA）来设计界面动静态匹配策略，以构建双模式界面域，同时抑制非辐射路径并稳定晶格结构。我们发现铵（-NH 2 ）基团有助于促进动态电荷注入和缺陷钝化，而氟（-F）基团锚定表面以增强结构稳定性。因此，经过 PhFA 处理的量子点表现出高光致发光量子产率 (PLQY)、提高的效率和显着改善的稳定性。基于这些优化量子点的 PeLED 显示出纯红色电致发光 (EL) 发射，最大 EQE 为 29.2%，初始亮度为 140 cd m -2 时工作半衰期超过 950 分钟，这是迄今为止报道的纯红色 PeLED 中最高的之一。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202401020",
+            "title": "Photo‐Excitations in Halide Perovskites: Where Do Simulations and Experiments Meet?",
+            "link": "https://doi.org/10.1002/lpor.202401020",
+            "published": "2026-02-06",
+            "author": "Muhammad Sufyan Ramzan, Antonietta De Sio, Alexander Steinhoff, Frank Jahnke, Christoph Lienau, Caterina Cocchi",
+            "summary": "ABSTRACT The development of experimental methods monitoring the generation of photo‐excitations and their dynamics on the natural temporal and spatial scales of the electrons has opened up fascinating perspectives to better understand fundamental processes driven by light–matter couplings and use them to design new functional materials. This horizon, however, is shadowed by challenges related to the interpretation and rationalization of the observables. Theory can help to overcome these issues only if the available approaches – both ab initio and based on model Hamiltonians – are complementary to experiments and not merely ancillary to them. In this perspective, we present state‐of‐the‐art experimental and theoretical methods to investigate photo‐excitations and their dynamics in complex materials, taking bulk CsPbBr 3 as a prototypical example. Experimentally, we show the ability of two‐dimensional electronic spectroscopy to shed light onto the electronic and vibronic excitation landscape of this system, in particular giving access to exciton–phonon coupling mechanisms. From the theory side, we discuss the advantages and drawbacks of first‐principles calculations and effective methods based on the semiconductor Bloch equations. By unveiling strengths and bottlenecks of the presented approaches, we suggest viable strategies to make simulations and experiments finally join hands.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "卤化物钙钛矿中的光激发：模拟和实验在哪里相遇？",
+            "abstract_cn": "摘要 监测光激发的产生及其在电子自然时空尺度上的动力学的实验方法的发展，为更好地理解光-物质耦合驱动的基本过程并利用它们来设计新的功能材料开辟了令人着迷的视角。然而，这一视野被与可观察到的解释和合理化相关的挑战所笼罩。只有当可用的方法（从头算起和基于模型哈密顿量）能够补充实验而不仅仅是辅助实验时，理论才能帮助克服这些问题。从这个角度来看，我们以块状 CsPbBr 3 作为典型例子，提出了最先进的实验和理论方法来研究复杂材料中的光激发及其动力学。通过实验，我们展示了二维电子光谱学能够揭示该系统的电子和电子振动激发景观，特别是提供激子-声子耦合机制。从理论角度，我们讨论了基于半导体布洛赫方程的第一性原理计算和有效方法的优缺点。通过揭示所提出方法的优点和瓶颈，我们提出了可行的策略，使模拟和实验最终携手并进。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502933",
+            "title": "Patterning of Photoresist‐Compatible Perovskite Quantum Dots for High‐Definition Displays",
+            "link": "https://doi.org/10.1002/lpor.202502933",
+            "published": "2026-02-06",
+            "author": "Haoyu Wang, Chengzhao Luo, Yanhui Ding, Zhenwei Ren, Chenyang Fan, Zixuan Chen, Xin Zhou, Zhiyong Zheng, Yu Chen",
+            "summary": "ABSTRACT The patterning of perovskite quantum dots (PQDs) represents a critical step toward high‐resolution displays. Although blending PQDs with photoresists enables lithographic integration, their intrinsic ionic character and poor stability lead to severe erosion and fluorescence quenching when exposed to polar components. To overcome these challenges, a stabilized PQD‐photoresist nanocomposite has been developed through multi‐step encapsulation. First, in situ growth of PQDs on amino silane‐functionalized silica nanoparticles suppresses aggregation. Potassium ions are then incorporated to passivate the surface defects. Finally, a fluorinated silane forms a protective barrier against polar species. The resulting nanocomposite achieves up to 96% photoluminescence quantum yield and exceptional thermal stability, maintaining 99% initial emission after 80 days at 85°C. It can be uniformly dispersed in negative‐tone photoresist and patterned via UV lithography, producing well‐defined microstructures with minimum linewidths of 1.5 µm (11200 pixels per inch, PPI). Dual‐color patterning with 15 µm linewidths for green and red PQDs achieves 560 PPI. A white‐light prototype integrating these color‐conversion layers with a blue Mini‐LED and liquid crystal panel demonstrates a color gamut covering 132% of the NTSC standard. This work provides a robust, scalable platform for integrating high‐performance PQDs into micro‐optoelectronics.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "用于高清显示器的光致抗蚀剂兼容钙钛矿量子点的图案化",
+            "abstract_cn": "摘要 钙钛矿量子点（PQD）的图案化代表了迈向高分辨率显示器的关键一步。尽管将 PQD 与光刻胶混合可以实现光刻集成，但其固有的离子特性和较差的稳定性会在暴露于极性成分时导致严重的侵蚀和荧光猝灭。为了克服这些挑战，通过多步封装开发了稳定的 PQD-光刻胶纳米复合材料。首先，PQD 在氨基硅烷官能化二氧化硅纳米粒子上的原位生长抑制了聚集。然后掺入钾离子以钝化表面缺陷。最后，氟化硅烷形成针对极性物质的保护屏障。由此产生的纳米复合材料实现了高达 96% 的光致发光量子产率和卓越的热稳定性，在 85°C 下 80 天后仍保持 99% 的初始发射。它可以均匀地分散在负性光刻胶中，并通过 UV 光刻进行图案化，产生最小线宽为 1.5 µm（每英寸 11200 像素，PPI）的清晰微结构。绿色和红色 PQD 线宽为 15 µm 的双色图案可实现 560 PPI。将这些颜色转换层与蓝色 Mini-LED 和液晶面板集成的白光原型展示了覆盖 NTSC 标准 132% 的色域。这项工作提供了一个强大的、可扩展的平台，用于将高性能 PQD 集成到微光电子学中。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502401",
+            "title": "Revealing the Dynamic Spectral‐Reshaping Effect Induced by the Nonlinear Polarization Evolution in Mode‐Locked Soliton Fiber Lasers",
+            "link": "https://doi.org/10.1002/lpor.202502401",
+            "published": "2026-02-06",
+            "author": "Qi Huang, Xintong Zhang, Yu Jiang, Benhai Wang, Wenbin He, Xiaocong Wang, Siqi Fan, Haochen Lin, Xiaogang Tang, Jiachen Wu, Jinxin Zhan, Zhiyuan Huang, Jiapeng Huang, Xin Jiang, Long Zhang, Meng Pang",
+            "summary": "ABSTRACT Passive mode‐locking based on nonlinear polarization evolution (NPE) is among the most widely adopted technique in ultrafast fiber lasers due to the intrinsic fast response, broadband operation and adjustment flexibility, enabling simple implementations in all‐fiber laser cavities. While the NPE‐induced self‐amplitude modulation (SAM) effect is generally regarded as the key mechanism of artificial saturable absorption for initiating passive mode‐locking, the concomitant spectral reshaping, resulted from the NPE effect, has remained elusive, inhibiting in‐depth understanding and precise control of laser dynamics. Here, we report, for the first time to our knowledge, experimental studies on the dynamic spectral reshaping induced by NPE in a soliton fiber laser, which manifests as a time‐delay central‐wavelength shift of pulse spectrum. Such a dynamic spectral reshaping effect has been observed during the build‐up process of soliton mode‐locking as well as in steady states with pump modulations, both featuring intensity‐dependent dynamics of the pulse central wavelength. Moreover, a theoretical model is established to interpret this effect through NPE‐based intensity‐dependent filtering, which exhibits good agreement with experimental observations. Our findings have revealed the critical role of the NPE effect in the determination of the mode‐locked pulse spectrum and may shed new light on stability improvement and precise control of mode‐locked lasers.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "揭示锁模孤子光纤激光器中非线性偏振演化引起的动态光谱整形效应",
+            "abstract_cn": "摘要 基于非线性偏振演化（NPE）的被动锁模由于其固有的快速响应、宽带操作和调节灵活性，是超快光纤激光器中最广泛采用的技术之一，可以在全光纤激光腔中简单实现。虽然NPE引起的自振幅调制（SAM）效应通常被认为是启动被动锁模的人工可饱和吸收的关键机制，但由NPE效应引起的伴随光谱重塑仍然难以捉摸，阻碍了对激光动力学的深入理解和精确控制。在这里，据我们所知，我们首次报告了孤子光纤激光器中由 NPE 引起的动态光谱整形的实验研究，这表现为脉冲光谱的时滞中心波长偏移。在孤子锁模的建立过程以及泵浦调制的稳态过程中观察到了这种动态光谱整形效应，两者都具有脉冲中心波长的强度依赖动态。此外，还建立了一个理论模型来通过基于 NPE 的强度相关滤波来解释这种效应，该模型与实验观察结果表现出良好的一致性。我们的研究结果揭示了 NPE 效应在锁模脉冲光谱测定中的关键作用，并可能为锁模激光器的稳定性提高和精确控制提供新的思路。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202503189",
+            "title": "Ultralow‐Backscattering Induced Mode Splitting in Chipscale Valley Photonic Topological Cavities",
+            "link": "https://doi.org/10.1002/lpor.202503189",
+            "published": "2026-02-06",
+            "author": "Kaiji Chen, Wenhao Wang, Yi Ji Tan, Zhonglei Shen, Ridong Jia, Ranjan Singh",
+            "summary": "ABSTRACT Topological valley photonic crystals hold substantial potential for on‐chip integration owing to their backscattering protection against sharp corners and fabrication imperfections. Topological interfaces enable compact and flexible photonic routing critical for the miniaturization, scalability and energy efficiency of photonic chips. However, such reciprocal topological photonic devices inevitably experience backscattering loss, and effective in‐situ methods for quantifying the robustness remain unavailable. Here, we report that ultralow backscattering at sharp corners induces mode splitting in a topological cavity, serving as a self‐detection methodology for its quantitative evaluation. The overall backscattering loss at the level of 0.10 dB/bend over a broad topological bandgap of 37 GHz, with a minimum of 0.047 dB/bend near the K valley, demonstrates the near‐perfect photon transport of valley edge state through sharp corners. The high‐resolution terahertz spectral measurements in cavity‐waveguide coupled silicon chips confirm an extremely low loss of 0.09 dB/bend. Our work uncovers the universal mechanism of mode splitting and introduces a quantitative framework to measure the backscatteringloss dispersion in topological valley photonics. Mode splitting emerges as a new degree of freedom for spectral engineering in integrated topological devices, paving new ways toward multi‐channel communications, high‐sensitivity photonic sensing, and quantum information processing.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "芯片级谷光子拓扑腔中的超低反向散射诱导模式分裂",
+            "abstract_cn": "摘要 拓扑谷光子晶体由于具有针对尖角和制造缺陷的反向散射保护，因此在片上集成方面具有巨大的潜力。拓扑接口可实现紧凑且灵活的光子路由，这对于光子芯片的小型化、可扩展性和能源效率至关重要。然而，这种互易拓扑光子器件不可避免地会经历反向散射损耗，并且仍然无法使用有效的原位方法来量化鲁棒性。在这里，我们报告了尖角处的超低后向散射会引起拓扑空腔中的模式分裂，作为其定量评估的自检测方法。在 37 GHz 的宽拓扑带隙上，整体反向散射损耗为 0.10 dB/弯，在 K 谷附近最小为 0.047 dB/弯，证明了谷边缘态通过尖角的近乎完美的光子传输。腔波导耦合硅芯片的高分辨率太赫兹光谱测量证实了 0.09 dB/弯曲的极低损耗。我们的工作揭示了模式分裂的普遍机制，并引入了一个定量框架来测量拓扑谷光子学中的反向散射损耗色散。模式分裂成为集成拓扑器件中光谱工程的新自由度，为多通道通信、高灵敏度光子传感和量子信息处理铺平了新途径。"
         }
     ]
 }

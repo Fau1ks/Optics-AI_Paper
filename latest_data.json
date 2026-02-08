@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-08 06:27:57",
+    "update_time": "2026-02-08 08:27:47",
     "word_filename": "Optical_Papers_260208.docx",
-    "total_count": 41,
+    "total_count": 45,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69034-7",
@@ -453,6 +453,50 @@
             "journal": "IEEE Trans. Vis. Comput. Graph",
             "title_cn": "从草图到现实：使用最少的数据从手绘草图生成高质量、跨类别的 3D 模型",
             "abstract_cn": "本文提出了一种利用有限训练数据从手绘草图生成高质量、跨类别 3D 模型的新颖方法。据我们所知，我们提出了第一个用于草图到 3D 模型转换的半监督学习方法。创新地，我们设计了一个从粗到细的流程，在粗略阶段执行半监督学习，并训练基于扩散的细化器以获得高分辨率的 3D 模型。我们设计了一种用于半监督学习的草图增强方法和集成先验（例如 CLIP 损失、形状原型和对抗性损失），以帮助生成高质量的结果，即使是抽象和不精确的草图。我们还引入了一种基于 CAD 代码的创新程序 3D 生成方法，该方法有助于在使用有限的真实数据进行微调之前预训练部分网络。我们的方法加上专门设计的课程学习，使我们能够使用少至 300 个草图-3D 模型对生成跨多个类别的高质量 3D 模型，这标志着比以前的单类别方法的显着进步。此外，我们还引入了 KO2D 数据集，这是最大的手绘草图 3D 对集合，以支持该领域的进一步研究。由于草图是用户表达其独特想法的一种更加直观和详细的方式，我们相信本文可以让我们更接近 3D 内容创建的民主化，使任何人都可以轻松地将他们的想法转化为 3D 模型。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38027-3",
+            "title": "Subjective mental fatigue mediates the relationship between information processing speed and verbal memory deficits in multiple sclerosis",
+            "link": "https://doi.org/10.1038/s41598-026-38027-3",
+            "published": "2026-02-06",
+            "author": "Nefeli Tsoukaki, Alexandra Anagnostopoulou, Panagiotis E. Kartsidis, Maria Karagianni, Athanasia Liozidou, Ioannis Nikolaidis, Nikolaos Grigoriadis, Panagiotis D. Bamidis, Charis Styliadis",
+            "summary": "Subjective mental fatigue (MF) and cognitive dysfunction significantly impair the quality of life in people with multiple sclerosis (PwMS), particularly impacting information processing speed (IPS) and verbal learning-memory (VL/M). We assessed 66 PwMS and 38 healthy controls (HC) via the oral form of the symbol digit modalities test (SDMT-Of) for IPS, the Greek verbal learning test (GVLT) for VL/M, and the cognitive subscale of the modified fatigue impact scale (MFIS-c) for MF. This aimed at investigating the mediating role of MF in the relationship between IPS and VL/M in PwMS. PwMS performed significantly worse than HC across all domains. Mediation analysis, controlling for age, sex, education, disease duration, and MS-type, revealed a significant effect of IPS on VL/M in PwMS. This effect became non-significant once MF was introduced, whereas the indirect effect of IPS on VL/M through MF remained significant. No significant mediation effects were observed in HC, even after controlling for age, sex, and education, underscoring the unique impact of MF on MS. This study highlights the mediating role of subjective MF in cognitive deficits among PwMS, suggesting that interventions targeting MF could enhance cognitive performance.Trial registration: The study is registered with ClinicalTrials.gov Identifier NCT04806568 (https://www.clinicaltrials.gov/study/NCT04806568).",
+            "journal": "Scientific Reports",
+            "title_cn": "主观精神疲劳介导多发性硬化症信息处理速度与言语记忆缺陷之间的关系",
+            "abstract_cn": "主观精神疲劳（MF）和认知功能障碍显着损害多发性硬化症（PwMS）患者的生活质量，特别是影响信息处理速度（IPS）和言语学习记忆（VL/M）。我们通过针对 IPS 的口语形式符号数字模态测试 (SDMT-Of)、针对 VL/M 的希腊语语言学习测试 (GVLT) 以及针对 MF 的改良疲劳影响量表 (MFIS-c) 的认知分量表，评估了 66 名 PwMS 和 38 名健康对照 (HC)。目的是研究 MF 在 PwMS 中 IPS 和 VL/M 关系中的中介作用。 PwMS 在所有领域的表现都明显比 HC 差。控制年龄、性别、教育程度、病程和 MS 类型的中介分析揭示了 IPS 对 PwMS 中 VL/M 的显着影响。一旦引入 MF，这种影响就变得不显着，而 IPS 通过 MF 对 VL/M 的间接影响仍然显着。即使在控制了年龄、性别和教育程度之后，在 HC 中也没有观察到显着的中介效应，这强调了 MF 对 MS 的独特影响。这项研究强调了主观 MF 在 PwMS 认知缺陷中的中介作用，表明针对 MF 的干预措施可以增强认知表现。 试验注册：该研究已在 ClinicalTrials.gov 标识符 NCT04806568 上注册 (https://www.clinicaltrials.gov/study/NCT04806568)。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-32783-4",
+            "title": "Smart IoT thermal imaging approach for early identification of Red Palm Weevil (RPW) infestation on palms",
+            "link": "https://doi.org/10.1038/s41598-025-32783-4",
+            "published": "2026-02-06",
+            "author": "Betty Martin, S. Saranya, Pakalapati Jathin Chowdary",
+            "summary": "The Red Palm Weevil (RPW) is one of the most destructive pests affecting palm trees worldwide, leading to severe agricultural and economic losses. Early detection was essential for effective intervention; however, conventional methods such as pheromone traps and manual inspections frequently failed to identify early stage infestations.To address this challenge, this study developed an automated RPW detection framework using thermal image processing and deep learning.A Convolutional Neural Network(CNN) model was trained to analyze thermal images and detect early signs of infestation.The proposed model achieved a detection accuracy of 98.5%,outperforming traditional machine learning techniques in both precision and response speed. For real-time deployment, the trained CNN was integrated into a Raspberry Pi 4B, enabling a low cost, scalable, and non-invasive monitoring solution suitable for field applications.While the system demonstrated strong performance under controlled conditions, the work also identified key limitations, including the limited penetration depth of thermal imaging and the need for large-scale field validation to ensure robustness under diverse real-world environments.",
+            "journal": "Scientific Reports",
+            "title_cn": "智能物联网热成像方法用于早期识别手掌上的红棕象甲 (RPW) 侵染",
+            "abstract_cn": "红棕榈象甲虫 (RPW) 是影响全世界棕榈树的最具破坏性的害虫之一，导致严重的农业和经济损失。早期发现对于有效干预至关重要；然而，信息素陷阱和手动检查等传统方法常常无法识别早期感染。为了解决这一挑战，本研究开发了一种利用热图像处理和深度学习的自动 RPW 检测框架。训练卷积神经网络（CNN）模型来分析热图像并检测感染的早期迹象。该模型的检测准确率达到 98.5%，在精度和响应速度上都优于传统的机器学习技术。为了实时部署，经过训练的 CNN 被集成到 Raspberry Pi 4B 中，从而实现了适合现场应用的低成本、可扩展和非侵入式监控解决方案。虽然该系统在受控条件下表现出强大的性能，但该工作也发现了关键限制，包括热成像的有限穿透深度以及需要大规模现场验证以确保在不同的现实环境下的鲁棒性。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37128-3",
+            "title": "Bilobalide attenuates steroid-induced osteonecrosis of the femoral head by upregulating the ERK/HIF-1α signaling pathway and promoting angiogenesis-osteogenesis coupling",
+            "link": "https://doi.org/10.1038/s41598-026-37128-3",
+            "published": "2026-02-07",
+            "author": "Qi Chen, Bo Wang, Hu Liang, Hanbo Xu, Kun Zhang, Yangquan Hao",
+            "summary": "Steroid-induced osteonecrosis of the femoral head (SONFH) is a severe bone disease associated with long-term glucocorticoid use, characterized by impaired bone metabolism and vascular insufficiency. Bilobalide (BB), a natural sesquiterpene from Ginkgo biloba, exhibits anti-apoptotic, antioxidant, and pro-angiogenic properties, yet its role in SONFH remains unclear. We integrated network pharmacology and molecular docking to predict the targets and pathways of BB in SONFH. Key targets were validated using molecular docking software. For in vivo experiments, a rat SONFH model was established using methylprednisolone (MPS), and BB was administered orally. Micro-CT, H&E staining, TUNEL assay, and immunohistochemistry were employed to evaluate bone microstructure, apoptosis, and the expression of osteogenic and angiogenic markers. Immunofluorescence was used to assess HIF-1α expression in rat femoral head tissues. For in vitro experiments, MC3T3-E1 osteoblasts were treated with dexamethasone(DEX) and BB. Cell viability was detected using the CCK-8 assay, and the protein levels of the HIF-1α and ERK pathways were examined by Western blot. Network pharmacology identified 94 common targets between BB and SONFH, with enrichment in HIF-1 and ERK signaling pathways. Molecular docking confirmed strong binding affinities between BB and core targets. In MPS-induced rats, BB treatment significantly improved bone mineral density, trabecular microstructure, and reduced osteocyte apoptosis. BB also upregulated HIF-1α, Runx2, OCN, CD31, and VEGF expression, indicating enhanced osteogenesis and angiogenesis. In vitro, BB rescued dexamethasone-induced suppression of osteoblast viability and upregulated the ERK/HIF-1α pathway. Bilobalide attenuates SONFH progression by activating the ERK/HIF-1α signaling pathway, promoting osteogenesis and angiogenesis, and reducing osteocyte apoptosis. These findings highlight BB as a promising candidate for SONFH prevention and support the utility of network pharmacology in mechanistic natural product research.",
+            "journal": "Scientific Reports",
+            "title_cn": "Bilobalide 通过上调 ERK/HIF-1α 信号通路并促进血管生成-成骨耦合来减轻类固醇诱导的股骨头坏死",
+            "abstract_cn": "类固醇引起的股骨头坏死（SONFH）是一种与长期使用糖皮质激素相关的严重骨病，其特征是骨代谢受损和血管供血不足。 Bilobalide (BB) 是一种来自银杏叶的天然倍半萜，具有抗细胞凋亡、抗氧化和促血管生成的特性，但其在 SONFH 中的作用仍不清楚。我们综合网络药理学和分子对接来预测 SONFH 中 BB 的靶点和通路。使用分子对接软件验证了关键目标。体内实验采用甲泼尼龙（MPS）建立大鼠SONFH模型，并口服BB。采用Micro-CT、H&E染色、TUNEL测定和免疫组织化学来评估骨微结构、细胞凋亡以及成骨和血管生成标志物的表达。采用免疫荧光法评估大鼠股骨头组织中 HIF-1α 的表达。对于体外实验，MC3T3-E1 成骨细胞用地塞米松 (DEX) 和 BB 处理。使用CCK-8法检测细胞活力，并通过Western blot检测HIF-1α和ERK通路的蛋白水平。网络药理学确定了 BB 和 SONFH 之间的 94 个共同靶点，其中 HIF-1 和 ERK 信号通路丰富。分子对接证实了 BB 与核心靶点之间的强结合亲和力。在 MPS 诱导的大鼠中，BB 治疗显着改善了骨矿物质密度、小梁微观结构，并减少了骨细胞凋亡。 BB 还上调 HIF-1α、Runx2、OCN、CD31 和 VEGF 表达，表明骨生成和血管生成增强。在体外，BB 挽救了地塞米松诱导的成骨细胞活力抑制并上调 ERK/HIF-1α 通路。 Bilobalide 通过激活 ERK/HIF-1α 信号通路、促进成骨和血管生成以及减少骨细胞凋亡来减轻 SONFH 进展。这些发现凸显了 BB 作为 SONFH 预防的有前途的候选者，并支持网络药理学在机械天然产物研究中的实用性。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103382",
+            "title": "Investigating a geometrical solution to the vergence-accommodation conflict for targeted movements in virtual reality",
+            "link": "https://doi.org/10.1016/j.displa.2026.103382",
+            "published": "2026-02-01",
+            "author": "Xiaoye Michael Wang, Matthew Prenevost, Aneesh Tarun, Ian Robinson, Michael Nitsche, Gabby Resch, Ali Mazalek, Timothy N. Welsh",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "研究虚拟现实中目标运动的聚散调节冲突的几何解决方案",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

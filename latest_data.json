@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-08 15:27:45",
+    "update_time": "2026-02-08 17:27:47",
     "word_filename": "Optical_Papers_260208.docx",
-    "total_count": 69,
+    "total_count": 72,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69034-7",
@@ -761,6 +761,39 @@
             "journal": "Scientific Reports",
             "title_cn": "丹佛盆地与石油和天然气开发相关的水域中的全氟烷基和多氟烷基物质",
             "abstract_cn": "摘要 由于石油和天然气开采过程中产生大量采出水 (PW)、这些废物在缺水地区的再利用以及与 PFAS 暴露相关的不良健康后果，石油工业中全氟烷基物质和多氟烷基物质 (PFAS) 的使用可能会引起人们的关注。然而，文献中几乎没有 PW PFAS 的表征，而且水力压裂 (HF) 化学物质的披露通常会忽略专有添加剂的特性。在这里，我们评估了丹佛盆地三口油井生产第一年的纯化水样品中的 PFAS 含量。 PW 样品中目标 PFAS (Σ 40 PFAS) 的总浓度 < 35 ng/L，全氟丁酸等短链 PFAS 在整个采样期间持续存在。对水力压裂淡水输入 (Σ 40 PFAS ~ 113 ng/L) 和混合压裂液 (Σ 40 PFAS ~ 69 ng/L) 的分析表明，大部分目标 PFAS 含量来自输入水，而不是来自 HF 添加剂，但经过氧化的样品表明存在目标分析无法检测到的 PFAS 前体。这项研究强调，虽然所研究的纯水中 PFAS 含量较低，但 PFAS 在环境中重新分布的潜力可能是再利用应用的一个考虑因素。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38436-4",
+            "title": "Particulate matter (PM2.5 and PM10) prediction using fourier series decomposition in combination with LSTM and SVM",
+            "link": "https://doi.org/10.1038/s41598-026-38436-4",
+            "published": "2026-02-07",
+            "author": "Mohamed Bennis, Mohamed Youssfi, Rachida El Morabet, Majed Alsubih, Roohul Abad Khan",
+            "summary": "Sustainable development globally is highly impacted by increased air pollution which is attributed to increasing population, commercial and industrial activities. Combustion gas emissions attributed to transportation, social and other activities are a major cause of air pollution. To mitigate adverse impact of air pollution on human health, forecasting PM10 and PM2.5 is a necessity. This study employs Fourier series decomposition approach in combination with support vector machine and long short-term memory machine learning algorithms to predict PM10 and PM2.5. Hourly data was obtained from December 2020 to November 2021 for Mohammedia city in Morocco. The model’s performance was evaluated using RMSE, MAE and R2. LSTMF and SVMF models in combination with Fourier series decomposition performed better than the SMV and LSTM standalone models. Hourly prediction of PM10, LSTMF model performed better than other models during Autumn season with closely followed by the model in winter seasons. For PM2.5 prediction the model during autumn season was observed to be outperforming other models in all other seasons. These results were based on hourly prediction based on season. Then this study also, forecasted seven ahead for PM10 and PM2.5. LSTMF model performed best with R2 value of 0.95 (winter), 0.93 (spring), 0.85 (summer) and 0.96 (autumn) for PM2.5. For PM10 the LSTMF performance was also good with R2 value of 0.84 (winter), 0.92 (spring), 0.84 (summer), and 0.92 (autumn). This study highlights how hourly prediction can be achieved to identify in advance the patterns and trends for particulate matter concentration. This will aid the decision and policy makers to adopt mitigation measures and policy in advance to address air pollution issues during peak hours.",
+            "journal": "Scientific Reports",
+            "title_cn": "使用傅立叶级数分解结合 LSTM 和 SVM 进行颗粒物（PM2.5 和 PM10）预测",
+            "abstract_cn": "全球可持续发展受到人口、商业和工业活动增加造成的空气污染加剧的严重影响。交通、社会和其他活动产生的燃烧气体排放是空气污染的主要原因。为了减轻空气污染对人类健康的不利影响，预测PM10和PM2.5是必要的。本研究采用傅里叶级数分解方法结合支持向量机和长短期记忆机器学习算法来预测 PM10 和 PM2.5。每小时数据获取自 2020 年 12 月至 2021 年 11 月摩洛哥穆罕默迪耶市。使用 RMSE、MAE 和 R2 评估模型的性能。与傅立叶级数分解相结合的 LSTMF 和 SVMF 模型比 SMV 和 LSTM 独立模型表现更好。每小时PM10预测，LSTMF模型在秋季表现优于其他模型，冬季模型紧随其后。对于 PM2.5 预测，秋季模型的表现优于所有其他季节的其他模型。这些结果基于基于季节的每小时预测。然后这项研究还预测了 PM10 和 PM2.5 的提前 7 个。 LSTMF 模型对于 PM2.5 的表现最佳，R2 值为 0.95（冬季）、0.93（春季）、0.85（夏季）和 0.96（秋季）。对于 PM10，LSTMF 性能也很好，R2 值为 0.84（冬季）、0.92（春季）、0.84（夏季）和 0.92（秋季）。这项研究强调了如何实现每小时预测，以提前确定颗粒物浓度的模式和趋势。这将有助于决策者和决策者提前采取缓解措施和政策，解决高峰时段的空气污染问题。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36254-2",
+            "title": "First record of Penicilliopsis clavariiformis Solms. on seeds of Diospyros ferrea (Willd.) Bakh. from the Northern Western Ghats, India",
+            "link": "https://doi.org/10.1038/s41598-026-36254-2",
+            "published": "2026-02-07",
+            "author": "Pandurang H. Bagam, Aditya B. Magdum, Kapil V. Shinde, Shweta S. Kumavat, Mahesh Y. Borde, Sanjay K. Singh, Shivaji S. Kamble, Mansingraj S. Nimbalkar",
+            "summary": "Penicilliopsis clavariiformis Solms. is a rare filamentous fungus previously reported from various woody substrates and decaying plant matter. In this study, we report the first time host association of P. clavariiformis on seeds of Diospyros ferrea (Willd.) Bakh., collected from the Manoli Reserve Forest in the Northern Western Ghats, India. The fungus was isolated using standard seed mycobiota screening methods and identified based on both morphological features such as distinctive clavarioid ascomata, septate conidiophores, and cyanophilic conidia and molecular characterization of the internal transcribed spacer (ITS) rDNA region. The ITS sequence showed > 99% similarity with authenticated P. clavariiformis sequences in GenBank. This is the first confirmed report of P. clavariiformis from seeds of Diospyros ferrea, expanding its known ecological and substrate range. The finding highlights the underexplored fungal diversity associated with forest seeds and emphasizes the need for targeted mycological surveys in biodiversity hotspots like the Western Ghats. Our results contribute to the growing knowledge of seed-associated fungi and provide a baseline for future ecological and pathological investigations involving this species.",
+            "journal": "Scientific Reports",
+            "title_cn": "棒形青霉 Solms 的首次记录。位于 Diospyros ferrea (Wild.) Bakh 的种子上。来自印度西高止山脉北部",
+            "abstract_cn": "棒形青霉 Solms。是一种罕见的丝状真菌，之前报道过来自各种木质基质和腐烂的植物物质。在这项研究中，我们首次报告了 P. clavariiformis 与 Diospyros ferrea (Willd.) Bakh. 种子的寄主关联，这些种子采自印度西高止山脉北部的马诺利保护区森林。使用标准种子菌群筛选方法分离真菌，并根据形态特征（例如独特的棒状子囊、隔膜分生孢子梗和嗜蓝分生孢子）以及内部转录间隔区（ITS）rDNA 区域的分子特征进行鉴定。 ITS 序列与 GenBank 中已验证的 P. clavariiformis 序列相似性 > 99%。这是首次证实来自黑柿种子的 P. clavariiformis 的报道，扩大了其已知的生态和底物范围。这一发现强调了与森林种子相关的真菌多样性尚未得到充分探索，并强调需要在西高止山脉等生物多样性热点地区进行有针对性的真菌学调查。我们的结果有助于增加对种子相关真菌的了解，并为未来涉及该物种的生态和病理学研究提供基线。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38257-5",
+            "title": "Single-station analysis of Campi Flegrei (Italy) seismic signals using multiscale entropy and unsupervised learning",
+            "link": "https://doi.org/10.1038/s41598-026-38257-5",
+            "published": "2026-02-07",
+            "author": "Alberico Grimaldi, Ortensia Amoroso, Silvia Scarpetta, Vincenzo Convertito, Ferdinando Napolitano, Giovanni Messuti, Paolo Capuano, Lucia Nardone, Guido Gaudiosi, Danilo Galluzzo",
+            "summary": "Seismic activity in volcanic regions such as Campi Flegrei (Italy) provides essential insights into subsurface dynamics and potential hazards. However, high background noise and continuous data volume challenge event detection and classification. Here, we apply a Self-Organizing Map (SOM) approach, combined with Linear Predictive Coding (LPC), STA/LTA ratios, and Multiscale Entropy (MSE), to analyze single-station seismic data. The method successfully identifies uncatalogued events and anomalies associated with fumarolic tremor, and reveals temporal relationships between clustering variation, $${\\rm CO}_2$$ emissions, and rainfall, suggesting environmental modulation. To assess the real-time applicability, the trained SOM was used on independent data from early 2025, confirming its ability to detect tremor intensification and anticipate a major local earthquake (Md 4.4). These results highlight the potential of entropy-based unsupervised learning for rapid seismic characterization and continuous volcano monitoring.",
+            "journal": "Scientific Reports",
+            "title_cn": "使用多尺度熵和无监督学习对 Campi Flegrei（意大利）地震信号进行单站分析",
+            "abstract_cn": "Campi Flegrei（意大利）等火山地区的地震活动为了解地下动态和潜在危险提供了重要的见解。然而，高背景噪声和连续数据量挑战事件检测和分类。在这里，我们应用自组织图 (SOM) 方法，结合线性预测编码 (LPC)、STA/LTA ​​比率和多尺度熵 (MSE) 来分析单站地震数据。该方法成功识别了与喷气震颤相关的未编目事件和异常，并揭示了聚类变化、$${\\rm CO}_2$$ 排放和降雨之间的时间关系，表明环境调节。为了评估实时适用性，将经过训练的 SOM 用于 2025 年初的独立数据，确认其检测震颤强度和预测当地大地震 (Md 4.4) 的能力。这些结果凸显了基于熵的无监督学习在快速地震表征和连续火山监测方面的潜力。"
         }
     ]
 }

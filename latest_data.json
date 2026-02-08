@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-08 08:27:47",
+    "update_time": "2026-02-08 11:28:05",
     "word_filename": "Optical_Papers_260208.docx",
-    "total_count": 45,
+    "total_count": 58,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69034-7",
@@ -496,6 +496,149 @@
             "summary": "Abstract not available.",
             "journal": "Displays",
             "title_cn": "研究虚拟现实中目标运动的聚散调节冲突的几何解决方案",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69347-7",
+            "title": "Analysis of the transcriptomic and metabolomic landscape of prostate cancer with different anatomical origins using snFLARE-seq and mxFRIZNGRND",
+            "link": "https://doi.org/10.1038/s41467-026-69347-7",
+            "published": "2026-02-07",
+            "author": "Dongyin He, Haoran Hu, Kai Xiao, Yuhang Zhang, Yongbing Cheng, Shaozhuo Jiao, Yimei Hao, Yuanyuan Cai, Ziqun Liu, Xinran Yan, Qinsheng Chen, Xiyan Mu, Qi Wang, Shan Peng, Guoqin Sang, Xiaoling Zhi, Yanxia Chang, Qing Ye, Yuyao Yang, Meixia Che, Shengsong Huang, Hongqian Guo, Luonan Chen, Huiru Tang, Xuefeng Qiu, Zhenfei Li",
+            "summary": "Abstract Prostate cancer cells of different anatomical locations display remarkable heterogeneity. This poses a challenge to the clinical relevance of pre-clinical models and the efficacy of contemporary therapeutic approaches. Here we develop the snFLARE-seq and mxFRIZNGRND methodologies to directly investigate the transcriptomic and metabolomic landscape of prostate cancer patients utilizing formalin-fixed paraffin-embedded (FFPE) specimens. A retrospective analysis reveals the clinical disparities of prostate cancer from peripheral zone (PZ), transition zone (TZ), and across PZ and TZ. The snFLARE-seq, refined for enhanced single-nucleus sequencing, unveils distinct cell type distributions and signaling pathways between PZ and TZ samples. Hormone therapy substantially affects cancer cells and microenvironment, leading to a polarized feature of epithelial cells and a subverted immune microenvironment. With improvements in metabolite extraction, mxFRIZNGRND reveals unique metabolic features of prostate cancer from different origins. The metabolomic results indicate that PZ cancer cells are in a metabolic-dormant status, which are probably awaken by hormone therapy. Integrative analysis of results from snFLARE-seq, mxFRIZNGRND, and TCGA database uncovers four metabolic pathways and related genes associated with disease aggressiveness. Our work could accelerate investigations on disease heterogeneity and evolution in real-world clinical settings, stimulating patient-specific precision healthcare solutions.",
+            "journal": "Nature Communications",
+            "title_cn": "使用 snFLARE-seq 和 mxFRIZNGRND 分析不同解剖起源的前列腺癌的转录组学和代谢组学景观",
+            "abstract_cn": "摘要 不同解剖位置的前列腺癌细胞表现出显着的异质性。这对临床前模型的临床相关性和当代治疗方法的功效提出了挑战。在这里，我们开发了 snFLARE-seq 和 mxFRIZNGRND 方法，利用福尔马林固定石蜡包埋 (FFPE) 标本直接研究前列腺癌患者的转录组学和代谢组学情况。一项回顾性分析揭示了前列腺癌在外周区 (PZ)、移行区 (TZ) 以及 PZ 和 TZ 之间的临床差异。 snFLARE-seq 经过改进，可增强单核测序，揭示了 PZ 和 TZ 样本之间不同的细胞类型分布和信号通路。激素治疗极大地影响癌细胞和微环境，导致上皮细胞的极化特征和免疫微环境被破坏。随着代谢物提取的改进，mxFRIZNGRND 揭示了不同来源的前列腺癌的独特代谢特征。代谢组学结果表明，PZ 癌细胞处于代谢休眠状态，可能会被激素治疗唤醒。对 snFLARE-seq、mxFRIZNGRND 和 TCGA 数据库结果的综合分析揭示了与疾病侵袭性相关的四种代谢途径和相关基因。我们的工作可以加速对现实临床环境中疾病异质性和进化的研究，激发针对患者的精准医疗解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38948-z",
+            "title": "Integrin αv contributes to the regulation of vascular smooth muscle cell stiffness",
+            "link": "https://doi.org/10.1038/s41598-026-38948-z",
+            "published": "2026-02-07",
+            "author": "Rümeyza Bascetin, Ekaterina Belozertseva, Véronique Regnault, Alexandre Raoul, Xiao Liu, Caterina Maria Tone, Ali-Akbar Karkhaneh-Yousefi, Huguette Louis, Zhor Ramdane-Cherif, Cindy Lerognon, Stéphane Avril, Adam Lacy-Hulbert, Daniel Henrion, Emmanuelle Lacaze, Pascal Challande, Zhenlin Li, Patrick Lacolley",
+            "summary": "Abstract Arterial stiffening is influenced by the organization of focal adhesions in vascular smooth muscle cells (VSMCs). We investigated the contribution of α v integrins to both arterial wall stiffness (Young’s modulus measured by echography) and VSMC stiffness (assessed by atomic force microscopy). Mice with VSMC-specific deletion of α v integrins (α v SMKO ) were compared with controls at baseline and following angiotensin II infusion. Unstimulated cultured α v -deficient (α v -KD) VSMCs exhibited higher stiffness than controls, with a further increase after angiotensin II. To interpret AFM measurements performed at shallow indentation depths, we developed a computational model of VSMC nanoindentation. Simulations showed that higher apparent Young’s moduli at shallow indentation fall within the experimental range of α v -KD cells. These cells also displayed enhanced actin polymerization, further amplified by angiotensin II through the formation of cortical F-actin. In vivo, arterial pressure and wall elastic modulus were similar between α v SMKO and control mice at baseline and after angiotensin II, despite α v SMKO mice exhibiting lower elastin and higher collagen content under angiotensin II. Together, these findings indicate that the comparable increase in arterial stiffness observed in α v SMKO mice under angiotensin II is driven primarily by elevated VSMC stiffness resulting from cortical actin redistribution, which outweighs extracellular matrix changes.",
+            "journal": "Scientific Reports",
+            "title_cn": "整合素αv有助于调节血管平滑肌细胞硬度",
+            "abstract_cn": "摘要 动脉硬化受血管平滑肌细胞 (VSMC) 粘着斑组织的影响。我们研究了 α v 整合素对动脉壁硬度（通过回声描记术测量的杨氏模量）和 VSMC 硬度（通过原子力显微镜评估）的贡献。将 VSMC 特异性删除 α v 整合素 (α v SMKO ) 的小鼠在基线和血管紧张素 II 输注后与对照组进行比较。未刺激培养的α v 缺陷（α v -KD）VSMC 表现出比对照组更高的硬度，在血管紧张素 II 后进一步增加。为了解释在浅压痕深度进行的 AFM 测量，我们开发了 VSMC 纳米压痕的计算模型。模拟表明，浅压痕处较高的表观杨氏模量落在 α v -KD 细胞的实验范围内。这些细胞还表现出肌动蛋白聚合增强，并通过形成皮质 F-肌动蛋白而被血管紧张素 II 进一步放大。在体内，尽管 α v SMKO 小鼠在血管紧张素 II 治疗下表现出较低的弹性蛋白和较高的胶原蛋白含量，但在基线和血管紧张素 II 治疗后，α v SMKO 小鼠和对照小鼠的动脉压和壁弹性模量相似。总之，这些发现表明，在血管紧张素 II 治疗下的 α v SMKO 小鼠中观察到的动脉僵硬度的相当增加主要是由皮质肌动蛋白重新分布导致的 VSMC 硬度升高驱动的，这超过了细胞外基质的变化。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36602-2",
+            "title": "Microwave reflection and transmission measurements for evaluating water reaction within geopolymers with different precursors",
+            "link": "https://doi.org/10.1038/s41598-026-36602-2",
+            "published": "2026-02-07",
+            "author": "Ugur C. Hasar, Huseyin Korkmaz",
+            "summary": "In addition to their mechanical properties, geopolymer structures are considered to be environmentally and economically friendly structures due to the non-requirement of calcination in their binding process, as compared with ordinary Portland cement structures. To take advantage of these properties, the water reaction occurring inside the precursors, which are used to supplement sufficient alkali activation during the binding process (geopolimerization), needs to be analyzed. In this study, microwave reflection and transmission measurements are applied as a non-destructive tool in the detection of water reaction with geopolymer paste samples with fly ash (FA), ground granulated blast furnace slag (GGBFS), and calcinated clay or metakaolin (MK) precursors having different sodium silicate/sodium hydroxide ratios. Our measurements indicate the following results. First, microwave transmission properties are more useful than and preferable to microwave reflection properties for the analysis of water reaction within all test geopolymer paste samples (FA, GGBFS, and MK). Second, reflection measurements ($$|S_{11}|$$) exhibited minimal sensitivity to specimen length, with differences below 0.45 dB for thicknesses between 10 and 20 mm. Third, conversely, transmission responses ($$|S_{21}|$$) showed pronounced variations of up to 35 dB, underscoring their enhanced sensitivity to internal water reaction mechanisms. Fourth, dielectric characterization indicated that FA powder possessed substantially higher dielectric loss ($$\\epsilon _{r}^{\\prime \\prime } \\approx 0.50$$) relative to GGBFS ($$\\approx 0.08$$) and MK ($$\\approx 0.03$$), which directly governed the magnitude of signal attenuation. Finally, the negligible mass loss observed across all prepared samples (<2.5%) confirms that the evolution of $$|S_{21}|$$ was dominated by the transformation of free water into bound water within the matrix rather than by evaporative losses. Scanning electron microscope micrographs and energy dispersive spectroscopy tests were also performed to examine the effect of water reaction within the prepared samples.",
+            "journal": "Scientific Reports",
+            "title_cn": "微波反射和透射测量用于评估具有不同前体的地质聚合物内的水反应",
+            "abstract_cn": "除了机械性能之外，与普通波特兰水泥结构相比，地质聚合物结构由于在其粘合过程中不需要煅烧，因此被认为是环境和经济友好的结构。为了利用这些特性，需要分析前体内部发生的水反应，该反应用于在结合过程（地理聚合）过程中补充足够的碱活化。在本研究中，微波反射和透射测量被用作无损工具，用于检测具有不同硅酸钠/氢氧化钠比例的粉煤灰（FA）、磨碎的粒状高炉矿渣（GGBFS）和煅烧粘土或偏高岭土（MK）前体的地质聚合物糊状样品的水反应。我们的测量表明以下结果。首先，在分析所有测试地质聚合物糊状样品（FA、GGBFS 和 MK）中的水反应时，微波传输特性比微波反射特性更有用且更可取。其次，反射测量 ($$|S_{11}|$$) 对样本长度的敏感性极低，厚度在 10 至 20 mm 之间的差异低于 0.45 dB。第三，相反，传输响应 ($$|S_{21}|$$) 显示出高达 35 dB 的显着变化，强调了它们对内部水反应机制的敏感性增强。第四，介电特性表明，相对于 GGBFS ($$\\approx 0.08$$) 和 MK ($$\\approx 0.03$$)，FA 粉末具有更高的介电损耗 ($$\\epsilon _{r}^{\\prime \\prime } \\approx 0.50$$)，这直接决定了信号衰减的幅度。最后，在所有制备的样品中观察到的质量损失可以忽略不计（<2.5%），这证实了 $$|S_{21}|$$ 的演变主要是由自由水转化为基质内的结合水而不是蒸发损失。还进行了扫描电子显微镜显微照片和能量色散光谱测试，以检查制备的样品中水反应的影响。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39266-0",
+            "title": "Feasibility of multisource CBCT for improving the predictability of dental implant primary stability compared to conventional CBCT",
+            "link": "https://doi.org/10.1038/s41598-026-39266-0",
+            "published": "2026-02-07",
+            "author": "Wei Luo, Yuanming Hu, Amanda Finger Stadler, Antonio J. Moretti, Donald A. Tyndall, Christina R. Inscoe, Yueh Z. Lee, Jianping Lu, Otto Zhou",
+            "summary": "Cone beam computed tomography (CBCT) is the current 3D imaging modality of choice in dentistry and is widely used for presurgical implant planning. Implant sites can potentially be evaluated based on their CBCT-derived Hounsfield Units (HU) values, from which clinical decisions, including suitability for implant placement and surgical approach can be made. The current CBCT, however, is inaccurate and unreliable for quantifying the HU, and attempts to correlate CBCT-derived HU with implant primary stability have produced mixed results. This study demonstrated that the novel multisource CBCT (ms-CBCT) enabled by the distributed carbon nanotube (CNT) x-ray source array technology provides a stronger correlation between the cortical bone density of porcine femur approximated by the HU values and the implant primary stability measured by the implant insertion torque, when compared to the conventional single-source CBCT. Twelve planned dental implant sites were imaged with both ms-CBCT and conventional CBCT. The averaged bone HU value was obtained around each site, and insertion torque was measured intraoperatively. Linear regression demonstrated a strong and statistically significant correlation between insertion torque and ms-CBCT-derived HU (R² = 0.86, p = 0.00014), while conventional CBCT showed a weaker but still significant correlation (R² = 0.55, p = 0.0056). These findings suggest that by mitigating x-ray photon scatter and cone beam artifacts, the ms-CBCT derived HU better reflects local bone quality relevant to implant stability, highlighting its potential to improve patient-specific implant planning and improve overall dental implant success.",
+            "journal": "Scientific Reports",
+            "title_cn": "与传统 CBCT 相比，多源 CBCT 提高牙种植体初期稳定性可预测性的可行性",
+            "abstract_cn": "锥形束计算机断层扫描 (CBCT) 是当前牙科领域首选的 3D 成像方式，广泛用于术前种植规划。可以根据 CBCT 得出的亨斯菲尔德单位 (HU) 值来评估种植体部位，从中可以做出临床决策，包括种植体植入的适用性和手术方法。然而，当前的 CBCT 对于量化 HU 来说是不准确且不可靠的，并且将 CBCT 得出的 HU 与种植体初级稳定性相关联的尝试产生了不同的结果。本研究表明，与传统的单源 CBCT 相比，采用分布式碳纳米管 (CNT) X 射线源阵列技术实现的新型多源 CBCT (ms-CBCT) 在由 HU 值近似的猪股骨皮质骨密度与由种植体插入扭矩测量的种植体初级稳定性之间提供了更强的相关性。使用 ms-CBCT 和传统 CBCT 对 12 个计划的牙种植位点进行了成像。获得每个部位周围的平均骨HU值，并在术中测量插入扭矩。线性回归表明插入扭矩和 ms-CBCT 衍生的 HU 之间存在很强且具有统计显着性的相关性（R² = 0.86，p = 0.00014），而传统 CBCT 显示出较弱但仍然显着的相关性（R² = 0.55，p = 0.0056）。这些发现表明，通过减轻 X 射线光子散射和锥形束伪影，ms-CBCT 衍生的 HU 更好地反映了与种植体稳定性相关的局部骨质量，突出了其改善患者特定种植体规划和提高整体种植牙成功率的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37834-y",
+            "title": "Efficient detection of intrusions in TON-IoT dataset using hybrid feature selection approach",
+            "link": "https://doi.org/10.1038/s41598-026-37834-y",
+            "published": "2026-02-07",
+            "author": "N. Dharini, V. S. Janani, Jeevaa Katiravan",
+            "summary": "This research improves IoT attack classification by introducing a bias-aware dataset refinement strategy that eliminates IP- and port-based identifiers and applies a domain-guided hybrid feature selection framework to derive a lightweight and generalizable feature set. Motivated by the need for intrusion detection models that generalize beyond predefined network configurations, this study focuses on behavior-driven network features that enable more realistic attack categorization in IoT environments. Wrapper-based feature selection methods, including forward selection, backward elimination, and genetic algorithms, identify five optimal features. To assess the robustness of the selected feature subset, both simple classifiers (Decision Tree and KNN) and ensemble learning models, including Random Forest, Gradient Boosting, XGBoost, Bagging, and Voting Ensemble, are evaluated under binary and multi-class settings. Using the proposed reduced feature set, the Decision Tree classifier achieved an accuracy of 0.986 for binary classification and 0.972 for multi-class attack classification, while the K-Nearest Neighbor classifier consistently achieved an accuracy of 0.972 for both binary and multi-class scenarios, while ensemble models yield only marginal performance improvements. Evaluation using precision, recall, F1-score, confusion matrices, and Cohen’s Kappa confirms that the discriminative power primarily arises from the selected feature subset rather than classifier complexity. These results demonstrate that effective feature selection enables lightweight models to achieve competitive intrusion detection performance suitable for real-world IoT deployments.",
+            "journal": "Scientific Reports",
+            "title_cn": "使用混合特征选择方法有效检测 TON-IoT 数据集中的入侵",
+            "abstract_cn": "这项研究通过引入偏差感知数据集细化策略来改进物联网攻击分类，该策略消除基于 IP 和端口的标识符，并应用域引导的混合特征选择框架来派生轻量级且可泛化的特征集。出于对超越预定义网络配置的入侵检测模型的需求，本研究重点关注行为驱动的网络功能，这些功能可在物联网环境中实现更现实的攻击分类。基于包装器的特征选择方法，包括前向选择、后向消除和遗传算法，可识别五个最佳特征。为了评估所选特征子集的鲁棒性，在二元和多类设置下评估简单分类器（决策树和 KNN）和集成学习模型（包括随机森林、梯度提升、XGBoost、Bagging 和投票集成）。使用所提出的简化特征集，决策树分类器的二元分类精度达到 0.986，多类攻击分类精度达到 0.972，而 K 最近邻分类器在二元和多类场景中始终达到 0.972 的精度，而集成模型仅产生边际性能改进。使用精度、召回率、F1 分数、混淆矩阵和 Cohen Kappa 进行的评估证实，区分能力主要来自于所选的特征子集，而不是分类器的复杂性。这些结果表明，有效的特征选择使轻量级模型能够实现适合现实世界物联网部署的有竞争力的入侵检测性能。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-32160-1",
+            "title": "Systematic review and meta-analysis of the spatio-temporal changes in apparent tsetse fly density in Uganda from 1980 to 2022",
+            "link": "https://doi.org/10.1038/s41598-025-32160-1",
+            "published": "2026-02-07",
+            "author": "Karla Rascón-García, Auther Tamale Wasswa, Beatriz Martínez-López, Giuliano Cecchi, Albert Mugenyi, Enock Matovu, Dennis Muhanguzi",
+            "summary": "Tsetse-transmitted trypanosomiasis continues to constrain more than 10 million km2 of high agricultural and livestock farming potential in sub-Saharan Africa (SSA). Despite its constraints to animal health and production, no accurate national and sub-national level data describing the distribution of tsetse flies has been produced for Uganda. To inform the tsetse fly density (flies/trap/day, or FTD) in Uganda and help advance along the progressive control pathway (PCP) for animal trypanosomiasis, we estimated FTD across sub-counties in Uganda and explored factors influencing variations in FTD across studies. Tsetse fly publications (n = 3462) were retrieved for Uganda from five life sciences databases, focusing on studies which inform the spatial distribution of tsetse flies, particularly reporting FTD across the nation. Following PRISMA guidelines, we conducted a systematic review and meta-analysis of 42 publications with the aim of producing an updated map to describe the spatial distribution of tsetse flies from pooled publication data. Current findings highlight substantial spatial data gaps with highly fragmented temporal collection periods. Of the 42 papers evaluated, only 20 reported FTD and were included in meta-analyses. To exhaust insights from extracted data, a zero-inflated multilevel Poisson was built to estimate the spatial distribution of tsetse flies. Meta-regression results found that the interaction of space (i.e. sub-county), time (i.e. collection period) and Glossina species explained the majority (87.32%) of observed FTD variations. Though several studies did not perform speciation of captured flies, the most predominant species reported in Uganda was Glossina fuscipes fuscipes. Across all records obtained, the western region of Uganda was severely under-sampled. Despite the limitations, like underrepresentation of some regions and declining report of FTD over years, we identified a basis for future research and recommend sub-county estimates be used to target spatial clusters when implementing risk-based tsetse control programs. Moreover, future research should target identifying environmental and climactic predictors of tsetse fly habitats, and we established a solid foundation for the future development of a national-level information system for the vectors of trypanosomiasis (i.e. an ‘atlas’).",
+            "journal": "Scientific Reports",
+            "title_cn": "1980年至2022年乌干达采采蝇表观密度时空变化的系统回顾和荟萃分析",
+            "abstract_cn": "采采蝇传播的锥虫病继续限制撒哈拉以南非洲 (SSA) 超过 1000 万平方公里的农业和畜牧业潜力。尽管乌干达的动物健康和生产受到限制，但尚无描述采采蝇分布的准确的国家和次国家级数据。为了了解乌干达采采蝇密度（苍蝇/陷阱/天，或 FTD）并帮助沿着动物锥虫病的渐进控制途径 (PCP) 前进，我们估计了乌干达各县的 FTD，并探索了影响 FTD 变化的因素。从五个生命科学数据库中检索了乌干达采采蝇出版物（n = 3462），重点关注了解采采蝇空间分布的研究，特别是报告全国范围内的 FTD。遵循 PRISMA 指南，我们对 42 篇出版物进行了系统回顾和荟萃分析，目的是根据汇总的出版物数据生成更新的地图来描述采采蝇的空间分布。目前的研究结果强调了空间数据的巨大差距和高度分散的时间收集周期。在评估的 42 篇论文中，只有 20 篇报告了 FTD 并被纳入荟萃分析。为了从提取的数据中获得见解，建立了零膨胀多级泊松来估计采采蝇的空间分布。元回归结果发现，空间（即县以下）、时间（即采集期）和舌藻物种的相互作用解释了大部分（87.32%）观察到的 FTD 变化。尽管有几项研究没有对捕获的苍蝇进行物种形成，但乌干达报告的最主要物种是 Glossina fuscipes fuscipes。在获得的所有记录中，乌干达西部地区的样本严重不足。尽管存在一些局限性，例如某些地区的代表性不足以及 FTD 报告多年来不断下降，但我们确定了未来研究的基础，并建议在实施基于风险的采采蝇控制计划时使用县以下的估计来确定空间集群。此外，未来的研究应针对确定采采蝇栖息地的环境和气候预测因子，我们为未来开发锥虫病媒介国家级信息系统（即“图集”）奠定了坚实的基础。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114888",
+            "title": "Simplified Kerr refractive index measurement in the visible range using phase object contrast imaging",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114888",
+            "published": "2026-06-01",
+            "author": "Georges Boudebs, Julien-Bilal Zinoune, Christophe Cassagne, Mihaela Chis",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "使用相衬成像在可见光范围内简化克尔折射率测量",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114893",
+            "title": "Non-Destructive yield strength evaluation of TA2 titanium by laser ultrasonics",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114893",
+            "published": "2026-06-01",
+            "author": "Xing Mao, Xiaochen Wang, Quan Yang, Jingdong Li, Yanjie Zhang, Wenjun Gao, Yingying Meng",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "激光超声无损评估TA2钛的屈服强度",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114906",
+            "title": "Region-adaptive DIC with variable speckle parameters for accurate warpage measurement in electronic packaging structures",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114906",
+            "published": "2026-06-01",
+            "author": "Jianguo Xie, Yuhan Gao, Yuxin Chen, Kezhong Xu, Ziniu Yu, Chuanjia Wang, Yuqi Zhou, Weibin Hui, Fulong Zhu",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "具有可变散斑参数的区域自适应 DIC，用于电子封装结构中的精确翘曲测量",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114900",
+            "title": "Long-distance drone classification in intracity environments via temporal single-photon detection",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114900",
+            "published": "2026-06-01",
+            "author": "Junran Guo, Tonglin Mu, Keyuan Li, Jianing Li, Ziyang Luo, Xiaodong Fan, Ye Chen, Jinquan Huang, Minjie Liu, Ruoyang Qi, Naiting Gu, Hong Cai, Lip Ket Chin, Shihai Sun",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "通过时间单光子检测对城市内环境中的远程无人机进行分类",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109663",
+            "title": "Spectral angle differential decoupling method for determining respirable coal dust concentration by reducing spray droplet scattering interference",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109663",
+            "published": "2026-06-01",
+            "author": "Wen Nie, Junchao Wan, Huitian Peng, Huaitong Li, Chenyang Zhou, Yuping Li",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "减少喷雾雾滴散射干扰测定可吸入煤尘浓度的光谱角差分解耦方法",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132986",
+            "title": "Intelligent Mode-locking Laser with High Repetition Rate",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132986",
+            "published": "2026-02-01",
+            "author": "Wenxi Zhang, Jia Zhang, Pei Ma, Xing Liang, Xuhong Yang, Yuhua Xiao, Jiongyang Zhang, Peixian Miao, Ji Wang, Hu Dai",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "高重复率智能锁模激光器",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132979",
+            "title": "Effect of AlGaN Insertion Layer in Barriers on the Optoelectronic Characteristics of Red Light-emitting InGaN/GaN Multi-quantum Wells",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132979",
+            "published": "2026-02-01",
+            "author": "Wei Liu, Chengrui Yan, Di Wang, Zeyu Liu, Bohan Shi, Runzhi Wang, Yujia Liu",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "势垒中AlGaN插入层对红光InGaN/GaN多量子阱光电特性的影响",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

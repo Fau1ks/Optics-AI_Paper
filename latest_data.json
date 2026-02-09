@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-09 00:28:55",
+    "update_time": "2026-02-09 08:27:58",
     "word_filename": "Optical_Papers_260209.docx",
-    "total_count": 16,
+    "total_count": 18,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69403-2",
@@ -177,6 +177,28 @@
             "summary": "Abstract not available.",
             "journal": "ACS Photonics",
             "title_cn": "太赫兹发射光谱诊断铁磁体/狄拉克半金属异质结构中的超快光电效应",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38337-6",
+            "title": "Experimental and computational study of photocatalytic degradation of volatile organic compounds in bitumen using sulfur-doped phenol-rich bio-oils",
+            "link": "https://doi.org/10.1038/s41598-026-38337-6",
+            "published": "2026-02-08",
+            "author": "Mohammad Almasi, Razieh Sadat Neyband",
+            "summary": "Asphalt pavements are a significant source of volatile organic compounds (VOCs) emissions under solar radiation, accelerated asphalt aging and urban air pollution. Effective mechanisms are essential to reduce the environmental and health impacts of road infrastructure. In this study, a sustainable bio-based modification strategy is presented using sulfur-doped phenol-rich bio-oils derived from wood pellets (WPn) to suppress VOCs release from asphalt. In this process, tetrameric radical sulfur ($$\\:{S}_{4}^{\\cdot\\:}$$) reacts with the WPn to generate $$\\:{S}_{4}^{\\cdot\\:}$$-WPn intermediates that capture VOCs molecules through a C–S cross-coupling pathway, forming stable VOCs-$$\\:{S}_{4}^{\\cdot\\:}$$-WPn adducts. The mechanism was validated experimentally using GC–MS, FT–IR, and UV–Vis spectroscopy, and supported by TD–DFT computational analysis. The UV–Vis absorption spectral of $$\\:\\:\\text{V}\\text{O}\\text{C}\\text{s}-{S}_{4}^{\\cdot\\:}-\\text{W}\\text{P}\\text{n}$$ has been red-shifted to nearly 400 nm which potentially enhanced the ability of these VOCs compounds to absorb light at wavelength higher than 200 nm, thereby favoring the direct photodegradation of VOCs compounds. Also, the calculated activation energy barriers for the $$\\:{S}_{4}^{\\cdot\\:}-\\text{W}\\text{P}\\text{n}$$ and VOCs reaction pathways were found to range between − 5.62 and − 25.86 kcal/mol, confirming the thermodynamic feasibility and suppression potential of VOCs emissions. This work highlights a practical and environmentally friendly approach for the development of cleaner and more resilient urban infrastructure.",
+            "journal": "Scientific Reports",
+            "title_cn": "使用掺硫富酚生物油光催化降解沥青中挥发性有机化合物的实验和计算研究",
+            "abstract_cn": "沥青路面是太阳辐射、加速沥青老化和城市空气污染下挥发性有机化合物 (VOC) 排放的重要来源。有效的机制对于减少道路基础设施对环境和健康的影响至关重要。在这项研究中，提出了一种可持续的生物基改性策略，使用源自木颗粒（WPn）的掺硫富含酚的生物油来抑制沥青中挥发性有机化合物的释放。在此过程中，四聚自由基硫($$\\:{S}_{4}^{\\cdot\\:}$$)与WPn反应生成$$\\:{S}_{4}^{\\cdot\\:}$$-WPn中间体，通过C-S交叉偶联途径捕获VOCs分子，形成稳定的VOCs-$$\\:{S}_{4}^{\\cdot\\:}$$-WPn加合物。该机制通过 GC-MS、FT-IR 和 UV-Vis 光谱进行实验验证，并得到 TD-DFT 计算分析的支持。 $$\\:\\:\\text{V}\\text{O}\\text{C}\\text{s}-{S}_{4}^{\\cdot\\:}-\\text{W}\\text{P}\\text{n}$$ 的紫外-可见吸收光谱已红移至近 400 nm，这可能增强了这些 VOC 化合物吸收波长高于 200 nm 的光的能力，从而有利于直接光降解VOC 化合物。此外，计算得出的 $$\\:{S}_{4}^{\\cdot\\:}-\\text{W}\\text{P}\\text{n}$$ 和 VOC 反应路径的活化能垒范围在 − 5.62 至 − 25.86 kcal/mol 之间，证实了 VOC 排放的热力学可行性和抑制潜力。这项工作强调了一种实用且环保的方法，用于开发更清洁、更具弹性的城市基础设施。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132996",
+            "title": "A sparsity and projection-consistency framework for 3D Shape measurement of irregular particles via interferometric imaging",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132996",
+            "published": "2026-02-01",
+            "author": "Yiqun Wang, Hongxia Zhang, Xiaolei Guo, Dagong Jia, Tiegen Liu",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "通过干涉成像对不规则颗粒进行 3D 形状测量的稀疏性和投影一致性框架",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

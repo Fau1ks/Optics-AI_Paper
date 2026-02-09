@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-09 15:27:51",
+    "update_time": "2026-02-09 17:27:37",
     "word_filename": "Optical_Papers_260209.docx",
-    "total_count": 87,
+    "total_count": 88,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69403-2",
@@ -959,6 +959,17 @@
             "journal": "Scientific Reports",
             "title_cn": "使用酸处理甘蔗皮修复纺织废水的等温线、动力学和热力学见解",
             "abstract_cn": "纺织工业废水含有持久性污染物，需要低成本、高效且环保的处理解决方案。这项工作评估了酸处理甘蔗皮（ATSP）作为纺织废水处理的可持续吸附剂与未经处理的甘蔗皮（UTSP）相比的性能。吸附实验在优化条件下进行（120 分钟接触时间，pH 5-6，20 mg 吸附剂在 25 mL 流出物中）。 ATSP 的污染物去除率达到 85%，而 UTSP 的污染物去除率为 68%。 Langmuir 等温线和准二级动力学最好地描述了吸附过程，证实了单层化学吸附的最大容量为 50.04 mg/g。热力学分析证实了吸热和自发过程，而扫描电子显微镜（SEM）和傅里叶变换红外光谱（FT-IR）分析表明吸附剂上的孔隙率和活性官能团增强。经过五个循环使用后，吸附剂保持了 60% 的效率。与之前专注于单溶质染料系统的研究不同，这项工作对磷酸处理的甘蔗皮用于实际纺织废水修复进行了全面的机理和技术经济评估。因此，经过酸处理的甘蔗皮作为一种有效、可持续和可重复使用的材料具有巨大的潜力，可用于处理纺织废水。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36739-0",
+            "title": "Experimental characterization of proton minibeam therapy delivery under FLASH dose-rate conditions",
+            "link": "https://doi.org/10.1038/s41598-026-36739-0",
+            "published": "2026-02-08",
+            "author": "Yuting Lin, Wei Wu, Jufri Setianegara, Aoxiang Wang, Nicolas Gerard, Jarrick Nys, Gregory N. Gan, Hao Gao",
+            "summary": "Abstract Proton minibeam radiation therapy (pMBRT) introduces spatial fractionation of dose distributions at submillimeter resolution, offering a promising approach to reducing normal tissue toxicity while maintaining effective tumor control. However, the high monitor unit (MU) requirements of multi-slit collimators (MSC) result in extended delivery times, posing a significant challenge. This study explores the feasibility of integrating pMBRT with ultra-high-dose-rates (UHDR) to overcome this limitation while leveraging potential biological synergies to enhance the therapeutic index and advance clinical applications. The study utilized the IBA ProteusONE compact proton therapy system equipped with two MSCs, each with center-to-center distances of 2.8 mm, slit widths of 1.0 mm, and thicknesses of 6.5 cm and 10 cm. UHDR delivery was achieved with 228 MeV protons at a current of 125 nA, while clinical beams operated at 226 MeV with 1–5 nA. Dose measurements using Gafchromic films in solid water phantoms were compared with Monte Carlo simulations. Delivery times were compared for FLASH and clinical beams. PBS dose rate was calculated based on the spot delivery log file. The study successfully demonstrated pMBRT dose distributions under UHDR, significantly reducing treatment times to 2.5 s compared to 3 min for clinical beams. The 10 cm collimator achieved higher peak-to-valley dose ratios (PVDRs) at 2 cm depth (4.36) than the 6.5 cm collimator (2.57), optimizing UHDR delivery conditions. Results highlight the potential to improve dose delivery efficiency while maintaining spatial resolution and dose modulation, supporting future clinical advancements. This study demonstrates the feasibility of integrating pMBRT with UHDR using a clinical proton therapy system. By addressing challenges associated with delivery times and leveraging the combined advantages of spatial fractionation and ultra-high-dose-rates, this work paves the way for the clinical translation of pMBRT with UHDR, offering innovative possibilities for treating challenging malignancies with high-dose precision therapy.",
+            "journal": "Scientific Reports",
+            "title_cn": "FLASH 剂量率条件下质子微束治疗的实验特征",
+            "abstract_cn": "摘要 质子微束放射治疗（pMBRT）引入了亚毫米分辨率的剂量分布空间分割，为降低正常组织毒性同时保持有效的肿瘤控制提供了一种有前途的方法。然而，多缝准直器 (MSC) 的高监控单元 (MU) 要求导致交付时间延长，带来了重大挑战。本研究探讨了将 pMBRT 与超高剂量率 (UHDR) 相结合以克服这一局限性的可行性，同时利用潜在的生物协同作用来提高治疗指数并推进临床应用。该研究采用配备两个 MSC 的 IBA ProteusONE 紧凑型质子治疗系统，每个 MSC 的中心距为 2.8 毫米，狭缝宽度为 1.0 毫米，厚度分别为 6.5 厘米和 10 厘米。 UHDR 传输是通过 228 MeV 质子在 125 nA 的电流下实现的，而临床光束在 226 MeV 和 1-5 nA 的电流下运行。使用固体水体模中的 Gafchromic 薄膜进行的剂量测量与蒙特卡罗模拟进行了比较。比较了 FLASH 和临床光束的交付时间。 PBS 剂量率是根据现场输送日志文件计算的。该研究成功证明了 UHDR 下的 pMBRT 剂量分布，与临床光束的 3 分钟治疗时间相比，显着将治疗时间缩短至 2.5 秒。 10 厘米准直器在 2 厘米深度 (4.36) 实现了比 6.5 厘米准直器 (2.57) 更高的峰谷剂量比 (PVDR)，从而优化了 UHDR 传输条件。结果凸显了在保持空间分辨率和剂量调制的同时提高剂量输送效率的潜力，支持未来的临床进展。这项研究证明了使用临床质子治疗系统将 pMBRT 与 UHDR 相结合的可行性。通过解决与交付时间相关的挑战并利用空间分割和超高剂量率的综合优势，这项工作为 pMBRT 与 UHDR 的临床转化铺平了道路，为通过高剂量精准治疗治疗具有挑战性的恶性肿瘤提供了创新的可能性。"
         }
     ]
 }

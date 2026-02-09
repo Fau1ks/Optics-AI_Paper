@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-09 11:31:13",
+    "update_time": "2026-02-09 15:27:51",
     "word_filename": "Optical_Papers_260209.docx",
-    "total_count": 86,
+    "total_count": 87,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69403-2",
@@ -948,6 +948,17 @@
             "journal": "arXiv: Nerf & Neural Fields",
             "title_cn": "目标噪声：基于预训练的神经网络初始化，用于高效的高分辨率学习",
             "abstract_cn": "权重初始化对于神经网络的优化行为和收敛效率起着至关重要的作用。大多数现有的初始化方法（例如 Xavier 和 Kaiming 初始化）都依赖于随机采样，并且不利用优化过程本身的信息。我们提出了一种简单但有效的初始化策略，该策略基于使用随机噪声作为目标的自监督预训练。我们不是直接从随机权重训练网络，而是首先对其进行预训练以适应随机噪声，这导致结构化和非随机的参数配置。我们表明，这种噪声驱动的预训练显着提高了后续任务的收敛速度，而不需要额外的数据或更改网络架构。该方法对于隐式神经表示（INR）和深度图像先验（DIP）式网络特别有效，众所周知，这些网络在优化过程中表现出很强的低频偏差。经过基于噪声的预训练后，网络能够在训练中更早地捕获高频分量，从而实现更快、更稳定的收敛。尽管随机噪声不包含语义信息，但它可以作为有效的自监督信号（考虑到其白频谱性质）来塑造神经网络的初始化。总体而言，这项工作表明，基于噪声的预训练为传统随机初始化提供了一种轻量级且通用的替代方案，从而能够更有效地优化深度神经网络。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39059-5",
+            "title": "Isotherm, kinetic, and thermodynamic insights into textile effluent remediation using acid-treated sugarcane peel",
+            "link": "https://doi.org/10.1038/s41598-026-39059-5",
+            "published": "2026-02-08",
+            "author": "Amr S. Abouzied, Oladejo Emmanuel Kola, Khairia Mohammed Al-Ahmary, Hamad AlMohamadi, Saedah R. Al-Mhyawi, Zahrah Alqahtani, Aliyah Alsharif, Jamelah S. Al-Otaibi",
+            "summary": "Wastewater from textile industries contains persistent contaminants that require low-cost, efficient, and eco-friendly treatment solutions. This work evaluates the performance of acid-treated sugarcane peel (ATSP) as a sustainable adsorbent for textile effluent treatment, compared with untreated sugarcane peel (UTSP). Sorption experiments were performed under optimized conditions (120 min contact time, pH 5–6, 20 mg adsorbent in 25 mL effluent). ATSP achieved 85% pollutant removal against 68% for UTSP. The Langmuir isotherm and pseudo-second-order kinetics best described the adsorption process, confirming monolayer chemisorption with a maximum capacity of 50.04 mg/g. Thermodynamic analysis confirmed an endothermic and spontaneous process, while scanning electron microscopy (SEM) and Fourier transform infrared spectroscopy (FT-IR) analyses revealed enhanced porosity and active functional groups on adsorbent. After five reuse cycles, the adsorbent retained 60% efficiency. Unlike previous studies focused on single-solute dye systems, this work provides comprehensive mechanistic and techno-economic evaluation of phosphoric-acid-treated sugarcane peel for real textile effluent remediation. Thus acid-treated sugarcane peel gave strong potential as an effective, sustainable, and reusable material for the treatment of textile wastewater.",
+            "journal": "Scientific Reports",
+            "title_cn": "使用酸处理甘蔗皮修复纺织废水的等温线、动力学和热力学见解",
+            "abstract_cn": "纺织工业废水含有持久性污染物，需要低成本、高效且环保的处理解决方案。这项工作评估了酸处理甘蔗皮（ATSP）作为纺织废水处理的可持续吸附剂与未经处理的甘蔗皮（UTSP）相比的性能。吸附实验在优化条件下进行（120 分钟接触时间，pH 5-6，20 mg 吸附剂在 25 mL 流出物中）。 ATSP 的污染物去除率达到 85%，而 UTSP 的污染物去除率为 68%。 Langmuir 等温线和准二级动力学最好地描述了吸附过程，证实了单层化学吸附的最大容量为 50.04 mg/g。热力学分析证实了吸热和自发过程，而扫描电子显微镜（SEM）和傅里叶变换红外光谱（FT-IR）分析表明吸附剂上的孔隙率和活性官能团增强。经过五个循环使用后，吸附剂保持了 60% 的效率。与之前专注于单溶质染料系统的研究不同，这项工作对磷酸处理的甘蔗皮用于实际纺织废水修复进行了全面的机理和技术经济评估。因此，经过酸处理的甘蔗皮作为一种有效、可持续和可重复使用的材料具有巨大的潜力，可用于处理纺织废水。"
         }
     ]
 }

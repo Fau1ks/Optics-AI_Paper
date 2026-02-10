@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-10 13:32:44",
+    "update_time": "2026-02-10 15:28:22",
     "word_filename": "Optical_Papers_260210.docx",
-    "total_count": 217,
+    "total_count": 222,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41598-026-36344-1",
@@ -2389,6 +2389,61 @@
             "journal": "arXiv: Nerf & Neural Fields",
             "title_cn": "用于一致且高效的 2D 高斯逆渲染的旋转灯",
             "abstract_cn": "逆渲染旨在将场景在一定的渲染模型下分解为其几何形状、材质属性和光照条件。它具有广泛的应用，如视图合成、重新照明和场景编辑。近年来，逆渲染方法受到神经辐射场和高斯分布等视图合成方法的启发，这些方法能够有效地将场景分解为其几何形状和辐射度。然后，他们进一步估计导致观察到的场景辐射的材料和照明。然而，后一步是高度模糊的，并且先前的作品尽管进行了正则化，但在反照率估计中仍存在不准确的颜色和烘焙阴影。为此，我们提出了 RotLight（一种简单的捕获设置）来解决模糊性问题。与通常的捕捉相比，RotLight 在过程中只需要将物体旋转几次。我们证明，只需两次旋转就可以有效减少伪影。为了进一步改进基于 2DGS 的逆渲染，我们还引入了代理网格，它不仅允许精确的入射光跟踪，而且还支持残差约束并改进全局照明处理。我们通过合成数据集和现实世界数据集证明，我们的方法在保持高效计算的同时实现了卓越的反照率估计。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69360-w",
+            "title": "COVID-19-related inflammation of the placenta impedes fetal development in pregnant hamsters",
+            "link": "https://doi.org/10.1038/s41467-026-69360-w",
+            "published": "2026-02-09",
+            "author": "Yana Kumpanenko, Elke Maas, Joran Degryse, Birgit Weynand, Hilde Van de Velde, Johan Neyts, Katrien De Clercq, Yeranddy A. Alpizar, Kai Dallmeier",
+            "summary": "COVID-19 during pregnancy is still incompletely understood. Here, the authors use a hamster model to show that it causes placental inflammation, impairing fetal growth but without vertical transmission. Vaccination and anticoagulants can prevent such risks, highlighting ways to protect mother and unborn child.",
+            "journal": "Nature Communications",
+            "title_cn": "与 COVID-19 相关的胎盘炎症会阻碍怀孕仓鼠的胎儿发育",
+            "abstract_cn": "怀孕期间的 COVID-19 尚不完全清楚。在这里，作者使用仓鼠模型来证明它会引起胎盘炎症，损害胎儿生长，但不会垂直传播。疫苗接种和抗凝剂可以预防此类风险，凸显保护母亲和未出生婴儿的方法。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38759-2",
+            "title": "Academic Tangping scale for college students in China: scale development, validation and application",
+            "link": "https://doi.org/10.1038/s41598-026-38759-2",
+            "published": "2026-02-09",
+            "author": "Shan Lu, Yanchao Yang, Wangze Li, Bosheng Jing, Yuanfang Guo",
+            "summary": "In light of the universality of the Tangping phenomenon and the lack of measurement tools, this study aims to develop Academic Tangping Scale for assessing this phenomenon among for college students in China. A total of 644 valid Chinese university students participated in the research. Exploratory factor analysis supported the extraction of three dimensions, namely affective, cognitive and behavioral dimensions, and confirmatory factor analysis indicated a good model fit, further confirming the scale’s dimensional structure. High Cronbach’s alpha coefficients across the subscales further affirm its robustness as a psychometrically sound measurement instrument. Evidence for convergent and discriminant validity was rigorously substantiated, and significant Pearson correlations with the existing Lying Flat Tendency scale demonstrated criterion-related validity. Finally, the scale’s practical applicability was supported by significant correlations with depression, anxiety, and stress, indicating meaningful associations with students’ mental health outcomes. The scale acknowledges limitations and proposes corresponding suggestions. Overall, the scale demonstrates strong psychometric properties, providing a reliable tool to assess the Academic Tangping and support targeted interventions and research on student mental health.",
+            "journal": "Scientific Reports",
+            "title_cn": "中国大学生学术汤评量表：量表的开发、验证和应用",
+            "abstract_cn": "鉴于“糖评现象”的普遍性和测量工具的缺乏，本研究旨在开发学术糖评量表，用于评估我国大学生中的糖评现象。共有644名有效的中国大学生参与了这项研究。探索性因子分析支持情感、认知和行为三个维度的提取，验证性因子分析表明模型拟合良好，进一步证实了量表的维度结构。各个子量表的高克朗巴赫 alpha 系数进一步证实了其作为心理测量学上健全的测量工具的稳健性。收敛效度和判别效度的证据得到了严格证实，皮尔逊与现有平躺倾向量表的显着相关性证明了标准相关的效度。最后，该量表的实际适用性得到了与抑郁、焦虑和压力的显着相关性的支持，表明与学生的心理健康结果存在有意义的关联。该量表承认其局限性并提出相应的建议。总体而言，该量表表现出强大的心理测量特性，为评估学术唐平并支持针对学生心理健康的有针对性的干预和研究提供了可靠的工具。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39547-8",
+            "title": "Copper doped hybrid nanosponges functionalized with Aplysina aerophoba extract for enhanced bioactive performance",
+            "link": "https://doi.org/10.1038/s41598-026-39547-8",
+            "published": "2026-02-09",
+            "author": "Ayse Demirbas, Baris Karsli, Ibrahim Seyda Uras, Belma Konuklugil",
+            "summary": "In this study, Cu (II) ion incorporated hybrid nanosponge (Cu2+ hNSs) derived from extracts of Aplysina aerophoba was synthesised, and its antimicrobial activity against some bacterial species, including Staphylococcus aureus, Aeromonas hydrophila, Aeromonas sobria, Escherichia coli, and Salmonella enterica, was evaluated. According to the results of the characterisation test, Cu(II)-incorporated hybrid nanosponges were well dispersed on the surface. The diameters of A. aerophoba extract and Cu(II) ion incorporated hybrid nanosponges were found to range between 12 and 14 μm using scanning electron microscopy (SEM) for obtaining SEM images. The antioxidant activity of A. aerophoba extract and Cu(II) ion incorporated hybrid nanosponge was determined against 2,2-diphenyl-1-picrylhydrazyl (DPPH). Cu(II) ion-incorporated hybrid nanosponges exhibit significantly higher antimicrobial activity against S. aureus, A. hydrophila, A. sobria, Escherichia coli, and S. enterica compared to the A. aerophoba extract, which alone showed minimal activity. As a result, we suggest that Cu (II) ion incorporated hybrid nanosponges were synthesized with A. aerophoba extract by an effective, inexpensive, and eco-friendly method and are applicable for antimicrobial activity studies. This study demonstrates the laboratory-scale feasibility of Cu(II)-doped hybrid nanosponges functionalized with Aplysina aerophoba extract, providing proof-of-concept results that may serve as a foundation for future commercial applications.",
+            "journal": "Scientific Reports",
+            "title_cn": "用海兔提取物功能化的铜掺杂混合纳米海绵可增强生物活性",
+            "abstract_cn": "在这项研究中，合成了源自海兔提取物的掺入铜（II）离子的杂化纳米海绵（Cu2+ hNSs），并评估了其对金黄色葡萄球菌、嗜水气单胞菌、温和气单胞菌、大肠杆菌和肠沙门氏菌等一些细菌的抗菌活性。根据表征测试结果，掺入Cu(II)的杂化纳米海绵良好地分散在表面。使用扫描电子显微镜 (SEM) 获取 SEM 图像，发现 A. aerophoba 提取物和掺入 Cu(II) 离子的杂化纳米海绵的直径范围在 12 至 14 μm 之间。测定了 Aerophoba 提取物和掺入 Cu(II) 离子的杂化纳米海绵针对 2,2-二苯基-1-三硝基苯肼 (DPPH) 的抗氧化活性。与单独的恐气菌提取物相比，掺入 Cu(II) 离子的杂化纳米海绵对金黄色葡萄球菌、嗜水放线菌、温和放线菌、大肠杆菌和肠沙门氏菌表现出显着更高的抗菌活性，而单独的厌气放线菌提取物则显示出最低的活性。因此，我们建议通过一种有效、廉价且环保的方法，用A. aerophoba 提取物合成掺入Cu (II) 离子的杂化纳米海绵，并适用于抗菌活性研究。这项研究证明了用海兔提取物功能化的 Cu(II) 掺杂混合纳米海绵在实验室规模的可行性，提供了概念验证结果，可作为未来商业应用的基础。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.585077",
+            "title": "Learned feature-based clustering of brain tissue with multimodal optical coherence tomography and photoacoustic elastography",
+            "link": "https://doi.org/10.1364/ol.585077",
+            "published": "2026-01-30",
+            "author": "Fen Yang, Chuxian Chen, Lingxuan Meng, Hengming Jing, Xinyu Liu, Wei Chen, Shih-Chi Chen, Jianbo Tang",
+            "summary": "The signals in optical coherence tomography (OCT) and photoacoustic (PA) imaging contain rich information about the intrinsic optical and mechanical properties of tissue, which extends beyond conventional amplitude-based imaging. To extract this information, we propose an unsupervised clustering framework that learns representative features from spatial-domain (i.e., depth domain) OCT profiles and time-domain PA profiles to infer the tissue’s underlying properties. Using a modified K-means and spectral clustering approach, we identify latent feature clusters that correspond to distinct tissue types. We validated our method on mouse brain slices, where it clearly delineates major brain regions based on their intrinsic optical and mechanical properties. This method facilitates the differentiation of brain tissue constituents, offering a powerful label-free tool for investigating brain disease pathology.",
+            "journal": "Optics Letters",
+            "title_cn": "通过多模态光学相干断层扫描和光声弹性成像对脑组织进行基于特征的学习聚类",
+            "abstract_cn": "光学相干断层扫描 (OCT) 和光声 (PA) 成像中的信号包含有关组织固有光学和机械特性的丰富信息，其范围超出了传统的基于幅度的成像。为了提取这些信息，我们提出了一个无监督的聚类框架，该框架从空间域（即深度域）OCT 配置文件和时域 PA 配置文件中学习代表性特征，以推断组织的潜在属性。使用改进的 K 均值和谱聚类方法，我们识别出与不同组织类型相对应的潜在特征簇。我们在小鼠大脑切片上验证了我们的方法，它根据其内在的光学和机械特性清楚地描绘了主要的大脑区域。该方法有利于脑组织成分的分化，为研究脑部疾病病理学提供了强大的无标记工具。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.580547",
+            "title": "1.1 kW, 100 Hz room-temperature diode-pumped nanosecond laser by water immersion cooling",
+            "link": "https://doi.org/10.1364/ol.580547",
+            "published": "2026-01-30",
+            "author": "Xinxing Lei, Suyang Wang, Zichao Wang, Lei Huang, Qiang Liu, Xing Fu",
+            "summary": "We report a room-temperature diode-pumped solid-state Nd:YAG laser by water immersion cooling, which delivers a pulse energy of 11 J at the repetition rate of 100 Hz and the pulse duration of 7 ns, while the beam quality factor is 2.6 times the diffraction limit. This represents the highest, to the best of our knowledge, performance achieved for room-temperature nanosecond lasers operating above 100 Hz, which demonstrates the great potential of room-temperature immersion-cooled nanosecond active-mirror lasers.",
+            "journal": "Optics Letters",
+            "title_cn": "1.1 kW、100 Hz 室温二极管泵浦纳秒激光器，采用水浸冷却",
+            "abstract_cn": "我们报道了一种采用水浸冷却的室温二极管泵浦固态Nd:YAG激光器，它在100 Hz的重复频率和7 ns的脉冲持续时间下提供11 J的脉冲能量，而光束品质因数为衍射极限的2.6倍。据我们所知，这代表了工作频率高于 100 Hz 的室温纳秒激光器所达到的最高性能，这表明了室温浸没冷却纳秒有源镜激光器的巨大潜力。"
         }
     ]
 }

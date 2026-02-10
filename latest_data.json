@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-10 08:28:23",
+    "update_time": "2026-02-10 11:28:58",
     "word_filename": "Optical_Papers_260210.docx",
-    "total_count": 44,
+    "total_count": 54,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41598-026-36344-1",
@@ -486,6 +486,116 @@
             "journal": "ACS Photonics",
             "title_cn": "基于聚焦表面等离子体场和空间光谱融合方法的片上太赫兹干涉传感",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-12335-6",
+            "title": "PCSA-Net: pyramid channel and spatial attention network for multiclass renal disease diagnosis using CT images",
+            "link": "https://doi.org/10.1038/s41598-025-12335-6",
+            "published": "2026-02-09",
+            "author": "Nahed Tawfik, Heba M. Emara, Walid El-Shafai, Naglaa F. Soliman, Abeer D. Algarni, Fathi E. Abd El-Samie",
+            "summary": "Kidney failure represents a pressing global health concern, further exacerbated by the widespread shortage of nephrologists, thereby necessitating the development of ِِِArtificial Intelligence (AI)-driven systems for automated renal disease diagnosis. This study focuses on the diagnosis of three major renal conditions: kidney stones, tumors, and cysts. Recent advancements in Deep Learning (DL) have highlighted the potential of attention mechanisms in enhancing the performance of Convolutional Neural Networks (CNNs), particularly in medical image analysis. In this context, we propose a novel method termed Pyramid Channel and Spatial Attention (PCSA), which depends on pyramidal multiscale convolution to reconstruct feature representations by extracting both spatial and channel attention weights. This dual-weight extraction facilitates the precise integration of multiscale contextual information, thereby improving the model capability to localize and focus on complex regions within medical images. The PCSA module is designed as a plug-and-play component that can be seamlessly integrated into various CNN backbone architectures to enhance diagnostic accuracy. To validate its effectiveness, we incorporate the PCSA module into several backbone networks and evaluate its performance. Experimental results demonstrate that PCSA-enhanced networks outperform multiple state-of-the-art image classification methods, achieving superior accuracy in renal disease classification. Although the current study focuses on three specific renal conditions, the modular architecture of PCSA-Net allows for future adaptation to a broader spectrum of renal pathologies. These findings underscore the potential of the proposed PCSA module to support automated, accurate, and scalable kidney disease diagnosis in clinical settings. The modular design also enhances the model suitability for real-world deployment, enabling integration into diverse diagnostic workflows.",
+            "journal": "Scientific Reports",
+            "title_cn": "PCSA-Net：使用 CT 图像进行多类肾脏疾病诊断的金字塔通道和空间注意网络",
+            "abstract_cn": "肾衰竭是一个紧迫的全球健康问题，而肾病专家的普遍短缺进一步加剧了这一问题，因此需要开发人工智能 (AI) 驱动的系统来自动诊断肾病。这项研究的重点是三种主要肾脏疾病的诊断：肾结石、肿瘤和囊肿。深度学习 (DL) 的最新进展凸显了注意力机制在增强卷积神经网络 (CNN) 性能方面的潜力，特别是在医学图像分析方面。在这种情况下，我们提出了一种称为金字塔通道和空间注意力（PCSA）的新方法，它依靠金字塔多尺度卷积通过提取空间和通道注意力权重来重建特征表示。这种双权重提取有助于多尺度上下文信息的精确集成，从而提高模型定位和聚焦医学图像中复杂区域的能力。 PCSA 模块被设计为即插即用组件，可以无缝集成到各种 CNN 主干架构中，以提高诊断准确性。为了验证其有效性，我们将 PCSA 模块合并到多个骨干网络中并评估其性能。实验结果表明，PCSA 增强的网络优于多种最先进的图像分类方法，在肾脏疾病分类方面实现了卓越的准确性。尽管目前的研究重点是三种特定的肾脏疾病，但 PCSA-Net 的模块化架构允许未来适应更广泛的肾脏病理。这些发现强调了所提出的 PCSA 模块在支持临床环境中自动化、准确和可扩展的肾脏疾病诊断方面的潜力。模块化设计还增强了模型对实际部署的适用性，从而能够集成到不同的诊断工作流程中。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38618-0",
+            "title": "Optimizing the drilling performance of Syagrus romanzoffiana fiber biocomposites: minimizing delamination with RSM and ANN modeling",
+            "link": "https://doi.org/10.1038/s41598-026-38618-0",
+            "published": "2026-02-09",
+            "author": "Oussama Ferfari, Ahmed Belaadi, Prabu Krishnasamy, Djamel Ghernaout, Herbert Mukalazi",
+            "summary": "This study evaluates the drilling performance of Syagrus romanzoffiana fiber-reinforced bio-epoxy biocomposites, focusing on reducing delamination for better industrial use. An experimental investigation was conducted on drilling composite laminates made by hand lay-up with 30% fiber content. The research examined how various factors—drill bit type (high-speed steel (HSS) and HSS coated with titanium nitride (HSS-TiN)), drill diameter (d, 5–10 mm), spindle speed (N, 800–1600 rpm), and feed rate (f, 50–150 mm/min)—influenced delamination damage, measured by the delamination factor (Fd) through digital image analysis. Predictive models for Fd were created using Response Surface Methodology (RSM) and an Artificial Neural Network (ANN). Results showed that the ANN model had higher predictive accuracy (R2 > 0.966, root mean square error (RMSE) < 0.032) than the quadratic RSM model. The analysis identified f as the most influential factor on delamination, followed by d. Additionally, HSS-TiN tools outperformed standard HSS bits. Optimization using a desirability function produced minimum Fd values of 1.02319 for HSS-TiN and 1.03199 for HSS at an f of 50 mm/min, N of 1419.49 rpm, and d of 10 mm. The RSM model was confirmed to be statistically significant through analysis of variance (p < 0.0001), which also revealed a notable interaction between f and N. These results indicate that the hole quality achievable in this biocomposite matches or surpasses that of carbon fiber-reinforced polymer and glass fiber-reinforced polymer under comparable dry drilling conditions. This evidence supports its potential for use in industries such as automotive, sporting goods, and non-critical aerospace components.",
+            "journal": "Scientific Reports",
+            "title_cn": "优化 Syagrus romanzoffiana 纤维生物复合材料的钻孔性能：通过 RSM 和 ANN 建模最大限度地减少分层",
+            "abstract_cn": "本研究评估了 Syagrus romanzoffiana 纤维增强生物环氧生物复合材料的钻孔性能，重点是减少分层以更好地工业用途。对纤维含量为 30% 的手糊复合材料层压板进行了钻孔实验研究。该研究研究了各种因素——钻头类型（高速钢（HSS）和氮化钛涂层高速钢（HSS-TiN））、钻头直径（d，5-10毫米）、主轴转速（N，800-1600转/分钟）和进给速度（f，50-150毫米/分钟）——如何影响分层损坏，并通过数字图像分析通过分层系数（Fd）进行测量。 Fd 的预测模型是使用响应面方法 (RSM) 和人工神经网络 (ANN) 创建的。结果表明，ANN模型比二次RSM模型具有更高的预测精度（R2>0.966，均方根误差（RMSE）<0.032）。分析确定 f 是对分层影响最大的因素，其次是 d。此外，HSS-TiN 刀具的性能优于标准 HSS 钻头。使用意愿函数进行优化，在 f 为 50 mm/min、N 为 1419.49 rpm、d 为 10 mm 时，HSS-TiN 的最小 Fd 值为 1.02319，HSS 的最小 Fd 值为 1.03199。通过方差分析（p < 0.0001）证实 RSM 模型具有统计显着性，这也揭示了 f 和 N 之间的显着相互作用。这些结果表明，在可比较的干钻条件下，该生物复合材料可实现的孔质量与碳纤维增强聚合物和玻璃纤维增​​强聚合物的孔质量相当或超过。这一证据支持了其在汽车、体育用品和非关键航空航天零部件等行业的应用潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-14549-0",
+            "title": "Synthesis and assessment of ionic liquid derived from benzalkonium chloride as corrosion inhibitor for carbon steel",
+            "link": "https://doi.org/10.1038/s41598-025-14549-0",
+            "published": "2026-02-09",
+            "author": "Ashraf M. Ashmawy, Reda Abdel-Hameed, Odeh A. O. Alshammari, Maher I. Nessim, Modather F. Hussein, Abdalrahman G. Al-Gamal",
+            "summary": "Corrosion poses a significant challenge in the materials industry, especially when carbon steel (C-steel) is subjected to highly corrosive environments such as 1 M HCl. In this study, four ionic liquids (ILs)-1-benzyl-1-methylpiperidin-1-ium chloride (ILI), 1-benzyl-2-methylpyridin-1-ium chloride (ILII), 1-benzyl-3-methylpyridin-1-ium chloride (ILIII), and 1-benzyl-4-methylpyridin-1-ium chloride (ILIV) were synthesized and characterized using spectroscopic techniques, including FT-IR and 1HNMR. Electrochemical analyses such as potentiodynamic polarization (PP), electrochemical impedance spectroscopy (EIS), and electrochemical frequency modulation (EFM) demonstrated excellent protective performance for C-steel in 1 M HCl, reaching a maximum inhibition of 97% at an optimum concentration of 100 ppm. Insights from polarization and impedance analyses confirmed that these compounds act as mixed-type inhibitors by adhering to the steel surface. The adsorption behavior followed the Langmuir isotherm model, with ΔG0 ads values suggesting a combination of physisorption and chemisorption. Quantum chemical assessments validated the experimental results, indicating that ILII–ILIV, due to their two aromatic rings, exhibited superior surface interaction and inhibition efficiency because of their reduced HOMO-LUMO energy gaps. These findings affirm the strong inhibitory potential of the tested ILs in acidic media.",
+            "journal": "Scientific Reports",
+            "title_cn": "苯扎氯铵离子液体碳钢缓蚀剂的合成与评价",
+            "abstract_cn": "腐蚀给材料行业带来了重大挑战，特别是当碳钢（C 钢）处于 1 M HCl 等高腐蚀性环境中时。在本研究中，使用光谱技术合成并表征了四种离子液体（IL）-1-苄基-1-甲基哌啶-1-氯化鎓（ILI）、1-苄基-2-甲基吡啶-1-氯化鎓（ILII）、1-苄基-3-甲基吡啶-1-氯化鎓（ILIII）和1-苄基-4-甲基吡啶-1-氯化鎓（ILIV），包括FT-IR 和 1HNMR。动电位极化 (PP)、电化学阻抗谱 (EIS) 和电化学调频 (EFM) 等电化学分析表明，碳钢在 1 M HCl 中具有优异的保护性能，在最佳浓度 100 ppm 时最大抑制率达到 97%。极化和阻抗分析的见解证实，这些化合物通过粘附在钢表面上而充当混合型抑制剂。吸附行为遵循 Langmuir 等温线模型，ΔG0 ads 值表明物理吸附和化学吸附的结合。量子化学评估验证了实验结果，表明ILII-ILIV由于具有两个芳香环，由于其HOMO-LUMO能隙减小而表现出优异的表面相互作用和抑制效率。这些发现证实了所测试的 IL 在酸性介质中具有强大的抑制潜力。"
+        },
+        {
+            "id": "https://doi.org/10.37188/lam.2026.031",
+            "title": "Laser-nanoprinting-enabled multilevel nanoscale phase encoding on quartz for integrated optical diffractive devices",
+            "link": "https://doi.org/10.37188/lam.2026.031",
+            "published": "2026",
+            "author": "Haitao Luan, Youtao Xing, Yuchi Bai, Yibo Dong, Min Gu",
+            "summary": "Abstract not available.",
+            "journal": "Light: Advanced Manufacturing",
+            "title_cn": "用于集成光学衍射器件的石英上支持激光纳米打印的多级纳米级相位编码",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1186/s43593-026-00122-3",
+            "title": "Compact, reconfigurable, and scalable photonic neurons by modulation-and-weighting microring resonators",
+            "link": "https://doi.org/10.1186/s43593-026-00122-3",
+            "published": "2026-02-09",
+            "author": "Weipeng Zhang, Yuxin Wang, Joshua C. Lederman, Bhavin J. Shastri, Paul R. Prucnal",
+            "summary": "Abstract Neuromorphic photonics promises sub-nanosecond latency, ultrawide bandwidth, and high parallelism, but practical scalability is constrained by fabrication tolerances, spectral alignment, and tuning energy. Here, we present a large-scale, compact, and reconfigurable photonic neuron in which each microring performs modulation and weighting simultaneously. By exploiting both carrier and thermal tuning within a single device, this architecture reduces footprint, relaxes spectral alignment requirements to just two optical components, and yields a steep transfer response that lowers tuning energy. The proposed neuron supports multiple operating configurations, allowing its dynamical behavior to be adapted to different computational tasks. In particular, a short electrical feedback path enables recurrent operation, providing tunable short- and long-term memory for temporal processing. Using a 10-microring resonator array, we demonstrate both spatial and temporal computing, including a 3 $$\\times$$ × 3 convolution for image processing with an error of <5% and high-frequency financial time-series prediction. Each modulation-weighting element occupies 80 $$\\times$$ × 45 $$\\upmu$$ μ m $$^2$$ 2 and consumes an average of 0.186 mW, corresponding to a compute density of 4.67 TOPS/s/mm $$^2$$ 2 . Excluding electronic power, the on-chip tuning efficiency reaches approximately 105 TOPs/W, which is comparable to state-of-the-art implementations. These results indicate that modulation-and-weighting microring resonator banks provide a scalable building block for large-scale neuromorphic photonic systems, offering a favorable combination of compact footprint, low power consumption, and functional flexibility.",
+            "journal": "eLight",
+            "title_cn": "通过调制和加权微环谐振器实现紧凑、可重构和可扩展的光子神经元",
+            "abstract_cn": "摘要 神经形态光子学有望实现亚纳秒延迟、超宽带宽和高并行性，但实际的可扩展性受到制造公差、光谱对准和调谐能量的限制。在这里，我们提出了一种大规模、紧凑且可重构的光子神经元，其中每个微环同时执行调制和加权。通过在单个器件内利用载流子和热调谐，该架构减少了占地面积，放宽了对两个光学元件的光谱对准要求，并产生陡峭的传输响应，从而降低了调谐能量。所提出的神经元支持多种操作配置，使其动态行为能够适应不同的计算任务。特别是，短的电反馈路径可以实现循环操作，为时间处理提供可调的短期和长期记忆。使用 10 微环谐振器阵列，我们演示了空间和时间计算，包括用于图像处理的 3 $$\\times$$ × 3 卷积，误差 <5% 和高频金融时间序列预测。每个调制加权元素占用 80 $$\\times$$ × 45 $$\\upmu$$ μ m $$^2$$ 2 ，平均消耗 0.186 mW ，对应于 4.67 TOPS/s/mm $$^2$$ 2 的计算密度。不计电子功率，片上调谐效率达到约 105 TOPs/W，与最先进的实现相当。这些结果表明，调制和加权微环谐振器组为大规模神经形态光子系统提供了可扩展的构建块，提供了紧凑的占地面积、低功耗和功能灵活性的有利组合。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.576538",
+            "title": "Label-free tracking of subcortical white matter degradation in vivo using third harmonic generation microscopy in a mouse model of multiple sclerosis",
+            "link": "https://doi.org/10.1364/boe.576538",
+            "published": "2026-01-29",
+            "author": "Nicole E. Chernavsky, Nuri Hong, Lianne J. Trigiani, Nozomi Nishimura, Chris B. Schaffer",
+            "summary": "Characterization of myelin degradation in the white matter (WM) is important for understanding neurodegeneration. We demonstrate label-free in vivo imaging of myelin structure in the WM of mice, through intact cortex, using third harmonic generation (THG) microscopy at 1320-nm excitation. Longitudinal THG imaging of the same axons in the cuprizone mouse model of multiple sclerosis revealed dynamics of myelin blistering. Further, we measured intranodal distance at nodes of Ranvier in vivo and developed a novel metric of myelin structural change based on spatial concentration of the brightest THG signal. We also demonstrated compatibility with three-photon excited fluorescence microscopy by imaging GFP-labeled microglia in the WM in parallel with THG microscopy, thereby enabling detailed tracking of subcortical myelin and other cellular dynamics in neurodegenerative disease models.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "在多发性硬化症小鼠模型中使用三次谐波发生显微镜对体内皮层下白质降解进行无标记跟踪",
+            "abstract_cn": "白质 (WM) 中髓磷脂降解的表征对于理解神经变性非常重要。我们使用三次谐波发生 (THG) 显微镜在 1320 nm 激发下，通过完整的皮质，展示了小鼠 WM 中髓磷脂结构的无标记体内成像。多发性硬化症小鼠模型中相同轴突的纵向 THG 成像揭示了髓磷脂起泡的动态。此外，我们测量了 Ranvier 体内节点的结内距离，并根据最亮 THG 信号的空间浓度开发了一种新的髓磷脂结构变化指标。我们还通过与 THG 显微镜并行成像 WM 中的 GFP 标记的小胶质细胞，证明了与三光子激发荧光显微镜的兼容性，从而能够详细跟踪神经退行性疾病模型中的皮层下髓磷脂和其他细胞动力学。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.584264",
+            "title": "Inline mechano-vibration holography for simultaneous phase and elasticity mapping of soft samples",
+            "link": "https://doi.org/10.1364/boe.584264",
+            "published": "2026-01-23",
+            "author": "Hasan Berkay Abdioglu, Yagmur Isik, Merve Sevgi, Esmahan Caglar, Gokhan Bora Esmer, Huseyin Uvet, Ali Anil Demircali",
+            "summary": "Off-axis holography enables single-shot phase retrieval but reduces spatial bandwidth, while in-line phase-shifting interferometry preserves bandwidth yet requires reference-path stepping and is sensitive to drift, limiting dynamic measurements. Moreover, viscoelastic mapping is rarely available from the same holographic measurement. We propose vibration-encoded in-line Mach-Zehnder holography for simultaneous thickness and viscoelasticity mapping of soft samples. Twelve holograms acquired over one vibration cycle are analyzed using Bessel-based harmonic inversion and robust regression to recover the static phase, modulation depth, and phase lag, yielding thickness and Kelvin-Voigt storage and loss modulus maps ( E ′, E ″). Simulations recover E ′ and E ′′ to within ∼2% across a wide E ′′/ E ′ range and achieve sub-micron thickness error over 20-45 μ m beads. Experiments on calibrated polyacrylamide beads show sub-micron thickness repeatability (median ∼0.57 μ m over 40 repeats) and stiffness estimates typically within 10% of ground truth, and we further demonstrate the approach on adherent MCF-7 cells.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "用于软样品同步相位和弹性映射的在线机械振动全息术",
+            "abstract_cn": "离轴全息术可以实现单次相位检索，但会减少空间带宽，而内联相移干涉测量法可以保留带宽，但需要参考路径步进，并且对漂移敏感，从而限制了动态测量。此外，粘弹性映射很少能从相同的全息测量中获得。我们提出了振动编码在线马赫-曾德尔全息术，用于同时绘制软样品的厚度和粘弹性图。使用基于贝塞尔的谐波反演和鲁棒回归分析在一个振动周期内获取的十二张全息图，以恢复静态相位、调制深度和相位滞后、屈服厚度以及开尔文-沃伊特存储和损耗模量图（E '，E ''）。模拟在较宽的 E ''/ E ' 范围内将 E ' 和 E '' 恢复到 ~2% 以内，并在 20-45 μm 珠子上实现亚微米厚度误差。校准聚丙烯酰胺珠的实验显示亚微米厚度重复性（40 次重复的中位数~0.57 μm）和刚度估计通常在地面真实值的 10% 以内，我们进一步在贴壁 MCF-7 细胞上证明了该方法。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.580971",
+            "title": "All-fiber noise-like pulse generation based on Yb-doped fiber and nonlinear fibers operating around 1040–1060 nm wavelengths",
+            "link": "https://doi.org/10.1364/optcon.580971",
+            "published": "2026-01-06",
+            "author": "Yu-Fang Su, Pei-Ying Tsai, Jia-Ming Liu",
+            "summary": "We demonstrate a compact all-fiber passively mode-locked ytterbium-doped fiber (YDF) laser that generates high-quality noise-like pulses (NLPs) via nonlinear polarization rotation. The system employs a 976 nm laser diode for pumping and features a fully fusion-spliced cavity, eliminating alignment-sensitive free-space components. To enhance nonlinear effects and ensure stable NLP generation, we explored several highly nonlinear fiber configurations, including ultra-high numerical aperture (UHNA3) fiber and photonic crystal fiber (PCF) with a zero-dispersion wavelength at 760 nm. The laser exhibits emission in the 1040–1060 nm wavelength range, with an average output power tunable from 20 mW to 35 mW depending on the cavity configuration. The best performance was achieved with a hybrid configuration consisting of a 20-cm PCF segment sandwiched between two 10-cm UHNA3 fiber segments, producing stable mode-locking at 1042.8 nm with a 31.5 mW average output power and pulses featuring a 23.05 ps envelope with 105.1 fs substructures. Compared to previously reported systems based on nonlinear polarization rotation, our design achieves significantly shorter pulse durations and more symmetric spectra, all while maintaining a robust, alignment-free architecture. These results highlight the importance of nonlinear enhancement and dispersion management in efficient pulse shaping and broadband spectral generation. Owing to its stability, compactness, and superior pulse quality, the proposed laser shows strong potential for applications in supercontinuum generation, ultrafast metrology, optical communications, and quantum photonics.",
+            "journal": "Optics Continuum",
+            "title_cn": "基于掺镱光纤和非线性光纤的全光纤类噪声脉冲生成，工作波长约为 1040–1060 nm",
+            "abstract_cn": "我们展示了一种紧凑型全光纤被动锁模掺镱光纤（YDF）激光器，它通过非线性偏振旋转产生高质量的类噪声脉冲（NLP）。该系统采用 976 nm 激光二极管进行泵浦，并具有完全熔接腔，消除了对对准敏感的自由空间组件。为了增强非线性效应并确保稳定的 NLP 生成，我们探索了几种高度非线性的光纤配置，包括超高数值孔径（UHNA3）光纤和零色散波长为 760 nm 的光子晶体光纤（PCF）。该激光器的发射波长范围为 1040–1060 nm，平均输出功率可在 20 mW 至 35 mW 范围内调节，具体取决于腔体配置。最佳性能是通过混合配置实现的，该混合配置由夹在两个 10 cm UHNA3 光纤段之间的 20 cm PCF 段组成，在 1042.8 nm 处产生稳定的锁模，平均输出功率为 31.5 mW，脉冲具有 23.05 ps 包络和 105.1 fs 子结构。与之前报道的基于非线性偏振旋转的系统相比，我们的设计实现了显着更短的脉冲持续时间和更对称的光谱，同时保持了稳健的免对准架构。这些结果凸显了非线性增强和色散管理在高效脉冲整形和宽带频谱生成中的重要性。由于其稳定性、紧凑性和优异的脉冲质量，所提出的激光器在超连续谱产生、超快计量、光通信和量子光子学方面显示出巨大的应用潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1002/lpor.202502956",
+            "title": "Tunable Visible/NIR Dual‐Narrowband Organic Photodetectors with Photomultiplication for Interference‐Resistant Optical Communication",
+            "link": "https://doi.org/10.1002/lpor.202502956",
+            "published": "2026-02-09",
+            "author": "Xi Luo, Xin Hu, Ying Lu, Yifan Ji, Lu Lu, Guangyu Zhou, Dongdong Chu, Ning Li, Xiubao Sui, Qian Chen",
+            "summary": "ABSTRACT The ability to detect narrowband optical signals is important in optical communication, precise target identification, etc. This study proposes a method to achieve dual‐narrowband visible/NIR detection with gain based on the synergistic regulation of optical and electrical properties of a single device. The device integrates two distinct bulk‐heterojunctions (BHJs), one with visible and the other with NIR absorption, in a back‐to‐back configuration. This design enables bias‐switchable visible/NIR dual‐band detection with photomultiplication, which is controlled by regulating carrier injection from the external circuit. Furthermore, by incorporating an optical microcavity to modulate the light field distribution, tunable visible/NIR dual‐narrowband photodetection is achieved, with a capability to switch the two wavelengths by changing the polarity of bias. For example, narrowband responses at 450 and 810 nm are achieved, where the two modes can be switched by changing the bias polarity. A peak external quantum efficiency (EQE) of 1050% is obtained at 450 nm with a full width at half maximum (FWHM) of 50 nm. A peak EQE of 130% with an FWHM of 75 nm is observed at 810 nm. Notably, this device demonstrates excellent performance in anti‐interference optical communication, operating without the need for additional optical filters.",
+            "journal": "Laser & Photonics Reviews",
+            "title_cn": "具有光电倍增功能的可调谐可见光/近红外双窄带有机光电探测器，用于抗干扰光通信",
+            "abstract_cn": "摘要 窄带光信号检测能力在光通信、精确目标识别等方面具有重要意义。本研究提出了一种基于单个器件光电特性协同调节的增益实现​​双窄带可见光/近红外检测的方法。该器件以背对背配置集成了两个不同的体异质结 (BHJ)，一个具有可见光，另一个具有近红外吸收。该设计可通过光电倍增实现偏置可切换的可见光/近红外双波段检测，这是通过调节外部电路的载流子注入来控制的。此外，通过结合光学微腔来调制光场分布，实现了可调谐可见光/近红外双窄带光电探测，并能够通过改变偏置极性来切换两个波长。例如，实现了 450 和 810 nm 的窄带响应，其中可以通过改变偏置极性来切换两种模式。在 450 nm 处获得 1050% 的峰值外量子效率 (EQE)，半峰全宽 (FWHM) 为 50 nm。在 810 nm 处观察到峰值 EQE 为 130%，FWHM 为 75 nm。值得注意的是，该器件在抗干扰光通信方面表现出优异的性能，无需额外的光滤波器即可运行。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41377-025-02139-8",
+            "title": "Unusual impulse-momentum relationship in non-reciprocal light interactions",
+            "link": "https://doi.org/10.1038/s41377-025-02139-8",
+            "published": "2026-02-09",
+            "author": "Yuhui Zhuang, Juan Wu, Siyu Li, Yi Hu, Zhigang Chen, Jingjun Xu",
+            "summary": "Abstract Non-reciprocal interactions, featured with an asymmetric relation between action and reaction, underpin exotic phenomena across living and artificial systems. Albeit extensively studied, they have been largely underexplored in nonlinear interactions of waves. In this work, we report an unusual impulse-momentum relationship for an optical solitary wave whose internal interactions are non-reciprocal. The solitary wave gains either an enhanced or a reversed momentum relative to an impulse that is applied to one of its two components. In the regime where the solitary wave is not broken down, the impulse-momentum relationship is found to be linear, yet its slope is unusual - either exceeding one or even being negative. Our results may initiate more fundamental considerations related to non-reciprocal wave interactions that are useful for designing novel non-Hermitian devices.",
+            "journal": "Light: Science & Applications",
+            "title_cn": "非互易光相互作用中异常的冲量-动量关系",
+            "abstract_cn": "摘要 非互惠相互作用以作用和反应之间的不对称关系为特征，是生命和人工系统中奇异现象的基础。尽管进行了广泛的研究，但它们在波的非线性相互作用中的研究还很有限。在这项工作中，我们报告了光学孤立波的不寻常的脉冲动量关系，其内部相互作用是不可逆的。相对于施加到其两个分量之一的脉冲，孤立波获得增强的动量或反向的动量。在孤立波未被击穿的情况下，冲量-动量关系被发现是线性的，但其斜率却很不寻常——要么超过1，要么甚至为负。我们的结果可能引发与非互易波相互作用相关的更基本的考虑，这对于设计新颖的非厄米设备非常有用。"
         }
     ]
 }

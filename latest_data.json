@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-10 15:28:22",
+    "update_time": "2026-02-10 17:29:01",
     "word_filename": "Optical_Papers_260210.docx",
-    "total_count": 222,
+    "total_count": 232,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41598-026-36344-1",
@@ -2444,6 +2444,116 @@
             "journal": "Optics Letters",
             "title_cn": "1.1 kW、100 Hz 室温二极管泵浦纳秒激光器，采用水浸冷却",
             "abstract_cn": "我们报道了一种采用水浸冷却的室温二极管泵浦固态Nd:YAG激光器，它在100 Hz的重复频率和7 ns的脉冲持续时间下提供11 J的脉冲能量，而光束品质因数为衍射极限的2.6倍。据我们所知，这代表了工作频率高于 100 Hz 的室温纳秒激光器所达到的最高性能，这表明了室温浸没冷却纳秒有源镜激光器的巨大潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69125-5",
+            "title": "The crucial but insufficient role of E2s domain’s residues 490 and 492 in determining the host tropism of hepatitis E virus",
+            "link": "https://doi.org/10.1038/s41467-026-69125-5",
+            "published": "2026-02-09",
+            "author": "Zi-Min Tang, Cheng-Yu Yang, Gui-Ping Wen, Chang Liu, Dong Ying, Yang Huang, Zi-Hao Yu, Ming-Yu Li, Si-Ling Wang, Zi-Hao Chen, Jun-Fei Liu, Mu-Jin Fang, Ying-Bin Wang, Jun Zhang, Ying Gu, Hai Yu, Shao-Wei Li, Qing-Bing Zheng, Ning-Shao Xia, Zi-Zheng Zheng",
+            "summary": "Abstract Hepatitis E virus (HEV) is a significant pathogen causing acute viral hepatitis globally, posing a particular threat to pregnant women. HEV infects a range of host species, with distinct genotypes exhibiting genotype-specific tropism for different host hepatocytes. The P domain of viral capsid protein plays a central role in host cell attachment, but the molecular determinants that govern its host specificity remain unclear. This study investigates the molecular mechanisms underlying HEV host tropism by using a zoonotic HEV specific antibody 6H8. An epitope involving residues 490 and 492 is identified crucial for both mAb 6H8 binding and virus-cell attachment. Structure-based mutagenesis, molecular dynamics simulations, virus-cell attachment assays, and viral infectivity assays highlight the importance of the N490 and M492 residues in maintaining the structural integrity of the 6H8 epitope, influencing host specificity. Mutations at 490 and 492 permit HEV-1’s and disrupt HEV-4’s binding and infection in porcine hepatocytes. However, they are insufficient alone for reestablishing swine infection in vivo, indicating additional factors are involved in HEV’s host tropism. Our findings suggest that N490 and M492 are critical but not sole determinants of HEV-4’s specific tropism for porcine hepatocytes and advance our understanding of HEV’s zoonotic transmission and host specificity.",
+            "journal": "Nature Communications",
+            "title_cn": "E2s结构域的490和492位残基在确定戊型肝炎病毒的宿主向性中的关键但不充分的作用",
+            "abstract_cn": "摘要 戊型肝炎病毒（HEV）是全球范围内引起急性病毒性肝炎的重要病原体，对孕妇的威胁尤其严重。 HEV 感染一系列宿主物种，具有不同的基因型，对不同宿主肝细胞表现出基因型特异性趋向性。病毒衣壳蛋白的 P 结构域在宿主细胞附着中发挥着核心作用，但控制其宿主特异性的分子决定因素仍不清楚。本研究通过使用人畜共患 HEV 特异性抗体 6H8 来研究 HEV 宿主向性的分子机制。鉴定出涉及残基 490 和 492 的表位对于 mAb 6H8 结合和病毒细胞附着至关重要。基于结构的诱变、分子动力学模拟、病毒细胞附着测定和病毒感染性测定强调了 N490 和 M492 残基在维持 6H8 表位结构完整性、影响宿主特异性方面的重要性。 490 和 492 处的突变允许 HEV-1 在猪肝细胞中结合并破坏 HEV-4 的结合和感染。然而，它们不足以单独重建猪体内感染，这表明 HEV 的宿主向性还涉及其他因素。我们的研究结果表明，N490 和 M492 对 HEV-4 对猪肝细胞的特异性至关重要，但不是唯一的决定因素，并增进了我们对 HEV 人畜共患传播和宿主特异性的理解。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-34732-7",
+            "title": "Turning constraints into catalysts through bricolage to spur green agricultural entrepreneurship among returnees",
+            "link": "https://doi.org/10.1038/s41598-025-34732-7",
+            "published": "2026-02-09",
+            "author": "Muhammad Imran, Na Wei, Junqing Zhang, Xiaobo Shao, Abad Alzuman, Nawab Khan, Huiji Xu",
+            "summary": "Fostering agricultural green entrepreneurship (AGE) is essential for achieving inclusive rural development and environmental sustainability, particularly in regions facing severe resource constraints such as Pakistan. While resource bricolage theory has been widely applied in industrial and urban entrepreneurship research, its micro-level role in shaping agricultural green entrepreneurship among returnee migrants in developing countries remains largely unexplored. This study examines how resource bricolage the creative mobilization and recombination of available but limited resources affects AGE outcomes among returnee rural migrants in the Balochistan and Punjab provinces of Pakistan. Using survey data collected in 2023 from 480 returnee agricultural entrepreneurs, we apply multiple linear regression and mediation analysis to evaluate the effects of four types of bricolage: skill, customer, institutional, and network. The findings show that skill bricolage has the strongest impact on AGE, followed by customer, institutional, and network bricolage. Mechanism tests reveal that bricolage enhances AGE by expanding sales channels and broadening business scope. Subgroup analysis indicates stronger effects among market-oriented entrepreneurs, returning migrant workers, and younger or less-experienced returnees. These results highlight the importance of fostering adaptive capacity and resource integration strategies among returnees to promote inclusive and sustainable green entrepreneurship.",
+            "journal": "Scientific Reports",
+            "title_cn": "拼凑变约束为催化剂，激发海归绿色农业创业",
+            "abstract_cn": "促进农业绿色创业（AGE）对于实现包容性农村发展和环境可持续性至关重要，特别是在巴基斯坦等面临严重资源限制的地区。虽然资源拼凑理论已广泛应用于工业和城市创业研究，但其在发展中国家回返移民中塑造农业绿色创业的微观层面作用仍然很大程度上未被探索。本研究探讨了资源拼凑、创造性动员和重组可用但有限的资源如何影响巴基斯坦俾路支省和旁遮普省返乡农村移民的 AGE 结果。我们利用 2023 年从 480 名海归农业企业家收集的调查数据，应用多元线性回归和中介分析来评估四种类型拼凑的影响：技能、客户、机构和网络。研究结果表明，技能拼凑对 AGE 的影响最大，其次是客户、机构和网络拼凑。机制测试表明，拼装通过扩大销售渠道和拓宽业务范围来提高AGE。亚组分析表明，市场导向型企业家、返乡农民工以及年轻或经验不足的海归人员的影响更强。这些结果凸显了培养海归人员适应能力和资源整合战略以促进包容性和可持续绿色创业的重要性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.582744",
+            "title": "Simultaneous quasi-phase-matching in OP-GaAs",
+            "link": "https://doi.org/10.1364/ol.582744",
+            "published": "2026-01-30",
+            "author": "Ziya Gürkan Figen",
+            "summary": "Simultaneous quasi-phase-matching of two nonlinear interactions within a single orientation-patterned GaAs (OP-GaAs) grating was experimentally demonstrated for the first time, to the best of our knowledge. When pumped by the signal (2.74 μm) and idler (8.77 μm) output beams of a ZGP-based optical parametric oscillator, the designed aperiodic OP-GaAs grating produces a 2.09-μm and a 3.99-µm output with power levels of several milliwatts via the sum-frequency generation and difference-frequency generation, respectively, of the beams involved. This research opens up new possibilities for the development of engineered single OP-GaAs gratings, which can simultaneously produce multiple wavelengths in the whole infrared spectrum.",
+            "journal": "Optics Letters",
+            "title_cn": "OP-GaAs 中的同步准相位匹配",
+            "abstract_cn": "据我们所知，首次通过实验证明了单取向图案 GaAs (OP-GaAs) 光栅内两种非线性相互作用的同时准相位匹配。当由基于 ZGP 的光学参量振荡器的信号 (2.74 μm) 和闲频 (8.77 μm) 输出光束泵浦时，所设计的非周期 OP-GaAs 光栅通过所涉及光束的和频生成和差频生成分别产生功率水平为几毫瓦的 2.09 μm 和 3.99 μm 输出。这项研究为开发工程单 OP-GaAs 光栅开辟了新的可能性，该光栅可以同时产生整个红外光谱中的多个波长。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.582953",
+            "title": "Tunable narrowband THz generation in the organic crystal BNA",
+            "link": "https://doi.org/10.1364/ol.582953",
+            "published": "2026-02-06",
+            "author": "D. Pavićević, M. Nishida, J. Song, M. Buzzi, A. Cavalleri",
+            "summary": "The generation of tunable narrowband pulses is increasingly being pursued in terahertz science, for example, to study the nonlinear response of individual modes of solids and molecules. Here, we extend the chirp-and-delay method to achieve collinear phase-matched difference-frequency generation in the organic crystal N-benzyl-2-methyl-4-nitroaniline (BNA-S), which results in tunable narrowband terahertz pulses. In this configuration, the fundamental frequency of a Ti:sapphire amplifier is used—eliminating the need for optical parametric amplifiers typically required for THz generation in other organic crystals. Chirped-pulse excitation suppresses multiphoton absorption in BNA, improving stability and extending crystal lifetime. The source delivers THz transients tunable from ~0.25 THz to ~2 THz with adjustable spectral width.",
+            "journal": "Optics Letters",
+            "title_cn": "有机晶体 BNA 中产生可调谐窄带太赫兹",
+            "abstract_cn": "太赫兹科学越来越多地追求可调谐窄带脉冲的生成，例如，用于研究固体和分子单个模式的非线性响应。在这里，我们扩展了线性调频和延迟方法，以在有机晶体 N-benzyl-2-methyl-4-硝基苯胺 (BNA-S) 中实现共线相位匹配差频生成，从而产生可调谐窄带太赫兹脉冲。在此配置中，使用钛蓝宝石放大器的基频，从而无需使用其他有机晶体中产生太赫兹通常所需的光学参量放大器。啁啾脉冲激发可抑制 BNA 中的多光子吸收，从而提高稳定性并延长晶体寿命。该源提供从 ~0.25 THz 到 ~2 THz 可调的 THz 瞬态，并且光谱宽度可调。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.586815",
+            "title": "Broadband three-dimensional multi-beam splitter enabled by quasi-parallel scanning",
+            "link": "https://doi.org/10.1364/ol.586815",
+            "published": "2026-01-29",
+            "author": "Yan-Zhao Duan, Jun-Jie Hua, Yan-Hao Yu, Zhi-Yong Hu, Zhen-Nan Tian, Qi-Dai Chen",
+            "summary": "On-chip photonic systems are essential for next-generation information processing, where multi-way beam splitting can significantly enhance parallelism and processing capacity. Conventional splitters suffer from polarization and wavelength dependence, limited integration density, and poor uniformity. Here, we develop a femtosecond-laser-based quasi-parallel scanning technique to fabricate 3D multi-way splitters with high uniformity (up to 92.62%) and broad bandwidth (750–1050 nm). This approach offers a promising solution for future optical computing, sensing, on-chip communication, and quantum photonic systems.",
+            "journal": "Optics Letters",
+            "title_cn": "通过准并行扫描实现宽带三维多分束器",
+            "abstract_cn": "片上光子系统对于下一代信息处理至关重要，其中多路分束可以显着增强并行性和处理能力。传统分光器存在偏振和波长依赖性、集成密度有限以及均匀性差等问题。在这里，我们开发了一种基于飞秒激光的准并行扫描技术来制造具有高均匀性（高达 92.62%）和宽带宽（750-1050 nm）的 3D 多路分光器。这种方法为未来的光学计算、传感、片上通信和量子光子系统提供了一种有前途的解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.575349",
+            "title": "A method for aerosol fluorescence lifetime measurement based on Mie-fluorescence lidar",
+            "link": "https://doi.org/10.1364/ol.575349",
+            "published": "2026-02-05",
+            "author": "Siying Chen, Xian Yang, He Chen, Pan Guo, Yurong Jiang, Daoming Li, Yangcheng Ma, Haitao Dong, Yuhao Jin, Zhen Yang, Xin Li",
+            "summary": "In this Letter, a remote sensing method for measuring the fluorescence lifetime of aerosols is proposed, which combines the Mie-fluorescence lifetime-scattering (MFLS) model, established based on Mie and fluorescence lidar theory, with the golden section search algorithm. The feasibility of this method was verified through numerical simulations, which demonstrate its ability to measure aerosol fluorescence lifetime by using nanosecond laser pulses. Experimental studies were conducted using a Mie and dual-wavelength fluorescence lidar system on four types of fluorescent substances in aerosol form. The experimental results demonstrate that the proposed method can robustly measure aerosol fluorescence lifetimes on the nanosecond scale, achieving a minimum relative standard deviation of approximately 5.5%. Furthermore, when fluorescence lifetimes are employed as input features for a machine-learning classifier (K-nearest neighbors), the four fluorescent substances were classified with an accuracy of 96.9%. This method offers new opportunities for fluorescence lidar applications in fluorescence lifetime measurement.",
+            "journal": "Optics Letters",
+            "title_cn": "基于米氏荧光激光雷达的气溶胶荧光寿命测量方法",
+            "abstract_cn": "本文提出了一种测量气溶胶荧光寿命的遥感方法，该方法将基于米氏和荧光激光雷达理论建立的米氏荧光寿命散射（MFLS）模型与黄金分割搜索算法相结合。通过数值模拟验证了该方法的可行性，证明了其利用纳秒激光脉冲测量气溶胶荧光寿命的能力。使用 Mie 和双波长荧光激光雷达系统对四种气溶胶形式的荧光物质进行了实验研究。实验结果表明，该方法可以稳健地测量纳秒级的气溶胶荧光寿命，实现约 5.5% 的最小相对标准偏差。此外，当荧光寿命用作机器学习分类器（K 最近邻）的输入特征时，四种荧光物质的分类准确度为 96.9%。该方法为荧光激光雷达在荧光寿命测量中的应用提供了新的机会。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.581802",
+            "title": "Dual-channel spontaneous emission enhancement metasurfaces in the mid-infrared based on an anapole state",
+            "link": "https://doi.org/10.1364/ol.581802",
+            "published": "2026-01-28",
+            "author": "Jinwen Lv, Ye Fan, Yiqing Liu, Zaiyang Zheng, Zhengji Xu",
+            "summary": "Controlling spontaneous emission from electric dipole (ED) and magnetic dipole (MD) is crucial for quantum light sources, molecular sensing, and integrated quantum photonics. Enhancing these processes relies on intense local fields to boost the local density of optical states (LDOS). While conventional plasmonic structures provide strong fields, their performance is severely limited by inherent ohmic losses. We designed and experimentally verified a germanium-based metasurface exciting a nonradiative anapole state to overcome this limitation. This approach generates extreme near-field confinement, significantly strengthening light–matter interactions. We numerically demonstrate a dual-channel platform simultaneously accelerating ED and MD emissions at spatially distinct hot spots, reaching Purcell factors (PFs) of 6057 and 2272, respectively. The quality factor, field enhancement, and PF of the resonator are precisely tunable by adjusting its geometric parameters. This work provides a platform for dual-dipole emission engineering, paving the way for high-performance quantum light sources, molecular fingerprinting, and on-chip quantum devices in the mid-infrared.",
+            "journal": "Optics Letters",
+            "title_cn": "基于阿纳极态的中红外双通道自发发射增强超表面",
+            "abstract_cn": "控制电偶极子 (ED) 和磁偶极子 (MD) 的自发发射对于量子光源、分子传感和集成量子光子学至关重要。增强这些过程依赖于强烈的局部场来提高局部光学态密度（LDOS）。虽然传统的等离子体结构提供强场，但其性能受到固有欧姆损耗的严重限制。我们设计并通过实验验证了一种激发非辐射单极态的锗基超表面，以克服这一限制。这种方法产生极端的近场限制，显着加强光与物质的相互作用。我们以数值方式展示了一个双通道平台，同时加速空间不同热点处的 ED 和 MD 发射，分别达到 6057 和 2272 的珀塞尔因子 (PF)。谐振器的品质因数、场增强和PF可通过调整其几何参数来精确调节。这项工作为双偶极子发射工程提供了一个平台，为高性能量子光源、分子指纹识别和中红外片上量子器件铺平了道路。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ol.582493",
+            "title": "Mid-infrared light generation in a lithium niobate microdisk without any periodic poling structure",
+            "link": "https://doi.org/10.1364/ol.582493",
+            "published": "2026-01-28",
+            "author": "Kun Zhang, Chongyang Xu, Hongquan Yao, Jian Ning, Xinjie Lv, Gang Zhao, Peng Zhan, Zhenda Xie, Shining Zhu",
+            "summary": "Whispering gallery resonators (WGRs) represent a class of optical devices capable of achieving optical parametric oscillation (OPO) with low thresholds. When combined with periodic poling technology, they enable output at any wavelength within the transparency range of lithium niobate (LN). However, the integration of poling technology invariably introduces additional fabrication steps, thereby prolonging the resonator preparation cycle. We propose mid-infrared laser output from a lithium niobate microdisk without any poling structure, based on Type I and modal phase matching. The microdisk exhibits a Q-factor of 1.23 × 10 6 , can generate idler wavelengths up to 4101 nm, and achieves a nonlinear conversion efficiency of approximately 4.2%. This approach circumvents the necessity for poling processes, thereby streamlining the fabrication workflow. Furthermore, it provides a viable solution for the efficient production of LN-based MIR compact light sources.",
+            "journal": "Optics Letters",
+            "title_cn": "没有任何周期性极化结构的铌酸锂微盘中的中红外光产生",
+            "abstract_cn": "回音壁谐振器（WGR）代表了一类能够以低阈值实现光学参量振荡（OPO）的光学器件。当与周期性极化技术相结合时，它们可以在铌酸锂 (LN) 透明度范围内的任何波长上实现输出。然而，极化技术的集成总是会引入额外的制造步骤，从而延长谐振器的制备周期。我们提出基于 I 型和模态相位匹配，从没有任何极化结构的铌酸锂微盘中输出中红外激光。该微盘的品质因数为1.23 × 10 6 ，可产生高达4101 nm的闲频波长，并实现约4.2%的非线性转换效率。这种方法避免了极化过程的必要性，从而简化了制造工作流程。此外，它还为高效生产基于 LN 的 MIR 紧凑型光源提供了可行的解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/prj.575399",
+            "title": "Ultrafast and robust ranging via deep learning",
+            "link": "https://doi.org/10.1364/prj.575399",
+            "published": "2026-01-28",
+            "author": "Wei Du, Qijin Xu, Jin Zhou, Hao Wu, Yujia Li, Dongmei Huang, Yulong Cao, Lei Chen, Ligang Huang, Leilei Shi, Lei Gao, Tao Zhu",
+            "summary": "Light interferometric ranging technology, with its nanometer-level resolution and non-contact measurement advantages, has become a core tool in precision manufacturing and fundamental scientific research. However, its performance is still constrained by multiple factors, such as environmental interference, light signal attenuation, and detection noise. The advent of artificial intelligence (AI) technology has enabled competitive solutions. By recognizing data features through neural networks, it can promote further upgrades in measurement accuracy, demodulation speed, and environmental robustness. Here we report a deep-learning-based interferometric (DLI) ranging method utilizing a dispersion-controlled dual-swept laser (DCDSL), which forms asymmetric interference signals. We demonstrate that deep neural networks can robustly identify signal features even amid strong interference via training and incorporating underlying physical constraints. This circumvents the reliance of conventional phase demodulation techniques on high signal-to-noise ratios and enables absolute distance measurements with repeatability starting from 449 nm in a single shot to 8.41 nm after averaging 1.5 ms, with a corresponding network inference time of 1.579 ms. Furthermore, our proposed method supports dynamic distance measurement with a tunable temporal resolution. Such a combination of AI and interferometry ranging technology may pave the way for the design of future LiDAR systems with robust interference immunity.",
+            "journal": "Photonics Research",
+            "title_cn": "通过深度学习实现超快且稳健的测距",
+            "abstract_cn": "光干涉测距技术以其纳米级分辨率和非接触测量优势，已成为精密制造和基础科学研究的核心工具。然而，其性能仍受到环境干扰、光信号衰减、检测噪声等多种因素的制约。人工智能 (AI) 技术的出现带来了具有竞争力的解决方案。通过神经网络识别数据特征，可以促进测量精度、解调速度和环境鲁棒性的进一步升级。在这里，我们报告了一种基于深度学习的干涉（DLI）测距方法，利用色散控制双扫频激光器（DCDSL），形成不对称干涉信号。我们证明，即使在强干扰下，深度神经网络也可以通过训练和结合潜在的物理约束来稳健地识别信号特征。这避免了传统相位解调技术对高信噪比的依赖，并实现了绝对距离测量，其重复性从单次测量的 449 nm 到平均 1.5 ms 后的 8.41 nm，相应的网络推理时间为 1.579 ms。此外，我们提出的方法支持具有可调时间分辨率的动态距离测量。人工智能和干涉测量测距技术的这种结合可能为未来具有强大抗干扰能力的激光雷达系统的设计铺平道路。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02076",
+            "title": "Circular Dichroism without Absorption in Isolated Chiral Dielectric Mie Particles",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02076",
+            "published": "2026-02-09",
+            "author": "Rafael S. Dutra, Felipe A. Pinheiro, Diney S. Ether, Cyriaque Genet, Nathan B. Viana, Paulo A. Maia Neto",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "孤立的手性介电米氏粒子中无吸收的圆二色性",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-10 06:30:36",
+    "update_time": "2026-02-10 08:28:23",
     "word_filename": "Optical_Papers_260210.docx",
-    "total_count": 37,
+    "total_count": 44,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41598-026-36344-1",
@@ -409,6 +409,83 @@
             "journal": "Light: Science & Applications",
             "title_cn": "量子极限的场镜检查",
             "abstract_cn": "摘要：我们展示了一种测量从太赫兹级光子到单光子状态的时变电场瞬变的新概念。我们观察到与我们的蒙特卡洛模型一致的经典制度的明显崩溃。我们达到了前所未有的约焦耳级 (10⁻²⁴ J) 灵敏度和超过 90 分贝的动态范围。我们利用这种能力来测量脉冲内光相干性——这是传统的时间平均光谱无法实现的机制。这为量子信息、密码学和亚周期时间尺度上的量子光与物质相互作用开辟了新的途径，具有阿秒精度。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38488-6",
+            "title": "Job satisfaction as a catalyst mechanism transforming knowledge competence and intrinsic motivation into sustained lecturer performance in higher education",
+            "link": "https://doi.org/10.1038/s41598-026-38488-6",
+            "published": "2026-02-09",
+            "author": "Peirong He, Rajanikanth Aluvalu, Ghanshyam G. Tejani",
+            "summary": "Universities around the globe are faced with the growing pressure of maintaining lecturer quality because of the growing workload requirements, competition, and changes in pedagogical expectations. Despite sufficient literature that has explored job satisfaction, knowledge competence and motivation as independent predictors of lecturer performance, the key gaps that remain unaddressed include dynamic interactions and overall catalytic influences of the three variables on long-term performance excellence. This paper will fill these gaps by hypothesizing and empirically confirming an integrative triple-mediation model that puts job satisfaction in the middle where intrinsic motivation and explicit knowledge competence interactively influence lecturer performance. We used structural equation modelling with partial least squares estimation of cross-sectional data of 468 lecturers in three countries of private higher education to test two hypotheses based on two mediating pathways, each one being: knowledge competence → job satisfaction → performance, and intrinsic motivation → job satisfaction → performance. Findings indicated that job satisfaction has been found to completely mediate the correlation between knowledge competence and performance (β = 0.64, p < 0.001) and partially mediate the intrinsic motivation-performance correlation (β = 0.58, p < 0.001). The model had shown very high fit indices (CFI = 0.96, RMSEA = 0.048, SRMR = 0.052) and it was able to account 71% of the variation in lecturer performance. Importantly, the interaction analysis revealed that job satisfaction has a catalyzing effect augmented by high knowledge competence and high intrinsic motivation by a factor of 34 when present simultaneously as opposed to independent of each other, which implies multiplicative and not additive dynamics. Such results offer the first empirical support on the key role of job satisfaction as the psychological process that converts knowledge resources and motivation to performance results, which act as actionable information in institutionalizing interventions aimed to achieve sustainable lecturer excellence in the light of satisfaction-focused human resource policies.",
+            "journal": "Scientific Reports",
+            "title_cn": "工作满意度作为一种催化机制，将知识能力和内在动机转化为高等教育中讲师的持续表现",
+            "abstract_cn": "由于不断增长的工作量要求、竞争和教学期望的变化，全球各地的大学都面临着保持讲师质量的越来越大的压力。尽管有足够多的文献探讨了工作满意度、知识能力和动机作为讲师绩效的独立预测因素，但仍未解决的关键差距包括这三个变量对长期卓越绩效的动态相互作用和总体催化影响。本文将通过假设并实证证实一个综合三重中介模型来填补这些空白，该模型将工作满意度置于内在动机和外显知识能力交互影响讲师绩效的中间。我们使用结构方程模型和偏最小二乘估计对三个私立高等教育国家的 468 名讲师的横截面数据进行了检验，以检验基于两条中介路径的两个假设，每一个假设都是：知识能力 → 工作满意度 → 绩效，以及内在动机 → 工作满意度 → 绩效。研究结果表明，工作满意度完全介导知识能力与绩效之间的相关性（β = 0.64，p < 0.001），并部分介导内在动机与绩效的相关性（β = 0.58，p < 0.001）。该模型显示出非常高的拟合指数（CFI = 0.96、RMSEA = 0.048、SRMR = 0.052），并且能够解释讲师表现变化的 71%。重要的是，交互分析表明，当高知识能力和高内在动机同时存在而不是彼此独立时，工作满意度的催化作用会因高知识能力和高内在动机而增强34倍，这意味着乘法而不是加法动力。这些结果为工作满意度作为将知识资源和动机转化为绩效结果的心理过程的关键作用提供了第一个实证支持，这在制度化干预措施中充当了可操作的信息，旨在根据以满意度为中心的人力资源政策实现可持续的讲师卓越。"
+        },
+        {
+            "id": "https://doi.org/10.37188/lam.2026.030",
+            "title": "Reflective metagrating polarimeter for single-shot full stokes mapping: toward digital histopathology",
+            "link": "https://doi.org/10.37188/lam.2026.030",
+            "published": "2026",
+            "author": "Paul Thrane, Chao Meng, Alexander Bykov, Oleksii Sieryi, Fei Ding, Igor Meglinski, Christopher A. Dirdal, Sergey I. Bozhevolnyi",
+            "summary": "Abstract not available.",
+            "journal": "Light: Advanced Manufacturing",
+            "title_cn": "用于单次全斯托克斯映射的反射式元光栅旋光计：迈向数字组织病理学",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.584530",
+            "title": "High-security floating probabilistic encryption methods based on chain-embedded masking",
+            "link": "https://doi.org/10.1364/oe.584530",
+            "published": "2026-01-28",
+            "author": "Haisu Qian, Bo Liu, Jianxin Ren, Yaya Mao, Shuaidong Chen, Jianye Zhao, Xiumin Song, Lei Zhu, Qinghua Tian, Rahat Ullah, Dongxu Zhu, Weiming Chen, Jiyuan Wang",
+            "summary": "With the increasing demands for transmission performance and security in optical access networks, this paper proposes a high-security floating probabilistic encryption method based on chain-embedded masking. The constellation points of this chained structure are distributed in a chain-like pattern across concentric circles. A core hexagon is formed by the points on the first layer around the origin. The second layer is then expanded into a star-shaped structure using external triangles, while the remaining points are fixed in the outermost ring. It effectively reduces both the average transmission power and the peak power while maintaining a minimum Euclidean distance of 1, resulting in a constellation figure of merit (CFM) value of 0.444. Based on this structure, a floating chain-embedded encryption scheme is further proposed. A Lorenz chaotic model is employed to generate sequences that dynamically perturb the positions of the outer-ring constellation points within the chain-like structure according to a “0-hold, 1-shift one step, 2-shift two steps” rule. Experimental validation was performed on a seven-core fiber transmission system. The results demonstrate that at a bit error rate of 3.8 × 10 −3 , the proposed Hierarchical Triangular-Distorted Hexagonal (HTDH) 16 Quadrature Amplitude Modulation (16QAM) constellation achieves a 0.48 dB improvement in receiver sensitivity compared with conventional 16QAM. The encrypted signals exhibit an additional 0.33 dB sensitivity enhancement over unencrypted signals. This indicates that the encryption mechanism not only enhances security but also synergizes with the energy concentration characteristics of the constellation, ultimately achieving co-optimization of transmission security and system sensitivity.",
+            "journal": "Optics Express",
+            "title_cn": "基于链嵌入掩码的高安全性浮动概率加密方法",
+            "abstract_cn": "随着光接入网络对传输性能和安全性的要求不断提高，提出一种基于链式嵌入掩码的高安全性浮动概率加密方法。这种链式结构的星座点以链状图案分布在同心圆上。核心六边形由原点周围第一层上的点形成。然后使用外部三角形将第二层扩展为星形结构，而其余点则固定在最外层的环中。它有效降低了平均传输功率和峰值功率，同时保持最小欧几里德距离为1，从而使星座品质因数（CFM）值为0.444。基于该结构，进一步提出了浮动链嵌入加密方案。采用洛伦兹混沌模型根据“0保持、1移动一步、2移动两步”规则生成动态扰动链状结构内外环星座点位置的序列。在七芯光纤传输系统上进行了实验验证。结果表明，在误码率为 3.8 × 10 -3 时，所提出的分层三角失真六边形 (HTDH) 16 正交幅度调制 (16QAM) 星座与传统 16QAM 相比，接收器灵敏度提高了 0.48 dB。与未加密信号相比，加密信号的灵敏度额外提高了 0.33 dB。这表明该加密机制不仅增强了安全性，而且与星座的能量集中特性相协同，最终实现传输安全性和系统灵敏度的协同优化。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.584061",
+            "title": "Hyperspectral coherent anti-Stokes Raman scattering volumetric projection microscopy for assessing drug–cell interaction",
+            "link": "https://doi.org/10.1364/boe.584061",
+            "published": "2026-01-23",
+            "author": "Chao Zhang, Yanping Li, Qianglong Yang, Ye Fang, Guangbo Zhang, Sisi Zhou, Rui Hu, Junle Qu, Liwei Liu",
+            "summary": "As dynamic organelles reflecting cellular physiological states, lipid droplets not only provide essential substances for cellular life activities, but also their quantitative analysis is crucial for evaluating drug efficacy. Coherent anti-Stokes Raman scattering (CARS) microscopy, with imaging advantages including label-free, non-invasive, high sensitivity, and submicron resolution, is an ideal tool for drug efficacy assessment. However, traditional CARS microscopy excited by Gaussian beams requires prolonged focusing for 3D tomography, which is time-consuming, causes significant photodamage, and easily alters the cellular microenvironment, affecting the accuracy of quantitative analysis of lipid droplet proportion. We adopted dual Bessel beams to excite CARS signals, increasing the depth of field by 5 times and resolution by 1.17 times, enabling 3D information and volumetric Raman spectra acquisition with a single 2D scan. Detecting HeLa cells treated with gradient concentrations of doxorubicin hydrochloride via spectral phasor segmentation revealed reduced lipid droplet accumulation correlated with drug effect, supporting rapid quantitative visualization of lipid droplets and research on drug-cell interactions.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "用于评估药物-细胞相互作用的高光谱相干反斯托克斯拉曼散射体积投影显微镜",
+            "abstract_cn": "脂滴作为反映细胞生理状态的动态细胞器，不仅为细胞生命活动提供必需物质，而且其定量分析对于评价药效至关重要。相干反斯托克斯拉曼散射（CARS）显微镜具有免标记、非侵入性、高灵敏度、亚微米分辨率等成像优势，是药效评估的理想工具。然而，传统的高斯光束激发的CARS显微镜需要长时间聚焦进行3D断层扫描，耗时长，造成明显的光损伤，并且容易改变细胞微环境，影响脂滴比例定量分析的准确性。我们采用双贝塞尔光束激发CARS信号，将景深提高5倍，分辨率提高1.17倍，从而能够通过单次2D扫描获取3D信息和体积拉曼光谱。通过光谱相量分割检测用盐酸阿霉素梯度浓度处理的 HeLa 细胞，发现与药物作用相关的脂滴积累减少，支持脂滴的快速定量可视化和药物-细胞相互作用的研究。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optcon.580185",
+            "title": "Real-time monitoring of evapotranspiration dynamics through snapshot hyperspectral imaging at near-infrared",
+            "link": "https://doi.org/10.1364/optcon.580185",
+            "published": "2026-01-12",
+            "author": "Desheng Zheng, Roger McNichols, Haimu Cao, Christopher Flynn, Razvan I. Stoian, Jiawei Lu, Bruce C. Kindel, Ethan Gutmann, David Alexander, Tomasz S. Tkaczyk",
+            "summary": "Monitoring atmospheric water vapor dynamics is important for many atmospheric and hydrologic applications, ranging from weather forecasting and agricultural practices to climate impacts and flood preparedness. To improve the spatiotemporal resolution of conventional methods for monitoring water vapor dynamics, we have developed a snapshot spectral imager operating in the near-infrared range, spanning 1100 nm to 1300 nm. This imager utilizes a custom-designed fiber bundle remapping and prism dispersion technique. By covering the vapor-sensitive band at 1140 nm and the water vapor-insensitive shoulder at 1260 nm, our system holds promise for tracking water vapor dynamics across many heterogeneous environments that challenge traditional measurement techniques. Through meticulous optomechanical design, the current ruggedized configuration remains portable while maintaining an adaptive spatial sampling of approximately 35,000 locations and over 20 adaptive spectral sampling channels. Laboratory tests have validated its sensitivity, capable of detecting changes as small as 70 micrometers of precipitable water vapor. Field experiments conducted across various vegetation types have showcased the imager's efficacy and demonstrated the imager's ability to monitor temporal and spatial fluctuations in water vapor across different landscapes. Real-time mapping of water index variations holds promise for diverse applications, including atmospheric, environmental, agricultural, and solar energy research. The real-time measurements enabled by the instrument described here provide new capabilities to monitor water vapor.",
+            "journal": "Optics Continuum",
+            "title_cn": "通过近红外快照高光谱成像实时监测蒸散动态",
+            "abstract_cn": "监测大气水蒸气动态对于许多大气和水文应用非常重要，从天气预报和农业实践到气候影响和洪水防备。为了提高监测水蒸气动力学的传统方法的时空分辨率，我们开发了一种在近红外范围（跨度 1100 nm 至 1300 nm）运行的快照光谱成像仪。该成像仪采用定制设计的光纤束重新映射和棱镜色散技术。通过覆盖 1140 nm 处的水蒸气敏感波段和 1260 nm 处的水蒸气不敏感波段，我们的系统有望在挑战传统测量技术的许多异质环境中跟踪水蒸气动态。通过细致的光机械设计，当前的加固配置保持便携性，同时保持约 35,000 个位置的自适应空间采样和 20 多个自适应光谱采样通道。实验室测试验证了其灵敏度，能够检测小至 70 微米的可沉淀水蒸气的变化。在各种植被类型上进行的现场实验展示了成像仪的功效，并证明了成像仪监测不同景观中水蒸气的时间和空间波动的能力。水指数变化的实时绘图为大气、环境、农业和太阳能研究等多种应用带来了希望。此处描述的仪器实现的实时测量提供了监测水蒸气的新功能。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02733",
+            "title": "Amplitude- and Phase-Programmable Dual-Color Photonic Chip for High-Contrast Structured Illumination Microscopy",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02733",
+            "published": "2026-02-08",
+            "author": "Paolo Maran, Abhiram Rajan, Francesco Ceccarelli, Roberto Osellame, Petra Paiè, Alessia Candeo, Francesca Bragheri, Andrea Bassi",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "用于高对比度结构照明显微镜的幅度和相位可编程双色光子芯片",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c03087",
+            "title": "On-Chip Terahertz Interferometric Sensing Based on Focused Surface Plasmonic Field and Spatial Spectral Fusion Methodology",
+            "link": "https://doi.org/10.1021/acsphotonics.5c03087",
+            "published": "2026-02-09",
+            "author": "Chengwei Song, Yiming Wang, Yunyun Ji, Peng Shen, Shiqiang Zhao, Liang Ma, Xianghui Wang, Shengjiang Chang, Fei Fan",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "基于聚焦表面等离子体场和空间光谱融合方法的片上太赫兹干涉传感",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

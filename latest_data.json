@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-11 06:34:54",
+    "update_time": "2026-02-11 08:28:24",
     "word_filename": "Optical_Papers_260211.docx",
-    "total_count": 186,
+    "total_count": 190,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69358-4",
@@ -2047,6 +2047,50 @@
             "summary": "Abstract not available.",
             "journal": "IEEE Trans. Vis. Comput. Graph",
             "title_cn": "VIS 2025 会议委员会",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37289-1",
+            "title": "A federated deep learning approach for SDN security with quantum optimized feature selection and hybrid MSDC net architecture",
+            "link": "https://doi.org/10.1038/s41598-026-37289-1",
+            "published": "2026-02-10",
+            "author": "S. Rohith, G. Logeswari, K. Tamilarasi, G. Sudhakaran",
+            "summary": "Software-Defined Networking (SDN) is increasingly exposed to complex cyberattacks, requiring advanced, adaptive, and efficient intrusion detection mechanisms. This study presents LightIDS-SDN, a federated and explainable intrusion detection framework tailored for SDN environments. At its core, the system employs Dual Fitness Enhanced Quantum-Inspired Particle Swarm Optimization (DFE-GQPSO) for feature selection, which identifies the most informative network attributes while eliminating redundant or irrelevant features. This quantum-optimized feature selection significantly improves detection performance by reducing overfitting and enhancing generalization. The framework incorporates a hybrid deep learning architecture, MSDC-Net, combining Transformer layers, Capsule Networks, and BiLSTM units to capture contextual, spatial, and sequential dependencies in network traffic. Federated learning using FedAvg enables collaborative model training across multiple SDN controllers while preserving data privacy. Explainable AI modules, based on SHapley Additive exPlanations (SHAP) and Gradient-weighted Class Activation Mapping (Grad-CAM), provide both global and local interpretability, ensuring transparent and accountable decision-making. Experiments on the InSDN dataset demonstrate the effectiveness of the proposed system, achieving 98.73% accuracy, 98.80% precision, 98.65% recall, and 98.72% F1-score. Comparative analysis confirms that DFE-GQPSO outperforms traditional feature selection methods, enhancing model robustness and training efficiency. Overall, LightIDS-SDN effectively detects a wide range of SDN attacks while addressing limitations of conventional IDS approaches, including limited scalability, lack of interpretability, and computational inefficiency. This work lays the foundation for deploying quantum-optimized, explainable, and federated intrusion detection systems in SDN networks.",
+            "journal": "Scientific Reports",
+            "title_cn": "具有量子优化特征选择和混合 MSDC 网络架构的 SDN 安全联合深度学习方法",
+            "abstract_cn": "软件定义网络 (SDN) 越来越多地面临复杂的网络攻击，需要先进、自适应且高效的入侵检测机制。这项研究提出了 LightIDS-SDN，这是一个专为 SDN 环境量身定制的联合且可解释的入侵检测框架。该系统的核心采用双适应度增强量子粒子群优化 (DFE-GQPSO) 进行特征选择，可识别信息最丰富的网络属性，同时消除冗余或不相关的特征。这种量子优化的特征选择通过减少过度拟合和增强泛化能力显着提高了检测性能。该框架采用混合深度学习架构 MSDC-Net，结合 Transformer 层、胶囊网络和 BiLSTM 单元来捕获网络流量中的上下文、空间和顺序依赖性。使用 FedAvg 的联合学习可以跨多个 SDN 控制器进行协作模型训练，同时保护数据隐私。可解释的人工智能模块基于 SHapley Additive exPlanations (SHAP) 和梯度加权类激活映射 (Grad-CAM)，提供全局和本地可解释性，确保透明和负责任的决策。 InSDN 数据集上的实验证明了该系统的有效性，实现了 98.73% 的准确率、98.80% 的精确度、98.65% 的召回率和 98.72% 的 F1 分数。对比分析证实，DFE-GQPSO 优于传统的特征选择方法，增强了模型的鲁棒性和训练效率。总体而言，LightIDS-SDN 可以有效检测各种 SDN 攻击，同时解决传统 IDS 方法的局限性，包括可扩展性有限、缺乏可解释性和计算效率低下。这项工作为在 SDN 网络中部署量子优化、可解释的联合入侵检测系统奠定了基础。"
+        },
+        {
+            "id": "https://doi.org/10.1364/ao.581634",
+            "title": "High-efficiency generation of Bessel–Gaussian vortex beams using Bessel-phase-embedded fork-shaped holograms",
+            "link": "https://doi.org/10.1364/ao.581634",
+            "published": "2026-02-09",
+            "author": "Ali Mohammad Khazaei, Saifollah Rasouli, Sergey A. Ponomarenko, Davud Hebri",
+            "summary": "In this paper, we present a high-efficiency protocol for constructing pure amplitude and phase Bessel-phase-embedded fork-shaped holograms to generate Bessel–Gaussian vortex (BGV) beams. When illuminated with a Gaussian beam, these holograms produce BGV beams in the first diffraction orders. To quantify the performance of the generated beams, we introduce a quality factor that measures the degree of similarity between the generated BGV beam and an ideal BGV beam. Our results demonstrate that the proposed holograms achieve a significantly higher level of similarity compared to the conventional method of generating BGV beams, which involves the sequential use of a spiral phase plate (SPP) and an axicon or their equivalent computer-generated holograms. Additionally, we compare the diffraction efficiency of BGV beams generated using our approach for both pure amplitude and phase holograms. Phase holograms are implemented using a spatial light modulator (SLM), whereas pure amplitude holograms are printed on sheet glass or plastic substrates. The use of pure amplitude holograms offers a highly efficient, cost-effective, and straightforward method for generating BGV beams, making them an attractive alternative to traditional techniques.",
+            "journal": "Applied Optics",
+            "title_cn": "使用贝塞尔相位嵌入叉形全息图高效生成贝塞尔-高斯涡旋光束",
+            "abstract_cn": "在本文中，我们提出了一种高效协议，用于构建纯振幅和相位贝塞尔相位嵌入叉形全息图以生成贝塞尔-高斯涡旋（BGV）光束。当用高斯光束照射时，这些全息图会产生第一衍射级的 BGV 光束。为了量化生成的光束的性能，我们引入了一个品质因数来衡量生成的 BGV 光束与理想 BGV 光束之间的相似程度。我们的结果表明，与生成 BGV 光束的传统方法相比，所提出的全息图实现了显着更高的相似度，传统方法涉及顺序使用螺旋相位板（SPP）和轴棱镜或等效的计算机生成全息图。此外，我们还比较了使用我们的方法生成纯振幅全息图和相位全息图的 BGV 光束的衍射效率。相位全息图是使用空间光调制器（SLM）实现的，而纯振幅全息图则印刷在玻璃板或塑料基板上。纯振幅全息图的使用提供了一种高效、经济且简单的 BGV 光束生成方法，使其成为传统技术的有吸引力的替代方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/optica.578501",
+            "title": "Electric-magnetic-switchable free-space skyrmions in toroidal light pulses via a nonlinear metasurface",
+            "link": "https://doi.org/10.1364/optica.578501",
+            "published": "2026-01-29",
+            "author": "Li Niu, Xi Feng, Xueqian Zhang, Wangke Yu, Qingwei Wang, Yuanhao Lang, Quan Xu, Xieyu Chen, Jiajun Ma, Haidi Qiu, Yijie Shen, Weili Zhang, Jiaguang Han",
+            "summary": "Recent advances reveal that light propagation in free space supports many exotic topological textures, such as skyrmions. Their unique space–time topologies make them promising candidates as next-generation robust information carriers. Hence, the ability of switching different texture modes to serve as a manner of data transfer is in high demand. However, previous studies focus on generation of one specific mode, lacking integrated devices with externally variable and stable mode generation capability. Here, we experimentally demonstrate the realization of switchable skyrmions between electric and magnetic modes in toroidal light pulses (TLPs) using a nonlinear metasurface platform in terms of broadband terahertz (THz) generation driven by a vectorial pulse. The spatial and temporal evolutions of them are also clearly observed. Our work establishes a new paradigm, to our knowledge, for manipulating and switching topologically structured light.",
+            "journal": "Optica",
+            "title_cn": "通过非线性超表面实现环形光脉冲中的电磁可切换自由空间斯格明子",
+            "abstract_cn": "最近的进展表明，自由空间中的光传播支持许多奇异的拓扑纹理，例如斯格明子。它们独特的时空拓扑使它们成为下一代强大信息载体的有希望的候选者。因此，非常需要切换不同纹理模式作为数据传输方式的能力。然而，以往的研究主要集中于一种特定模式的生成，缺乏具有外部可变和稳定模式生成能力的集成器件。在这里，我们通过实验证明了在由矢量脉冲驱动的宽带太赫兹（THz）生成方面，使用非线性超表面平台实现了环形光脉冲（TLP）中电模式和磁模式之间可切换的斯格明子。它们的空间和时间演变也被清晰地观察到。据我们所知，我们的工作建立了一个新的范例，用于操纵和切换拓扑结构光。"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02661",
+            "title": "Sputtered AlN Buffer Layer for Low-Loss Crystalline AlN-on-Sapphire Integrated Photonics",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02661",
+            "published": "2026-02-10",
+            "author": "Samuele Brunetta, Samantha Sbarra, Brandon Shuen Yi Loke, Jean-François Carlin, Nicolas Grandjean, Camille-Sophie Brès, Raphaël Butté",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "用于低损耗晶体 AlN-on-Sapphire 集成光子学的溅射 AlN 缓冲层",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

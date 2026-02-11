@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-11 11:31:35",
+    "update_time": "2026-02-11 13:28:07",
     "word_filename": "Optical_Papers_260211.docx",
-    "total_count": 289,
+    "total_count": 294,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69358-4",
@@ -3181,6 +3181,61 @@
             "journal": "arXiv: AI & Vision (Optics)",
             "title_cn": "ConsID-Gen：视图一致且保留身份的图像到视频生成",
             "abstract_cn": "图像到视频生成 (I2V) 将静态图像按照文本指令动画化为时间连贯的视频序列，但在不断变化的视点下保留细粒度的对象身份仍然是一个持续的挑战。与文本到视频模型不同，现有的 I2V 管道经常遭受外观漂移和几何失真的影响，我们将这些伪影归因于单视图 2D 观察的稀疏性和弱的跨模式对齐。这里我们从数据和模型两个角度来解决这个问题。首先，我们策划 ConsIDVid，这是一个以可扩展管道构建的大规模以对象为中心的数据集，用于高质量、时间对齐的视频，并建立 ConsIDVid-Bench，在其中我们使用对细微几何和外观偏差敏感的指标，提出了一种新颖的多视图一致性基准测试和评估框架。我们进一步提出 ConsID-Gen，一种视图辅助的 I2V 生成框架，它通过未设置的辅助视图增强第一帧，并通过双流视觉几何编码器以及文本视觉连接器融合语义和结构线索，为 Diffusion Transformer 主干产生统一条件。 ConsIDVid-Bench 的实验表明，ConsID-Gen 在多个指标上始终表现出色，其最佳整体性能超越了 Wan2.1 和 HunyuanVideo 等领先的视频生成模型，在具有挑战性的现实场景下提供卓越的身份保真度和时间一致性。我们将在 https://myangwu.github.io/ConsID-Gen 发布我们的模型和数据集。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69324-0",
+            "title": "Phosphine-mediated hydrogen bond and phosphorescence energy transfer for tunable chiroptical afterglow in stacked polymers",
+            "link": "https://doi.org/10.1038/s41467-026-69324-0",
+            "published": "2026-02-10",
+            "author": "Zhisheng Gao, Shuai Huang, Xiaona Lian, Xin Yan, Hengyu Cao, Shuman Zhang, Peng Zhang, Qi Jia, Huanhuan Li, Hui Li, Runfeng Chen, Gaozhan Xie, Yun Ma, Ting Wang, Wei Huang, Ye Tao",
+            "summary": "Materials with polymer-doped chiral organic afterglow are of interest, but spectral diversity is limited. Here, the authors report the development of a material combining polyvinyl alcohol and phosphonic acid derivatives for materials with blue emission afterglow.",
+            "journal": "Nature Communications",
+            "title_cn": "膦介导的氢键和磷光能量转移，用于堆叠聚合物中可调手性光学余辉",
+            "abstract_cn": "具有聚合物掺杂手性有机余辉的材料令人感兴趣，但光谱多样性有限。在这里，作者报告了一种将聚乙烯醇和膦酸衍生物结合在一起的材料的开发，用于具有蓝色发射余辉的材料。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39056-8",
+            "title": "A comprehensive evaluation framework for consumer-grade EEG devices: signal quality, robustness, and usability",
+            "link": "https://doi.org/10.1038/s41598-026-39056-8",
+            "published": "2026-02-11",
+            "author": "Yeeun Lee, Daeun Gwon, Kiyoun Kim, Seokhwan Park, Semin Sohn, Minuck Choi, Minho Choi, Jang-Han Bae, Minkyu Ahn",
+            "summary": "The widespread adoption of consumer-grade electroencephalogram (EEG) devices has introduced new opportunities for applications beyond traditional clinical and laboratory settings. However, the lack of standardized evaluation methodologies for these devices raises concerns regarding their signal validity and usability. This study proposes a comprehensive evaluation paradigm for consumer-grade EEG devices, encompassing three levels of signal assessment: the detection of non-neural physiological artefacts signals, the validation of brain waves, and robustness to noise. Using a participant pool of 30 individuals, we assessed four popular consumer-grade EEG devices—BrainLink Pro, NeuroNicle FX2, Mindwave Mobile2, and Muse2—against a research-grade reference device, DSI-24 (Wearable Sensing Inc.). Experimental paradigms involved tasks such as eye blinking, jaw clenching, eyes-open/closed conditions for brain wave detection, and controlled head movements. The results indicate that all tested devices successfully detected both non-neural physiological artefacts and brain wave signals, with consumer-grade devices displaying comparable alpha rhythm characteristics and noise robustness to the research-grade device. User experience was evaluated through a structured questionnaire, revealing significantly higher usability scores for consumer-grade devices, particularly Mindwave Mobile2. The findings highlight the feasibility of using consumer-grade EEG devices for practical applications, provided that validation is performed using structured evaluation protocols as proposed.",
+            "journal": "Scientific Reports",
+            "title_cn": "消费级脑电图设备的综合评估框架：信号质量、稳健性和可用性",
+            "abstract_cn": "消费级脑电图 (EEG) 设备的广泛采用为传统临床和实验室环境之外的应用带来了新的机会。然而，这些设备缺乏标准化的评估方法，引发了对其信号有效性和可用性的担忧。本研究提出了消费级脑电图设备的综合评估范例，包括三个级别的信号评估：非神经生理伪影信号的检测、脑电波的验证以及对噪声的鲁棒性。我们使用 30 人的参与者池，对照研究级参考设备 DSI-24 (Wearable Sensing Inc.) 评估了四种流行的消费级 EEG 设备——BrainLink Pro、NeuroNicle FX2、Mindwave Mobile2 和 Muse2。实验范式涉及眨眼、咬紧牙关、睁眼/闭眼条件下脑电波检测以及受控头部运动等任务。结果表明，所有测试的设备都成功检测到非神经生理伪影和脑电波信号，消费级设备显示出与研究级设备相当的阿尔法节律特征和噪声鲁棒性。通过结构化调查问卷评估用户体验，显示消费级设备（尤其是 Mindwave Mobile2）的可用性得分明显更高。研究结果强调了使用消费级脑电图设备进行实际应用的可行性，前提是使用所提出的结构化评估协议进行验证。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114914",
+            "title": "In situ calibration of camera-refraction interface based on analytical refractive imaging equation",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114914",
+            "published": "2026-06-01",
+            "author": "Hongzhe Wang, Yang Song, Huajun Cai, Lin Bo, Boyan Zhang, Yunjing Ji, Jiancheng Lai, Zhenhua Li",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "基于解析折射成像方程的相机-折射界面原位标定",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114891",
+            "title": "LFSamba: High-efficiency light field integral imaging 3D salient object detection method based on Mamba",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114891",
+            "published": "2026-06-01",
+            "author": "Hanlin Liu, Qiang Li, Xinyang Tong, Shuya Han, Junchen Zhu, Jiqi Wang, Chenjing Han",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "LFSamba：基于Mamba的高效光场积分成像3D显着物体检测方法",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlaseng.2026.109658",
+            "title": "Non-line-of-sight human pose estimation",
+            "link": "https://doi.org/10.1016/j.optlaseng.2026.109658",
+            "published": "2026-06-01",
+            "author": "Zhongpei Xiao, Chen Dai, Ruilin Ye, Jianwei Zeng, Wenwen Li, Feihu Xu",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Lasers in Engineering",
+            "title_cn": "非视距人体姿态估计",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

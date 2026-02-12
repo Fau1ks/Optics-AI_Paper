@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-12 15:29:23",
+    "update_time": "2026-02-12 17:29:18",
     "word_filename": "Optical_Papers_260212.docx",
-    "total_count": 252,
+    "total_count": 256,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69353-9",
@@ -2774,6 +2774,50 @@
             "journal": "Optics Express",
             "title_cn": "高效U型MOS电容迈克尔逊干涉仪调制器的设计",
             "abstract_cn": "这项工作提出了一种高效、单驱动 U 形 MOS 电容器迈克尔逊干涉仪调制器。引入的U形结构可以实现光模的垂直压缩，从而在不影响串联电阻或负载电容的情况下显着提高调制效率。此外，通过采用迈克尔逊干涉仪配置，该器件通过双向光传播使有效调制长度加倍，同时保持电容不变。所设计的器件实现了 1.08 V·mm 的高调制效率，并在 2 V pp 驱动电压下实现了 50 Gbaud/s 的运行，消光比约为 2.3 dB。所提出的 U 形 MOS 电容器调制器减少了 OIO 和 CPO 发射器中对外部驱动器电路的依赖，为节能且紧凑的电光调制器提供了一种有前景的解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69122-8",
+            "title": "Self-cleaning hierarchical thermal cloak",
+            "link": "https://doi.org/10.1038/s41467-026-69122-8",
+            "published": "2026-02-12",
+            "author": "Hetao Guo, Wenzhuo Li, Liran Jing, Xiaolong Yang, Di Zhu",
+            "summary": "Thermal cloaks featuring nanoscale accuracy are limited by fabrication scalability and weak durability. Here, the authors report a hierarchical design achieved through femtosecond laser writing, which provides superior cloaking performance while maintaining robustness against harsh erosion and contaminant exposure.",
+            "journal": "Nature Communications",
+            "title_cn": "自洁分层保暖斗篷",
+            "abstract_cn": "具有纳米级精度的热斗篷受到制造可扩展性和耐用性较弱的限制。在这里，作者报告了通过飞秒激光写入实现的分层设计，该设计提供了卓越的隐身性能，同时保持了针对严酷侵蚀和污染物暴露的鲁棒性。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.132999",
+            "title": "Dual-Iodine-Cell Brillouin LiDAR for Ocean Temperature Profile Estimation Based on Flight Data",
+            "link": "https://doi.org/10.1016/j.optcom.2026.132999",
+            "published": "2026-02-01",
+            "author": "Fu Yang, Luqiang Liang, Wenqun Wang, Chunhe Hou, Yan He",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "基于飞行数据的双碘电池布里渊激光雷达海洋温度剖面估算",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optcom.2026.133010",
+            "title": "Infrared Radiation Fails to Promote Reverse Intersystem Crossing in Thermally Activated Delayed Fluorescence Emitters",
+            "link": "https://doi.org/10.1016/j.optcom.2026.133010",
+            "published": "2026-02-01",
+            "author": "Oleg Dimitriev, Alexander Fedoryak, Dmytro Grynko, Dovydas Blazevicius, Gintare Krucaite, Saulius Grigalevicius",
+            "summary": "Abstract not available.",
+            "journal": "Optics Communications",
+            "title_cn": "红外辐射无法促进热激活延迟荧光发射体中的反向系间窜越",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.585018",
+            "title": "Tunable-laser-enabled hybrid wavelength-scanning interferometry toward temperature-compensated acoustic pressure sensing",
+            "link": "https://doi.org/10.1364/oe.585018",
+            "published": "2026-01-30",
+            "author": "Qiang Liu, Jia Zhou, Dongdong Lin, Jingzhan Shi, Dan Zhu, Na Zhang, Yiping Wang",
+            "summary": "Fiber-optic acoustic sensors are vital in structural health monitoring, photoacoustic spectroscopy, and biomedical applications. Achieving simultaneous measurement of quasi-static temperature and dynamic acoustic vibration with effective decoupling remains challenging. In this work, we propose an integrated fiber-optic sensor probe with dual Fabry-Perot (FP) cavities: a silicon-based cavity for temperature sensing and a diaphragm-based air cavity for acoustic pressure sensing. A novel hybrid interferometry is introduced, employing programmable modulation of a tunable Modulated grating Y-branch (MG-Y) laser to combine coarse wavelength scanning (20 kHz) at 1530 nm for acoustic measurement and dense wavelength scanning (10 Hz) at 1550 nm for temperature measurement, using a single demodulation system. Experimental results demonstrate a linear temperature response ( R 2 =0.996) from 27°C to 56°C. Crucially, by leveraging real-time temperature compensation, the maximum acoustic pressure measurement error was reduced from 28.4% to 4.6%, validating the system’s efficacy in high-precision, temperature-compensated acoustic metrology.",
+            "journal": "Optics Express",
+            "title_cn": "可调谐激光混合波长扫描干涉测量技术实现温度补偿声压传感",
+            "abstract_cn": "光纤声学传感器在结构健康监测、光声光谱和生物医学应用中至关重要。通过有效解耦实现准静态温度和动态声振动的同时测量仍然具有挑战性。在这项工作中，我们提出了一种具有双法布里-珀罗（FP）腔的集成光纤传感器探头：用于温度传感的硅基腔和用于声压传感的基于隔膜的空气腔。引入了一种新颖的混合干涉测量法，采用可调谐调制光栅 Y 分支 (MG-Y) 激光器的可编程调制，使用单个解调系统将用于声学测量的 1530 nm 的粗波长扫描 (20 kHz) 和用于温度测量的 1550 nm 的密集波长扫描 (10 Hz) 结合起来。实验结果表明，在 27°C 至 56°C 范围内具有线性温度响应 (R 2 =0.996)。至关重要的是，通过利用实时温度补偿，最大声压测量误差从 28.4% 降低至 4.6%，验证了系统在高精度、温度补偿声学计量中的功效。"
         }
     ]
 }

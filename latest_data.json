@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-12 06:32:37",
+    "update_time": "2026-02-12 08:27:38",
     "word_filename": "Optical_Papers_260212.docx",
-    "total_count": 142,
+    "total_count": 143,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69353-9",
@@ -1564,6 +1564,17 @@
             "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
             "title_cn": "用于多语言情感分析的个性化且保护隐私的联合 Transformer 框架",
             "abstract_cn": "用于多语言情感分析的个性化联合学习因语言异质性、非独立同分布数据分布和严格的隐私要求而带来了重大挑战。本文提出了 FedPerX，一种联合变压器框架，它将基于残差适配器的个性化与自适应多粒度差分隐私集成在一起。该架构利用冻结的多语言主干（XLM-R），同时使每个客户端能够训练轻量级、特定于客户端的适配器。通过在功能和适配器级别上进行动态噪声注入来加强隐私，并使用梯度灵敏度进行校准。 FedPerX 根据两个多语言基准（MARC 和 TSMD）进行评估，涵盖十多种语言的结构化评论和非正式社交媒体内容。实验结果表明，与七个最先进的基线相比，得到了一致的改进，宏观 F1 的增益高达 +4.3%，通信开销减少了 70%，客户端级别性能的差异最小。综合分析，包括公平性、个性化差距、隐私与效用权衡以及消融研究，验证了该框架的稳健性和适应性。 FedPerX 推进了可扩展、个性化和隐私保护模型的设计，用于联合多语言情感分析。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-68543-9",
+            "title": "Genome-wide discovery and phenotyping of non-coding transcripts in A. fumigatus reveals lncRNAs with a role in antifungal drug sensitivity",
+            "link": "https://doi.org/10.1038/s41467-026-68543-9",
+            "published": "2026-02-11",
+            "author": "Danielle Weaver, Tanda Qi, Harry Chown, Marcin Fraczek, Ressa Lebedinec, Lauren Dineen, Clara Valero, Norman van Rhijn, Takanori Furukawa, Michael Bromley, Daniela Delneri, Paul Bowyer",
+            "summary": "Abstract Recent data suggests one fungus, Aspergillus fumigatus , causes more deaths annually than HIV or malaria combined. Coupled with rapid emergence of antifungal drug resistance, the limited range of effective treatments, and mortality rates of >50%, aspergillosis represents a major challenge in infectious diseases. Recent studies have identified long-noncoding RNAs (lncRNAs) involved in drug resistance and virulence in pathogenic yeasts such as Candida spp. However, there is very limited knowledge of lncRNAs in human pathogenic moulds, including A. fumigatus . Here we exploit transcriptomics data of A. fumigatus exposed to different environments to annotate transcripts mapping to 2388 genomic loci. After manual curation we generate a database of over 1000 lncRNAs. We observe that the lncRNAs display orchestrated transcriptional profiles upon drug treatment and many are proximal to genes involved in azole sensitivity. We knock out a set of intergenic lncRNAs and perform a large-scale phenotypic analysis to identify 60 lncRNA mutants displaying condition-dependent fitness changes with 35 mutants exhibiting a positive growth phenotype under azole stress. Overall, this study generates and experimentally validates an important resource that will enable the wider research community to increase understanding of the functional importance of lncRNAs in A. fumigatus , including their involvement in drug sensitivity.",
+            "journal": "Nature Communications",
+            "title_cn": "烟曲霉非编码转录物的全基因组发现和表型分析揭示了 lncRNA 在抗真菌药物敏感性中的作用",
+            "abstract_cn": "摘要：最近的数据表明，一种真菌烟曲霉每年造成的死亡人数比艾滋病毒或疟疾造成的死亡人数总和还要多。加上抗​​真菌药物耐药性的迅速出现、有效治疗的范围有限以及> 50%的死亡率，曲霉病是传染病领域的一个重大挑战。最近的研究发现，长链非编码 RNA (lncRNA) 与念珠菌等病原酵母菌的耐药性和毒力有关。然而，对包括烟曲霉在内的人类致病霉菌中的 lncRNA 的了解非常有限。在这里，我们利用暴露于不同环境的烟曲霉的转录组学数据来注释映射到 2388 个基因组位点的转录本。经过手动管理后，我们生成了包含 1000 多个 lncRNA 的数据库。我们观察到，lncRNA 在药物治疗后显示出精心设计的转录谱，其中许多接近于涉及唑类敏感性的基因。我们敲除一组基因间lncRNA并进行大规模表型分析，以确定60个lncRNA突变体表现出条件依赖性适应性变化，其中35个突变体在唑胁迫下表现出正生长表型。总体而言，这项研究产生并通过实验验证了一个重要资源，使更广泛的研究界能够加深对烟曲霉中 lncRNA 功能重要性的理解，包括它们与药物敏感性的关系。"
         }
     ]
 }

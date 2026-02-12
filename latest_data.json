@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-12 13:28:09",
+    "update_time": "2026-02-12 15:29:23",
     "word_filename": "Optical_Papers_260212.docx",
-    "total_count": 240,
+    "total_count": 252,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69353-9",
@@ -2642,6 +2642,138 @@
             "journal": "Optics Express",
             "title_cn": "光栅调谐外腔量子级联激光器的频率和强度噪声",
             "abstract_cn": "量子级联激光器 (QCL) 是半导体异质结构器件，以其在中红外和太赫兹光谱区域的发射而闻​​名。由于其工作方式，其固有线宽比双极半导体激光器要窄得多。在这里，我们证明，通过实现基于商用衍射光栅的外腔（EC）配置，我们成功地诱导了法布里-珀罗 QCL 以单模发射，波长范围在 4.29-4.44 {μ}m 范围内广泛可调。这种非常简单的设置增强了激光器在阈值电流和发射功率方面的性能。我们进一步证明 EC 配置对激光器的噪声特性有积极影响。特别是，本征线宽显着减小，全线宽也减小（取决于积分时间尺度），并且相对强度噪声略有减小。这些在整个调谐范围内保持的特性使 EC-QCL 成为高度需要宽可调性和窄线宽的光谱学应用的良好候选者。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69333-z",
+            "title": "Proprioceptive limit detectors contribute to sensorimotor control of the Drosophila leg",
+            "link": "https://doi.org/10.1038/s41467-026-69333-z",
+            "published": "2026-02-12",
+            "author": "Brandon G. Pratt, Chris J. Dallmann, Grant M. Chou, Igor Siwanowicz, Sarah Walling-Bell, Andrew Cook, Anne Sustar, Anthony Azevedo, John C. Tuthill",
+            "summary": "Abstract Many animals possess mechanosensory neurons that fire when a limb nears the limit of its physical range, but the function of these proprioceptive limit detectors remains poorly understood. Here, we investigate a class of proprioceptors on the Drosophila leg called hair plates. Using calcium imaging in behaving flies, we find that a hair plate on the fly coxa (CxHP8) detects the limits of anterior leg movement. By reconstructing CxHP8 axons in an electron microscopy dataset, we found that they are wired to excite posterior leg movement and inhibit anterior leg movement. Consistent with this connectivity, optogenetic activation of CxHP8 neurons elicited posterior postural reflexes, while silencing altered the swing-to-stance transition during walking. Finally, we use comprehensive reconstruction of peripheral morphology and downstream connectivity to predict the function of other hair plates distributed across the fly leg. Our results suggest that each hair plate is specialized to control specific sensorimotor reflexes that are matched to the joint limit it detects. They also illustrate the feasibility of predicting sensorimotor reflexes from a connectome with identified proprioceptive inputs and motor outputs.",
+            "journal": "Nature Communications",
+            "title_cn": "本体感觉极限探测器有助于果蝇腿部的感觉运动控制",
+            "abstract_cn": "摘要 许多动物都拥有机械感觉神经元，当肢体接近其物理范围的极限时，这些神经元就会放电，但这些本体感觉极限探测器的功能仍然知之甚少。在这里，我们研究了果蝇腿部的一类本体感受器，称为毛板。通过对行为苍蝇的钙成像，我们发现苍蝇基部的毛板（CxHP8）可以检测前腿运动的极限。通过在电子显微镜数据集中重建 CxHP8 轴突，我们发现它们可以刺激后腿运动并抑制前腿运动。与这种连接性一致，CxHP8 神经元的光遗传学激活引发了后姿势反射，而沉默则改变了行走过程中从摆动到站立的转变。最后，我们利用外围形态和下游连接的综合重建来预测分布在果蝇腿上的其他毛板的功能。我们的结果表明，每个发盘都专门用于控制与其检测到的关节限制相匹配的特定感觉运动反射。他们还说明了通过识别本体感受输入和运动输出的连接组预测感觉运动反射的可行性。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69516-8",
+            "title": "Visible-light-triggered exclusive bistable E/Z photoswitching based on sterically frustrated dicyanostilbene derivatives",
+            "link": "https://doi.org/10.1038/s41467-026-69516-8",
+            "published": "2026-02-12",
+            "author": "Huiqin Bi, Yanyu Zhao, Shengyong Deng, Xinwei Zhang, Peifa Wei",
+            "summary": "Developing thermally stable photoswitches with precise control over reaction pathways and responsiveness remains challenging. Here, the authors report sterically frustrated dicyanostilbene-based photoswitches that achieve visible-light-triggered E/Z photoisomerization in both solution and aggregated states.",
+            "journal": "Nature Communications",
+            "title_cn": "基于空间受挫二氰基芪衍生物的可见光触发独特双稳态 E/Z 光开关",
+            "abstract_cn": "开发能够精确控制反应路径和响应能力的热稳定光电开关仍然具有挑战性。在这里，作者报告了基于空间受阻二氰基芪的光开关，该光开关在溶液和聚集状态下实现了可见光触发的 E/Z 光异构化。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69069-w",
+            "title": "Colonic spatial single-cell proteomics and murine models link mitochondrial dysfunction to dimeric IgA-secreting plasma cell deficiency in Crohn’s disease",
+            "link": "https://doi.org/10.1038/s41467-026-69069-w",
+            "published": "2026-02-12",
+            "author": "Annika Raschdorf, Larissa Nogueira de Almeida, Philipp Solbach, Martha M. Kirstein, Jens U. Marquardt, Franziska Schmelter, Ulrich L. Günther, Heidi Schlichting, Maren Hicken, Lea Christiansen, Miriam Wiestler, Hauke C. Tews, Dominik Bettenworth, Alexander Katalinic, Martina Oberländer, Ruth Deck, Holger Sültmann, Nikolas von Bubnoff, Tobias Hutzenlaub, Peter Jülg, Dominik Burziwoda, Matthias Peipp, Thomas Valerius, Mohab Ragab, Thorben Sauer, Timo Gemoll, Marc Ehlers, Philip Rosenstiel, Rudolf A. Manz, Axel Künstner, Hauke Busch, Christian Sina, Stefanie Derer",
+            "summary": "Abstract Secretory IgA (SIgA) is critical for maintaining the intestinal barrier. A dysregulated B-cell compartment and altered Ig secretion have been well documented in Crohn’s disease (CD) patients, although their origin is unknown. To unravel the role of mucosal humoral immunity in CD pathogenesis, we in-depth phenotype colonic plasma cell (PC) differentiation in CD at the single-cell level, linked to ex vivo functional characterization and experimental mouse models with a congenital mitochondrial defect or under glucose-free high-protein dietary intervention. Here, we demonstrate that despite expanded colonic B cells, CD patients in remission present significantly diminished mucosal dimeric IgA and fecal SIgA. Colonic plasmablasts and immature CD19 + CD45 + PCs are increased at the expense of the mature CD19 - CD45 - phenotype. Accordingly, CD-derived ex vivo differentiated PCs display impaired maturation into dimeric IgA-secreting PCs. In this study, patient-derived data from colonic RNA-seq, spatial single-cell proteomics, and plasma metabolomics are combined with data from both mouse models and highlight the crucial role of mitochondrial oxidative phosphorylation in colonic IgA + -PC differentiation, suggesting promising directions for future therapeutic strategies.",
+            "journal": "Nature Communications",
+            "title_cn": "结肠空间单细胞蛋白质组学和小鼠模型将线粒体功能障碍与克罗恩病中二聚体 IgA 分泌浆细胞缺陷联系起来",
+            "abstract_cn": "摘要 分泌型 IgA (SIgA) 对于维持肠道屏障至关重要。克罗恩病 (CD) 患者的 B 细胞区室失调和 Ig 分泌改变已得到充分记录，但其起源尚不清楚。为了揭示粘膜体液免疫在 CD 发病机制中的作用，我们在单细胞水平上深入分析了 CD 中结肠浆细胞 (PC) 的分化表型，并与离体功能表征和先天性线粒体缺陷或无葡萄糖高蛋白饮食干预下的实验小鼠模型相关。在这里，我们证明，尽管结肠 B 细胞增多，但缓解期 CD 患者的粘膜二聚体 IgA 和粪便 SIgA 显着减少。结肠浆母细胞和未成熟的 CD19 + CD45 + PC 的增加是以成熟 CD19 - CD45 - 表型为代价的。因此，CD衍生的离体分化PC显示出成熟为二聚体IgA分泌PC的受损。在这项研究中，来自结肠 RNA-seq、空间单细胞蛋白质组学和血浆代谢组学的患者数据与两种小鼠模型的数据相结合，强调了线粒体氧化磷酸化在结肠 IgA + -PC 分化中的关键作用，为未来的治疗策略提出了有希望的方向。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39588-z",
+            "title": "Electron and focused ion beam microscopy of fossilized Albertosaurus sarcophagus (Dinosauria: Theropoda) bone reveals nano to microscale features",
+            "link": "https://doi.org/10.1038/s41598-026-39588-z",
+            "published": "2026-02-12",
+            "author": "Alyssa Williams, Dirk Schumann, Jordan C. Mallon, Michael W. Phaneuf, Nabil Bassim, Kathryn Grandfield",
+            "summary": "Osteohistological investigations of fossilized bone can reveal details about the specimen’s biological, geological and environmental conditions. Micro-to-nanoscale imaging provides insight into the structural organization of bone and can also reveal indicators of the fossilization process. We examined a petrographic thin section of the left fibula of a ~ 71.5 million-year-old Albertosaurus sarcophagus (Canadian Museum of Nature [CMN] catalogue number FV 11315) using nanoscale scanning electron microscopy (SEM) and focused ion beam (FIB)-SEM tomographic imaging to study the arrangement of mineral and organic components of fossil bone in multidimensions. Here, we present evidence of permineralization in Haversian canals by energy dispersive X-ray spectroscopy. Nanoscale 3D FIB-SEM imaging revealed that the characteristic 67 nm banding periodicity of collagen fibrils was remarkably well preserved over 70 M years, and 3D imaging allowed for the detection of collagen fibril bundles in parallel fibered and lamellar bone arrangements. A newly discovered structure in modern bone, the ellipsoidal mineral cluster, was tiled throughout the 3D space of fibrolamellar fossil bone. These observations, afforded by the high-resolution and site-specific nature of FIB-SEM, link key fossilized features with the micro-nanoscale structure of modern-day bone. This investigation highlights the persistence of bone formation and organization persisting for over millions of years.",
+            "journal": "Scientific Reports",
+            "title_cn": "艾伯塔龙石棺（恐龙：兽脚亚目）骨骼化石的电子和聚焦离子束显微镜揭示了纳米到微米尺度的特征",
+            "abstract_cn": "对骨骼化石进行骨组织学研究可以揭示标本的生物、地质和环境条件的详细信息。微纳米级成像可以深入了解骨骼的结构组织，还可以揭示化石过程的指标。我们使用纳米级扫描电子显微镜 (SEM) 和聚焦离子束 (FIB)-SEM 断层扫描成像检查了约 7150 万年前的阿尔伯塔龙石棺（加拿大自然博物馆 ​​[CMN] 目录号 FV 11315）的左腓骨岩相薄切片，以研究化石骨中矿物和有机成分的多维排列。在这里，我们通过能量色散 X 射线光谱法提供了哈弗运河的全矿化证据。纳米级 3D FIB-SEM 成像显示，胶原原纤维的 67 nm 带状周期性特征在 70 M 年的时间里保存得非常好，并且 3D 成像可以检测平行纤维和板层骨排列中的胶原原纤维束。现代骨骼中新发现的一种结构，即椭圆体矿物簇，平铺在纤维层状化石骨骼的整个 3D 空间中。这些观察结果由 FIB-SEM 的高分辨率和位点特异性提供，将关键化石特征与现代骨骼的微纳米结构联系起来。这项研究强调了骨形成和组织的持久性持续了数百万年。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36875-7",
+            "title": "A novel composite of chitosan and Bacillus subtilis exopolysaccharide for the removal of methylene blue from aqueous solutions",
+            "link": "https://doi.org/10.1038/s41598-026-36875-7",
+            "published": "2026-02-12",
+            "author": "Mohamed Hemida Abd-Alla, Elhagag A. Hassan, Esraa A. Mohammed, Shymaa R. Bashandy",
+            "summary": "Dye pollution in water poses serious health and ecological risks, requiring wastewater treatment before discharge and prompting increased research attention due to the widespread use of dyes in various industries. This study investigates the biosorption of methylene blue (MB) using a novel composite of chitosan and Bacillus subtilis exopolysaccharides (EPS). Fourier-transform infrared spectroscopy (FTIR) analysis confirmed the presence of essential functional groups for dye adsorption. The biosorption process was pH-dependent, with optimal removal efficiencies at pH 6 for the chitosan/EPS composite and pH 7 for chitosan alone, showing increased adsorption capacity with rising pH from 3.0 to 7.0. Contact time experiments demonstrated efficient MB removal in approximately 30 min, achieving decolorization rates of 71.6% for the composite and 60.62% for chitosan. The composite also demonstrated a higher maximum biosorption capacity (14.26 mg g−1) than chitosan (13.70 mg g−1) according to the Langmuir isotherm model, which best described the monolayer adsorption process. Kinetic analyses revealed that the pseudo-second order model best described the adsorption process, with calculated capacities closely matching experimental values (41.67 mg g−1 for chitosan and 45.87 mg g−1 for the composite). Post-adsorption FTIR results revealed involvement of –OH, –NH, –COO−, and –PO₄³− groups via electrostatic, hydrogen-bonding, and π–π interactions, confirming the interaction between MB and functional groups on the biosorbents. These findings highlight the synergistic effect of combining chitosan with EPS, resulting in a promising, efficient, and rapidly equilibrating biosorbent for mitigating dye pollution in wastewater. This work presents the first reported use of Bacillus subtilis exopolysaccharide combined with chitosan as a fully biodegradable composite biosorbent, exhibiting superior adsorption capacity (14.26 mg g−1), markedly faster kinetics (K₂ = 0.176 g mg−¹ min−¹), and equilibrium attainment within 30 min compared to pristine chitosan and most reported biopolymer-based adsorbents. Optimizing biosorption conditions can enhance dye removal efficiencies and contribute to sustainable environmental management practices.",
+            "journal": "Scientific Reports",
+            "title_cn": "壳聚糖和枯草芽孢杆菌胞外多糖的新型复合物用于去除水溶液中的亚甲基蓝",
+            "abstract_cn": "水中的染料污染造成严重的健康和生态风险，需要在排放前对废水进行处理，并且由于染料在各个行业的广泛使用，引起了越来越多的研究关注。本研究使用壳聚糖和枯草芽孢杆菌胞外多糖 (EPS) 的新型复合物研究亚甲基蓝 (MB) 的生物吸附。傅里叶变换红外光谱 (FTIR) 分析证实了染料吸附所必需的官能团的存在。生物吸附过程依赖于 pH 值，壳聚糖/EPS 复合材料在 pH 6 时具有最佳去除效率，单独壳聚糖在 pH 7 时具有最佳去除效率，随着 pH 从 3.0 升至 7.0，吸附能力增加。接触时间实验表明，在大约 30 分钟内即可有效去除 MB，复合材料的脱色率为 71.6%，壳聚糖的脱色率为 60.62%。根据朗缪尔等温线模型，该复合材料还表现出比壳聚糖（13.70 mg g−1）更高的最大生物吸附能力（14.26 mg g−1），该模型最好地描述了单层吸附过程。动力学分析表明，伪二阶模型最好地描述了吸附过程，计算出的容量与实验值非常匹配（壳聚糖为 41.67 mg g−1，复合材料为 45.87 mg g−1）。吸附后 FTIR 结果显示，–OH、–NH、–COO− 和 –PO₄³− 基团通过静电、氢键和 π-π 相互作用参与其中，证实了 MB 与生物吸附剂上的官能团之间的相互作用。这些发现强调了壳聚糖与 EPS 结合的协同效应，从而产生一种有前途、高效且快速平衡的生物吸附剂，用于减轻废水中的染料污染。这项工作首次报道了将枯草芽孢杆菌胞外多糖与壳聚糖结合作为完全可生物降解的复合生物吸附剂，与原始壳聚糖和大多数报道的基于生物聚合物的吸附剂相比，表现出优异的吸附能力（14.26 mg g−1）、明显更快的动力学（K2 = 0.176 g mg−1 min−1），并在 30 分钟内达到平衡。优化生物吸附条件可以提高染料去除效率并有助于可持续的环境管理实践。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37408-y",
+            "title": "Geochemistry of middle jurassic coal-bearing strata from the Xingmei Mine, Xinjiang, and the origin of localized barium enrichment",
+            "link": "https://doi.org/10.1038/s41598-026-37408-y",
+            "published": "2026-02-12",
+            "author": "Yuanzhe Wu, Qingfeng Lu, Wenfeng Wang, Fengjun Shao, Wenlong Wang, Hayerhan Xadethan",
+            "summary": "Research on the geochemical characteristics of coal-bearing strata in the Yanqi Coalfield, Xinjiang, remains limited. This study investigates the No. 8− 2 coal seam and its adjacent strata in the Xingmei Mine, which is located in the Yanqi Coalfield, using mineralogical and geochemical methods to characterize its composition, constrain provenance, and clarify the causes of localized barium enrichment. The coal is characterized by low ash and sulfur, high volatile matter, and is dominated by quartz, kaolinite, and pyrite. Trace element analysis reveals that Ba is slightly enriched in the coal samples, whereas it is enriched in the surrounding roof, parting, and floor samples. Provenance analysis suggests detrital input mainly from the central and south Tianshan region. Paleoenvironmental proxies reveal a humid–arid–humid climate shift from roof to coal to floor, with redox transitions from dysoxic to weakly reducing–oxidizing, returning to dysoxic conditions, under freshwater and terrigenous input. Elevated Ba concentrations are observed in samples collected near the coal–roof/floor interfaces, including XM-5P (15,826 µg/g) and XM-13 (3,071 µg/g), hosted in barite. Barite likely formed under freshwater conditions, high ash content, transitional contact zones, and Ba²⁺ supply from sediment provenance, with SO₄²⁻ most likely derived from acid rain.",
+            "journal": "Scientific Reports",
+            "title_cn": "新疆兴美矿中侏罗统煤层地球化学及局部钡富集成因",
+            "abstract_cn": "新疆焉耆煤田含煤地层地球化学特征研究还很有限。本研究以焉耆煤田兴梅矿8−2号煤层及邻区地层为研究对象，采用矿物学和地球化学方法表征其成分，制约物源，明确钡局部富集的原因。煤的特点是低灰分、低硫、高挥发分，以石英、高岭石、黄铁矿为主。微量元素分析表明，Ba在煤样中略有富集，而在周围顶板、煤缝和底板样品中富集。物源分析表明碎屑输入主要来自中天山和南天山地区。古环境代理揭示了湿润-干旱-潮湿气候从屋顶到煤炭到地面的转变，在淡水和陆地输入下，氧化还原从缺氧过渡到弱还原-氧化，再回到缺氧条件。在煤-顶板/底板界面附近采集的样品中观察到 Ba 浓度升高，其中包括重晶石中的 XM-5P (15,826 µg/g) 和 XM-13 (3,071 µg/g)。重晶石很可能是在淡水条件、高灰分含量、过渡接触带和来自沉积物来源的 Ba²⁺ 供应下形成的，而 SO₄²⁻ 最有可能来自酸雨。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39440-4",
+            "title": "Population genomics identifies Italian and North American origins of Popillia japonica in Switzerland",
+            "link": "https://doi.org/10.1038/s41598-026-39440-4",
+            "published": "2026-02-12",
+            "author": "Chiara Pedrazzini, Rebecca Funari, Claudio Cucini, Francesco Nardi, Giselher Grabenweger, Franco Widmer, Jürg Enkerli",
+            "summary": "Abstract The Japanese beetle ( Popillia japonica ), native to Japan, is a major invasive species in North America and Europe. Its colonization of Europe began on the Azores (1970s), followed by Italy (2014) and southern Switzerland (2017). In 2023, the presence of the pest was reported in three areas of Switzerland: Kloten (Canton of Zürich, north-eastern Switzerland), Basel (Canton of Basel-Landschaft, northern Switzerland), and in eastern Canton of Valais (South Switzerland) near the Italian border. In 2024, P. japonica individuals were discovered in several other Swiss Cantons. To trace P. japonica spread and origins in Switzerland, we investigated 42 individuals from infested areas, comprising scattered findings across Switzerland. Phylogenetic and population structure analyses using whole-genome resequencing, including data of previously sequenced samples from Japan, North America, the Azores, Italy, and Southern Switzerland, revealed distinct P. japonica migration patterns. Populations in Basel, Valais, and central Switzerland likely originated from Ticino/Northern Italy via road or rail transport. Conversely, the population near Zürich Airport was identified as an independent introduction from North America, likely through unintentional air transport. These findings offer insights into P. japonica spread across Switzerland, highlighting the need for enhanced monitoring and identification of invasion pathways.",
+            "journal": "Scientific Reports",
+            "title_cn": "群体基因组学鉴定了瑞士金龟子的意大利和北美起源",
+            "abstract_cn": "摘要 日本甲虫（Popillia japonica）原产于日本，是北美和欧洲的主要入侵物种。它对欧洲的殖民化始于亚速尔群岛（1970 年代），随后是意大利（2014 年）和瑞士南部（2017 年）。 2023年，瑞士的三个地区报告了该害虫的存在：克洛滕（瑞士东北部苏黎世州）、巴塞尔（瑞士北部巴塞尔乡村州）和靠近意大利边境的瓦莱州东部（瑞士南部）。 2024 年，在瑞士其他几个州也发现了 P. japonica 个体。为了追踪日本 P. japonica 在瑞士的传播和起源，我们对来自受感染地区的 42 个人进行了调查，其中包括瑞士各地的分散发现。使用全基因组重测序进行的系统发育和种群结构分析，包括先前测序的来自日本、北美、亚速尔群岛、意大利和瑞士南部样本的数据，揭示了不同的 P. japonica 迁徙模式。巴塞尔、瓦莱州和瑞士中部的人口可能来自提契诺州/意大利北部，通过公路或铁路运输。相反，苏黎世机场附近的人口被确定为从北美独立引进的，可能是通过无意的航空运输。这些发现提供了对日本稻在瑞士传播的见解，强调了加强监测和识别入侵途径的必要性。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114899",
+            "title": "A Non-Contact method for plasma state perception in laser shock peening using Acoustic-Visual signal fusion",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114899",
+            "published": "2026-06-01",
+            "author": "Guangyuan Shi, Junlin Chen, Qi Qi, Shilei Xiong, Yuanbin Wang, Minchao Cui, Ming Luo",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "利用声光信号融合进行激光冲击喷丸等离子体状态感知的非接触方法",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.583695",
+            "title": "Polarization-controlled dual-mode quasi-bound states in the continuum in terahertz all-metallic metasurfaces",
+            "link": "https://doi.org/10.1364/oe.583695",
+            "published": "2026-01-28",
+            "author": "Rui Du, Jiabo Wang, Feng Wu, Lin Chen, Dejun Liu, Duo Cao, Weijie Du",
+            "summary": "Here, polarization-controlled bound states in the continuum (BICs) are demonstrated in all-metallic metasurfaces based on complementary periodic cross-shaped resonators (CPCRs) through varying polarization angles, enabling tunable switching between BICs and quasi-BICs. The CPCR features four slits extending from its center, endowing it with highly flexible structural tunability that can be exploited to break symmetry by adjusting the slit length. A simultaneous adjustment of two slit lengths enables the realization of quasi-BICs in both transverse electric (TE) and transverse magnetic (TM) waves. When two slits have equal length, such quasi-BICs show polarization dependence, emerging at a certain angle, disappearing with increasing angle, and then recurring at π intervals. This cyclic pattern persists for slits of unequal lengths. At a critical polarization angle, the electric field alignment transitions to in-phase, confirming the transformation of quasi-BICs to accidental BICs. The polarization angle regulates the transition between these states, enabling the engineering of quasi-BICs with promising applications in the development of filters, sensors, and detectors operating at terahertz frequencies or other spectral bands.",
+            "journal": "Optics Express",
+            "title_cn": "太赫兹全金属超表面连续体中偏振控制的双模准束缚态",
+            "abstract_cn": "在这里，通过不同的偏振角度，在基于互补周期性十字形谐振器（CPCR）的全金属超表面中演示了连续体中的偏振控制束缚态（BIC），从而实现了 BIC 和准 BIC 之间的可调切换。 CPCR 具有从中心延伸的四个狭缝，赋予其高度灵活的结构可调性，可通过调整狭缝长度来打破对称性。同时调整两个狭缝长度可以实现横向电 (TE) 和横向磁 (TM) 波中的准 BIC。当两个狭缝长度相等时，这种准BIC表现出偏振依赖性，在一定角度出现，随着角度增加而消失，然后以π间隔重复出现。对于长度不等的狭缝，这种循环模式仍然存在。在临界极化角处，电场排列转变为同相，证实了准 BIC 向意外 BIC 的转变。偏振角调节这些状态之间的转变，使得准 BIC 的工程在太赫兹频率或其他频段工作的滤波器、传感器和探测器的开发中具有广阔的应用前景。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.567787",
+            "title": "Compressive spectral video by dynamic spatial-spectral-temporal windowed codification",
+            "link": "https://doi.org/10.1364/oe.567787",
+            "published": "2026-01-26",
+            "author": "David Morales-Norato, Andrés Jerez, Miguel Marquez, Henry Arguello, Esteban Vera, Pablo Meza",
+            "summary": "Snapshot compressive imaging has emerged as a powerful framework for acquiring high-dimensional data efficiently in a single exposure. Despite significant advances in spectral and temporal imaging, capturing a full-spectral video in a single snapshot remains challenging, as conventional approaches typically rely on multiple acquisitions to separately capture spectral and temporal dimensions. To address this limitation, we propose a single-shot compressed dynamic color-coded spectral video system that employs a windowed temporal encoding approach that improves pixel-intensity uniformity and dynamic range. The proposed compressive coding scheme synchronizes a liquid crystal tunable filter with a coded aperture device to encode and acquire the spectral video within a fixed exposure time. We develop and implement a plug-and-play alternating-direction multiplier method (PnP-ADMM) to efficiently recover the four-dimensional data cubes. Extensive simulations and proof-of-concept experiments demonstrate the effectiveness of the proposed system in capturing and reconstructing compressed spectral video efficiently.",
+            "journal": "Optics Express",
+            "title_cn": "通过动态空间-光谱-时间窗口编码压缩光谱视频",
+            "abstract_cn": "快照压缩成像已成为在单次曝光中有效获取高维数据的强大框架。尽管光谱和时间成像取得了重大进展，但在单个快照中捕获全光谱视频仍然具有挑战性，因为传统方法通常依赖于多次采集来分别捕获光谱和时间维度。为了解决这一限制，我们提出了一种单次压缩动态颜色编码光谱视频系统，该系统采用窗口时间编码方法来提高像素强度均匀性和动态范围。所提出的压缩编码方案将液晶可调谐滤波器与编码孔径装置同步，以在固定曝光时间内编码和获取光谱视频。我们开发并实现了一种即插即用的交替方向乘法器方法（PnP-ADMM）来有效地恢复四维数据立方体。广泛的模拟和概念验证实验证明了所提出的系统在有效捕获和重建压缩光谱视频方面的有效性。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.586306",
+            "title": "Breaking the Nyquist limit: superlinear range extension in FMCW lidar via co-prime phase resampling and the Chinese remainder theorem",
+            "link": "https://doi.org/10.1364/oe.586306",
+            "published": "2026-02-02",
+            "author": "Zheng Wang, Dengfeng Dong, Zhizhong Zhu, Rongyi Ji, Zihang Xiao, Haozhu Lv, Guizhe Xu, Weiguang Huang, Weihu Zhou",
+            "summary": "Frequency-modulated continuous-wave (FMCW) lidar offers high precision and the capability for non-cooperative target sensing. However, its performance is critically limited by laser frequency modulation nonlinearity. Conventional resampling methods for nonlinearity correction necessitate an auxiliary interferometer path delay greater than four times the target distance, as dictated by the Nyquist theorem. This requirement results in bulky and instability-prone systems. The work proposed a novel resampling method based on the Chinese remainder theorem (CRT) to resolve the fundamental trade-off between precision and range. The proposed approach digitally subdivided the phase of a short auxiliary interferometer signal into multiple co-prime factors, constructing several equivalent undersampled sequences. The true distance was mapped into a set of unique, shorter residue distances, which were then uniquely reconstructed via the CRT. The method achieved an over 55-fold extension of the unambiguous range (from 0.91 to 50.16 m) using a short auxiliary path of 3.669 m. A measurement precision was maintained better than 15.0 µm in 8 m. A superlinear range extension was achieved without proportional hardware or data overhead, providing a robust and compact solution for high-precision, long-range FMCW metrology.",
+            "journal": "Optics Express",
+            "title_cn": "打破奈奎斯特极限：通过互质相位重采样和中国剩余定理实现 FMCW 激光雷达的超线性范围扩展",
+            "abstract_cn": "调频连续波 (FMCW) 激光雷达提供高精度和非合作目标传感能力。然而，其性能受到激光频率调制非线性的严重限制。根据奈奎斯特定理，用于非线性校正的传统重采样方法需要大于目标距离四倍的辅助干涉仪路径延迟。这一要求导致系统体积庞大且不稳定。该工作提出了一种基于中国剩余定理（CRT）的新颖重采样方法，以解决精度和范围之间的基本权衡。所提出的方法以数字方式将短辅助干涉仪信号的相位细分为多个互质因子，构建多个等效的欠采样序列。真实距离被映射到一组独特的、较短的残差距离，然后通过 CRT 唯一地重建。该方法使用 3.669 m 的短辅助路径将明确范围（从 0.91 到 50.16 m）扩展了超过 55 倍。 8 m 内的测量精度保持在 15.0 µm 以上。无需成比例的硬件或数据开销即可实现超线性范围扩展，为高精度、长距离 FMCW 计量提供强大而紧凑的解决方案。"
+        },
+        {
+            "id": "https://doi.org/10.1364/oe.586111",
+            "title": "Design of a high-efficiency U-shape MOS capacitor Michelson interferometer modulator",
+            "link": "https://doi.org/10.1364/oe.586111",
+            "published": "2026-01-30",
+            "author": "Deyue Ma, Xiwen He, Chen Zhou, Jiqiao Liu, Zhiping Zhou, Weibiao Chen",
+            "summary": "This work presents a high-efficiency, single-drive U-shape MOS capacitor Michelson interferometer modulator. The introduced U-shape structure enables vertical compression of the optical mode, which significantly enhances the modulation efficiency without compromising series resistance or loaded capacitance. Furthermore, by adopting a Michelson interferometer configuration, the device doubles the effective modulation length through bidirectional light propagation, while maintaining an unchanged capacitance. The designed device achieves a high modulation efficiency of 1.08 V·mm and achieves 50 Gbaud/s operation with an extinction ratio about 2.3 dB under a low 2 V pp drive voltage. The proposed U-shape MOS capacitor modulator reduces reliance on external driver circuits in OIO and CPO transmitters, offering a promising solution for energy-efficient and compact electro-optic modulators.",
+            "journal": "Optics Express",
+            "title_cn": "高效U型MOS电容迈克尔逊干涉仪调制器的设计",
+            "abstract_cn": "这项工作提出了一种高效、单驱动 U 形 MOS 电容器迈克尔逊干涉仪调制器。引入的U形结构可以实现光模的垂直压缩，从而在不影响串联电阻或负载电容的情况下显着提高调制效率。此外，通过采用迈克尔逊干涉仪配置，该器件通过双向光传播使有效调制长度加倍，同时保持电容不变。所设计的器件实现了 1.08 V·mm 的高调制效率，并在 2 V pp 驱动电压下实现了 50 Gbaud/s 的运行，消光比约为 2.3 dB。所提出的 U 形 MOS 电容器调制器减少了 OIO 和 CPO 发射器中对外部驱动器电路的依赖，为节能且紧凑的电光调制器提供了一种有前景的解决方案。"
         }
     ]
 }

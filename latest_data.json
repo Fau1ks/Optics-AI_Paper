@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-13 15:28:05",
+    "update_time": "2026-02-13 17:28:24",
     "word_filename": "Optical_Papers_260213.docx",
-    "total_count": 191,
+    "total_count": 201,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69581-z",
@@ -2102,6 +2102,116 @@
             "summary": "Abstract not available.",
             "journal": "Optics and Laser Technology",
             "title_cn": "双偏振干涉传感可独立表征表面层和体层",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69348-6",
+            "title": "Fluorescence-free single-molecule microscopy via electronic resonance stimulated Raman scattering",
+            "link": "https://doi.org/10.1038/s41467-026-69348-6",
+            "published": "2026-02-13",
+            "author": "Sumin Oh, Yunji Eom, Ha Yeon Kim, Ayushi Tripathi, Sungnam Park, Han Young Woo, Sang-Hee Shim",
+            "summary": "This study demonstrates far-field single-molecule Raman detection without fluorescence or nearfield enhancement by integrating electronically resonant stimulated Raman scattering with nonfluorescent, highly conjugated molecular probes and an independently tunable dual-OPO laser system.",
+            "journal": "Nature Communications",
+            "title_cn": "通过电子共振受激拉曼散射实现无荧光单分子显微镜",
+            "abstract_cn": "本研究通过将电子共振受激拉曼散射与非荧光、高度共轭分子探针和独立可调谐双 OPO 激光系统集成，展示了无需荧光或近场增强的远场单分子拉曼检测。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-35561-y",
+            "title": "Antibody-functionalized gold nanospheres for multimodal imaging",
+            "link": "https://doi.org/10.1038/s41598-026-35561-y",
+            "published": "2026-02-13",
+            "author": "Neelima Chacko, Menachem Motiei, Revital Rotbaum, Rinat Ankri",
+            "summary": "The first near-infrared (NIR-I) spectral window (700–900 nm) enables deeper tissue penetration and reduced autofluorescence, improving sensitivity for in vivo imaging. However, the relatively low fluorescence intensity of many NIR fluorophores limits their effectiveness. Here, we report the development of gold nanodye (AuND) by conjugating gold nanospheres (AuNSs) with IRDye 800 NHS ester via polyethylene glycol (PEG) linkers and functionalizing them with epidermal growth factor receptor (EGFR) targeting antibodies (Anti-AuND). This design enhances fluorescence emission through plasmonic interactions while simultaneously exploiting the high X-ray attenuation of gold for computed tomography (CT) contrast. Using Anti-AuND, we established a multimodal imaging platform integrating CT, NIR fluorescence, and fluorescence lifetime (FLT) imaging in a preclinical mouse model of EGFR-overexpressing head and neck cancer. Anti-AuND enabled high-sensitivity, high-resolution tumor visualization in vivo. The combined imaging approach provides complementary anatomical and molecular information, highlighting the potential of Anti-AuND for early cancer detection and translational biomedical imaging applications.",
+            "journal": "Scientific Reports",
+            "title_cn": "用于多模态成像的抗体功能化金纳米球",
+            "abstract_cn": "第一个近红外 (NIR-I) 光谱窗口（700–900 nm）可实现更深的组织穿透并减少自发荧光，从而提高体内成像的灵敏度。然而，许多近红外荧光团的荧光强度相对较低限制了它们的有效性。在此，我们报告了金纳米染料 (AuND) 的开发，通过聚乙二醇 (PEG) 连接体将金纳米球 (AuNS) 与 IRDye 800 NHS 酯结合，并使用表皮生长因子受体 (EGFR) 靶向抗体（抗 AuND）对其进行功能化。该设计通过等离子体相互作用增强荧光发射，同时利用金的高 X 射线衰减来实现计算机断层扫描 (CT) 对比度。使用 Anti-AuND，我们在 EGFR 过表达头颈癌的临床前小鼠模型中建立了一个集成 CT、NIR 荧光和荧光寿命 (FLT) 成像的多模态成像平台。 Anti-AuND 可实现高灵敏度、高分辨率的体内肿瘤可视化。组合成像方法提供了补充的解剖和分子信息，凸显了 Anti-AuND 在早期癌症检测和转化生物医学成像应用中的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37640-6",
+            "title": "Temporal influence maximization via continuous-time graph neural networks and deep reinforcement learning",
+            "link": "https://doi.org/10.1038/s41598-026-37640-6",
+            "published": "2026-02-13",
+            "author": "Yong Wang, Mohamad A. Alawad, Raed H. C. Alfilh, Narinderjit Singh Sawaran Singh",
+            "summary": "Influence maximization (IM) seeks to identify a subset of key nodes that maximize the spread of information or behavior through a network. While traditional IM approaches rely on static topologies or coarse-grained temporal snapshots, real-world social systems evolve continuously, with highly dynamic and bursty interactions that invalidate static assumptions. Existing temporal methods discretize time into snapshots, losing fine-grained event dependencies and failing to model non-stationary interaction patterns that critically affect diffusion dynamics. To address this challenge, we propose TempRL-IM, a temporal reinforcement learning framework that integrates Continuous-Time Graph Neural Networks (CTGNNs) with a Double Deep Q-Network (DDQN) agent for influence maximization in dynamic networks. The CTGNN encoder captures fine-grained temporal dependencies through memory-based event updates and temporal attention, providing rich node embeddings that reflect evolving network states. The DDQN agent leverages these embeddings to learn optimal seed-selection strategies at a specified observation time. Unlike snapshot-based baselines, TempRL-IM maintains strict temporal causality and efficiently encodes continuous-time dynamics without discretization artifacts. Extensive experiments on six real-world temporal datasets demonstrate that TempRL-IM achieves 15–28% higher influence spread and 3–10$$\\times$$ faster inference compared to state-of-the-art learning-based and heuristic methods. The framework also exhibits strong transferability across networks with similar temporal characteristics, highlighting its potential for large-scale applications such as viral marketing, epidemic containment, and information diffusion in dynamic social systems.",
+            "journal": "Scientific Reports",
+            "title_cn": "通过连续时间图神经网络和深度强化学习实现时间影响最大​​化",
+            "abstract_cn": "影响力最大化（IM）旨在识别关键节点的子集，以最大限度地通过网络传播信息或行为。虽然传统的 IM 方法依赖于静态拓扑或粗粒度的时间快照，但现实世界的社会系统不断发展，高度动态和突发的交互使静态假设失效。现有的时间方法将时间离散化为快照，丢失了细粒度的事件依赖性，并且无法对严重影响扩散动态的非平稳交互模式进行建模。为了应对这一挑战，我们提出了 TempRL-IM，这是一种时间强化学习框架，它将连续时间图神经网络 (CTGNN) 与双深度 Q 网络 (DDQN) 代理集成在一起，以实现动态网络中影响力最大化。 CTGNN 编码器通过基于内存的事件更新和时间注意力捕获细粒度的时间依赖性，提供反映不断变化的网络状态的丰富节点嵌入。 DDQN 代理利用这些嵌入来学习指定观察时间的最佳种子选择策略。与基于快照的基线不同，TempRL-IM 保持严格的时间因果关系，并有效地编码连续时间动态，而不会产生离散化伪影。对六个真实世界时间数据集的广泛实验表明，与最先进的基于学习和启发式方法相比，TempRL-IM 的影响范围提高了 15-28%，推理速度提高了 3-10$$\\times$$。该框架还在具有相似时间特征的网络之间表现出强大的可转移性，突显了其大规模应用的潜力，例如病毒式营销、流行病遏制和动态社会系统中的信息传播。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.587407",
+            "title": "Wide-field and non-invasive imaging of brain tumours with scattered light techniques",
+            "link": "https://doi.org/10.1364/boe.587407",
+            "published": "2026-02-02",
+            "author": "Philip Binner, Jack Radford, Ilya Starshynov, Mansa Madhusudan, Karen Strathdee, Katrina Stevenson, Matthew Walker, Giuseppe Ciccone, Gonzalo Tejeda, Andrew B. Tobin, Massimo Vassalli, Anthony J. Chalmers, Jinendra Ekanayake, Daniele Faccio",
+            "summary": "The ability to identify tumour tissue in a label-free, contactless, and real-time manner is much needed in tumour resection surgery. Current techniques cause interruptions to surgical flow and have high false positive rates, which can cause collateral damage to healthy brain tissue. We propose laser light scattering techniques, such as diffuse correlation spectroscopy and laser speckle contrast imaging, to image mechanical stiffness differences in the brain’s surface associated with tumour tissue. We validate the optimal processing technique quantitatively with a controlled experiment in which paraformaldehyde was used to induce a change in tissue stiffness in ex vivo mouse brains. We then demonstrate that the technique applies to tumour localisation using ex vivo mouse models with real tumours. Qualitative comparisons with magnetic resonance imaging indicate accurate tumour localisation using only surface stiffness changes to underlying tumours. We also demonstrate sub-millimetre precision when imaging brain slices.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "利用散射光技术对脑肿瘤进行宽视场和非侵入性成像",
+            "abstract_cn": "肿瘤切除手术非常需要以无标记、非接触、实时的方式识别肿瘤组织的能力。目前的技术会导致手术流程中断，并且假阳性率很高，这可能会对健康的脑组织造成附带损害。我们提出了激光散射技术，例如漫相关光谱和激光散斑对比成像，以对与肿瘤组织相关的大脑表面的机械刚度差异进行成像。我们通过对照实验定量验证了最佳处理技术，其中使用多聚甲醛诱导离体小鼠大脑组织硬度的变化。然后，我们证明该技术适用于使用具有真实肿瘤的离体小鼠模型进行肿瘤定位。与磁共振成像的定性比较表明，仅使用底层肿瘤的表面硬度变化即可准确定位肿瘤。我们还在脑切片成像时展示了亚毫米精度。"
+        },
+        {
+            "id": "https://doi.org/10.1364/boe.584263",
+            "title": "Processing pipeline for large optical coherence elastography datasets with quasi-static air-jet excitation: application to human brain tumor tissue",
+            "link": "https://doi.org/10.1364/boe.584263",
+            "published": "2026-02-12",
+            "author": "Nicolas Detrez, Sazgar Burhan, Jessica Kren, Jakob Matschke, Christian Hagel, Steffen Buschschlüter, Dirk Theisen-Kunde, Matteo Mario Bonsanto, Robert Huber, Ralf Brinkmann",
+            "summary": "Optical coherence elastography (OCE) is a powerful imaging modality for assessing the mechanical properties of biological tissues. We employed an OCE system based on an Optores OMES 3.2 MHz OCT platform combined with an in-house developed air-jet excitation source to characterize healthy and tumorous (meningioma) human brain tissue. This paper presents a comprehensive software framework for processing large OCE datasets, enabling robust extraction of characteristic features from phase-derived displacement data and calculation of mechanical proxy parameters for detailed tissue characterization. Feature detection is achieved using a modified triangle threshold algorithm applied to the displacement curves from the OCE phase data. Extensive pre- and post-processing steps, including percentile-based filtering and adaptive histogram equalization, are applied to mitigate phase unwrapping errors and enhance visualization of the high dynamic range of OCE data. Exemplary measurements on human brain tumor samples demonstrate the framework’s ability to differentiate between tissue types, highlighting its potential for future clinical and research applications.",
+            "journal": "Biomedical Optics Express",
+            "title_cn": "具有准静态喷气激励的大型光学相干弹性成像数据集的处理流程：在人脑肿瘤组织中的应用",
+            "abstract_cn": "光学相干弹性成像（OCE）是一种强大的成像方式，用于评估生物组织的机械性能。我们采用基于 Optores OMES 3.2 MHz OCT 平台的 OCE 系统，结合内部开发的喷气激励源来表征健康和肿瘤（脑膜瘤）人脑组织。本文提出了一个用于处理大型 OCE 数据集的综合软件框架，能够从相位导出的位移数据中稳健地提取特征特征，并计算机械代理参数以进行详细的组织表征。使用应用于 OCE 相位数据的位移曲线的修改三角阈值算法来实现特征检测。应用广泛的预处理和后处理步骤，包括基于百分位数的滤波和自适应直方图均衡，以减轻相位展开误差并增强 OCE 数据高动态范围的可视化。对人脑肿瘤样本的示例性测量证明了该框架区分组织类型的能力，凸显了其未来临床和研究应用的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.3788/ai.2025.10023",
+            "title": "Multi-objective microscope for large-scale, high-resolution, and fast-response imaging",
+            "link": "https://doi.org/10.3788/ai.2025.10023",
+            "published": "2026",
+            "author": "Shubin Liu, Fenglin Kuang, Ziyi Zhang, Bingkun Xie, Lin Li, Xuning Liu, Chao Liu, Yangyu Li, Lei Li, Qionghua Wang",
+            "summary": "Abstract not available.",
+            "journal": "Advanced Imaging",
+            "title_cn": "用于大范围、高分辨率和快速响应成像的多物镜显微镜",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.3788/ai.2025.20008",
+            "title": "Initial design of freeform imaging optical systems",
+            "link": "https://doi.org/10.3788/ai.2025.20008",
+            "published": "2026",
+            "author": "Hongzuo Chen, Zixin Ge, Zhenrong Zheng, Rengmao Wu, Yunfeng Nie",
+            "summary": "Abstract not available.",
+            "journal": "Advanced Imaging",
+            "title_cn": "自由曲面成像光学系统的初步设计",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.3788/ai.2025.10028",
+            "title": "Model-based neural network tomographic reconstruction of local flow fields toward density oscillation investigations",
+            "link": "https://doi.org/10.3788/ai.2025.10028",
+            "published": "2026",
+            "author": "Sami Tasmany, Johannes Gürtler, Robert Kuschmierz, Jakob Woisetschläger, Jürgen W. Czarske",
+            "summary": "Abstract not available.",
+            "journal": "Advanced Imaging",
+            "title_cn": "基于模型的神经网络层析成像重建局部流场以进行密度振荡研究",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.3788/ai.2025.20006",
+            "title": "Quantitative photoacoustic tomography: imaging tissue properties and functional parameters accurately",
+            "link": "https://doi.org/10.3788/ai.2025.20006",
+            "published": "2026",
+            "author": "Sudeep Mondal, Huabei Jiang",
+            "summary": "Abstract not available.",
+            "journal": "Advanced Imaging",
+            "title_cn": "定量光声断层扫描：准确成像组织特性和功能参数",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1021/acsphotonics.5c02651",
+            "title": "Design, Fabrication, and Characterization of Graphene-Silicon Nitride Integrated Mode Filters",
+            "link": "https://doi.org/10.1021/acsphotonics.5c02651",
+            "published": "2026-02-12",
+            "author": "Fernando Martín-Romero, Raquel Resta, Òscar Fontelles, Miguel Sinusia Lozano, Víctor J. Gómez",
+            "summary": "Abstract not available.",
+            "journal": "ACS Photonics",
+            "title_cn": "石墨烯-氮化硅集成模式滤波器的设计、制造和表征",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

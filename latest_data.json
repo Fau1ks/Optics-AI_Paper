@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-13 06:30:47",
+    "update_time": "2026-02-13 08:27:46",
     "word_filename": "Optical_Papers_260213.docx",
-    "total_count": 88,
+    "total_count": 89,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69581-z",
@@ -970,6 +970,17 @@
             "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
             "title_cn": "通过笔触分析对克劳德·莫奈的《睡莲》中的抽象进行计算研究",
             "abstract_cn": "克劳德·莫奈晚期的《睡莲》画作展现了风格上的转变，艺术史学家通常将其特征描述为越来越抽象和手势表现力。然而，定义和系统地识别这种风格转变仍然具有挑战性。在这里，我们介绍了一个机器学习框架，用于使用流线曲线分析莫奈不断演变的笔触：捕捉笔触固有的动态运动模式的计算表示。我们从莫奈作品早期（1913 年之前）和晚期（1913 年之后）时期的 47 幅画作中采样的 554 个图像块中，提取流线并计算每幅画的几何特征，包括曲率的平滑度和方向变化。每个图像都表示为一组流线特征向量，这种数据类型称为分布式。一种名为组合属性（C2A）的新深度神经网络架构旨在对分布式数据进行分类。我们假设莫奈所谓的“抽象”风格并不统一地表征所有晚期睡莲，并且非抽象花卉，无论时期如何，都具有相似的笔触品质。在这些假设下，在 C2A 的基础上，我们提出了一种名为“Discover Embedded Group with Asymmetry (DEGA)”的新型学习范式，该范式强制执行两个时期的非抽象花斑的 DNN 提取特征的共享分布，同时区分抽象花斑。 DEGA揭示了一个有意义的二维特征空间，其中一个维度区分抽象花卉和拟态睡莲，而另一个维度区分抽象花卉和早期的特写花卉。我们的研究结果表明，莫奈晚期风格的所谓“抽象”品质与他早期描绘特写花卉图案的方法保留了一定的视觉亲和力。当这种笔法用于更广阔的场景时，对花朵的描绘从单个花瓣的真实渲染转向更宽松、更具暗示性的表达，传达花卉存在感而不是植物细节。这项研究强调了计算分析对于更准确地理解艺术家风格发展的价值。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114930",
+            "title": "Controllable direct generation of structured light in a Nd:YVO4 self-Raman laser via off-axis needle pumping",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114930",
+            "published": "2026-06-01",
+            "author": "Yandong Feng, Jianan Lu, Chong Zhou, Jinyan Liu, Qinyu Qian, Youyou Hu, Li Fan",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "通过离轴针泵浦在 Nd:YVO4 自拉曼激光器中可控地直接生成结构光",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

@@ -74,9 +74,9 @@
         .download-btn:hover { background-color: #2c974b; }
         .loading { background-color: #94d3a2; cursor: wait; }
         
-        /* Scholar 专用下载按钮样式 (已修改配色: #C8595D) */
+        /* Scholar 专用下载按钮样式 */
         .scholar-download-btn {
-            background-color: #C8595D; /* R200 G089 B093 */
+            background-color: #C8595D; 
             color: white;
             padding: 12px 30px;
             font-size: 16px;
@@ -89,7 +89,7 @@
             display: inline-block;
             margin-top: 10px;
         }
-        .scholar-download-btn:hover { background-color: #a84549; /* 稍微深一点的颜色用于悬浮 */ }
+        .scholar-download-btn:hover { background-color: #a84549; }
 
         .update-time { margin-top: 15px; font-size: 14px; color: #0366d6; font-weight: 500; }
         .tips { margin-top: 5px; font-size: 12px; color: #586069; }
@@ -126,12 +126,12 @@
             border-left: 5px solid rgb(233, 163, 117); 
         }
 
-        /* Scholar 分组的特殊样式 (已修改配色: #C8595D) */
+        /* Scholar 分组的特殊样式 */
         .journal-group.scholar-group {
             border-left: 5px solid #C8595D; 
         }
         .journal-group.scholar-group:hover {
-            border-left: 5px solid #e07074; /* 稍微亮一点的颜色用于悬浮 */
+            border-left: 5px solid #e07074; 
         }
         
         /* 期刊按钮布局 */
@@ -164,7 +164,7 @@
 
         .count-badge { background: #0366d6; color: white; padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; margin-right: 10px; }
         
-        /* Scholar 的计数徽章颜色 (已修改配色: #C8595D) */
+        /* Scholar 的计数徽章颜色 */
         .scholar-group .count-badge { background: #C8595D; }
 
         .arrow { transition: transform 0.3s; font-size: 0.8rem; color: #aaa; }
@@ -213,7 +213,7 @@
         .link-box { display: block; background: #e6f6ff; color: #0366d6; padding: 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; word-break: break-all; border: 1px solid #bfe3ff; text-align: center; font-weight: 500; }
         .link-box:hover { background: #cceeff; }
 
-        /* 摘要样式 - 已优化：去除多余空白，强制普通换行 */
+        /* 摘要样式 */
         .abstract-box {
             background-color: #f0f3f6;
             color: #24292e;
@@ -224,18 +224,18 @@
             margin-top: 10px;
             margin-bottom: 10px;
             border: 1px solid #e1e4e8;
-            white-space: normal; /* 强制不保留源代码中的换行 */
+            white-space: normal; 
             text-align: justify;
         }
         .abstract-title {
             font-weight: bold;
             display: block;
-            margin-bottom: 0px; /* 去除标题下方的空白行 */
+            margin-bottom: 0px; 
             color: #0366d6;
             font-size: 12px;
         }
         
-        /* 搜索框样式 (复用给 Scholar) */
+        /* 搜索框样式 */
         .search-container { width: 100%; max-width: 800px; margin: 20px auto 10px; }
         #searchInput, #scholarSearchInput { 
             width: 100%; 
@@ -252,6 +252,11 @@
         #searchInput:focus, #scholarSearchInput:focus { 
             border-color: #0366d6; 
             box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.3); 
+        }
+        /* Scholar 搜索框聚焦样式定制 */
+        #scholarSearchInput:focus { 
+            border-color: #C8595D; 
+            box-shadow: 0 0 0 3px rgba(200, 89, 93, 0.3); 
         }
         .no-result { color: #666; margin-top: 20px; font-size: 14px; }
 
@@ -296,7 +301,6 @@
             margin-right: 8px; 
         }
 
-        /* 屏幕较窄时的适配 */
         @media (max-width: 1100px) {
             .float-btn-container {
                 left: auto;
@@ -307,15 +311,15 @@
             }
         }
 
-        /* 顶部设置区域容器 - 修改：改为水平排列 */
+        /* 顶部设置区域容器 */
         .top-settings-container {
             position: absolute;
             top: 20px;
             right: 20px;
             display: flex;
-            flex-direction: row; /* 修改：由 column 改为 row */
-            align-items: center; /* 修改：垂直居中 */
-            gap: 15px; /* 修改：增加一点间距 */
+            flex-direction: row; 
+            align-items: center; 
+            gap: 15px; 
             z-index: 1001;
         }
 
@@ -352,7 +356,7 @@
             background-color: #f0f6fc;
         }
 
-        /* 摘要开关样式 - 已修改：激活变蓝 */
+        /* 摘要开关样式 */
         .abstract-toggle-btn {
             background: white;
             color: #555;
@@ -368,7 +372,6 @@
             gap: 5px;
             font-weight: 500;
         }
-        /* 激活状态：改为蓝色 #0366d6 */
         .abstract-toggle-btn.active {
             background-color: #0366d6;
             color: white;
@@ -383,11 +386,7 @@
             .top-settings-container {
                 top: 10px;
                 right: 10px;
-                /* 手机端保持水平，如果不希望太宽可以把 gap 调小 */
                 gap: 8px;
-            }
-            .lang-switch-container {
-                /* 手机端保持原样 */
             }
             .lang-option {
                 font-size: 12px;
@@ -400,7 +399,7 @@
             }
         }
 
-        /* 评论区样式 - 新增 */
+        /* 评论区样式 */
         .comments-section {
             background: white;
             padding: 30px;
@@ -412,14 +411,11 @@
             text-align: left;
         }
 
-        /* 往期文献模式状态栏及拖拽覆盖层 - 新增 */
-        #historyStatusArea {
+        /* 往期文献模式状态栏 */
+        .history-status-area {
             display: none;
-            background-color: #f0f8ff;
-            color: #0366d6;
             padding: 15px 25px;
             border-radius: 8px;
-            border: 1px solid #cce5ff;
             margin: 0 auto 20px;
             max-width: 800px;
             text-align: left;
@@ -431,8 +427,39 @@
             align-items: center;
         }
         
+        #historyStatusArea {
+            background-color: #f0f8ff;
+            color: #0366d6;
+            border: 1px solid #cce5ff;
+        }
+
+        #scholarHistoryStatusArea {
+            background-color: #fdf3f3;
+            color: #C8595D;
+            border: 1px solid #f2d7d8;
+        }
+
+        .history-btn-today {
+            color: white; 
+            border: none; 
+            padding: 10px 20px; 
+            border-radius: 20px; 
+            cursor: pointer; 
+            font-weight: bold; 
+            transition: 0.2s; 
+            white-space: nowrap;
+        }
+        #btnReturnToday {
+            background: #0366d6; 
+            box-shadow: 0 4px 6px rgba(3, 102, 214, 0.2); 
+        }
+        #btnReturnTodayScholar {
+            background: #C8595D; 
+            box-shadow: 0 4px 6px rgba(200, 89, 93, 0.2); 
+        }
+        
         @media (max-width: 600px) {
-            #historyStatusArea {
+            .history-status-area {
                 flex-direction: column;
                 align-items: flex-start;
                 gap: 15px;
@@ -504,12 +531,12 @@
         <input type="text" id="searchInput" placeholder="🔍 搜索标题、作者或摘要（支持中英文）..." oninput="searchPapers()">
     </div>
 
-    <div id="historyStatusArea" style="display:none;">
+    <div id="historyStatusArea" class="history-status-area" style="display:none;">
         <div>
             <div id="historyModeTitle" style="font-weight: bold; margin-bottom: 8px; font-size: 16px;">🕒 往期文献速览模式</div>
             <div id="historyDatesDisplay" style="font-size: 13px; color: #555;">当前展示：无</div>
         </div>
-        <button id="btnReturnToday" onclick="returnToTodayMode()" style="background: #0366d6; color: white; border: none; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-weight: bold; transition: 0.2s; box-shadow: 0 4px 6px rgba(3, 102, 214, 0.2); white-space: nowrap;">
+        <button id="btnReturnToday" class="history-btn-today" onclick="returnToTodayMode()">
             返回今日最新
         </button>
     </div>
@@ -527,6 +554,16 @@
             <div id="scholarPushTime" class="update-time" style="color: #C8595D; margin-top: 8px; font-size: 13px; display:none;"></div>
             <div id="scholarCrawlTime" class="update-time" style="color: #24292e; margin-top: 5px; font-size: 13px; display:none;"></div>
             <div id="scholarUpdateStatus" class="tips">Secret Mode Activated</div>
+        </div>
+
+        <div id="scholarHistoryStatusArea" class="history-status-area" style="display:none; margin-bottom: 10px;">
+            <div>
+                <div id="scholarHistoryModeTitle" style="font-weight: bold; margin-bottom: 8px; font-size: 16px;">🕒 Scholar 往期速览模式</div>
+                <div id="scholarHistoryDatesDisplay" style="font-size: 13px; color: #555;">当前展示：无</div>
+            </div>
+            <button id="btnReturnTodayScholar" class="history-btn-today" onclick="returnToTodayScholarMode()">
+                返回今日 Scholar
+            </button>
         </div>
         
         <div class="search-container" style="margin: 10px auto 20px; max-width: 600px;">
@@ -597,21 +634,27 @@
         const contentApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
         
         // ================= 全局状态与变量定义 =================
-        // 这里提前声明所有变量，避免在初始化函数调用时引发致命的 TDZ (Temporal Dead Zone) 报错。
         let currentLang = 'zh'; 
         let globalLatestDateCode = ''; 
         let isShowAbstract = false; 
 
+        // 主区往期状态
         let allPapersData = []; 
         let originalPapersData = []; 
         let historyModeActive = false;
         let historyPapers = [];
         let historyLoadedDates = new Set();
         
-        // Scholar 模式使用的状态变量
+        // Scholar 模式状态
         let clickCount = 0;
         let clickTimer = null;
         let isSecretActive = false;
+        
+        // Scholar 往期状态
+        let originalScholarData = [];
+        let scholarHistoryModeActive = false;
+        let scholarHistoryPapers = [];
+        let scholarHistoryLoadedDates = new Set();
 
         const langData = {
             'zh': {
@@ -634,7 +677,7 @@
                 navTipTitle: '提高阅读效率：建议开启导航窗格',
                 navTipText: '为了更方便地浏览长文档，建议在 Word 顶部菜单栏选择 <strong>“视图”</strong>，并勾选 <strong>“导航窗格”</strong>。',
                 noResult: '😕 没有找到相关文献，换个关键词试试？',
-                // 动态生成的标签
+                // 动态标签
                 detailLabelTag: 'English', 
                 authorLabel: '👤 Authors:',
                 abstractLabel: '📝 Abstract:', 
@@ -650,8 +693,10 @@
                 commentsTitle: '交流区',
                 // 往期模式翻译
                 historyModeTitle: '🕒 往期文献速览模式',
+                scholarHistoryModeTitle: '🕒 Scholar 往期速览模式',
                 historyDatesPrefix: '当前展示：',
                 btnReturnToday: '返回今日最新',
+                btnReturnTodayScholar: '返回今日 Scholar',
                 dropText: '📂 松开鼠标，加载往期文献'
             },
             'en': {
@@ -674,7 +719,7 @@
                 navTipTitle: 'Efficiency Tip: Enable Navigation Pane',
                 navTipText: 'For better navigation, go to <strong>"View"</strong> tab in Word and check <strong>"Navigation Pane"</strong>.',
                 noResult: '😕 No papers found. Try a different keyword?',
-                // 动态生成的标签
+                // 动态标签
                 detailLabelTag: '中文标题',
                 authorLabel: '👤 Authors:',
                 abstractLabel: '📝 Abstract:',
@@ -690,8 +735,10 @@
                 commentsTitle: 'Discussion',
                 // 往期模式翻译
                 historyModeTitle: '🕒 History Papers Mode',
+                scholarHistoryModeTitle: '🕒 Scholar History Mode',
                 historyDatesPrefix: 'Currently viewing: ',
                 btnReturnToday: 'Return to Today',
+                btnReturnTodayScholar: 'Return to Today Scholar',
                 dropText: '📂 Drop files to load history'
             }
         };
@@ -712,28 +759,20 @@
                 .replace(/'/g, "&#039;");
         }
 
-        // 清洗摘要文本
         function cleanAbstract(text) {
             if (!text) return "";
-            // 1. 去除 HTML 标签
             let cleaned = text.replace(/<[^>]+>/g, "");
-            // 2. 将换行符等替换为空格
             cleaned = cleaned.replace(/[\r\n]+/g, " ");
-            // 3. 去除首尾空白
             return cleaned.trim();
         }
 
         // ================= 状态保存与恢复逻辑 =================
         function saveExpandState() {
             const state = { journals: [], articles: [] };
-            
-            // 保存展开的期刊名
             document.querySelectorAll('.journal-btn.active').forEach(btn => {
                 const span = btn.querySelector('span');
                 if(span) state.journals.push(span.innerText.trim());
             });
-            
-            // 保存展开的文章（通过链接作为唯一标识）
             document.querySelectorAll('.article-detail').forEach(detail => {
                  if (detail.style.display === 'block') {
                      const link = detail.querySelector('.link-box');
@@ -745,8 +784,6 @@
 
         function restoreExpandState(state) {
             if(!state) return;
-            
-            // 恢复期刊
             document.querySelectorAll('.journal-btn').forEach(btn => {
                 const span = btn.querySelector('span');
                 if(span && state.journals.includes(span.innerText.trim())) {
@@ -757,8 +794,6 @@
                     if(list) list.style.display = 'block';
                 }
             });
-            
-            // 恢复文章
             document.querySelectorAll('.article-detail').forEach(detail => {
                  const link = detail.querySelector('.link-box');
                  if(link && state.articles.includes(link.getAttribute('href'))) {
@@ -767,7 +802,6 @@
                      if(btn) btn.classList.add('active');
                  }
             });
-            
             checkButtonsVisibility();
         }
 
@@ -814,48 +848,32 @@
 
         function updateGiscusConfig(lang) {
             const giscusLang = lang === 'zh' ? 'zh-CN' : 'en';
-            
             const iframe = document.querySelector('iframe.giscus-frame');
             if (iframe) {
                 iframe.contentWindow.postMessage({
-                    giscus: {
-                        setConfig: {
-                            lang: giscusLang
-                        }
-                    }
+                    giscus: { setConfig: { lang: giscusLang } }
                 }, 'https://giscus.app');
             }
-
             const script = document.querySelector('script[src="https://giscus.app/client.js"]');
-            if (script) {
-                script.setAttribute('data-lang', giscusLang);
-            }
+            if (script) script.setAttribute('data-lang', giscusLang);
         }
 
         // ================= 摘要开关逻辑 =================
         function toggleAbstracts() {
             const savedState = saveExpandState();
-
             isShowAbstract = !isShowAbstract;
             const btn = document.getElementById('btn-abstract');
             
-            if (isShowAbstract) {
-                btn.classList.add('active');
-            } else {
-                btn.classList.remove('active');
-            }
+            if (isShowAbstract) btn.classList.add('active');
+            else btn.classList.remove('active');
             
             updateStaticUI();
 
             if (allPapersData.length > 0) {
                 const searchInput = document.getElementById('searchInput');
-                if (searchInput && searchInput.value.trim() !== "") {
-                    searchPapers();
-                } else {
-                    renderPapers(allPapersData, false); 
-                }
+                if (searchInput && searchInput.value.trim() !== "") searchPapers();
+                else renderPapers(allPapersData, false); 
             }
-            
             restoreExpandState(savedState);
         }
 
@@ -883,6 +901,12 @@
             if (historyModeTitle) historyModeTitle.innerText = t.historyModeTitle;
             const btnReturnToday = document.getElementById('btnReturnToday');
             if (btnReturnToday) btnReturnToday.innerText = t.btnReturnToday;
+            
+            const scholarHistoryModeTitle = document.getElementById('scholarHistoryModeTitle');
+            if (scholarHistoryModeTitle) scholarHistoryModeTitle.innerText = t.scholarHistoryModeTitle;
+            const btnReturnTodayScholar = document.getElementById('btnReturnTodayScholar');
+            if (btnReturnTodayScholar) btnReturnTodayScholar.innerText = t.btnReturnTodayScholar;
+
             const dropOverlay = document.getElementById('dropZoneOverlay');
             if (dropOverlay) dropOverlay.innerText = t.dropText;
             
@@ -891,12 +915,14 @@
                 datesDisplay.innerText = t.historyDatesPrefix + Array.from(historyLoadedDates).sort().join(', ');
             }
 
-            const absText = document.getElementById('abstract-text');
-            if (isShowAbstract) {
-                absText.innerText = t.abstractBtnOn;
-            } else {
-                absText.innerText = t.abstractBtnOff;
+            const scholarDatesDisplay = document.getElementById('scholarHistoryDatesDisplay');
+            if (scholarDatesDisplay && scholarHistoryModeActive) {
+                scholarDatesDisplay.innerText = t.historyDatesPrefix + Array.from(scholarHistoryLoadedDates).sort().join(', ');
             }
+
+            const absText = document.getElementById('abstract-text');
+            if (isShowAbstract) absText.innerText = t.abstractBtnOn;
+            else absText.innerText = t.abstractBtnOff;
 
             if (globalLatestDateCode) {
                 btn.innerText = t.downloadPrefix + globalLatestDateCode;
@@ -911,9 +937,7 @@
             }
         }
 
-        // ======================================================================
-        // 主逻辑：读取最新 JSON (现在所有依赖的变量均已在顶部定义好)
-        // ======================================================================
+        // ================= 主逻辑：读取最新 JSON =================
         updateStaticUI(); 
 
         const timestamp = new Date().getTime();
@@ -926,19 +950,15 @@
                 let metaFile = null;
 
                 if (Array.isArray(data)) {
-                    console.log("Detected legacy JSON array format. Falling back to API.");
                     papers = data;
                     fallbackToGithubApi();
                 } else {
-                    console.log("Detected new JSON object format.");
                     papers = data.data || [];
-                    
                     if (data.update_time) {
                         metaTime = data.update_time;
                         timeDiv.dataset.timeStr = metaTime + " (北京时间)";
                         timeDiv.innerText = langData[currentLang].timePrefix + timeDiv.dataset.timeStr;
                     }
-
                     if (data.word_filename) {
                         metaFile = data.word_filename;
                         const t = langData[currentLang];
@@ -963,7 +983,7 @@
                 }
 
                 allPapersData = papers;
-                originalPapersData = [...papers]; // 保存原始状态供“返回今日最新”使用
+                originalPapersData = [...papers]; 
 
                 document.getElementById('readingArea').style.display = 'block';
                 document.getElementById('searchArea').style.display = 'block'; 
@@ -1014,9 +1034,7 @@
                             }
                         }).catch(() => timeDiv.innerText = "");
                 })
-                .catch(error => {
-                    console.error('API Error:', error);
-                });
+                .catch(error => console.error('API Error:', error));
         }
 
         // ================= 渲染与交互逻辑 =================
@@ -1068,11 +1086,8 @@
                     
                     if (isShowAbstract) {
                         let rawAbstract = "";
-                        if (currentLang === 'zh') {
-                            rawAbstract = paper.abstract_cn || paper.summary || "暂无摘要";
-                        } else {
-                            rawAbstract = paper.summary || paper.abstract_cn || "No abstract available";
-                        }
+                        if (currentLang === 'zh') rawAbstract = paper.abstract_cn || paper.summary || "暂无摘要";
+                        else rawAbstract = paper.summary || paper.abstract_cn || "No abstract available";
                         
                         const cleanText = cleanAbstract(rawAbstract);
                         if (cleanText) {
@@ -1093,7 +1108,6 @@
                                     </span>
                                     ${subTitle}
                                 </div>
-                                
                                 <div style="font-size:13px; color:#555; margin:10px 0; line-height:1.4;">
                                     <strong>${t.authorLabel}</strong> ${author}
                                 </div>
@@ -1106,7 +1120,6 @@
                 html += `</div></div>`;
             }
             container.innerHTML = html;
-            
             checkButtonsVisibility();
         }
 
@@ -1127,11 +1140,8 @@
                 const abstractEn = (paper.summary || '').toLowerCase();
                 const abstractCn = (paper.abstract_cn || '').toLowerCase();
 
-                return titleEn.includes(query) || 
-                       titleCn.includes(query) || 
-                       author.includes(query) || 
-                       abstractEn.includes(query) || 
-                       abstractCn.includes(query);
+                return titleEn.includes(query) || titleCn.includes(query) || 
+                       author.includes(query) || abstractEn.includes(query) || abstractCn.includes(query);
             });
 
             renderPapers(filteredData, true);
@@ -1153,9 +1163,7 @@
                 const titleCn = (paper.title_cn || '').toLowerCase();
                 const linkStr = (paper.link || '').toLowerCase();
 
-                return titleEn.includes(query) || 
-                       titleCn.includes(query) || 
-                       linkStr.includes(query);
+                return titleEn.includes(query) || titleCn.includes(query) || linkStr.includes(query);
             });
 
             renderScholarList(filteredData);
@@ -1167,13 +1175,9 @@
             if (element.classList.contains('article-btn')) {
                 element.classList.toggle("active");
                 const content = element.nextElementSibling;
-                if (content.style.display === "block") {
-                    content.style.display = "none";
-                } else {
-                    content.style.display = "block";
-                }
-            } 
-            else {
+                if (content.style.display === "block") content.style.display = "none";
+                else content.style.display = "block";
+            } else {
                 element.classList.toggle("active");
                 const content = element.nextElementSibling;
                 const arrow = element.querySelector('.arrow');
@@ -1190,27 +1194,19 @@
 
         function checkButtonsVisibility() {
             const anyArticleOpen = document.querySelectorAll('.article-detail[style*="block"]').length > 0;
-            if (anyArticleOpen) {
-                articleBtn.style.display = 'flex';
-            } else {
-                articleBtn.style.display = 'none';
-            }
+            if (anyArticleOpen) articleBtn.style.display = 'flex';
+            else articleBtn.style.display = 'none';
 
             const anyJournalOpen = document.querySelectorAll('.journal-btn.active').length > 0;
-            if (anyJournalOpen) {
-                journalBtn.style.display = 'flex';
-            } else {
-                journalBtn.style.display = 'none';
-            }
+            if (anyJournalOpen) journalBtn.style.display = 'flex';
+            else journalBtn.style.display = 'none';
         }
 
         function collapseAllArticles() {
             const openDetails = document.querySelectorAll('.article-detail[style*="block"]');
             openDetails.forEach(detail => detail.style.display = 'none');
-            
             const activeBtns = document.querySelectorAll('.article-btn.active');
             activeBtns.forEach(btn => btn.classList.remove('active'));
-
             checkButtonsVisibility();
         }
 
@@ -1218,20 +1214,16 @@
             collapseAllArticles();
             const openLists = document.querySelectorAll('.article-list[style*="block"]');
             openLists.forEach(list => list.style.display = 'none');
-
             const activeJournals = document.querySelectorAll('.journal-btn.active');
             activeJournals.forEach(btn => {
                 btn.classList.remove('active');
                 const arrow = btn.querySelector('.arrow');
                 if(arrow) arrow.style.transform = 'rotate(0deg)';
             });
-
             checkButtonsVisibility();
         }
 
-        // ======================================================================
-        // 往期 JSON 拖拽读取合并逻辑
-        // ======================================================================
+        // ================= 往期 JSON 拖拽读取合并逻辑 =================
         let dragCounter = 0;
         const body = document.documentElement;
         const dropOverlay = document.getElementById('dropZoneOverlay');
@@ -1245,14 +1237,10 @@
         body.addEventListener('dragleave', (e) => {
             e.preventDefault();
             dragCounter--;
-            if (dragCounter === 0) {
-                dropOverlay.style.display = 'none';
-            }
+            if (dragCounter === 0) dropOverlay.style.display = 'none';
         });
 
-        body.addEventListener('dragover', (e) => {
-            e.preventDefault();
-        });
+        body.addEventListener('dragover', (e) => e.preventDefault());
 
         body.addEventListener('drop', (e) => {
             e.preventDefault();
@@ -1266,43 +1254,59 @@
         });
 
         async function processDroppedFiles(files) {
-            let newlyAdded = false;
+            let newlyAddedMain = false;
+            let newlyAddedScholar = false;
 
             for (let file of files) {
                 try {
                     const text = await file.text();
                     const json = JSON.parse(text);
-                    let papers = [];
-                    if (Array.isArray(json)) { 
-                        papers = json; 
-                    } else if (json.data) { 
-                        papers = json.data; 
-                    }
-
-                    if (papers.length > 0) {
-                        let dateStr = file.name;
-                        const match = file.name.match(/\d{6}/);
-                        if (match) {
-                            dateStr = match[0];
+                    
+                    if (file.name.includes('Scholar_Data')) {
+                        // Scholar JSON
+                        let papers = Array.isArray(json) ? json : (json.data || []);
+                        if (papers.length > 0) {
+                            let dateStr = file.name;
+                            const match = file.name.match(/\d{6}/);
+                            if (match) dateStr = match[0];
+                            
+                            scholarHistoryLoadedDates.add(dateStr);
+                            
+                            const existingLinks = new Set(scholarHistoryPapers.map(p => p.link));
+                            papers.forEach(p => {
+                                if (!existingLinks.has(p.link)) {
+                                    scholarHistoryPapers.push(p);
+                                    existingLinks.add(p.link);
+                                }
+                            });
+                            newlyAddedScholar = true;
                         }
-                        
-                        historyLoadedDates.add(dateStr);
-                        
-                        const existingIds = new Set(historyPapers.map(p => p.id || p.link));
-                        papers.forEach(p => {
-                            if (!existingIds.has(p.id || p.link)) {
-                                historyPapers.push(p);
-                                existingIds.add(p.id || p.link);
-                            }
-                        });
-                        newlyAdded = true;
+                    } else {
+                        // Main JSON
+                        let papers = Array.isArray(json) ? json : (json.data || []);
+                        if (papers.length > 0) {
+                            let dateStr = file.name;
+                            const match = file.name.match(/\d{6}/);
+                            if (match) dateStr = match[0];
+                            
+                            historyLoadedDates.add(dateStr);
+                            
+                            const existingIds = new Set(historyPapers.map(p => p.id || p.link));
+                            papers.forEach(p => {
+                                if (!existingIds.has(p.id || p.link)) {
+                                    historyPapers.push(p);
+                                    existingIds.add(p.id || p.link);
+                                }
+                            });
+                            newlyAddedMain = true;
+                        }
                     }
                 } catch (err) {
                     console.error("加载往期 JSON 失败: ", file.name, err);
                 }
             }
 
-            if (newlyAdded) {
+            if (newlyAddedMain) {
                 historyModeActive = true;
                 allPapersData = historyPapers; 
                 
@@ -1313,11 +1317,30 @@
                     langData[currentLang].historyDatesPrefix + Array.from(historyLoadedDates).sort().join(', ');
                 
                 const searchInput = document.getElementById('searchInput');
-                if (searchInput && searchInput.value.trim() !== "") {
-                    searchPapers();
-                } else {
-                    renderPapers(allPapersData, false);
+                if (searchInput && searchInput.value.trim() !== "") searchPapers();
+                else renderPapers(allPapersData, false);
+            }
+
+            if (newlyAddedScholar) {
+                scholarHistoryModeActive = true;
+                window.scholarDataCache = scholarHistoryPapers;
+                
+                // 如果当前Scholar区还没被点开，拖拽时自动展开
+                if (!isSecretActive) {
+                    isSecretActive = true;
+                    document.getElementById('scholarArea').style.display = 'block';
                 }
+
+                document.getElementById('scholarHistoryStatusArea').style.display = 'flex';
+                document.getElementById('scholarHistoryDatesDisplay').innerText = 
+                    langData[currentLang].historyDatesPrefix + Array.from(scholarHistoryLoadedDates).sort().join(', ');
+                
+                // 更新 Scholar 界面时间戳
+                updateScholarTimeDisplay(scholarHistoryPapers);
+
+                const searchInput = document.getElementById('scholarSearchInput');
+                if (searchInput && searchInput.value.trim() !== "") searchScholarPapers();
+                else renderScholarList(window.scholarDataCache);
             }
         }
 
@@ -1334,32 +1357,38 @@
                 document.getElementById('searchArea').style.display = 'none';
             } else {
                 const searchInput = document.getElementById('searchInput');
-                if (searchInput && searchInput.value.trim() !== "") {
-                    searchPapers();
-                } else {
-                    renderPapers(allPapersData, false);
-                }
+                if (searchInput && searchInput.value.trim() !== "") searchPapers();
+                else renderPapers(allPapersData, false);
             }
         }
 
+        function returnToTodayScholarMode() {
+            scholarHistoryModeActive = false;
+            scholarHistoryPapers = [];
+            scholarHistoryLoadedDates.clear();
+            
+            document.getElementById('scholarHistoryStatusArea').style.display = 'none';
+            window.scholarDataCache = originalScholarData;
+            
+            if (!originalScholarData || originalScholarData.length === 0) {
+                document.getElementById('scholarContent').innerHTML = "<div class='no-result'>No Scholar Data.</div>";
+                document.getElementById('scholarPushTime').style.display = 'none';
+                document.getElementById('scholarCrawlTime').style.display = 'none';
+            } else {
+                updateScholarTimeDisplay(originalScholarData);
+                const searchInput = document.getElementById('scholarSearchInput');
+                if (searchInput && searchInput.value.trim() !== "") searchScholarPapers();
+                else renderScholarList(originalScholarData);
+            }
+        }
 
-        // ======================================================================
-        // 秘密入口与 Scholar 处理逻辑
-        // ======================================================================
-
+        // ================= 秘密入口与 Scholar 处理逻辑 =================
         function triggerSecret() {
             if (isSecretActive) return; 
-
             clickCount++;
-            
             clearTimeout(clickTimer);
-            clickTimer = setTimeout(() => {
-                clickCount = 0;
-            }, 2000);
-
-            if (clickCount >= 12) {
-                activateScholarMode();
-            }
+            clickTimer = setTimeout(() => { clickCount = 0; }, 2000);
+            if (clickCount >= 12) activateScholarMode();
         }
 
         function activateScholarMode() {
@@ -1383,25 +1412,42 @@
              }
              document.getElementById('scholarSearchInput').placeholder = t.scholarSearchPlaceholder;
              
-             const pushTimeDiv = document.getElementById('scholarPushTime');
-             if (pushTimeDiv.innerText.includes(':')) {
-                 let parts = pushTimeDiv.innerText.split('：'); 
-                 if (parts.length < 2) parts = pushTimeDiv.innerText.split(': '); 
-                 if (parts.length >= 2) {
-                       const timePart = parts.slice(1).join(': ');
-                       pushTimeDiv.innerText = t.scholarTimePrefix + timePart;
-                 }
+             // 重新计算并应用时间的翻译前缀
+             if (window.scholarDataCache) {
+                 updateScholarTimeDisplay(window.scholarDataCache);
              }
+        }
 
-             const crawlTimeDiv = document.getElementById('scholarCrawlTime');
-             if (crawlTimeDiv.innerText.includes(':')) {
-                 let parts = crawlTimeDiv.innerText.split('：'); 
-                 if (parts.length < 2) parts = crawlTimeDiv.innerText.split(': '); 
-                 if (parts.length >= 2) {
-                       const timePart = parts.slice(1).join(': ');
-                       crawlTimeDiv.innerText = t.scholarCrawlTimePrefix + timePart;
-                 }
-             }
+        function updateScholarTimeDisplay(data) {
+            const pushTimeDiv = document.getElementById('scholarPushTime');
+            const crawlTimeDiv = document.getElementById('scholarCrawlTime');
+            const t = langData[currentLang];
+            
+            if (data && data.length > 0) {
+                let latestPush = "";
+                let latestCrawl = "";
+                data.forEach(item => {
+                    if (item.push_time && item.push_time > latestPush) latestPush = item.push_time;
+                    if (item.time && item.time > latestCrawl) latestCrawl = item.time;
+                });
+
+                if (latestPush) {
+                    pushTimeDiv.innerText = t.scholarTimePrefix + latestPush;
+                    pushTimeDiv.style.display = 'block';
+                } else {
+                    pushTimeDiv.style.display = 'none';
+                }
+
+                if (latestCrawl) {
+                    crawlTimeDiv.innerText = t.scholarCrawlTimePrefix + latestCrawl;
+                    crawlTimeDiv.style.display = 'block';
+                } else {
+                    crawlTimeDiv.style.display = 'none';
+                }
+            } else {
+                pushTimeDiv.style.display = 'none';
+                crawlTimeDiv.style.display = 'none';
+            }
         }
 
         function fetchScholarData() {
@@ -1409,43 +1455,10 @@
             fetch('Scholar_Data_latest.json?t=' + ts)
                 .then(res => res.json())
                 .then(data => {
+                    originalScholarData = [...data]; // 备份今日最新 Scholar 数据
                     window.scholarDataCache = data; 
                     renderScholarList(data);
-                    
-                    const pushTimeDiv = document.getElementById('scholarPushTime');
-                    const crawlTimeDiv = document.getElementById('scholarCrawlTime');
-                    const t = langData[currentLang];
-                    
-                    if (data && data.length > 0) {
-                        let latestPush = "";
-                        let latestCrawl = "";
-                        
-                        data.forEach(item => {
-                            if (item.push_time && item.push_time > latestPush) {
-                                latestPush = item.push_time;
-                            }
-                            if (item.time && item.time > latestCrawl) {
-                                latestCrawl = item.time;
-                            }
-                        });
-
-                        if (latestPush) {
-                            pushTimeDiv.innerText = t.scholarTimePrefix + latestPush;
-                            pushTimeDiv.style.display = 'block';
-                        } else {
-                            pushTimeDiv.style.display = 'none';
-                        }
-
-                        if (latestCrawl) {
-                            crawlTimeDiv.innerText = t.scholarCrawlTimePrefix + latestCrawl;
-                            crawlTimeDiv.style.display = 'block';
-                        } else {
-                            crawlTimeDiv.style.display = 'none';
-                        }
-                    } else {
-                        pushTimeDiv.style.display = 'none';
-                        crawlTimeDiv.style.display = 'none';
-                    }
+                    updateScholarTimeDisplay(data);
                 })
                 .catch(err => {
                     console.error("Scholar Data Error", err);
@@ -1540,7 +1553,6 @@
                     sBtn.innerText = "Summary Fetch Error";
                 });
         }
-
     </script>
 </body>
 </html>

@@ -596,10 +596,22 @@
         const REPO_NAME = 'Optics-AI_Paper';        
         const contentApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
         
-        // ================= 语言配置 =================
-        let currentLang = 'zh'; // 默认中文
+        // ================= 全局状态与变量定义 =================
+        // 这里提前声明所有变量，避免在初始化函数调用时引发致命的 TDZ (Temporal Dead Zone) 报错。
+        let currentLang = 'zh'; 
         let globalLatestDateCode = ''; 
-        let isShowAbstract = false; // 控制摘要显示的开关状态
+        let isShowAbstract = false; 
+
+        let allPapersData = []; 
+        let originalPapersData = []; 
+        let historyModeActive = false;
+        let historyPapers = [];
+        let historyLoadedDates = new Set();
+        
+        // Scholar 模式使用的状态变量
+        let clickCount = 0;
+        let clickTimer = null;
+        let isSecretActive = false;
 
         const langData = {
             'zh': {
@@ -634,7 +646,7 @@
                 scholarSearchPlaceholder: '🔍 搜索 Google Scholar 标题或链接...',
                 scholarTimePrefix: '最新邮件推送时间：', 
                 scholarCrawlTimePrefix: '最新更新时间：',
-                // 评论区翻译 (无 Emoji)
+                // 评论区翻译
                 commentsTitle: '交流区',
                 // 往期模式翻译
                 historyModeTitle: '🕒 往期文献速览模式',
@@ -705,8 +717,7 @@
             if (!text) return "";
             // 1. 去除 HTML 标签
             let cleaned = text.replace(/<[^>]+>/g, "");
-            // 2. 将换行符等替换为空格，防止单词粘连，或者直接删除看需求。
-            // 这里为了保证是一段话，将换行符替换为空格
+            // 2. 将换行符等替换为空格
             cleaned = cleaned.replace(/[\r\n]+/g, " ");
             // 3. 去除首尾空白
             return cleaned.trim();
@@ -760,16 +771,14 @@
             checkButtonsVisibility();
         }
 
-        // ================= 语言切换逻辑 (已修改：增加 Giscus 更新) =================
+        // ================= 语言切换逻辑 =================
         function setLanguage(lang) {
             if (currentLang === lang) return;
             
-            // 1. 保存当前状态
             const savedState = saveExpandState();
              
             currentLang = lang;
             
-            // 更新按钮高亮状态
             const btnZh = document.getElementById('btn-zh');
             const btnEn = document.getElementById('btn-en');
             
@@ -783,7 +792,6 @@
 
             updateStaticUI();
             
-            // 重新渲染列表
             if (allPapersData.length > 0) {
                 const searchInput = document.getElementById('searchInput');
                 if (searchInput && searchInput.value.trim() !== "") {
@@ -793,7 +801,6 @@
                 }
             }
 
-            // 如果 Scholar 区域是可见的，重新渲染它以更新语言
             if (document.getElementById('scholarArea').style.display === 'block') {
                 updateScholarUI(); 
                 if(window.scholarDataCache) {
@@ -801,18 +808,13 @@
                 }
             }
             
-            // 2. 恢复状态
             restoreExpandState(savedState);
-            
-            // 3. 更新 Giscus 评论区语言 (新增逻辑)
             updateGiscusConfig(lang);
         }
 
-        // ================= Giscus 动态更新逻辑 (新增) =================
         function updateGiscusConfig(lang) {
             const giscusLang = lang === 'zh' ? 'zh-CN' : 'en';
             
-            // 1. 如果 iframe 已经加载（用户已经滚到底部），通过 postMessage 动态更新
             const iframe = document.querySelector('iframe.giscus-frame');
             if (iframe) {
                 iframe.contentWindow.postMessage({
@@ -824,7 +826,6 @@
                 }, 'https://giscus.app');
             }
 
-            // 2. 如果 iframe 还没加载（lazy loading），修改 script 标签属性，这样加载时就是对的语言
             const script = document.querySelector('script[src="https://giscus.app/client.js"]');
             if (script) {
                 script.setAttribute('data-lang', giscusLang);
@@ -833,7 +834,6 @@
 
         // ================= 摘要开关逻辑 =================
         function toggleAbstracts() {
-            // 1. 保存当前状态
             const savedState = saveExpandState();
 
             isShowAbstract = !isShowAbstract;
@@ -845,9 +845,8 @@
                 btn.classList.remove('active');
             }
             
-            updateStaticUI(); // 更新按钮文字
+            updateStaticUI();
 
-            // 重新渲染列表 (保持当前搜索状态)
             if (allPapersData.length > 0) {
                 const searchInput = document.getElementById('searchInput');
                 if (searchInput && searchInput.value.trim() !== "") {
@@ -857,7 +856,6 @@
                 }
             }
             
-            // 2. 恢复状态
             restoreExpandState(savedState);
         }
 
@@ -878,23 +876,21 @@
             document.getElementById('navTipTitle').innerText = t.navTipTitle;
             document.getElementById('navTipText').innerHTML = t.navTipText;
             
-            // 更新评论区标题 (新增)
             const commentTitle = document.getElementById('commentsTitle');
             if(commentTitle) commentTitle.innerText = t.commentsTitle;
 
-            // 更新往期文献UI文字
             const historyModeTitle = document.getElementById('historyModeTitle');
             if (historyModeTitle) historyModeTitle.innerText = t.historyModeTitle;
             const btnReturnToday = document.getElementById('btnReturnToday');
             if (btnReturnToday) btnReturnToday.innerText = t.btnReturnToday;
             const dropOverlay = document.getElementById('dropZoneOverlay');
             if (dropOverlay) dropOverlay.innerText = t.dropText;
-            if (historyModeActive) {
-                document.getElementById('historyDatesDisplay').innerText = 
-                    t.historyDatesPrefix + Array.from(historyLoadedDates).sort().join(', ');
+            
+            const datesDisplay = document.getElementById('historyDatesDisplay');
+            if (datesDisplay && historyModeActive) {
+                datesDisplay.innerText = t.historyDatesPrefix + Array.from(historyLoadedDates).sort().join(', ');
             }
 
-            // 更新摘要按钮文字
             const absText = document.getElementById('abstract-text');
             if (isShowAbstract) {
                 absText.innerText = t.abstractBtnOn;
@@ -916,18 +912,9 @@
         }
 
         // ======================================================================
-        // 主逻辑：读取最新 JSON
+        // 主逻辑：读取最新 JSON (现在所有依赖的变量均已在顶部定义好)
         // ======================================================================
         updateStaticUI(); 
-
-        let allPapersData = []; 
-        
-        // --- 新增: 往期文献相关的全局变量 ---
-        let originalPapersData = []; 
-        let historyModeActive = false;
-        let historyPapers = [];
-        let historyLoadedDates = new Set();
-        // -----------------------------------
 
         const timestamp = new Date().getTime();
         
@@ -971,12 +958,12 @@
                       btn.innerText = t.noData;
                       btn.style.backgroundColor = "#666"; 
                       timeDiv.style.display = 'none';
-                      originalPapersData = []; // 新增保存原始状态
+                      originalPapersData = []; 
                       return;
                 }
 
                 allPapersData = papers;
-                originalPapersData = [...papers]; // 新增保存原始状态，供“返回今日最新”使用
+                originalPapersData = [...papers]; // 保存原始状态供“返回今日最新”使用
 
                 document.getElementById('readingArea').style.display = 'block';
                 document.getElementById('searchArea').style.display = 'block'; 
@@ -1071,7 +1058,6 @@
                     let mainTitle, subTitle;
                     let abstractContent = ''; 
                     
-                    // 1. 处理标题语言
                     if (currentLang === 'zh') {
                         mainTitle = escapeHtml(paper.title_cn || paper.title);
                         subTitle = escapeHtml(paper.title);
@@ -1080,7 +1066,6 @@
                         subTitle = escapeHtml(paper.title_cn || "Chinese translation not available");
                     }
                     
-                    // 2. 处理摘要逻辑
                     if (isShowAbstract) {
                         let rawAbstract = "";
                         if (currentLang === 'zh') {
@@ -1089,11 +1074,8 @@
                             rawAbstract = paper.summary || paper.abstract_cn || "No abstract available";
                         }
                         
-                        // 清洗标签 + 去除换行符
                         const cleanText = cleanAbstract(rawAbstract);
-                        
                         if (cleanText) {
-                            // 注意：这里的模板字符串去除了多余的换行，防止 HTML 解析出空白行
                             abstractContent = `<div class="abstract-box"><span class="abstract-title">${t.abstractLabel}</span>${cleanText}</div>`;
                         }
                     }
@@ -1128,7 +1110,6 @@
             checkButtonsVisibility();
         }
 
-        // 4. 搜索功能 (主列表)
         function searchPapers() {
             const input = document.getElementById('searchInput');
             if(!input) return;
@@ -1143,7 +1124,6 @@
                 const titleEn = (paper.title || '').toLowerCase();
                 const titleCn = (paper.title_cn || '').toLowerCase();
                 const author = (paper.author || '').toLowerCase();
-                // 搜索时把原始的带标签的字符串也纳入搜索
                 const abstractEn = (paper.summary || '').toLowerCase();
                 const abstractCn = (paper.abstract_cn || '').toLowerCase();
 
@@ -1157,15 +1137,14 @@
             renderPapers(filteredData, true);
         }
 
-        // 搜索功能 (Scholar 列表)
         function searchScholarPapers() {
             const input = document.getElementById('scholarSearchInput');
             if(!input) return;
             const query = input.value.toLowerCase().trim();
-            const sourceData = window.scholarDataCache || []; // 确保有数据
+            const sourceData = window.scholarDataCache || []; 
 
             if (!query) {
-                renderScholarList(sourceData); // 如果为空，显示全部
+                renderScholarList(sourceData); 
                 return;
             }
 
@@ -1174,7 +1153,6 @@
                 const titleCn = (paper.title_cn || '').toLowerCase();
                 const linkStr = (paper.link || '').toLowerCase();
 
-                // 搜索标题（中英）和链接字符串
                 return titleEn.includes(query) || 
                        titleCn.includes(query) || 
                        linkStr.includes(query);
@@ -1183,7 +1161,6 @@
             renderScholarList(filteredData);
         }
 
-        // 5. 交互动画与逻辑
         function toggleAccordion(element) {
             if (!element) return;
             
@@ -1253,7 +1230,7 @@
         }
 
         // ======================================================================
-        // 新增功能：往期 JSON 拖拽读取合并逻辑
+        // 往期 JSON 拖拽读取合并逻辑
         // ======================================================================
         let dragCounter = 0;
         const body = document.documentElement;
@@ -1303,7 +1280,6 @@
                     }
 
                     if (papers.length > 0) {
-                        // 尝试从文件名中提取类似 "260213" 的日期后缀
                         let dateStr = file.name;
                         const match = file.name.match(/\d{6}/);
                         if (match) {
@@ -1312,7 +1288,6 @@
                         
                         historyLoadedDates.add(dateStr);
                         
-                        // 根据论文链接(id 或 link)进行去重合并
                         const existingIds = new Set(historyPapers.map(p => p.id || p.link));
                         papers.forEach(p => {
                             if (!existingIds.has(p.id || p.link)) {
@@ -1329,16 +1304,14 @@
 
             if (newlyAdded) {
                 historyModeActive = true;
-                allPapersData = historyPapers; // 覆盖全局数据池，让搜索功能自动生效
+                allPapersData = historyPapers; 
                 
-                // 显示并更新状态栏
                 document.getElementById('readingArea').style.display = 'block';
                 document.getElementById('searchArea').style.display = 'block'; 
                 document.getElementById('historyStatusArea').style.display = 'flex';
                 document.getElementById('historyDatesDisplay').innerText = 
                     langData[currentLang].historyDatesPrefix + Array.from(historyLoadedDates).sort().join(', ');
                 
-                // 根据当前搜索框是否有值决定重新渲染方式
                 const searchInput = document.getElementById('searchInput');
                 if (searchInput && searchInput.value.trim() !== "") {
                     searchPapers();
@@ -1348,20 +1321,24 @@
             }
         }
 
-        // 返回今日最新逻辑
         function returnToTodayMode() {
             historyModeActive = false;
             historyPapers = [];
             historyLoadedDates.clear();
             
             document.getElementById('historyStatusArea').style.display = 'none';
-            allPapersData = originalPapersData; // 恢复原始的今日数据
+            allPapersData = originalPapersData; 
             
-            const searchInput = document.getElementById('searchInput');
-            if (searchInput && searchInput.value.trim() !== "") {
-                searchPapers();
+            if (!allPapersData || allPapersData.length === 0) {
+                document.getElementById('readingArea').style.display = 'none';
+                document.getElementById('searchArea').style.display = 'none';
             } else {
-                renderPapers(allPapersData, false);
+                const searchInput = document.getElementById('searchInput');
+                if (searchInput && searchInput.value.trim() !== "") {
+                    searchPapers();
+                } else {
+                    renderPapers(allPapersData, false);
+                }
             }
         }
 
@@ -1369,17 +1346,12 @@
         // ======================================================================
         // 秘密入口与 Scholar 处理逻辑
         // ======================================================================
-        
-        let clickCount = 0;
-        let clickTimer = null;
-        let isSecretActive = false;
 
         function triggerSecret() {
             if (isSecretActive) return; 
 
             clickCount++;
             
-            // 2秒内没有继续点击，重置计数器
             clearTimeout(clickTimer);
             clickTimer = setTimeout(() => {
                 clickCount = 0;
@@ -1396,13 +1368,9 @@
             const scholarArea = document.getElementById('scholarArea');
             scholarArea.style.display = 'block';
             
-            // 1. 获取 Scholar JSON 数据
             fetchScholarData();
-
-            // 2. 获取最新 Scholar Word 文档
             fetchScholarSummaryDoc();
             
-            // 3. 滚动到底部 (这就是反馈)
             scholarArea.scrollIntoView({behavior: "smooth"});
         }
 
@@ -1415,7 +1383,6 @@
              }
              document.getElementById('scholarSearchInput').placeholder = t.scholarSearchPlaceholder;
              
-             // 1. 更新邮件推送时间
              const pushTimeDiv = document.getElementById('scholarPushTime');
              if (pushTimeDiv.innerText.includes(':')) {
                  let parts = pushTimeDiv.innerText.split('：'); 
@@ -1426,7 +1393,6 @@
                  }
              }
 
-             // 2. 更新系统抓取时间
              const crawlTimeDiv = document.getElementById('scholarCrawlTime');
              if (crawlTimeDiv.innerText.includes(':')) {
                  let parts = crawlTimeDiv.innerText.split('：'); 
@@ -1451,7 +1417,6 @@
                     const t = langData[currentLang];
                     
                     if (data && data.length > 0) {
-                        // 查找最新的 push_time 和 time
                         let latestPush = "";
                         let latestCrawl = "";
                         
@@ -1464,7 +1429,6 @@
                             }
                         });
 
-                        // 显示邮件推送时间
                         if (latestPush) {
                             pushTimeDiv.innerText = t.scholarTimePrefix + latestPush;
                             pushTimeDiv.style.display = 'block';
@@ -1472,7 +1436,6 @@
                             pushTimeDiv.style.display = 'none';
                         }
 
-                        // 显示系统抓取时间
                         if (latestCrawl) {
                             crawlTimeDiv.innerText = t.scholarCrawlTimePrefix + latestCrawl;
                             crawlTimeDiv.style.display = 'block';

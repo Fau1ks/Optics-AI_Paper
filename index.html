@@ -655,6 +655,9 @@
         let scholarHistoryModeActive = false;
         let scholarHistoryPapers = [];
         let scholarHistoryLoadedDates = new Set();
+        
+        // 新增：判断是否已抓取过当日 Scholar 数据
+        let hasFetchedScholarToday = false; 
 
         const langData = {
             'zh': {
@@ -1368,17 +1371,25 @@
             scholarHistoryLoadedDates.clear();
             
             document.getElementById('scholarHistoryStatusArea').style.display = 'none';
-            window.scholarDataCache = originalScholarData;
             
-            if (!originalScholarData || originalScholarData.length === 0) {
-                document.getElementById('scholarContent').innerHTML = "<div class='no-result'>No Scholar Data.</div>";
-                document.getElementById('scholarPushTime').style.display = 'none';
-                document.getElementById('scholarCrawlTime').style.display = 'none';
+            // 修复：如果之前没有触发过当天数据的抓取（直接拖入了历史数据），此时需要请求当天数据
+            if (!hasFetchedScholarToday) {
+                document.getElementById('scholarContent').innerHTML = `<div class='no-result' style='text-align:center;'>${langData[currentLang].downloadLoading}</div>`;
+                fetchScholarData();
+                fetchScholarSummaryDoc();
             } else {
-                updateScholarTimeDisplay(originalScholarData);
-                const searchInput = document.getElementById('scholarSearchInput');
-                if (searchInput && searchInput.value.trim() !== "") searchScholarPapers();
-                else renderScholarList(originalScholarData);
+                window.scholarDataCache = originalScholarData;
+                
+                if (!originalScholarData || originalScholarData.length === 0) {
+                    document.getElementById('scholarContent').innerHTML = "<div class='no-result'>No Scholar Data.</div>";
+                    document.getElementById('scholarPushTime').style.display = 'none';
+                    document.getElementById('scholarCrawlTime').style.display = 'none';
+                } else {
+                    updateScholarTimeDisplay(originalScholarData);
+                    const searchInput = document.getElementById('scholarSearchInput');
+                    if (searchInput && searchInput.value.trim() !== "") searchScholarPapers();
+                    else renderScholarList(originalScholarData);
+                }
             }
         }
 
@@ -1451,6 +1462,7 @@
         }
 
         function fetchScholarData() {
+            hasFetchedScholarToday = true; // 标记已抓取过当日数据
             const ts = new Date().getTime();
             fetch('Scholar_Data_latest.json?t=' + ts)
                 .then(res => res.json())

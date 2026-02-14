@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-14 11:28:03",
+    "update_time": "2026-02-14 13:28:15",
     "word_filename": "Optical_Papers_260214.docx",
-    "total_count": 108,
+    "total_count": 116,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69564-0",
@@ -1189,6 +1189,94 @@
             "summary": "Abstract not available.",
             "journal": "Displays",
             "title_cn": "所有喷墨印刷红色微量子点发光二极管 (QLED)：制造和性能",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69246-x",
+            "title": "Ancestral neuronal receptors are bacterial accessory toxins",
+            "link": "https://doi.org/10.1038/s41467-026-69246-x",
+            "published": "2026-02-14",
+            "author": "Finaritra Raoelijaona, Joanna Szczepaniak, Adrien Schahl, James E. Bray, Jin Chuan Zhou, Lindsay Baker, Kamel El Omari, Edward Lowe, Yu Shang Low, Chandra M. Rodriguez, Michael J. Landsberg, J. Shaun Lott, Colin Kleanthous, Matthieu Chavent, Martin CJ Maiden, Elena Seiradake",
+            "summary": "Abstract Horizontal gene transfer events were crucial in the emergence of multicellular life. A striking example is the acquisition of Teneurins, putative surface-exposed toxins in bacteria that function as cell adhesion receptors in metazoan neuronal development. Here, we demonstrate the evolutionary relationships between metazoan and bacterial Teneurins. We use cryogenic electron microscopy and bioinformatic analysis to show that bacterial Teneurins harbour a toxic protein in a proteinaceous shell. They are rare but widely distributed across bacterial taxa and are predominantly seen in species with complex social behaviours, suggesting roles in cell-to-cell interaction. This work confirms that metazoan Teneurins are repurposed bacterial toxins that have evolved to be essential mediators of intercellular communication in all advanced nervous systems. Their acquisition was a key event in the evolution of metazoans.",
+            "journal": "Nature Communications",
+            "title_cn": "祖先神经元受体是细菌辅助毒素",
+            "abstract_cn": "摘要 水平基因转移事件对于多细胞生命的出现至关重要。一个引人注目的例子是获得 Teneurins，这是细菌中假定的表面暴露毒素，在后生动物神经元发育中充当细胞粘附受体。在这里，我们展示了后生动物和细菌 Teneurins 之间的进化关系。我们使用低温电子显微镜和生物信息分析表明细菌 Teneurins 在蛋白质壳中含有有毒蛋白质。它们很罕见，但广泛分布在细菌类群中，主要见于具有复杂社会行为的物种，表明它们在细胞间相互作用中发挥作用。这项工作证实后生动物 Teneurins 是重新利用的细菌毒素，已进化成为所有高级神经系统细胞间通讯的重要介质。它们的获得是后生动物进化中的一个关键事件。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-12510-9",
+            "title": "An industrial integration framework based on QFD for selecting the optimal electrical poles",
+            "link": "https://doi.org/10.1038/s41598-025-12510-9",
+            "published": "2026-02-14",
+            "author": "Youssef Ahmed Awad, Ahmed M. EL-Fiky, Hosam Hegazy, Mahmoud Galal, Ibrahim Abdel-Latif Yousef, Ahmed M. Ebid, Mohamed A. Khalaf",
+            "summary": "Utility poles are critical in supporting various electrical and communication infrastructure systems, including power transmission lines, streetlights, telephone networks, and cable services. Each type of pole whether steel, aluminum, or fiber-reinforced polymer (FRP) is designed with specific applications and performance characteristics in mind. This study presents a Quality Function Deployment (QFD) framework tailored for industrial applications, focusing on enhancing information integration to guide the selection of the most suitable pole type. The research examines advancements in utility pole technologies and management practices over the past two decades. Through market surveys, focus group discussions and individual interviews, ten KPIs were identified: service life, safety performance, overall cost, color retention, conductivity resistance, weight, production duration, transportability, installation approach, and wind resistance. Based on these KPIs, decision-makers outlined nine functional requirements that, when met, would enhance user satisfaction. The proposed framework was developed to support analytical evaluation and selection of the optimal pole type by aligning client needs with technical specifications. Using the QFD approach, the FRP pole emerged as the top-performing alternative, receiving a score of 4.12 out of 5. This framework provides a structured method for decision-makers to evaluate electrical pole options based on project-specific criteria, enabling informed and client-focused choices in early design phases.",
+            "journal": "Scientific Reports",
+            "title_cn": "基于QFD的用于选择最佳电极的工业集成框架",
+            "abstract_cn": "电线杆对于支持各种电力和通信基础设施系统至关重要，包括输电线路、路灯、电话网络和电缆服务。每种类型的杆，无论是钢、铝还是纤维增强聚合物 (FRP)，在设计时都考虑到了特定的应用和性能特征。本研究提出了一个专为工业应用量身定制的质量功能部署（QFD）框架，重点是加强信息集成，以指导选择最合适的杆类型。该研究考察了过去二十年来电线杆技术和管理实践的进步。通过市场调查、焦点小组讨论和个人访谈，确定了十个关键绩效指标：使用寿命、安全性能、总体成本、保色性、导电性、重量、生产工期、运输性、安装方式和抗风性。根据这些 KPI，决策者概述了九项功能要求，如果满足这些要求，将提高用户满意度。开发所提出的框架是为了通过将客户需求与技术规范相结合来支持分析评估和最佳杆类型的选择。使用 QFD 方法，FRP 杆成为表现最好的替代方案，得分为 4.12（满分 5）。该框架为决策者提供了一种结构化方法，可以根据项目特定标准评估电线杆选项，从而在早期设计阶段实现明智且以客户为中心的选择。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-36922-3",
+            "title": "Updated seismotectonic framework of Abu Dabbab Egypt based on focal mechanisms and stress inversion",
+            "link": "https://doi.org/10.1038/s41598-026-36922-3",
+            "published": "2026-02-14",
+            "author": "Mona Abdelazim, Salah Elhadidy Youssef, Hanan Gaber, Gad-Elkareem A. Mohamed, M. Sami Soliman, Mohamed H. Yassien, Mona Hamada, Shimaa H. Elkhouly",
+            "summary": "Abstract The Abu Dabbab seismic zone is located along Egypt’s Red Sea margin, stands out as one of the most active seismic regions in the Eastern Desert. Characterized by frequent micro earthquakes, swarm like activity, and notable historical events. To enhance understanding of its tectonic framework, 408 earthquakes (Ml 0.7–3.0) recorded in 2004 were analyzed using digital waveform data from a temporary local seismic network consisting of ten vertical short period seismometers. Focal mechanisms were determined from P-wave first-motion polarities and classified using ternary plots. The analysis revealed a diverse range of faulting styles normal, strike slip, reverse, and oblique with clear depth dependent patterns. Shallow events (0–5 km) were dominated by normal and strike slip faulting, intermediate depths (5–10 km) showed increased reverse and oblique components, while deeper events (> 10 km) were primarily normal faulting. Stress tensor inversion across three depth intervals indicated a multiphase stress regime: shallow depths exhibited alternating faulting styles due to localized stress variations; intermediate depths revealed a heterogeneous stress field with mixed faulting regimes; and deeper levels showed a dominant normal faulting regime, consistent with the extensional tectonics of the Red Sea Rift. Overall, the stress field is shaped by NE–SW compression and SE–NW extension, with deformation concentrated along NW–SE and NE–SW trending faults. These findings underscore the combined influence of regional rift-related extension and local factors such as magmatic intrusions and crustal heterogeneity in driving seismicity at Abu Dabbab. This study yields important insights into depth dependent stress patterns and active faulting, enhancing seismic hazard assessments and highlighting the region’s potential as a sustainable geothermal energy source within a tectonically dynamic environment.",
+            "journal": "Scientific Reports",
+            "title_cn": "基于震源机制和应力反演的埃及阿布达巴地震构造框架更新",
+            "abstract_cn": "摘要 阿布达巴地震带位于埃及红海边缘，是东部沙漠地震最活跃的地区之一。其特点是微震频繁、群活动频繁、历史事件显着。为了加深对其构造框架的了解，利用来自由 10 个垂直短周期地震仪组成的临时本地地震网络的数字波形数据，对 2004 年记录的 408 次地震（Ml 0.7-3.0）进行了分析。震源机制是根据 P 波第一运动极性确定的，并使用三元图进行分类。分析揭示了正断层、走滑断层、逆断层和斜断层等多种断层类型，具有明显的深度依赖性模式。浅层事件（0-5公里）以正断层和走滑断层为主，中层深度（5-10公里）显示反向和倾斜成分增加，而较深事件（>10公里）主要是正断层。三个深度区间的应力张量反演表明存在多相应力状态：浅层由于局部应力变化而表现出交替的断层样式；中间深度揭示了具有混合断层机制的不均匀应力场；更深层次显示出占主导​​地位的正断层构造，与红海裂谷的伸展构造一致。总体而言，应力场由NE-SW挤压和SE-NW伸展形成，变形集中在NW-SE和NE-SW走向的断层上。这些发现强调了与区域裂谷相关的延伸和岩浆侵入和地壳异质性等当地因素对阿布达巴地震活动的综合影响。这项研究对深度相关应力模式和活动断层产生了重要见解，增强了地震灾害评估，并强调了该地区作为构造动态环境中可持续地热能源的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39097-z",
+            "title": "Comparative spectral analysis of blood and saliva in breast cancer, benign breast disease and healthy controls using ATR-FTIR",
+            "link": "https://doi.org/10.1038/s41598-026-39097-z",
+            "published": "2026-02-14",
+            "author": "Lara de Andrade Marques, Alinne Tatiane Faria Silva, Izabella Cristina Costa Ferreira, Letícia Lopes Dantas Santos, Juliana Carvalho Penha Pereira, Donizeti William Santos, Carlos Eduardo Paiva, Yara Cristina de Paiva Maia",
+            "summary": "Breast cancer (BC) ranks among the most prevalent tumors affecting women. This research explores the ability of Attenuated Total Reflection Infrared Spectroscopy (ATR-FTIR) to identify different biochemical elements found in bodily fluids such as serum and saliva from individuals with BC, individuals with benign breast disease (BBD), and healthy individuals. A cross-sectional analysis was performed on samples from 73 participants, comprising 31 with BC, 18 with BBD, and 24 healthy subjects, to examine biochemical differences across the groups. The findings indicated that the levels of the biochemical elements nucleic acids, proteins, lipids and glycogen significantly differed among the fluids. Specifically, the wavenumber of 2930 cm− 1 in saliva was capable of statistically differentiating BC patients from BBD patients and healthy controls. In the serum samples, a significant difference was observed at 1295 cm− 1 (p = 0.0014). However, serum collection has some disadvantages such as invasiveness and the need for trained personnel. Wavenumbers in saliva have emerged as potential breast cancer biomarkers, suggesting that this approach could serve as a valuable, noninvasive method and readily available option for breast cancer screening. ATR-FTIR spectroscopy has the potential to pave the way for the investigation of more efficient and less invasive clinical diagnostic methods.",
+            "journal": "Scientific Reports",
+            "title_cn": "使用 ATR-FTIR 对乳腺癌、良性乳腺疾病和健康对照者的血液和唾液进行比较光谱分析",
+            "abstract_cn": "乳腺癌 (BC) 是影响女性最常见的肿瘤之一。本研究探讨了衰减全反射红外光谱 (ATR-FTIR) 识别 BC 患者、良性乳腺疾病 (BBD) 患者和健康个体体液（例如血清和唾液）中发现的不同生化元素的能力。对 73 名参与者（其中 31 名 BC、18 名 BBD 和 24 名健康受试者）的样本进行了横断面分析，以检查各组之间的生化差异。研究结果表明，不同体液中生化元素核酸、蛋白质、脂质和糖原的水平存在显着差异。具体来说，唾液中 2930 cm−1 的波数能够在统计学上区分 BC 患者、BBD 患者和健康对照。在血清样本中，在 1295 cm−1 处观察到显着差异（p = 0.0014）。然而，血清采集具有一些缺点，例如侵入性和需要经过培训的人员。唾液中的波数已成为潜在的乳腺癌生物标志物，这表明这种方法可以作为乳腺癌筛查的一种有价值的、非侵入性的方法和现成的选择。 ATR-FTIR 光谱有可能为研究更有效、侵入性更小的临床诊断方法铺平道路。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39664-4",
+            "title": "Gamma activity concentrations of 226Ra, 232Th, 40K, and health hazard assessments of granites from Wadi El-Nabi’ mining area, Egyptian Nubian Shield",
+            "link": "https://doi.org/10.1038/s41598-026-39664-4",
+            "published": "2026-02-14",
+            "author": "Aya S. Shereif, Mohamed Th. S. Heikal, Abdel Salam Abu El Ela, Ahmed El Shabasy, Ahmed E. Masoud, Árpád Csámer",
+            "summary": "Abstract Granitic rocks constitute one of the most prevalent and economically significant lithologies, owing to their abundance, mechanical durability, and aesthetic appeal, which render them highly suitable as ornamental stones in architectural and construction applications. In recent years, extensive research efforts have been directed toward quantifying the radiological hazards posed by naturally occurring radioactive materials within these rocks, concerning their potential implications for human health and environmental safety when utilized in building materials. In the present study, a comprehensive radiometric investigation was conducted on 35 granitic rock samples of Wadi El-Nabi’ mining area, specifically El-Igl El-Ahmer monzo-syenogranites, to quantify the activity concentrations of principal radionuclides, including 22 6 Ra, 232 Th, and 4 0 K, utilizing gamma spectrometry with a high-purity germanium (HPGe) detector. Furthermore, an array of radiological hazard indices was systematically calculated to evaluate the potential radiological risks associated with these granitoid specimens. Our findings indicate that the mean activity concentrations of 226 Ra, 232 Th, and 40 K in the monzogranite samples were 29 (± 6), 34 (± 6), and 883 (± 49) Bq/kg, respectively. In comparison, the syenogranite samples exhibited slightly elevated average values, measured at 31 (± 5), 35 (± 4), and 890 (± 9) Bq/kg for the corresponding radionuclides, reflecting a modest enrichment in radioactivity within the syenogranitic lithology. With respect to the radiological parameters, the results indicate that D out , D in , AEDE in , ELCR out , ELCR in , I γ , and AGDE for both monzogranite and syenogranite samples exceed the internationally recommended reference levels. Conversely, Ra eq , AEDE out , H ex , and H in remain within acceptable global thresholds. 232 Th/ 226 Ra ( 238 U) ratios for the monzogranite and syenogranite samples range from 0.88 to 1.39 (mean 1.15 ± 0.14) and 0.88 to 1.41 (mean 1.14 ± 0.16), respectively. These values are markedly lower than the canonical crustal Th/Ra ratio of ~ 3.5, indicating post-magmatic hydrothermal alteration and selective uranium enrichment within the host granitoids. This radiological evidence is reinforced by remote sensing observations, which reveal characteristic alteration patterns, including kaolinization, sericitization, fluoritization, and silicification zones, that are spatially associated with the monzo-syenogranitic units, especially in the buffer location. Consequently, the granitic rocks in certain localized areas, particularly where radionuclide concentrations or radiological hazard indices exceed typical thresholds, may be considered unsuitable for use as construction materials.",
+            "journal": "Scientific Reports",
+            "title_cn": "埃及努比亚地盾 Wadi El-Nabi 矿区花岗岩的 226Ra、232Th、40K 伽马活度浓度及健康危害评估",
+            "abstract_cn": "摘要 花岗岩是最普遍且具有经济意义的岩性之一，由于其丰富性、机械耐久性和审美吸引力，这使得它们非常适合作为建筑和建筑应用中的装饰石材。近年来，广泛的研究工作致力于量化这些岩石中天然存在的放射性物质所造成的放射性危害，涉及它们在建筑材料中使用时对人类健康和环境安全的潜在影响。在本研究中，对 Wadi El-Nabi 矿区的 35 个花岗岩样品（特别是 El-Igl El-Ahmer 二元正花岗岩）进行了全面的辐射调查，以利用高纯锗 (HPGe) 探测器的伽玛能谱法量化主要放射性核素的活度浓度，包括 22 6 Ra、232 Th 和 4 0 K。此外，系统地计算了一系列放射性危害指数，以评估与这些花岗岩样本相关的潜在放射性风险。我们的研究结果表明，二长花岗岩样品中 226 Ra、232 Th 和 40 K 的平均活度浓度分别为 29 (± 6)、34 (± 6) 和 883 (± 49) Bq/kg。相比之下，正长花岗岩样品的相应放射性核素平均值略有升高，测量值分别为 31 (± 5)、35 (± 4) 和 890 (± 9) Bq/kg，反映出正长花岗岩岩性内放射性适度富集。在放射学参数方面，结果表明二长花岗岩和正长花岗岩样品的D out 、D in 、AEDE in 、ELCR out 、ELCR in 、I γ 和AGDE均超过国际推荐的参考水平。相反，Ra eq 、AEDE out 、H ex 和 H in 保持在可接受的全局阈值内。二长花岗岩和正长花岗岩样品的 232 Th/ 226 Ra ( 238 U) 比率范围分别为 0.88 至 1.39（平均值 1.15 ± 0.14）和 0.88 至 1.41（平均值 1.14 ± 0.16）。这些值明显低于典型的地壳 Th/Ra 比率（约 3.5），表明岩浆后热液蚀变和宿主花岗岩内选择性铀富集。遥感观测强化了这一放射学证据，遥感观测揭示了特征蚀变模式，包括高岭土化、绢云母化、萤石化和硅化带，这些带在空间上与二元正长花岗岩单元相关，特别是在缓冲区位置。因此，某些局部区域的花岗岩，特别是放射性核素浓度或放射性危害指数超过典型阈值的区域，可能被认为不适合用作建筑材料。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39727-6",
+            "title": "Impact of microwave pretreatment on drying kinetics, mass transfer and thermodynamic characteristics of Barhi dates during drying process",
+            "link": "https://doi.org/10.1038/s41598-026-39727-6",
+            "published": "2026-02-14",
+            "author": "Nashi Alqahtani, Mohammad Fikry",
+            "summary": "This study investigated the effects of microwave pretreatment on drying behavior, moisture transport, and thermodynamic properties of untreated Barhi dates (UBD) and microwave-pretreated Barhi dates (MBD) under different drying temperatures and air velocities. In addition, thin-layer drying models were evaluated to identify the most suitable predictive model. The results demonstrated that microwave pretreatment significantly enhanced drying efficiency, reducing drying time by up to 21% and accelerating internal moisture transfer, particularly during the initial drying stage. Among the evaluated models, the Logarithmic model provided the most accurate prediction of moisture ratio. Microwave pretreatment improved parameter consistency and slightly enhanced model accuracy, indicating more uniform moisture redistribution within the fruit. Both effective moisture diffusivity (Deff) and the convective mass transfer coefficient (hm) increased with temperature and air velocity, with MBD exhibiting up to approximately 367% higher Deff and 359% higher hm than UBD. Biot numbers increased with temperature (≈ 20–23% per 10 °C) but decreased with increasing air velocity, whereas Dincer numbers declined sharply (≈ 36–42% per 10 °C). Thermodynamic analysis confirmed that the drying process was endothermic and non-spontaneous. Compared with UBD, MBD exhibited slightly higher activation energy and enthalpy but lower Gibbs free energy, reflecting enhanced moisture mobility and improved energy efficiency. Overall, microwave pretreatment improved drying kinetics, moisture uniformity, and model predictability, providing a robust framework for optimizing thin-layer drying of Barhi dates at the industrial scale.",
+            "journal": "Scientific Reports",
+            "title_cn": "微波预处理对巴希枣干燥过程动力学、传质及热力学特性的影响",
+            "abstract_cn": "本研究研究了微波预处理对不同干燥温度和风速下未经处理的巴希枣（UBD）和微波预处理的巴希枣（MBD）的干燥行为、水分传输和热力学性质的影响。此外，还评估了薄层干燥模型，以确定最合适的预测模型。结果表明，微波预处理显着提高了干燥效率，将干燥时间缩短了 21%，并加速了内部水分转移，特别是在初始干燥阶段。在评估的模型中，对数模型提供了最准确的含水率预测。微波预处理提高了参数一致性并略微提高了模型精度，表明水果内的水分重新分布更加均匀。有效湿气扩散率 (Deff) 和对流传质系数 (hm) 都随着温度和空气速度的增加而增加，MBD 的 Deff 比 UBD 高出约 367%，hm 高出约 359%。 Biot 数随着温度的增加而增加（约每 10 °C 20–23%），但随着空气流速的增加而减少，而 Dicer 数则急剧下降（约每 10 °C 36–42%）。热力学分析证实干燥过程是吸热且非自发的。与 UBD 相比，MBD 表现出略高的活化能和热函，但吉布斯自由能较低，反映出水分流动性增强和能量效率提高。总体而言，微波预处理改善了干燥动力学、水分均匀性和模型可预测性，为工业规模优化巴希枣薄层干燥提供了稳健的框架。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39572-7",
+            "title": "Neural mechanisms promoting righteousness in conflicts of interest",
+            "link": "https://doi.org/10.1038/s41598-026-39572-7",
+            "published": "2026-02-14",
+            "author": "Crystal Reeck, Rita M. Ludwig, Malia F. Mason",
+            "summary": "Competing interests pose a challenge to harmonious social functioning and can undermine consumer markets. However, some individuals eschew actions that yield personal gain even when it is ambiguous (to them and others) that they are inappropriate, and even in the absence of potential reputational damages or public praise. Across four studies, we provide evidence for the existence for such righteousness and adjudicate between competing psychological mechanisms. Contrary to the idea that righteous behavior is inherently rewarding, functional neuroimaging results show that activity in a network of brain regions associated with self-control, rather than reward, tracks differences in righteousness. This relationship is specific to circumstances in which the proper course of action is ambiguous, a common feature of many conflict-of-interest settings. We build on these findings by testing pre-commitment as a behavioral intervention that might mitigate the negative consequences of ambiguous conflict of interest situations. These results advance our understanding of the psychological processes that shape unbiased behavior in conflicts of interest, advocating a central role for self-control in promoting righteous behaviors and informing potential policy interventions to prevent conflicts from undermining consumer markets.",
+            "journal": "Scientific Reports",
+            "title_cn": "在利益冲突中促进正义的神经机制",
+            "abstract_cn": "利益冲突对社会和谐运转构成挑战，并可能破坏消费市场。然而，有些人会回避那些能带来个人利益的行为，即使（对他们和其他人来说）不明确这些行为是不适当的，甚至在没有潜在的声誉损害或公众赞扬的情况下。在四项研究中，我们提供了这种正义存在的证据，并在相互竞争的心理机制之间做出了裁决。与正义行为本质上会带来回报的观点相反，功能性神经影像学结果表明，与自我控制相关的大脑区域网络中的活动，而不是奖励，追踪正义的差异。这种关系特定于正确行动方针不明确的情况，这是许多利益冲突环境的共同特征。我们在这些发现的基础上，通过测试预先承诺作为一种行为干预措施，可以减轻模糊利益冲突情况的负面后果。这些结果增进了我们对在利益冲突中塑造公正行为的心理过程的理解，倡导自我控制在促进正义行为中的核心作用，并为潜在的政策干预提供信息，以防止冲突破坏消费者市场。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114940",
+            "title": "Modeling and application of compensator depolarization effects in Mueller matrix ellipsometer",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114940",
+            "published": "2026-06-01",
+            "author": "Yuying Kang, Zhen Zhang, Zhisong Li",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "Mueller矩阵椭偏仪补偿器退偏效应建模及应用",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

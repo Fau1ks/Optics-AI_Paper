@@ -1006,8 +1006,8 @@
         function fallbackToGithubApi() {
             if (!btn.classList.contains('loading')) return;
 
-            // fetch(contentApiUrl)
-            fetch(`${contentApiUrl}?repo=scholar`)
+            fetch(contentApiUrl)
+            // fetch(`${contentApiUrl}?repo=scholar`)
                 .then(response => response.json())
                 .then(data => {
                     const wordFiles = data.filter(item => item.name.startsWith('Optical_Papers_') && item.name.endsWith('.docx'));
@@ -1546,7 +1546,8 @@
             const sBtn = document.getElementById('scholarDownloadBtn');
             const t = langData[currentLang];
 
-            fetch(contentApiUrl)
+            // fetch(contentApiUrl)
+            fetch(`${contentApiUrl}?repo=scholar`)
                 .then(response => response.json())
                 .then(data => {
                     const scholarFiles = data.filter(item => item.name.startsWith('Scholar_Summary_') && item.name.endsWith('.docx'));

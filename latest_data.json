@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-14 08:27:43",
+    "update_time": "2026-02-14 11:28:03",
     "word_filename": "Optical_Papers_260214.docx",
-    "total_count": 102,
+    "total_count": 108,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69564-0",
@@ -1123,6 +1123,72 @@
             "summary": "Abstract not available.",
             "journal": "Optics and Laser Technology",
             "title_cn": "基于 Transformer 的无监督深度学习，用于数字图像相关性和数字体积相关性",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69614-7",
+            "title": "Single-crystal 2D covalent organic frameworks for high-capacity methane storage",
+            "link": "https://doi.org/10.1038/s41467-026-69614-7",
+            "published": "2026-02-14",
+            "author": "Baoqiu Yu, Felipe L. Oliveira, Wenliang Li, Qingmei Xu, Xu Ding, Shangwei Yuan, Yucheng Jin, Hua Liu, Hailong Wang, Xin Xiao, Jingping Zhang, Guillaume Maurin, Banglin Chen, Jianzhuang Jiang",
+            "summary": "Abstract 2D covalent organic frameworks (COFs) usually possess a polycrystalline nature as well as lower porosity and surface area than 3D counterparts, restraining their exploration over gas storage applications. Herein, a substituent strategy has been proposed and employed to generate three robust single-crystal 2D COFs isomers with atom-resolution structures determined by 3D electron diffraction. Among three isomers, a precise engineering of their interlayer distance affords the highest Brunauer−Emmett−Teller surface area of ~2100 m 2 g −1 and the largest pore volume of 1.40 cm 3 g −1 for the desolvated GZU-1. This COF shows the highest total volumetric methane uptake of 240 cm 3 (STP) cm −3 at 273 K and 100 bar among 2D COFs, even comparable with those for excellent 3D MOFs. This work not only delivers unique insight into the design of 2D single-crystal COFs by interlayer stacking regulation, but also promotes the application of highly porous 2D COFs in gas storage.",
+            "journal": "Nature Communications",
+            "title_cn": "用于高容量甲烷储存的单晶二维共价有机框架",
+            "abstract_cn": "摘要 2D共价有机框架（COF）通常具有多晶性质，并且比3D对应物具有更低的孔隙率和表面积，限制了它们在气体储存应用方面的探索。在此，提出并采用取代策略来生成三种稳健的单晶 2D COF 异构体，其原子分辨率结构由 3D 电子衍射确定。在三种异构体中，层间距离的精确设计为去溶剂化的 GZU-1 提供了 ~2100 m 2 g -1 的最高 Brunauer−Emmett−Teller 表面积和 1.40 cm 3 g −1 的最大孔体积。该COF在2D COF中在273 K和100 bar下表现出最高的总体积甲烷吸收量240 cm 3 (STP) cm -3 ，甚至可以与优秀的3D MOF相媲美。这项工作不仅为通过层间堆叠调节设计二维单晶COF提供了独特的见解，而且促进了高多孔二维COF在气体存储中的应用。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37790-7",
+            "title": "Everyday discrimination among middle-aged and older adults in India: a multilevel cross-sectional analysis from the Longitudinal Ageing Study in India",
+            "link": "https://doi.org/10.1038/s41598-026-37790-7",
+            "published": "2026-02-14",
+            "author": "Ravi Sadhu, Soohyeon Ko, S. V. Subramanian, Rockli Kim",
+            "summary": "Abstract Everyday discrimination (ED) has adverse effects on health and well-being. This study highlights understudied trends in the distribution, correlates, and geographic variation of ED among Indian adults aged 45 and above. The analysis of 61,722 participants in the Longitudinal Ageing Study in India (2017-18) revealed significant state/union territory (UT)-level variation. While Nagaland, Tripura, Mizoram, and Lakshadweep had comparatively lower ED scores than the national average, Jammu and Kashmir, Delhi, Chhattisgarh, and Karnataka had higher scores. Additionally, using multilevel negative binomial regression, we found that men, non-married adults, migrant residents, and adults in rural areas had higher ED rates. In general, with increases in education level and household monthly per capita income, there was a reduction in ED rates. Notably, adults with a functional disability (Incident Rate Ratio (IRR) = 1.43 [95% confidence interval: 1.32, 1.55]) and physical or mental impairment (IRR = 2.15 [1.88, 2.45]) had significantly higher ED rates than those without. We also partitioned the geographic variation in ED and found that more geographic variance was explained by the community (village/ward) level than by the state/UT level, accounting for roughly 60% and 40% of the variation across models, respectively. Our findings suggest that community-based contextual factors necessitate further research.",
+            "journal": "Scientific Reports",
+            "title_cn": "印度中老年人的日常歧视：印度纵向老龄化研究的多层次横断面分析",
+            "abstract_cn": "摘要 日常歧视（ED）对健康和福祉产生不利影响。这项研究强调了 45 岁及以上印度成年人 ED 的分布、相关性和地理差异方面尚未得到研究的趋势。印度纵向老龄化研究（2017-18 年）对 61,722 名参与者的分析揭示了邦/联邦地区 (UT) 层面的显着差异。虽然那加兰邦、特里普拉邦、米佐拉姆邦和拉克沙群岛的 ED 分数相对低于全国平均水平，但查谟和克什米尔邦、德里、恰蒂斯加尔邦和卡纳塔克邦的分数较高。此外，利用多水平负二项回归，我们发现男性、未婚成年人、流动居民和农村地区成年人的 ED 率较高。一般来说，随着教育水平和家庭人均月收入的提高，ED率会下降。值得注意的是，患有功能障碍（发病率比 (IRR) = 1.43 [95% 置信区间：1.32, 1.55]）和身体或精神障碍（IRR = 2.15 [1.88, 2.45]）的成年人的 ED 率显着高于没有功能障碍的成年人。我们还对 ED 中的地理差异进行了划分，发现更多的地理差异是由社区（村庄/行政区）级别解释的，而不是由州/UT 级别解释的，分别约占模型间差异的 60% 和 40%。我们的研究结果表明，基于社区的背景因素需要进一步研究。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-35800-2",
+            "title": "Enhanced terahertz radiation generation by phase-controlled two-color laser pulses interacting with an under-dense plasma",
+            "link": "https://doi.org/10.1038/s41598-026-35800-2",
+            "published": "2026-02-14",
+            "author": "K. P. Anjana, Rohit Kumar Srivastav, Mrityunjay Kundu",
+            "summary": "We investigate terahertz (THz) radiation generation at the vacuum-plasma interface driven by the oblique incidence of s-polarized Gaussian laser pulse(s) on a semi-infinite underdense plasma. Extending beyond the conventional single-frequency bipolar pulse (B-pulse), this work focuses on leveraging two-color mixed-frequency pulse– (M-pulse) excitation to enhance THz performance in terms of strength and broadening that can be tuned through controlled amplitude and phase of the constituent pulses of the M-pulse. A new expression for the ponderomotive force (PF)—which acts as the main driver of THz radiation at the vacuum-plasma boundary—is derived to capture the hitherto unexplored effects of phase asymmetry intrinsic to the M-pulse, in contrast to a single B-pulse where its phase is irrelevant. This PF formulation captures the underlying cycle-to-cycle symmetry-breaking for the M-pulse field, responsible for efficient THz emission. We demonstrate analytically that such M-pulses of the same total energy as a B-pulse may generate significantly enhanced PF, leading to THz yields several orders of magnitude higher. With a judicious choice of low-frequency to high-frequency ratio, the M-pulse configuration is shown to emerge as a highly efficient, phase-controllable driver of THz radiation and offers a promising route for optimizing THz source design via tailored two-color laser-plasma interactions. Particle-in-cell simulations performed with a finite-size plasma corroborate the main findings of the analytical model.",
+            "journal": "Scientific Reports",
+            "title_cn": "通过相控双色激光脉冲与低密度等离子体相互作用增强太赫兹辐射产生",
+            "abstract_cn": "我们研究了由 s 偏振高斯激光脉冲斜入射在半无限低密度等离子体上驱动的真空-等离子体界面处的太赫兹 (THz) 辐射产生。这项工作超越了传统的单频双极脉冲（B 脉冲），重点是利用双色混合频率脉冲（M 脉冲）激励来增强太赫兹在强度和展宽方面的性能，可以通过控制 M 脉冲组成脉冲的幅度和相位来调整太赫兹性能。推导了有质动力 (PF) 的新表达式，它是真空等离子体边界太赫兹辐射的主要驱动力，旨在捕获 M 脉冲固有的相位不对称性的迄今为止尚未探索的影响，这与相位无关的单个 B 脉冲形成鲜明对比。该 PF 公式​​捕获了 M 脉冲场的潜在周期间对称性破缺，负责高效的太赫兹发射。我们通过分析证明，与 B 脉冲总能量相同的 M 脉冲可能会产生显着增强的 PF，从而导致 THz 产量高出几个数量级。通过明智地选择低频与高频比率，M 脉冲配置被证明是一种高效、相位可控的太赫兹辐射驱动器，并为通过定制的两色激光-等离子体相互作用来优化太赫兹源设计提供了一条有前途的途径。使用有限尺寸等离子体进行的细胞内颗粒模拟证实了分析模型的主要发现。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39695-x",
+            "title": "Isotopic evidence for human adaptation to island environments in the Canary Islands during the Amazigh period",
+            "link": "https://doi.org/10.1038/s41598-026-39695-x",
+            "published": "2026-02-14",
+            "author": "Elías Sánchez-Cañadillas, Aarón Morquecho Izquier, Colin Smith, Eneko Iriarte, Jonathan Santana",
+            "summary": "This study investigates subsistence strategies and ecological adaptations among the Indigenous populations of the Canary Islands from the 1st to the 15th centuries CE, employing stable carbon (δ13C) and nitrogen (δ15N) isotope analyses of human bone collagen. A total of 457 isotopic data points from all seven main islands of the archipelago were analyzed, supported by a robust chronological framework based on 155 radiocarbon dates and Bayesian modeling. Results reveal distinct dietary patterns shaped by ecological conditions: populations on the western islands (La Palma, La Gomera, and El Hierro) exhibited a diet predominantly reliant on C3 plants and wild terrestrial resources, with evidence for intensified wild plant utilization during periods of agricultural stress. In contrast, central islands (Tenerife and Gran Canaria) showed narrower isotopic variance, indicating stable agricultural production complemented by varying degrees of marine resource exploitation. The desert-like eastern islands (Lanzarote and Fuerteventura) demonstrated isotopic signatures indicative of diets heavily influenced by high-trophic-level marine foods, likely complicated by aridity and marine aerosol effects. Additionally, temporal analysis indicates isotopic values correspond closely with climatic fluctuations, notably warmer and drier conditions during the Roman Warm Period and Medieval Climate Anomaly, and cooler, moister conditions during the Little Ice Age. These environmental shifts appear to have driven subtle dietary adaptations over time. Overall, the findings highlight the Indigenous populations’ resilience and adaptive capacity in response to insular ecological variability and climatic change, underscoring the importance of tailored isotopic baselines for accurate dietary reconstructions in diverse oceanic island settings.",
+            "journal": "Scientific Reports",
+            "title_cn": "阿马齐格时期人类适应加那利群岛岛屿环境的同位素证据",
+            "abstract_cn": "本研究采用人骨胶原蛋白的稳定碳 (δ13C) 和氮 (δ15N) 同位素分析，调查了公元 1 世纪至 15 世纪加那利群岛土著居民的生存策略和生态适应。在基于 155 个放射性碳日期和贝叶斯模型的强大年代框架的支持下，对来自群岛所有七个主要岛屿的总共 457 个同位素数据点进行了分析。结果揭示了受生态条件影响的独特饮食模式：西部岛屿（拉帕尔马岛、拉戈梅拉岛和耶罗岛）的居民表现出主要依赖 C3 植物和野生陆地资源的饮食，有证据表明在农业压力期间加强了对野生植物的利用。相比之下，中部岛屿（特内里费岛和大加那利岛）的同位素变异较小，表明农业生产稳定，并辅以不同程度的海洋资源开发。类似沙漠的东部岛屿（兰萨罗特岛和富埃特文图拉岛）表现出的同位素特征表明饮食受到高营养级海洋食物的严重影响，可能因干旱和海洋气溶胶影响而变得复杂。此外，时间分析表明同位素值与气候波动密切相关，特别是罗马温暖时期和中世纪气候异常期间较温暖和干燥的条件，以及小冰河时期较凉爽、较潮湿的条件。随着时间的推移，这些环境变化似乎推动了微妙的饮食适应。总体而言，研究结果强调了土著居民应对岛屿生态变异和气候变化的恢复力和适应能力，强调了定制同位素基线对于不同海洋岛屿环境中准确饮食重建的重要性。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-39575-4",
+            "title": "Exploring imidazo[1,2-a]pyridine hybrids in cancer therapy: ADMET profiling, molecular docking, MD simulations and DFT calculations",
+            "link": "https://doi.org/10.1038/s41598-026-39575-4",
+            "published": "2026-02-14",
+            "author": "Drashti Shah, Afzal Nagani, Moksh Shah, Ashish Patel",
+            "summary": "Cyclin dependent kinase 2 (CDK2) is a critical regulator of cell cycle progression and an important therapeutic target in cancer treatment. In this study, imidazo[1,2-a]pyridine-quinazoline hybrids were computationally explored as potential CDK2 inhibitors using an integrated in silico framework. Virtual screening enabled the prioritization of compounds exhibiting favourable interactions with the CDK2 active site particularly through hinge region residues. Among the screened library, two compounds AD20 and AD28 emerged as top ranked based on a consensus assessment of binding affinity and predicted pharmacokinetic suitability. These compounds demonstrated stable binding behaviour, favourable drug likeness, and electronic features supportive of molecular stability and reactivity. Importantly, the findings represent computational prioritization rather than experimental validation. Overall, this study highlights imidazo[1,2-a]pyridine hybrids as promising scaffolds for further optimization and provides a rational basis for future experimental evaluation toward CDK2 targeted anticancer drug development.",
+            "journal": "Scientific Reports",
+            "title_cn": "探索咪唑并[1,2-a]吡啶杂化物在癌症治疗中的应用：ADMET 分析、分子对接、MD 模拟和 DFT 计算",
+            "abstract_cn": "细胞周期蛋白依赖性激酶 2 (CDK2) 是细胞周期进展的关键调节因子，也是癌症治疗中的重要治疗靶点。在这项研究中，使用集成的计算机框架通过计算探索了咪唑并[1,2-a]吡啶-喹唑啉杂化物作为潜在的CDK2抑制剂。虚拟筛选能够优先考虑与 CDK2 活性位点（尤其是通过铰链区残基）表现出良好相互作用的化合物。在筛选的文库中，根据结合亲和力和预测药代动力学适用性的共识评估，两种化合物 AD20 和 AD28 名列前茅。这些化合物表现出稳定的结合行为、良好的药物相似性以及支持分子稳定性和反应性的电子特征。重要的是，这些发现代表了计算优先级而不是实验验证。总体而言，本研究强调咪唑并[1,2-a]吡啶杂化物作为进一步优化的有前途的支架，并为未来 CDK2 靶向抗癌药物开发的实验评估提供了合理的基础。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.displa.2026.103385",
+            "title": "All Inkjet-Printed red Micro Quantum-Dots Light-Emitting diodes (QLEDs): Fabrication and performance",
+            "link": "https://doi.org/10.1016/j.displa.2026.103385",
+            "published": "2026-02-01",
+            "author": "Qiwei Li, Yijian Zhou, Xinrui Huang, Caihong Yan, Shuaishuai Wang, Zongjie He, Chang Lin, Yang Li, Kaixin Zhang, Jie Sun, Qun Yan, Tailiang Guo",
+            "summary": "Abstract not available.",
+            "journal": "Displays",
+            "title_cn": "所有喷墨印刷红色微量子点发光二极管 (QLED)：制造和性能",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]

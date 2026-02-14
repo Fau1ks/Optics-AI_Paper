@@ -411,10 +411,57 @@
             margin-top: 50px;
             text-align: left;
         }
+
+        /* 往期文献模式状态栏及拖拽覆盖层 - 新增 */
+        #historyStatusArea {
+            display: none;
+            background-color: #f0f8ff;
+            color: #0366d6;
+            padding: 15px 25px;
+            border-radius: 8px;
+            border: 1px solid #cce5ff;
+            margin: 0 auto 20px;
+            max-width: 800px;
+            text-align: left;
+            position: relative;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        @media (max-width: 600px) {
+            #historyStatusArea {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 15px;
+            }
+        }
+
+        #dropZoneOverlay {
+            display: none; 
+            position: fixed; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            background: rgba(3, 102, 214, 0.85); 
+            z-index: 9999; 
+            justify-content: center; 
+            align-items: center; 
+            color: white; 
+            font-size: 2.5rem; 
+            font-weight: bold; 
+            pointer-events: none;
+            backdrop-filter: blur(5px);
+        }
     </style>
 </head>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <body>
+
+    <div id="dropZoneOverlay">📂 松开鼠标，加载往期文献</div>
 
     <div class="top-settings-container">
         <button id="btn-abstract" class="abstract-toggle-btn" onclick="toggleAbstracts()">
@@ -455,6 +502,16 @@
     
     <div class="search-container" id="searchArea" style="display:none;">
         <input type="text" id="searchInput" placeholder="🔍 搜索标题、作者或摘要（支持中英文）..." oninput="searchPapers()">
+    </div>
+
+    <div id="historyStatusArea" style="display:none;">
+        <div>
+            <div id="historyModeTitle" style="font-weight: bold; margin-bottom: 8px; font-size: 16px;">🕒 往期文献速览模式</div>
+            <div id="historyDatesDisplay" style="font-size: 13px; color: #555;">当前展示：无</div>
+        </div>
+        <button id="btnReturnToday" onclick="returnToTodayMode()" style="background: #0366d6; color: white; border: none; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-weight: bold; transition: 0.2s; box-shadow: 0 4px 6px rgba(3, 102, 214, 0.2); white-space: nowrap;">
+            返回今日最新
+        </button>
     </div>
 
     <div class="reading-container" id="readingArea" style="display:none;">
@@ -578,7 +635,12 @@
                 scholarTimePrefix: '最新邮件推送时间：', 
                 scholarCrawlTimePrefix: '最新更新时间：',
                 // 评论区翻译 (无 Emoji)
-                commentsTitle: '交流区'
+                commentsTitle: '交流区',
+                // 往期模式翻译
+                historyModeTitle: '🕒 往期文献速览模式',
+                historyDatesPrefix: '当前展示：',
+                btnReturnToday: '返回今日最新',
+                dropText: '📂 松开鼠标，加载往期文献'
             },
             'en': {
                 pageTitle: 'Latest Optics + AI Paper Feed',
@@ -613,7 +675,12 @@
                 scholarTimePrefix: 'Latest Email Push: ', 
                 scholarCrawlTimePrefix: 'Latest Update Time: ',
                 // 评论区翻译
-                commentsTitle: 'Discussion'
+                commentsTitle: 'Discussion',
+                // 往期模式翻译
+                historyModeTitle: '🕒 History Papers Mode',
+                historyDatesPrefix: 'Currently viewing: ',
+                btnReturnToday: 'Return to Today',
+                dropText: '📂 Drop files to load history'
             }
         };
 
@@ -815,6 +882,18 @@
             const commentTitle = document.getElementById('commentsTitle');
             if(commentTitle) commentTitle.innerText = t.commentsTitle;
 
+            // 更新往期文献UI文字
+            const historyModeTitle = document.getElementById('historyModeTitle');
+            if (historyModeTitle) historyModeTitle.innerText = t.historyModeTitle;
+            const btnReturnToday = document.getElementById('btnReturnToday');
+            if (btnReturnToday) btnReturnToday.innerText = t.btnReturnToday;
+            const dropOverlay = document.getElementById('dropZoneOverlay');
+            if (dropOverlay) dropOverlay.innerText = t.dropText;
+            if (historyModeActive) {
+                document.getElementById('historyDatesDisplay').innerText = 
+                    t.historyDatesPrefix + Array.from(historyLoadedDates).sort().join(', ');
+            }
+
             // 更新摘要按钮文字
             const absText = document.getElementById('abstract-text');
             if (isShowAbstract) {
@@ -842,6 +921,13 @@
         updateStaticUI(); 
 
         let allPapersData = []; 
+        
+        // --- 新增: 往期文献相关的全局变量 ---
+        let originalPapersData = []; 
+        let historyModeActive = false;
+        let historyPapers = [];
+        let historyLoadedDates = new Set();
+        // -----------------------------------
 
         const timestamp = new Date().getTime();
         
@@ -885,10 +971,13 @@
                       btn.innerText = t.noData;
                       btn.style.backgroundColor = "#666"; 
                       timeDiv.style.display = 'none';
+                      originalPapersData = []; // 新增保存原始状态
                       return;
                 }
 
                 allPapersData = papers;
+                originalPapersData = [...papers]; // 新增保存原始状态，供“返回今日最新”使用
+
                 document.getElementById('readingArea').style.display = 'block';
                 document.getElementById('searchArea').style.display = 'block'; 
                 renderPapers(allPapersData, false);
@@ -1162,6 +1251,120 @@
 
             checkButtonsVisibility();
         }
+
+        // ======================================================================
+        // 新增功能：往期 JSON 拖拽读取合并逻辑
+        // ======================================================================
+        let dragCounter = 0;
+        const body = document.documentElement;
+        const dropOverlay = document.getElementById('dropZoneOverlay');
+
+        body.addEventListener('dragenter', (e) => {
+            e.preventDefault();
+            dragCounter++;
+            dropOverlay.style.display = 'flex';
+        });
+
+        body.addEventListener('dragleave', (e) => {
+            e.preventDefault();
+            dragCounter--;
+            if (dragCounter === 0) {
+                dropOverlay.style.display = 'none';
+            }
+        });
+
+        body.addEventListener('dragover', (e) => {
+            e.preventDefault();
+        });
+
+        body.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dragCounter = 0;
+            dropOverlay.style.display = 'none';
+
+            const files = Array.from(e.dataTransfer.files).filter(f => f.name.endsWith('.json'));
+            if (files.length === 0) return;
+
+            processDroppedFiles(files);
+        });
+
+        async function processDroppedFiles(files) {
+            let newlyAdded = false;
+
+            for (let file of files) {
+                try {
+                    const text = await file.text();
+                    const json = JSON.parse(text);
+                    let papers = [];
+                    if (Array.isArray(json)) { 
+                        papers = json; 
+                    } else if (json.data) { 
+                        papers = json.data; 
+                    }
+
+                    if (papers.length > 0) {
+                        // 尝试从文件名中提取类似 "260213" 的日期后缀
+                        let dateStr = file.name;
+                        const match = file.name.match(/\d{6}/);
+                        if (match) {
+                            dateStr = match[0];
+                        }
+                        
+                        historyLoadedDates.add(dateStr);
+                        
+                        // 根据论文链接(id 或 link)进行去重合并
+                        const existingIds = new Set(historyPapers.map(p => p.id || p.link));
+                        papers.forEach(p => {
+                            if (!existingIds.has(p.id || p.link)) {
+                                historyPapers.push(p);
+                                existingIds.add(p.id || p.link);
+                            }
+                        });
+                        newlyAdded = true;
+                    }
+                } catch (err) {
+                    console.error("加载往期 JSON 失败: ", file.name, err);
+                }
+            }
+
+            if (newlyAdded) {
+                historyModeActive = true;
+                allPapersData = historyPapers; // 覆盖全局数据池，让搜索功能自动生效
+                
+                // 显示并更新状态栏
+                document.getElementById('readingArea').style.display = 'block';
+                document.getElementById('searchArea').style.display = 'block'; 
+                document.getElementById('historyStatusArea').style.display = 'flex';
+                document.getElementById('historyDatesDisplay').innerText = 
+                    langData[currentLang].historyDatesPrefix + Array.from(historyLoadedDates).sort().join(', ');
+                
+                // 根据当前搜索框是否有值决定重新渲染方式
+                const searchInput = document.getElementById('searchInput');
+                if (searchInput && searchInput.value.trim() !== "") {
+                    searchPapers();
+                } else {
+                    renderPapers(allPapersData, false);
+                }
+            }
+        }
+
+        // 返回今日最新逻辑
+        function returnToTodayMode() {
+            historyModeActive = false;
+            historyPapers = [];
+            historyLoadedDates.clear();
+            
+            document.getElementById('historyStatusArea').style.display = 'none';
+            allPapersData = originalPapersData; // 恢复原始的今日数据
+            
+            const searchInput = document.getElementById('searchInput');
+            if (searchInput && searchInput.value.trim() !== "") {
+                searchPapers();
+            } else {
+                renderPapers(allPapersData, false);
+            }
+        }
+
 
         // ======================================================================
         // 秘密入口与 Scholar 处理逻辑

@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-14 06:30:04",
+    "update_time": "2026-02-14 08:27:43",
     "word_filename": "Optical_Papers_260214.docx",
-    "total_count": 101,
+    "total_count": 102,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69564-0",
@@ -1113,6 +1113,17 @@
             "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
             "title_cn": "自动人脸识别 50 年",
             "abstract_cn": "在过去的五年里，自动人脸识别 (FR) 已经从手工制作的几何和统计方法发展到先进的深度学习架构，现在已经接近甚至在许多情况下超过了人类的表现。本文追溯了 FR 的历史和技术演变，涵盖早期的算法范式，一直到在广泛的真实和综合生成的数据集上训练的当代神经系统。我们研究了推动这一进步的关键创新，包括数据集构建、损失函数公式、网络架构设计和特征融合策略方面的进步。此外，我们分析了数据规模、多样性和模型泛化之间的关系，强调数据集扩展与基准性能增益之间的关系。最近的系统已经实现了近乎完美的大规模识别精度，最新的 NIST FRTE 1:N 基准中的领先算法报告，在超过 1000 万个身份的图库中，误报识别率 (FNIR) 为 0.15%，误报识别率 (FPIR) 为 0.001。较大的库会增加误报率，并且更大规模的部署会出现更高的错误率。我们描述了关键的开放问题和新兴方向，包括可扩展的训练、多模态融合、合成数据和可解释的识别框架。"
+        },
+        {
+            "id": "https://doi.org/10.1016/j.optlastec.2026.114939",
+            "title": "Unsupervised Transformer-based deep learning for digital image correlation and digital volume correlation",
+            "link": "https://doi.org/10.1016/j.optlastec.2026.114939",
+            "published": "2026-06-01",
+            "author": "Haoyang He, Yifei Zhou, Yajing Zhang, Yuqi Cai, Rui Li, Yiping Liu, Liqun Tang, Taolin Sun, Zhenyu Jiang",
+            "summary": "Abstract not available.",
+            "journal": "Optics and Laser Technology",
+            "title_cn": "基于 Transformer 的无监督深度学习，用于数字图像相关性和数字体积相关性",
+            "abstract_cn": "（摘要暂缺，等待官方补全）"
         }
     ]
 }

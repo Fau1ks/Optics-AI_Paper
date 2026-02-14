@@ -1006,7 +1006,8 @@
         function fallbackToGithubApi() {
             if (!btn.classList.contains('loading')) return;
 
-            fetch(contentApiUrl)
+            // fetch(contentApiUrl)
+            fetch(`${contentApiUrl}?repo=scholar`)
                 .then(response => response.json())
                 .then(data => {
                     const wordFiles = data.filter(item => item.name.startsWith('Optical_Papers_') && item.name.endsWith('.docx'));

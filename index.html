@@ -630,8 +630,10 @@
 
     <script>
         const GITHUB_USERNAME = 'Fau1ks'; 
-        const REPO_NAME = 'Optics-AI_Paper';        
-        const contentApiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/`;
+        const REPO_NAME = 'Optics-AI_Paper';    
+        const WORKER_URL = 'https://github-proxy.latestopticspaper.workers.dev';
+        const contentApiUrl = `${WORKER_URL}/api/contents`;
+        
         
         // ================= 全局状态与变量定义 =================
         let currentLang = 'zh'; 
@@ -945,7 +947,8 @@
 
         const timestamp = new Date().getTime();
         
-        fetch('latest_data.json?t=' + timestamp)
+        // fetch('latest_data.json?t=' + timestamp)
+        fetch(`${WORKER_URL}/latest_data.json?t=` + timestamp)
             .then(response => response.json())
             .then(data => {
                 let papers = [];
@@ -1021,7 +1024,8 @@
                     globalLatestDateCode = latestFile.name.replace('Optical_Papers_', '').replace('.docx', '');
                     
                     btn.innerText = t.downloadPrefix + globalLatestDateCode; 
-                    btn.href = latestFile.download_url; 
+                    // btn.href = latestFile.download_url; 
+                    btn.href = `${WORKER_URL}/${latestFile.name}`;
                     btn.classList.remove('loading'); 
                     btn.setAttribute("target", "_blank");
 
@@ -1464,7 +1468,8 @@
         function fetchScholarData() {
             hasFetchedScholarToday = true; // 标记已抓取过当日数据
             const ts = new Date().getTime();
-            fetch('Scholar_Data_latest.json?t=' + ts)
+            // fetch('Scholar_Data_latest.json?t=' + ts)
+            fetch(`${WORKER_URL}/Scholar_Data_latest.json?t=` + ts)
                 .then(res => res.json())
                 .then(data => {
                     originalScholarData = [...data]; // 备份今日最新 Scholar 数据
@@ -1557,7 +1562,8 @@
 
                     sBtn.dataset.filename = dateCode; 
                     sBtn.innerText = t.scholarBtnPrefix + dateCode;
-                    sBtn.href = latest.download_url; 
+                    // sBtn.href = latest.download_url; 
+                    sBtn.href = `${WORKER_URL}/${latest.name}`;
                     sBtn.setAttribute("target", "_blank");
                 })
                 .catch(err => {

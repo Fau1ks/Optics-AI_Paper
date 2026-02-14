@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-14 13:28:15",
+    "update_time": "2026-02-14 15:27:45",
     "word_filename": "Optical_Papers_260214.docx",
-    "total_count": 116,
+    "total_count": 119,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69564-0",
@@ -1278,6 +1278,39 @@
             "journal": "Optics and Laser Technology",
             "title_cn": "Mueller矩阵椭偏仪补偿器退偏效应建模及应用",
             "abstract_cn": "（摘要暂缺，等待官方补全）"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69430-z",
+            "title": "Blood-based epigenetic instability linked to human aging and disease",
+            "link": "https://doi.org/10.1038/s41467-026-69430-z",
+            "published": "2026-02-14",
+            "author": "Salman Basrai, Ido Nofech-Mozes, Rajesh Detroja, Fernando L. Scolari, Mehran Bakhtiari, Andrea Arruda, Tracy Murphy, Scott V. Bratman, Steven M. Chan, Mark D. Minden, Jae Sook Ahn, Dennis D. H. Kim, Robert Kridel, Filio Billia, Sagi Abelson",
+            "summary": "Abstract The abundance, dynamics, and context-dependent heterogeneity of DNA methylation, where a pattern considered abnormal in one cell type may be normal in another, complicate the identification of early methylation changes that drive or signal disease development. This complexity can obscure early markers of increased disease risk, making it challenging to detect and intervene in disease processes at their inception. Here, we report 31,744 CpG loci exhibiting highly consistent methylation profiles in the blood of young, healthy individuals. We assess alterations at these epigenetically stable loci in 8,886 individuals across 29 diverse cohorts, including those with hematological cancers (n = 3159), cardiovascular complications (n = 2788), and healthy controls (n = 2939). Our findings reveal methylation pattern disruption in myeloid and lymphoid malignancies, correlating with clonal burden dynamics and mutation frequency throughout leukemia treatment. In non-cancer cohorts, we observe that methylation levels at epigenetically stable loci become increasingly variable with age, a shift linked to higher cardiovascular disease risk and lower survival rates. This study highlights DNA methylation instability as a blood-based biomarker for both hematological cancer and cardiovascular disease and uncovers a mechanistic link between methylation dynamics and the expansion of maladaptive hematopoietic clones.",
+            "journal": "Nature Communications",
+            "title_cn": "基于血液的表观遗传不稳定性与人类衰老和疾病有关",
+            "abstract_cn": "摘要 DNA 甲基化的丰度、动态性和环境依赖性异质性（其中一种细胞类型中被认为异常的模式在另一种细胞类型中可能是正常的）使得驱动或发出疾病发展信号的早期甲基化变化的识别变得复杂。这种复杂性可能会掩盖疾病风险增加的早期标志，使得在疾病发生过程中检测和干预变得具有挑战性。在这里，我们报告了 31,744 个 CpG 位点，在年轻健康个体的血液中表现出高度一致的甲基化谱。我们评估了 29 个不同队列中 8,886 名个体的这些表观遗传稳定位点的变化，其中包括血液癌症患者 (n = 3159)、心血管并发症患者 (n = 2788) 和健康对照者 (n = 2939)。我们的研究结果揭示了骨髓和淋巴恶性肿瘤中甲基化模式的破坏，与整个白血病治疗过程中的克隆负荷动态和突变频率相关。在非癌症队列中，我们观察到表观遗传稳定位点的甲基化水平随着年龄的增长而变化越来越大，这种变化与较高的心血管疾病风险和较低的生存率有关。这项研究强调了 DNA 甲基化不稳定性作为血液癌症和心血管疾病的血液生物标志物，并揭示了甲基化动态与适应不良造血克隆扩张之间的机制联系。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-37273-9",
+            "title": "Empathy and mentalization as mediators between childhood maltreatment and social decision-making during adulthood",
+            "link": "https://doi.org/10.1038/s41598-026-37273-9",
+            "published": "2026-02-14",
+            "author": "Steffi Benoit, Julie Maheux, Dominick Gamache, Sébastien Hétu",
+            "summary": "Childhood maltreatment is a highly prevalent form of early adversity with long-lasting consequences for social and emotional functioning. While previous work has established links between maltreatment, empathy, and mentalization, little is known about how these processes shape adult social decision-making. In this study, 327 adults completed validated self-report measures of childhood maltreatment, empathy, and mentalization, along with a series of economic games designed to assess cooperation and punishment. We found that greater severity of childhood maltreatment was selectively associated with two decision-making patterns: reduced cooperation when observed by a third party and increased punishment of cooperative partners, a paradoxical behavior known as antisocial punishment. Mediation analyses revealed that these associations were explained by affective components of empathy. Specifically, diminished affective resonance (congruent emotional responses) mediated the link between maltreatment and reduced cooperation, while heightened affective dissonance (incongruent emotional responses) mediated the link between maltreatment and antisocial punishment. Mentalization did not uniquely mediate these relationships when considered alongside empathy. These findings highlight empathy disruptions as a key pathway through which early adversity may shape adult social behavior. By identifying specific affective mechanisms, this work points to potential targets for interventions aimed at improving social functioning in individuals with histories of maltreatment.",
+            "journal": "Scientific Reports",
+            "title_cn": "同理心和心智化作为童年虐待与成年社会决策之间的中介",
+            "abstract_cn": "童年虐待是一种非常普遍的早期逆境形式，对社会和情感功能产生长期影响。虽然之前的研究已经建立了虐待、同理心和心理化之间的联系，但人们对这些过程如何影响成人社会决策却知之甚少。在这项研究中，327 名成年人完成了关于儿童虐待、同理心和心智化的经过验证的自我报告测量，以及一系列旨在评估合作和惩罚的经济游戏。我们发现，儿童虐待的严重程度选择性地与两种决策模式相关：在第三方观察时减少合作，以及增加对合作伙伴的惩罚，这是一种被称为反社会惩罚的矛盾行为。中介分析表明，这些关联可以通过同理心的情感成分来解释。具体来说，情感共鸣（一致的情绪反应）的减弱介导了虐待和合作减少之间的联系，而情感不和谐（不一致的情绪反应）的增强介导了虐待和反社会惩罚之间的联系。当与同理心一起考虑时，心智化并不能唯一地调解这些关系。这些发现强调，同理心破坏是早期逆境可能塑造成人社会行为的关键途径。通过确定具体的情感机制，这项工作指出了旨在改善有虐待史的个人的社会功能的干预措施的潜在目标。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-40009-4",
+            "title": "Effect of a chiral dopant on hysteresis phenomena induced by external fields in liquid crystals",
+            "link": "https://doi.org/10.1038/s41598-026-40009-4",
+            "published": "2026-02-14",
+            "author": "Veronika Lacková, Dmitriy V. Makarov, Danil A. Petrov, Tibor Tóth-Katona, Katarína Kónyová, Peter Kopčanský, Natália Tomašovičová",
+            "summary": "The design and development of functional self-assembled soft matter structures, particularly liquid crystals that adapt responsively to multiple stimuli, are essential for both fundamental scientific research and advanced technological applications. This work investigates how chiral dopant concentration governs the field-induced unwinding and hysteresis behavior of cholesteric liquid crystals (E7 liquid crystal mixture doped with CB15) confined in homeotropic cells. The study measures discrete pitch jumps and pronounced hysteresis loops as a function of dopant concentration in both voltage- and magnetic-field-driven unwinding, providing experimental insight into composition-controlled phase transitions in thin-layer geometries. A critical dopant concentration was identified below which the cholesteric helix does not form due to surface anchoring effects. The critical fields increase with the increase of dopant concentration, and a linear dependence of the magnetic threshold on concentration is demonstrated. Experimental observations are compared with theoretical models for infinite systems, with an emphasis on discrete switching phenomena and threshold behaviors. These results provide new guidelines for designing responsive cholesteric soft materials and electro- and magneto-optical devices that exhibit controllable, stepwise switching.",
+            "journal": "Scientific Reports",
+            "title_cn": "手性掺杂剂对液晶中外部场引起的磁滞现象的影响",
+            "abstract_cn": "功能性自组装软物质结构的设计和开发，特别是能够响应多种刺激的液晶，对于基础科学研究和先进技术应用至关重要。这项工作研究了手性掺杂剂浓度如何控制限制在垂直单元中的胆甾型液晶（掺杂 CB15 的 E7 液晶混合物）的场诱导解旋和滞后行为。该研究测量了电压驱动和磁场驱动的解绕中的离散节距跳跃和明显的磁滞回线与掺杂剂浓度的函数关系，为薄层几何形状中成分控制的相变提供了实验见解。确定了一个临界掺杂剂浓度，低于该浓度时，由于表面锚定效应，胆甾醇螺旋不会形成。临界场随着掺杂剂浓度的增加而增加，并且证明了磁阈值对浓度的线性依赖性。将实验观察结果与无限系统的理论模型进行比较，重点是离散切换现象和阈值行为。这些结果为设计具有可控、逐步切换的响应性胆甾型软材料和电光和磁光器件提供了新的指导方针。"
         }
     ]
 }

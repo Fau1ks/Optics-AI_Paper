@@ -1,7 +1,7 @@
 {
-    "update_time": "2026-02-14 15:27:45",
+    "update_time": "2026-02-14 17:28:05",
     "word_filename": "Optical_Papers_260214.docx",
-    "total_count": 119,
+    "total_count": 124,
     "data": [
         {
             "id": "https://doi.org/10.1038/s41467-026-69564-0",
@@ -1311,6 +1311,61 @@
             "journal": "Scientific Reports",
             "title_cn": "手性掺杂剂对液晶中外部场引起的磁滞现象的影响",
             "abstract_cn": "功能性自组装软物质结构的设计和开发，特别是能够响应多种刺激的液晶，对于基础科学研究和先进技术应用至关重要。这项工作研究了手性掺杂剂浓度如何控制限制在垂直单元中的胆甾型液晶（掺杂 CB15 的 E7 液晶混合物）的场诱导解旋和滞后行为。该研究测量了电压驱动和磁场驱动的解绕中的离散节距跳跃和明显的磁滞回线与掺杂剂浓度的函数关系，为薄层几何形状中成分控制的相变提供了实验见解。确定了一个临界掺杂剂浓度，低于该浓度时，由于表面锚定效应，胆甾醇螺旋不会形成。临界场随着掺杂剂浓度的增加而增加，并且证明了磁阈值对浓度的线性依赖性。将实验观察结果与无限系统的理论模型进行比较，重点是离散切换现象和阈值行为。这些结果为设计具有可控、逐步切换的响应性胆甾型软材料和电光和磁光器件提供了新的指导方针。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69517-7",
+            "title": "Physical limits of sea-level rise adaptation in global river deltas",
+            "link": "https://doi.org/10.1038/s41467-026-69517-7",
+            "published": "2026-02-14",
+            "author": "Kiara G. Lasch, Jaap H. Nienhuis, Gundula Winter, Marjolijn Haasnoot",
+            "summary": "Abstract Sea-level rise threatens deltas worldwide, requiring adaptation to flood risks. Delta adaptation is typically presented as a choice between five strategies: advance, protect-closed, protect-open, accommodate, and retreat. However, a full assessment of the physical feasibility of these strategies across deltas remains limited. We present a first-order assessment of the physical solution space for adaptation to sea-level rise for nearly 800 deltas globally. Here, we show that current technologies, resources, and space provide at least one physically feasible delta-wide strategy for every delta to adapt by 2100. This number may increase in the future through technical innovation or collaboration between deltas. The type and number of physically feasible strategies are mostly determined by delta’s physical characteristics, whereby large, urbanized, or frequently flooded deltas have fewer options than small, rural, or infrequently flooded deltas. Our analysis highlights the risk of resource limitations as global deltas will need to adapt simultaneously to future flood risks.",
+            "journal": "Nature Communications",
+            "title_cn": "全球河流三角洲适应海平面上升的物理极限",
+            "abstract_cn": "摘要 海平面上升威胁着全世界的三角洲，需要适应洪水风险。三角洲适应通常表现为五种策略之间的选择：前进、保护封闭、保护开放、适应和撤退。然而，对这些跨三角洲战略的实际可行性的全面评估仍然有限。我们对全球近 800 个三角洲适应海平面上升的物理解决方案空间进行了一级评估。在这里，我们表明，当前的技术、资源和空间至少为每个三角洲提供了一种物理上可行的三角洲范围战略，以便在 2100 年之前适应。通过技术创新或三角洲之间的合作，这个数字在未来可能会增加。物理上可行的策略的类型和数量主要取决于三角洲的物理特征，即大型、城市化或经常被洪水淹没的三角洲比小型、农村或不常被洪水淹没的三角洲有更少的选择。我们的分析强调了资源限制的风险，因为全球三角洲需要同时适应未来的洪水风险。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41467-026-69650-3",
+            "title": "Enhanced superconductivity and mixed-dimensional behaviour in infinite-layer samarium nickelate thin films",
+            "link": "https://doi.org/10.1038/s41467-026-69650-3",
+            "published": "2026-02-14",
+            "author": "Mingwei Yang, Heng Wang, Jiayin Tang, Junping Luo, Xianfeng Wu, Wenjing Xu, Aile Wang, Yuetong Wu, Ruilin Mao, Ze Wang, Zhicheng Pei, Guangdi Zhou, Zhengang Dong, Bohan Feng, Lingchi Shi, Wenjie Meng, Chuanying Xi, Li Pi, Qingyou Lu, Jun Okamoto, Hsiao-Yu Huang, Di-Jing Huang, Haoliang Huang, Qisi Wang, Peng Gao, Zhuoyu Chen, Danfeng Li",
+            "summary": "The authors report the synthesis and characterization of samarium-based superconducting infinite layer nickelate thin films, along with co-doped variants incorporating europium and calcium. The co doped compounds achieve a record-small c-axis parameter and display superconducting transition temperatures up to 32.5 K.",
+            "journal": "Nature Communications",
+            "title_cn": "无限层镍酸钐薄膜的增强超导性和混合维度行为",
+            "abstract_cn": "作者报告了基于钐的超导无限层镍酸盐薄膜以及包含铕和钙的共掺杂变体的合成和表征。共掺杂化合物实现了创纪录的小 c 轴参数，并显示出高达 32.5 K 的超导转变温度。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-38795-y",
+            "title": "Unravelling the activity rhythms of urban vector mosquitoes with smart-trap technology",
+            "link": "https://doi.org/10.1038/s41598-026-38795-y",
+            "published": "2026-02-14",
+            "author": "María I. González-Pérez, Catuxa Cerecedo-Iglesias, Alex Richter-Boix, Laura Barahona, Tomás Montalvo, John R. B. Palmer, Frederic Bartumeus",
+            "summary": "Abstract Understanding mosquito activity in dense urban areas is essential to assess human exposure to nuisance and health risks. We analyzed real-time mosquito data from four smart traps operating between 2021 and 2024 in Barcelona (NE Spain), focusing on the fine-scale temporal dynamics of two major urban vector species, Aedes albopictus and Culex pipiens . Both species exhibited consistent bimodal diel activity patterns aligned with sunrise and sunset, with species-specific differences in peak intensity and timing as well as seasonal fluctuations. Using a random forest framework, we identified light-related cues as primary activators of mosquito host-seeking activity; and light cues, temperature and rainfall also acting as modulators of activity, roles varying by species and temporal scale. This activator–modulator perspective illustrates how intrinsic circadian rhythms interact with extrinsic environmental drivers to determine mosquito activity across temporal scales. Our findings highlight the ecological value of high-resolution monitoring and the potential of next-generation surveillance tools to support early warning systems and evidence-based vector control in the context of smart cities.",
+            "journal": "Scientific Reports",
+            "title_cn": "利用智能诱捕器技术揭示城市媒介蚊子的活动节奏",
+            "abstract_cn": "摘要：了解人口稠密城市地区的蚊子活动对于评估人类暴露于滋扰和健康风险至关重要。我们分析了 2021 年至 2024 年在巴塞罗那（西班牙东北部）运行的四个智能诱捕器的实时蚊子数据，重点关注两种主要城市媒介物种白纹伊蚊和淡色库蚊的精细尺度时间动态。两个物种都表现出与日出和日落一致的双峰昼夜活动模式，在峰值强度和时间以及季节性波动方面存在物种特异性差异。使用随机森林框架，我们确定了与光相关的线索是蚊子寻找宿主活动的主要激活因素；光信号、温度和降雨量也充当活动调节剂，其作用因物种和时间尺度而异。这种激活剂-调节剂的观点说明了内在昼夜节律如何与外在环境驱动因素相互作用，以确定蚊子在时间尺度上的活动。我们的研究结果强调了高分辨率监测的生态价值以及下一代监测工具在智慧城市背景下支持早期预警系统和基于证据的病媒控制的潜力。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-026-40296-x",
+            "title": "Microbial synthesis of silver nanoparticles using bacterial supernatants from Brazilian stingless bees with antimicrobial activity",
+            "link": "https://doi.org/10.1038/s41598-026-40296-x",
+            "published": "2026-02-14",
+            "author": "Ana Carolina Costa Santos, Joberth Lee Corrêa, Rafaela Cavalcante Cerqueira, Gabriela Carvalho Batista, Tamiris Sabrina Rodrigues, Lucas Matos Martins Bernardes, Rener Mateus Duarte, Foued Salmen Spindola, Luciana Machado Bastos, Mário Machado Martins, Murillo Néia Thomaz da Silva, Fernanda Naves Araújo do Prado Mascarenhas, Renata Graciele Zanon, Jonder Morais, Fernando Juarez Choque, Ana Maria Bonetti, Carlos Ueira-Vieira",
+            "summary": "The increasing prevalence of antibiotic-resistant bacteria poses a significant global public health challenge, particularly with multidrug-resistant pathogens such as Staphylococcus aureus and Escherichia coli. In this context, silver nanoparticles (AgNPs) have garnered attention as promising alternative antimicrobial materials due to their unique physicochemical properties. In this study, we investigated the green synthesis of AgNPs using bacterial supernatants derived from the larval food of Brazilian stingless bees, a biologically rich and underexplored source of functional metabolites. Using supernatants of Providencia rettgeri and Proteus mirabilis, AgNPs were synthesized via both traditional and microwave-assisted methods, with the latter promoting faster nanoparticle formation and improved colloidal homogeneity. Two AgNP formulations (AgNPs-1B and AgNPs-54B), selected for their distinct synthesis profiles, were characterized by UV–visible spectroscopy, dynamic light scattering, scanning electron microscopy (SEM), energy-dispersive X-ray spectroscopy (EDX), and transmission electron microscopy (TEM). TEM analysis revealed predominantly spherical nanoparticles, with average diameters of 24.2 ± 27.4 nm for AgNPs-1B and 8.5–25.2 nm for AgNPs-54B, confirming successful nanoscale synthesis. Both AgNPs exhibited significant antimicrobial activity against multidrug-resistant E. coli and S. aureus. When incorporated into alginate-based membranes, the nanoparticles retained their antimicrobial efficacy, particularly through contact-dependent inhibition of bacterial growth. Toxicity assays using Drosophila melanogaster and human neuron cultures indicated low toxicity in the evaluated biological models. These findings demonstrate the potential of biologically synthesized AgNPs as sustainable antimicrobial materials, combining a unique microbial source with microwave-assisted processing and relevant biomedical and environmental applicability.",
+            "journal": "Scientific Reports",
+            "title_cn": "使用具有抗菌活性的巴西无刺蜂细菌上清液微生物合成银纳米颗粒",
+            "abstract_cn": "抗生素耐药性细菌的日益流行对全球公共卫生构成了重大挑战，特别是金黄色葡萄球菌和大肠杆菌等多重耐药病原体。在这种背景下，银纳米颗粒（AgNP）因其独特的理化性质而作为有前途的替代抗菌材料而受到关注。在这项研究中，我们利用来自巴西无刺蜂幼虫食物的细菌上清液研究了纳米银颗粒的绿色合成，巴西无刺蜂幼虫食物是一种生物丰富且尚未开发的功能代谢物来源。使用雷氏普罗威登斯菌和奇异变形杆菌的上清液，通过传统方法和微波辅助方法合成银纳米粒子，后者促进更快的纳米颗粒形成并改善胶体均匀性。两种 AgNP 制剂（AgNPs-1B 和 AgNPs-54B）因其独特的合成曲线而被选择，通过紫外可见光谱、动态光散射、扫描电子显微镜 (SEM)、能量色散 X 射线光谱 (EDX) 和透射电子显微镜 (TEM) 进行表征。 TEM 分析显示主要为球形纳米颗粒，AgNPs-1B 的平均直径为 24.2 ± 27.4 nm，AgNPs-54B 的平均直径为 8.5–25.2 nm，证实纳米级合成成功。两种 AgNP 对多重耐药大肠杆菌和金黄色葡萄球菌均表现出显着的抗菌活性。当掺入海藻酸盐膜中时，纳米颗粒保留了其抗菌功效，特别是通过接触依赖性抑制细菌生长。使用果蝇和人类神经元培养物进行的毒性测定表明，在评估的生物模型中毒性较低。这些发现证明了生物合成的纳米银颗粒作为可持续抗菌材料的潜力，将独特的微生物来源与微波辅助加工以及相关的生物医学和环境适用性相结合。"
+        },
+        {
+            "id": "https://doi.org/10.1038/s41598-025-34255-1",
+            "title": "Specific wavelengths of light modulate honey bee locomotor activity",
+            "link": "https://doi.org/10.1038/s41598-025-34255-1",
+            "published": "2026-02-14",
+            "author": "Babur Erdem, Iremnur Fidan, Ali Emre Turgut, Erol Sahin, Ayse Gul Gozen, Hande Alemdar",
+            "summary": "Light plays a crucial role in honey bee (Apis mellifera) behavior by influencing foraging, navigation, and locomotor activity (LMA). While the effects of light on LMA have been previously documented, the specific roles of different wavelengths have remained unknown. In this study, we investigated how exposure to specific infrared (IR, 849 nm), green (528 nm), blue (447 nm), and ultraviolet (UV, 372 nm) wavelengths, as well as their combinations, affected LMA. Specifically, using a custom-built illumination setup and the Api-TRACE video tracking system, we monitored and analyzed bee movement in a homogeneously illuminated environment. Our analysis revealed significant differences in LMA depending on the wavelength to which the bees were exposed. This study demonstrated that the green light promoted LMA. On the other hand, UV light suppressed the LMA of honey bees. The suppression was even greater when the UV light was combined with the blue light. Additionally, similarities in activity patterns were examined, and it was found that only-green, only-blue and only-IR conditions produced highly similar daily activity patterns, whereas UV-enriched spectra, particularly blue–UV and blue–green–UV, generated the most distinct temporal profiles. That information can be applied to experimental standardization, the design of flight-room environments, and the management of colonies under artificial illumination.",
+            "journal": "Scientific Reports",
+            "title_cn": "特定波长的光调节蜜蜂的运动活动",
+            "abstract_cn": "光通过影响觅食、导航和运动活动 (LMA)，在蜜蜂 (Apis mellifera) 行为中发挥着至关重要的作用。虽然光对 LMA 的影响先前已被记录，但不同波长的具体作用仍然未知。在本研究中，我们研究了特定红外（IR，849 nm）、绿光（528 nm）、蓝光（447 nm）和紫外（UV，372 nm）波长及其组合的暴露如何影响 LMA。具体来说，我们使用定制的照明设置和 Api-TRACE 视频跟踪系统，监测和分析了均匀照明环境中的蜜蜂运动。我们的分析揭示了 LMA 的显着差异，具体取决于蜜蜂所暴露的波长。这项研究表明绿光促进了 LMA。另一方面，紫外线抑制了蜜蜂的LMA。当紫外线与蓝光结合时，抑制作用甚至更大。此外，还检查了活动模式的相似性，发现仅绿色、仅蓝色和仅红外条件产生了高度相似的日常活动模式，而富含紫外线的光谱，特别是蓝色-UV和蓝-绿-UV，产生了最独特的时间曲线。这些信息可应用于实验标准化、飞行室环境设计以及人工照明下菌落的管理。"
         }
     ]
 }

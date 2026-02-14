@@ -527,7 +527,7 @@
     <div id="fileTime" class="update-time">正在获取更新时间...</div>
     <div id="downloadTip" class="tips">点击上方按钮直接下载最新 Word 文档</div>
     
-    <div class="search-container" id="searchArea" style="display:none;">
+    <div class="search-container" id="searchArea" style="display:none; max-width: 600px;">
         <input type="text" id="searchInput" placeholder="🔍 搜索标题、作者或摘要（支持中英文）..." oninput="searchPapers()">
     </div>
 
@@ -656,7 +656,7 @@
         let scholarHistoryPapers = [];
         let scholarHistoryLoadedDates = new Set();
         
-        // 新增：判断是否已抓取过当日 Scholar 数据
+        // 判断是否已抓取过当日 Scholar 数据
         let hasFetchedScholarToday = false; 
 
         const langData = {

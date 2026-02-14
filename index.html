@@ -971,7 +971,8 @@
                         globalLatestDateCode = metaFile.replace('Optical_Papers_', '').replace('.docx', '');
                         
                         btn.innerText = t.downloadPrefix + globalLatestDateCode;
-                        btn.href = `https://github.com/${GITHUB_USERNAME}/${REPO_NAME}/raw/main/${metaFile}`;
+                        // btn.href = `https://github.com/${GITHUB_USERNAME}/${REPO_NAME}/raw/main/${metaFile}`;
+                        btn.href = `${WORKER_URL}/${metaFile}`;
                         btn.classList.remove('loading');
                         btn.setAttribute("target", "_blank");
                     } else {
